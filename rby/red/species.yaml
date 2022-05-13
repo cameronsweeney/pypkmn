@@ -1,0 +1,3172 @@
+''
+---
+attack: 49
+base_exp: 64
+catch_rate: 45
+defense: 49
+growth_rate: Medium Slow
+hp: 45
+id: 153
+learnbase:
+  move1: Tackle
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 1
+pkmn: Bulbasaur
+special: 65
+speed: 45
+tmhm_bits: !!binary |
+  pAM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 62
+base_exp: 141
+catch_rate: 45
+defense: 63
+growth_rate: Medium Slow
+hp: 60
+id: 9
+learnbase:
+  move1: Tackle
+  move2: Growl
+  move3: Leech Seed
+  move4: null
+natdex: 2
+pkmn: Ivysaur
+special: 80
+speed: 60
+tmhm_bits: !!binary |
+  pAM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 82
+base_exp: 208
+catch_rate: 45
+defense: 83
+growth_rate: Medium Slow
+hp: 80
+id: 154
+learnbase:
+  move1: Tackle
+  move2: Growl
+  move3: Leech Seed
+  move4: Vine Whip
+natdex: 3
+pkmn: Venusaur
+special: 100
+speed: 80
+tmhm_bits: !!binary |
+  pEM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 52
+base_exp: 65
+catch_rate: 45
+defense: 43
+growth_rate: Medium Slow
+hp: 39
+id: 176
+learnbase:
+  move1: Scratch
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 4
+pkmn: Charmander
+special: 50
+speed: 65
+tmhm_bits: !!binary |
+  tQNPyOMIJg==
+type1: Fire
+type2: Fire
+---
+attack: 64
+base_exp: 142
+catch_rate: 45
+defense: 58
+growth_rate: Medium Slow
+hp: 58
+id: 178
+learnbase:
+  move1: Scratch
+  move2: Growl
+  move3: Ember
+  move4: null
+natdex: 5
+pkmn: Charmeleon
+special: 65
+speed: 80
+tmhm_bits: !!binary |
+  tQNPyOMIJg==
+type1: Fire
+type2: Fire
+---
+attack: 84
+base_exp: 209
+catch_rate: 45
+defense: 78
+growth_rate: Medium Slow
+hp: 78
+id: 180
+learnbase:
+  move1: Scratch
+  move2: Growl
+  move3: Ember
+  move4: Leer
+natdex: 6
+pkmn: Charizard
+special: 85
+speed: 100
+tmhm_bits: !!binary |
+  tUNPzuMIJg==
+type1: Fire
+type2: Flying
+---
+attack: 48
+base_exp: 66
+catch_rate: 45
+defense: 65
+growth_rate: Medium Slow
+hp: 44
+id: 177
+learnbase:
+  move1: Tackle
+  move2: Tail Whip
+  move3: null
+  move4: null
+natdex: 7
+pkmn: Squirtle
+special: 50
+speed: 43
+tmhm_bits: !!binary |
+  sT8PyIMIMg==
+type1: Water
+type2: Water
+---
+attack: 63
+base_exp: 143
+catch_rate: 45
+defense: 80
+growth_rate: Medium Slow
+hp: 59
+id: 179
+learnbase:
+  move1: Tackle
+  move2: Tail Whip
+  move3: Bubble
+  move4: null
+natdex: 8
+pkmn: Wartortle
+special: 65
+speed: 58
+tmhm_bits: !!binary |
+  sT8PyIMIMg==
+type1: Water
+type2: Water
+---
+attack: 83
+base_exp: 210
+catch_rate: 45
+defense: 100
+growth_rate: Medium Slow
+hp: 79
+id: 28
+learnbase:
+  move1: Tackle
+  move2: Tail Whip
+  move3: Bubble
+  move4: Water Gun
+natdex: 9
+pkmn: Blastoise
+special: 85
+speed: 78
+tmhm_bits: !!binary |
+  sX8PzoMIMg==
+type1: Water
+type2: Water
+---
+attack: 30
+base_exp: 53
+catch_rate: 255
+defense: 35
+growth_rate: Medium Fast
+hp: 45
+id: 123
+learnbase:
+  move1: Tackle
+  move2: String Shot
+  move3: null
+  move4: null
+natdex: 10
+pkmn: Caterpie
+special: 20
+speed: 45
+tmhm_bits: !!binary |
+  AAAAAAAAAA==
+type1: Bug
+type2: Bug
+---
+attack: 20
+base_exp: 72
+catch_rate: 120
+defense: 55
+growth_rate: Medium Fast
+hp: 50
+id: 124
+learnbase:
+  move1: Harden
+  move2: null
+  move3: null
+  move4: null
+natdex: 11
+pkmn: Metapod
+special: 25
+speed: 30
+tmhm_bits: !!binary |
+  AAAAAAAAAA==
+type1: Bug
+type2: Bug
+---
+attack: 45
+base_exp: 160
+catch_rate: 45
+defense: 50
+growth_rate: Medium Fast
+hp: 60
+id: 125
+learnbase:
+  move1: Confusion
+  move2: null
+  move3: null
+  move4: null
+natdex: 12
+pkmn: Butterfree
+special: 80
+speed: 70
+tmhm_bits: !!binary |
+  KkM48EMoAg==
+type1: Bug
+type2: Flying
+---
+attack: 35
+base_exp: 52
+catch_rate: 255
+defense: 30
+growth_rate: Medium Fast
+hp: 40
+id: 112
+learnbase:
+  move1: Poison Sting
+  move2: String Shot
+  move3: null
+  move4: null
+natdex: 13
+pkmn: Weedle
+special: 20
+speed: 50
+tmhm_bits: !!binary |
+  AAAAAAAAAA==
+type1: Bug
+type2: Poison
+---
+attack: 25
+base_exp: 71
+catch_rate: 120
+defense: 50
+growth_rate: Medium Fast
+hp: 45
+id: 113
+learnbase:
+  move1: Harden
+  move2: null
+  move3: null
+  move4: null
+natdex: 14
+pkmn: Kakuna
+special: 25
+speed: 35
+tmhm_bits: !!binary |
+  AAAAAAAAAA==
+type1: Bug
+type2: Poison
+---
+attack: 80
+base_exp: 159
+catch_rate: 45
+defense: 40
+growth_rate: Medium Fast
+hp: 65
+id: 114
+learnbase:
+  move1: Fury Attack
+  move2: null
+  move3: null
+  move4: null
+natdex: 15
+pkmn: Beedrill
+special: 45
+speed: 75
+tmhm_bits: !!binary |
+  JEMYwMMIBg==
+type1: Bug
+type2: Poison
+---
+attack: 45
+base_exp: 55
+catch_rate: 255
+defense: 40
+growth_rate: Medium Slow
+hp: 40
+id: 36
+learnbase:
+  move1: Gust
+  move2: null
+  move3: null
+  move4: null
+natdex: 16
+pkmn: Pidgey
+special: 35
+speed: 56
+tmhm_bits: !!binary |
+  KgMIwEMMCg==
+type1: Normal
+type2: Flying
+---
+attack: 60
+base_exp: 113
+catch_rate: 120
+defense: 55
+growth_rate: Medium Slow
+hp: 63
+id: 150
+learnbase:
+  move1: Gust
+  move2: Sand Attack
+  move3: null
+  move4: null
+natdex: 17
+pkmn: Pidgeotto
+special: 50
+speed: 71
+tmhm_bits: !!binary |
+  KgMIwEMMCg==
+type1: Normal
+type2: Flying
+---
+attack: 80
+base_exp: 172
+catch_rate: 45
+defense: 75
+growth_rate: Medium Slow
+hp: 83
+id: 151
+learnbase:
+  move1: Gust
+  move2: Sand Attack
+  move3: Quick Attack
+  move4: null
+natdex: 18
+pkmn: Pidgeot
+special: 70
+speed: 91
+tmhm_bits: !!binary |
+  KkMIwEMMCg==
+type1: Normal
+type2: Flying
+---
+attack: 56
+base_exp: 57
+catch_rate: 255
+defense: 35
+growth_rate: Medium Fast
+hp: 30
+id: 165
+learnbase:
+  move1: Tackle
+  move2: Tail Whip
+  move3: null
+  move4: null
+natdex: 19
+pkmn: Rattata
+special: 25
+speed: 72
+tmhm_bits: !!binary |
+  oC+IycIIAg==
+type1: Normal
+type2: Normal
+---
+attack: 81
+base_exp: 116
+catch_rate: 90
+defense: 60
+growth_rate: Medium Fast
+hp: 55
+id: 166
+learnbase:
+  move1: Tackle
+  move2: Tail Whip
+  move3: Quick Attack
+  move4: null
+natdex: 20
+pkmn: Raticate
+special: 50
+speed: 97
+tmhm_bits: !!binary |
+  oH+IycIIAg==
+type1: Normal
+type2: Normal
+---
+attack: 60
+base_exp: 58
+catch_rate: 255
+defense: 30
+growth_rate: Medium Fast
+hp: 40
+id: 5
+learnbase:
+  move1: Peck
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 21
+pkmn: Spearow
+special: 31
+speed: 70
+tmhm_bits: !!binary |
+  KgMIwEIMCg==
+type1: Normal
+type2: Flying
+---
+attack: 90
+base_exp: 162
+catch_rate: 90
+defense: 65
+growth_rate: Medium Fast
+hp: 65
+id: 35
+learnbase:
+  move1: Peck
+  move2: Growl
+  move3: Leer
+  move4: null
+natdex: 22
+pkmn: Fearow
+special: 61
+speed: 100
+tmhm_bits: !!binary |
+  KkMIwEIMCg==
+type1: Normal
+type2: Flying
+---
+attack: 60
+base_exp: 62
+catch_rate: 255
+defense: 44
+growth_rate: Medium Fast
+hp: 35
+id: 108
+learnbase:
+  move1: Wrap
+  move2: Leer
+  move3: null
+  move4: null
+natdex: 23
+pkmn: Ekans
+special: 40
+speed: 55
+tmhm_bits: !!binary |
+  oAMYzoKIIg==
+type1: Poison
+type2: Poison
+---
+attack: 85
+base_exp: 147
+catch_rate: 90
+defense: 69
+growth_rate: Medium Fast
+hp: 60
+id: 45
+learnbase:
+  move1: Wrap
+  move2: Leer
+  move3: Poison Sting
+  move4: null
+natdex: 24
+pkmn: Arbok
+special: 65
+speed: 80
+tmhm_bits: !!binary |
+  oEMYzoKIIg==
+type1: Poison
+type2: Poison
+---
+attack: 55
+base_exp: 82
+catch_rate: 190
+defense: 30
+growth_rate: Medium Fast
+hp: 35
+id: 84
+learnbase:
+  move1: Thundershock
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 25
+pkmn: Pikachu
+special: 50
+speed: 90
+tmhm_bits: !!binary |
+  sYONwcMYQg==
+type1: Electric
+type2: Electric
+---
+attack: 90
+base_exp: 122
+catch_rate: 75
+defense: 55
+growth_rate: Medium Fast
+hp: 60
+id: 85
+learnbase:
+  move1: Thundershock
+  move2: Growl
+  move3: Thunder Wave
+  move4: null
+natdex: 26
+pkmn: Raichu
+special: 90
+speed: 100
+tmhm_bits: !!binary |
+  scONwcMYQg==
+type1: Electric
+type2: Electric
+---
+attack: 75
+base_exp: 93
+catch_rate: 255
+defense: 85
+growth_rate: Medium Fast
+hp: 50
+id: 96
+learnbase:
+  move1: Scratch
+  move2: null
+  move3: null
+  move4: null
+natdex: 27
+pkmn: Sandshrew
+special: 30
+speed: 40
+tmhm_bits: !!binary |
+  pAMNzsKIJg==
+type1: Ground
+type2: Ground
+---
+attack: 100
+base_exp: 163
+catch_rate: 90
+defense: 110
+growth_rate: Medium Fast
+hp: 75
+id: 97
+learnbase:
+  move1: Scratch
+  move2: Sand Attack
+  move3: null
+  move4: null
+natdex: 28
+pkmn: Sandslash
+special: 55
+speed: 65
+tmhm_bits: !!binary |
+  pEMNzsKIJg==
+type1: Ground
+type2: Ground
+---
+attack: 47
+base_exp: 59
+catch_rate: 235
+defense: 52
+growth_rate: Medium Slow
+hp: 55
+id: 15
+learnbase:
+  move1: Growl
+  move2: Tackle
+  move3: null
+  move4: null
+natdex: 29
+pkmn: Nidoran F
+special: 40
+speed: 41
+tmhm_bits: !!binary |
+  oCOIwYMIAg==
+type1: Poison
+type2: Poison
+---
+attack: 62
+base_exp: 117
+catch_rate: 120
+defense: 67
+growth_rate: Medium Slow
+hp: 70
+id: 168
+learnbase:
+  move1: Growl
+  move2: Tackle
+  move3: Scratch
+  move4: null
+natdex: 30
+pkmn: Nidorina
+special: 55
+speed: 56
+tmhm_bits: !!binary |
+  4D+IwYMIAg==
+type1: Poison
+type2: Poison
+---
+attack: 82
+base_exp: 194
+catch_rate: 45
+defense: 87
+growth_rate: Medium Slow
+hp: 90
+id: 16
+learnbase:
+  move1: Tackle
+  move2: Scratch
+  move3: Tail Whip
+  move4: Body Slam
+natdex: 31
+pkmn: Nidoqueen
+special: 75
+speed: 76
+tmhm_bits: !!binary |
+  8f+Px6OIMg==
+type1: Poison
+type2: Ground
+---
+attack: 57
+base_exp: 60
+catch_rate: 235
+defense: 40
+growth_rate: Medium Slow
+hp: 46
+id: 3
+learnbase:
+  move1: Leer
+  move2: Tackle
+  move3: null
+  move4: null
+natdex: 32
+pkmn: Nidoran M
+special: 40
+speed: 50
+tmhm_bits: !!binary |
+  4COIwYMIAg==
+type1: Poison
+type2: Poison
+---
+attack: 72
+base_exp: 118
+catch_rate: 120
+defense: 57
+growth_rate: Medium Slow
+hp: 61
+id: 167
+learnbase:
+  move1: Leer
+  move2: Tackle
+  move3: Horn Attack
+  move4: null
+natdex: 33
+pkmn: Nidorino
+special: 55
+speed: 65
+tmhm_bits: !!binary |
+  4D+IwYMIAg==
+type1: Poison
+type2: Poison
+---
+attack: 92
+base_exp: 195
+catch_rate: 45
+defense: 77
+growth_rate: Medium Slow
+hp: 81
+id: 7
+learnbase:
+  move1: Tackle
+  move2: Horn Attack
+  move3: Poison Sting
+  move4: Thrash
+natdex: 34
+pkmn: Nidoking
+special: 75
+speed: 85
+tmhm_bits: !!binary |
+  8f+Px6OIMg==
+type1: Poison
+type2: Ground
+---
+attack: 45
+base_exp: 68
+catch_rate: 150
+defense: 48
+growth_rate: Fast
+hp: 70
+id: 4
+learnbase:
+  move1: Pound
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 35
+pkmn: Clefairy
+special: 60
+speed: 35
+tmhm_bits: !!binary |
+  sT+v8ac4Yw==
+type1: Normal
+type2: Normal
+---
+attack: 70
+base_exp: 129
+catch_rate: 25
+defense: 73
+growth_rate: Fast
+hp: 95
+id: 142
+learnbase:
+  move1: Sing
+  move2: Doubleslap
+  move3: Minimize
+  move4: Metronome
+natdex: 36
+pkmn: Clefable
+special: 85
+speed: 60
+tmhm_bits: !!binary |
+  sX+v8ac4Yw==
+type1: Normal
+type2: Normal
+---
+attack: 41
+base_exp: 63
+catch_rate: 190
+defense: 40
+growth_rate: Medium Fast
+hp: 38
+id: 82
+learnbase:
+  move1: Ember
+  move2: Tail Whip
+  move3: null
+  move4: null
+natdex: 37
+pkmn: Vulpix
+special: 65
+speed: 65
+tmhm_bits: !!binary |
+  oAMIyOMIAg==
+type1: Fire
+type2: Fire
+---
+attack: 76
+base_exp: 178
+catch_rate: 75
+defense: 75
+growth_rate: Medium Fast
+hp: 73
+id: 83
+learnbase:
+  move1: Ember
+  move2: Tail Whip
+  move3: Quick Attack
+  move4: Roar
+natdex: 38
+pkmn: Ninetales
+special: 100
+speed: 100
+tmhm_bits: !!binary |
+  oEMIyOMIAg==
+type1: Fire
+type2: Fire
+---
+attack: 45
+base_exp: 76
+catch_rate: 170
+defense: 20
+growth_rate: Fast
+hp: 115
+id: 100
+learnbase:
+  move1: Sing
+  move2: null
+  move3: null
+  move4: null
+natdex: 39
+pkmn: Jigglypuff
+special: 25
+speed: 20
+tmhm_bits: !!binary |
+  sT+v8aM4Yw==
+type1: Normal
+type2: Normal
+---
+attack: 70
+base_exp: 109
+catch_rate: 50
+defense: 45
+growth_rate: Fast
+hp: 140
+id: 101
+learnbase:
+  move1: Sing
+  move2: Disable
+  move3: Defense Curl
+  move4: Doubleslap
+natdex: 40
+pkmn: Wigglytuff
+special: 50
+speed: 45
+tmhm_bits: !!binary |
+  sX+v8aM4Yw==
+type1: Normal
+type2: Normal
+---
+attack: 45
+base_exp: 54
+catch_rate: 255
+defense: 35
+growth_rate: Medium Fast
+hp: 40
+id: 107
+learnbase:
+  move1: Leech Life
+  move2: null
+  move3: null
+  move4: null
+natdex: 41
+pkmn: Zubat
+special: 40
+speed: 55
+tmhm_bits: !!binary |
+  KgMYwEIIAg==
+type1: Poison
+type2: Flying
+---
+attack: 80
+base_exp: 171
+catch_rate: 90
+defense: 70
+growth_rate: Medium Fast
+hp: 75
+id: 130
+learnbase:
+  move1: Leech Life
+  move2: Screech
+  move3: Bite
+  move4: null
+natdex: 42
+pkmn: Golbat
+special: 75
+speed: 90
+tmhm_bits: !!binary |
+  KkMYwEIIAg==
+type1: Poison
+type2: Flying
+---
+attack: 50
+base_exp: 78
+catch_rate: 255
+defense: 55
+growth_rate: Medium Slow
+hp: 45
+id: 185
+learnbase:
+  move1: Absorb
+  move2: null
+  move3: null
+  move4: null
+natdex: 43
+pkmn: Oddish
+special: 75
+speed: 30
+tmhm_bits: !!binary |
+  JAM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 65
+base_exp: 132
+catch_rate: 120
+defense: 70
+growth_rate: Medium Slow
+hp: 60
+id: 186
+learnbase:
+  move1: Absorb
+  move2: Poisonpowder
+  move3: Stun Spore
+  move4: null
+natdex: 44
+pkmn: Gloom
+special: 85
+speed: 40
+tmhm_bits: !!binary |
+  JAM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 80
+base_exp: 184
+catch_rate: 45
+defense: 85
+growth_rate: Medium Slow
+hp: 75
+id: 187
+learnbase:
+  move1: Stun Spore
+  move2: Sleep Powder
+  move3: Acid
+  move4: Petal Dance
+natdex: 45
+pkmn: Vileplume
+special: 100
+speed: 50
+tmhm_bits: !!binary |
+  pEM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 70
+base_exp: 70
+catch_rate: 190
+defense: 55
+growth_rate: Medium Fast
+hp: 35
+id: 109
+learnbase:
+  move1: Scratch
+  move2: null
+  move3: null
+  move4: null
+natdex: 46
+pkmn: Paras
+special: 55
+speed: 25
+tmhm_bits: !!binary |
+  pAM4yIMIBg==
+type1: Bug
+type2: Grass
+---
+attack: 95
+base_exp: 128
+catch_rate: 75
+defense: 80
+growth_rate: Medium Fast
+hp: 60
+id: 46
+learnbase:
+  move1: Scratch
+  move2: Stun Spore
+  move3: Leech Life
+  move4: null
+natdex: 47
+pkmn: Parasect
+special: 80
+speed: 30
+tmhm_bits: !!binary |
+  pEM4yIMIBg==
+type1: Bug
+type2: Grass
+---
+attack: 55
+base_exp: 75
+catch_rate: 190
+defense: 50
+growth_rate: Medium Fast
+hp: 60
+id: 65
+learnbase:
+  move1: Tackle
+  move2: Disable
+  move3: null
+  move4: null
+natdex: 48
+pkmn: Venonat
+special: 40
+speed: 45
+tmhm_bits: !!binary |
+  IAM40AMoAg==
+type1: Bug
+type2: Poison
+---
+attack: 65
+base_exp: 138
+catch_rate: 75
+defense: 60
+growth_rate: Medium Fast
+hp: 70
+id: 119
+learnbase:
+  move1: Tackle
+  move2: Disable
+  move3: Poisonpowder
+  move4: Leech Life
+natdex: 49
+pkmn: Venomoth
+special: 90
+speed: 90
+tmhm_bits: !!binary |
+  KkM48EMoAg==
+type1: Bug
+type2: Poison
+---
+attack: 55
+base_exp: 81
+catch_rate: 255
+defense: 25
+growth_rate: Medium Fast
+hp: 10
+id: 59
+learnbase:
+  move1: Scratch
+  move2: null
+  move3: null
+  move4: null
+natdex: 50
+pkmn: Diglett
+special: 45
+speed: 95
+tmhm_bits: !!binary |
+  oAMIzgKIAg==
+type1: Ground
+type2: Ground
+---
+attack: 80
+base_exp: 153
+catch_rate: 50
+defense: 50
+growth_rate: Medium Fast
+hp: 35
+id: 118
+learnbase:
+  move1: Scratch
+  move2: Growl
+  move3: Dig
+  move4: null
+natdex: 51
+pkmn: Dugtrio
+special: 70
+speed: 120
+tmhm_bits: !!binary |
+  oEMIzgKIAg==
+type1: Ground
+type2: Ground
+---
+attack: 45
+base_exp: 69
+catch_rate: 255
+defense: 35
+growth_rate: Medium Fast
+hp: 40
+id: 77
+learnbase:
+  move1: Scratch
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 52
+pkmn: Meowth
+special: 40
+speed: 90
+tmhm_bits: !!binary |
+  oI+IwcIIAg==
+type1: Normal
+type2: Normal
+---
+attack: 70
+base_exp: 148
+catch_rate: 90
+defense: 60
+growth_rate: Medium Fast
+hp: 65
+id: 144
+learnbase:
+  move1: Scratch
+  move2: Growl
+  move3: Bite
+  move4: Screech
+natdex: 53
+pkmn: Persian
+special: 65
+speed: 115
+tmhm_bits: !!binary |
+  oM+IwcIIAg==
+type1: Normal
+type2: Normal
+---
+attack: 52
+base_exp: 80
+catch_rate: 190
+defense: 48
+growth_rate: Medium Fast
+hp: 50
+id: 47
+learnbase:
+  move1: Scratch
+  move2: null
+  move3: null
+  move4: null
+natdex: 54
+pkmn: Psyduck
+special: 50
+speed: 55
+tmhm_bits: !!binary |
+  sb8PyMIIMg==
+type1: Water
+type2: Water
+---
+attack: 82
+base_exp: 174
+catch_rate: 75
+defense: 78
+growth_rate: Medium Fast
+hp: 80
+id: 128
+learnbase:
+  move1: Scratch
+  move2: Tail Whip
+  move3: Disable
+  move4: null
+natdex: 55
+pkmn: Golduck
+special: 80
+speed: 85
+tmhm_bits: !!binary |
+  sf8PyMIIMg==
+type1: Water
+type2: Water
+---
+attack: 80
+base_exp: 74
+catch_rate: 190
+defense: 35
+growth_rate: Medium Fast
+hp: 40
+id: 57
+learnbase:
+  move1: Scratch
+  move2: Leer
+  move3: null
+  move4: null
+natdex: 56
+pkmn: Mankey
+special: 35
+speed: 70
+tmhm_bits: !!binary |
+  sYOPycaIIg==
+type1: Fighting
+type2: Fighting
+---
+attack: 105
+base_exp: 149
+catch_rate: 75
+defense: 60
+growth_rate: Medium Fast
+hp: 65
+id: 117
+learnbase:
+  move1: Scratch
+  move2: Leer
+  move3: Karate Chop
+  move4: Fury Swipes
+natdex: 57
+pkmn: Primeape
+special: 60
+speed: 95
+tmhm_bits: !!binary |
+  scOPycaIIg==
+type1: Fighting
+type2: Fighting
+---
+attack: 70
+base_exp: 91
+catch_rate: 190
+defense: 45
+growth_rate: Slow
+hp: 55
+id: 33
+learnbase:
+  move1: Bite
+  move2: Roar
+  move3: null
+  move4: null
+natdex: 58
+pkmn: Growlithe
+special: 50
+speed: 60
+tmhm_bits: !!binary |
+  oANIyOMIAg==
+type1: Fire
+type2: Fire
+---
+attack: 110
+base_exp: 213
+catch_rate: 75
+defense: 80
+growth_rate: Slow
+hp: 90
+id: 20
+learnbase:
+  move1: Roar
+  move2: Ember
+  move3: Leer
+  move4: Take Down
+natdex: 59
+pkmn: Arcanine
+special: 80
+speed: 95
+tmhm_bits: !!binary |
+  oENI6OMIAg==
+type1: Fire
+type2: Fire
+---
+attack: 50
+base_exp: 77
+catch_rate: 255
+defense: 40
+growth_rate: Medium Slow
+hp: 40
+id: 71
+learnbase:
+  move1: Bubble
+  move2: null
+  move3: null
+  move4: null
+natdex: 60
+pkmn: Poliwag
+special: 40
+speed: 90
+tmhm_bits: !!binary |
+  oD8I0IIoEg==
+type1: Water
+type2: Water
+---
+attack: 65
+base_exp: 131
+catch_rate: 120
+defense: 65
+growth_rate: Medium Slow
+hp: 65
+id: 110
+learnbase:
+  move1: Bubble
+  move2: Hypnosis
+  move3: Water Gun
+  move4: null
+natdex: 61
+pkmn: Poliwhirl
+special: 50
+speed: 90
+tmhm_bits: !!binary |
+  sT8P1oYoMg==
+type1: Water
+type2: Water
+---
+attack: 85
+base_exp: 185
+catch_rate: 45
+defense: 95
+growth_rate: Medium Slow
+hp: 90
+id: 111
+learnbase:
+  move1: Hypnosis
+  move2: Water Gun
+  move3: Doubleslap
+  move4: Body Slam
+natdex: 62
+pkmn: Poliwrath
+special: 70
+speed: 70
+tmhm_bits: !!binary |
+  sX8P1oYoMg==
+type1: Water
+type2: Fighting
+---
+attack: 20
+base_exp: 73
+catch_rate: 200
+defense: 15
+growth_rate: Medium Slow
+hp: 25
+id: 148
+learnbase:
+  move1: Teleport
+  move2: null
+  move3: null
+  move4: null
+natdex: 63
+pkmn: Abra
+special: 105
+speed: 90
+tmhm_bits: !!binary |
+  sQMP8Ic4Qw==
+type1: Psychic
+type2: Psychic
+---
+attack: 35
+base_exp: 145
+catch_rate: 100
+defense: 30
+growth_rate: Medium Slow
+hp: 40
+id: 38
+learnbase:
+  move1: Teleport
+  move2: Confusion
+  move3: Disable
+  move4: null
+natdex: 64
+pkmn: Kadabra
+special: 120
+speed: 105
+tmhm_bits: !!binary |
+  sQMP+Ic4Qw==
+type1: Psychic
+type2: Psychic
+---
+attack: 50
+base_exp: 186
+catch_rate: 50
+defense: 45
+growth_rate: Medium Slow
+hp: 55
+id: 149
+learnbase:
+  move1: Teleport
+  move2: Confusion
+  move3: Disable
+  move4: null
+natdex: 65
+pkmn: Alakazam
+special: 135
+speed: 120
+tmhm_bits: !!binary |
+  sUMP+Ic4Qw==
+type1: Psychic
+type2: Psychic
+---
+attack: 80
+base_exp: 88
+catch_rate: 180
+defense: 50
+growth_rate: Medium Slow
+hp: 70
+id: 106
+learnbase:
+  move1: Karate Chop
+  move2: null
+  move3: null
+  move4: null
+natdex: 66
+pkmn: Machop
+special: 35
+speed: 35
+tmhm_bits: !!binary |
+  sQMPzqaIIg==
+type1: Fighting
+type2: Fighting
+---
+attack: 100
+base_exp: 146
+catch_rate: 90
+defense: 70
+growth_rate: Medium Slow
+hp: 80
+id: 41
+learnbase:
+  move1: Karate Chop
+  move2: Low Kick
+  move3: Leer
+  move4: null
+natdex: 67
+pkmn: Machoke
+special: 50
+speed: 45
+tmhm_bits: !!binary |
+  sQMPzqaIIg==
+type1: Fighting
+type2: Fighting
+---
+attack: 130
+base_exp: 193
+catch_rate: 45
+defense: 80
+growth_rate: Medium Slow
+hp: 90
+id: 126
+learnbase:
+  move1: Karate Chop
+  move2: Low Kick
+  move3: Leer
+  move4: null
+natdex: 68
+pkmn: Machamp
+special: 65
+speed: 55
+tmhm_bits: !!binary |
+  sUMPzqaIIg==
+type1: Fighting
+type2: Fighting
+---
+attack: 75
+base_exp: 84
+catch_rate: 255
+defense: 35
+growth_rate: Medium Slow
+hp: 50
+id: 188
+learnbase:
+  move1: Vine Whip
+  move2: Growth
+  move3: null
+  move4: null
+natdex: 69
+pkmn: Bellsprout
+special: 70
+speed: 40
+tmhm_bits: !!binary |
+  JAM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 90
+base_exp: 151
+catch_rate: 120
+defense: 50
+growth_rate: Medium Slow
+hp: 65
+id: 189
+learnbase:
+  move1: Vine Whip
+  move2: Growth
+  move3: Wrap
+  move4: null
+natdex: 70
+pkmn: Weepinbell
+special: 85
+speed: 55
+tmhm_bits: !!binary |
+  JAM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 105
+base_exp: 191
+catch_rate: 45
+defense: 65
+growth_rate: Medium Slow
+hp: 80
+id: 190
+learnbase:
+  move1: Sleep Powder
+  move2: Stun Spore
+  move3: Acid
+  move4: Razor Leaf
+natdex: 71
+pkmn: Victreebel
+special: 100
+speed: 70
+tmhm_bits: !!binary |
+  pEM4wAMIBg==
+type1: Grass
+type2: Poison
+---
+attack: 40
+base_exp: 105
+catch_rate: 190
+defense: 35
+growth_rate: Slow
+hp: 40
+id: 24
+learnbase:
+  move1: Acid
+  move2: null
+  move3: null
+  move4: null
+natdex: 72
+pkmn: Tentacool
+special: 100
+speed: 70
+tmhm_bits: !!binary |
+  JD8YwIMIFg==
+type1: Water
+type2: Poison
+---
+attack: 70
+base_exp: 205
+catch_rate: 60
+defense: 65
+growth_rate: Slow
+hp: 80
+id: 155
+learnbase:
+  move1: Acid
+  move2: Supersonic
+  move3: Wrap
+  move4: null
+natdex: 73
+pkmn: Tentacruel
+special: 120
+speed: 100
+tmhm_bits: !!binary |
+  JH8YwIMIFg==
+type1: Water
+type2: Poison
+---
+attack: 80
+base_exp: 86
+catch_rate: 255
+defense: 100
+growth_rate: Medium Slow
+hp: 40
+id: 169
+learnbase:
+  move1: Tackle
+  move2: null
+  move3: null
+  move4: null
+natdex: 74
+pkmn: Geodude
+special: 30
+speed: 20
+tmhm_bits: !!binary |
+  oQMPzi7IIg==
+type1: Rock
+type2: Ground
+---
+attack: 95
+base_exp: 134
+catch_rate: 120
+defense: 115
+growth_rate: Medium Slow
+hp: 55
+id: 39
+learnbase:
+  move1: Tackle
+  move2: Defense Curl
+  move3: null
+  move4: null
+natdex: 75
+pkmn: Graveler
+special: 45
+speed: 35
+tmhm_bits: !!binary |
+  oQMPzi7IIg==
+type1: Rock
+type2: Ground
+---
+attack: 110
+base_exp: 177
+catch_rate: 45
+defense: 130
+growth_rate: Medium Slow
+hp: 80
+id: 49
+learnbase:
+  move1: Tackle
+  move2: Defense Curl
+  move3: null
+  move4: null
+natdex: 76
+pkmn: Golem
+special: 55
+speed: 45
+tmhm_bits: !!binary |
+  sUMPzi7IIg==
+type1: Rock
+type2: Ground
+---
+attack: 85
+base_exp: 152
+catch_rate: 190
+defense: 55
+growth_rate: Medium Fast
+hp: 50
+id: 163
+learnbase:
+  move1: Ember
+  move2: null
+  move3: null
+  move4: null
+natdex: 77
+pkmn: Ponyta
+special: 65
+speed: 90
+tmhm_bits: !!binary |
+  4AMIwOMIAg==
+type1: Fire
+type2: Fire
+---
+attack: 100
+base_exp: 192
+catch_rate: 60
+defense: 70
+growth_rate: Medium Fast
+hp: 65
+id: 164
+learnbase:
+  move1: Ember
+  move2: Tail Whip
+  move3: Stomp
+  move4: Growl
+natdex: 78
+pkmn: Rapidash
+special: 80
+speed: 105
+tmhm_bits: !!binary |
+  4EMIwOMIAg==
+type1: Fire
+type2: Fire
+---
+attack: 65
+base_exp: 99
+catch_rate: 190
+defense: 65
+growth_rate: Medium Fast
+hp: 90
+id: 37
+learnbase:
+  move1: Confusion
+  move2: null
+  move3: null
+  move4: null
+natdex: 79
+pkmn: Slowpoke
+special: 40
+speed: 15
+tmhm_bits: !!binary |
+  oL8I/uM4cw==
+type1: Water
+type2: Psychic
+---
+attack: 75
+base_exp: 164
+catch_rate: 75
+defense: 110
+growth_rate: Medium Fast
+hp: 95
+id: 8
+learnbase:
+  move1: Confusion
+  move2: Disable
+  move3: Headbutt
+  move4: null
+natdex: 80
+pkmn: Slowbro
+special: 80
+speed: 30
+tmhm_bits: !!binary |
+  sf8P/uM4cw==
+type1: Water
+type2: Psychic
+---
+attack: 35
+base_exp: 89
+catch_rate: 190
+defense: 70
+growth_rate: Medium Fast
+hp: 25
+id: 173
+learnbase:
+  move1: Tackle
+  move2: null
+  move3: null
+  move4: null
+natdex: 81
+pkmn: Magnemite
+special: 95
+speed: 45
+tmhm_bits: !!binary |
+  IAOI4UMYQg==
+type1: Electric
+type2: Electric
+---
+attack: 60
+base_exp: 161
+catch_rate: 60
+defense: 95
+growth_rate: Medium Fast
+hp: 50
+id: 54
+learnbase:
+  move1: Tackle
+  move2: Sonicboom
+  move3: Thundershock
+  move4: null
+natdex: 82
+pkmn: Magneton
+special: 120
+speed: 70
+tmhm_bits: !!binary |
+  IEOI4UMYQg==
+type1: Electric
+type2: Electric
+---
+attack: 65
+base_exp: 94
+catch_rate: 45
+defense: 55
+growth_rate: Medium Fast
+hp: 52
+id: 64
+learnbase:
+  move1: Peck
+  move2: Sand Attack
+  move3: null
+  move4: null
+natdex: 83
+pkmn: Farfetch'd
+special: 58
+speed: 60
+tmhm_bits: !!binary |
+  rgMIwMMIDg==
+type1: Normal
+type2: Flying
+---
+attack: 85
+base_exp: 96
+catch_rate: 190
+defense: 45
+growth_rate: Medium Fast
+hp: 35
+id: 70
+learnbase:
+  move1: Peck
+  move2: null
+  move3: null
+  move4: null
+natdex: 84
+pkmn: Doduo
+special: 35
+speed: 75
+tmhm_bits: !!binary |
+  qAMIwIMMCw==
+type1: Normal
+type2: Flying
+---
+attack: 110
+base_exp: 158
+catch_rate: 45
+defense: 70
+growth_rate: Medium Fast
+hp: 60
+id: 116
+learnbase:
+  move1: Peck
+  move2: Growl
+  move3: Fury Attack
+  move4: null
+natdex: 85
+pkmn: Dodrio
+special: 60
+speed: 100
+tmhm_bits: !!binary |
+  qEMIwIMMCw==
+type1: Normal
+type2: Flying
+---
+attack: 45
+base_exp: 100
+catch_rate: 190
+defense: 55
+growth_rate: Medium Fast
+hp: 65
+id: 58
+learnbase:
+  move1: Headbutt
+  move2: null
+  move3: null
+  move4: null
+natdex: 86
+pkmn: Seel
+special: 70
+speed: 45
+tmhm_bits: !!binary |
+  4L8IwIIIMg==
+type1: Water
+type2: Water
+---
+attack: 70
+base_exp: 176
+catch_rate: 75
+defense: 80
+growth_rate: Medium Fast
+hp: 90
+id: 120
+learnbase:
+  move1: Headbutt
+  move2: Growl
+  move3: Aurora Beam
+  move4: null
+natdex: 87
+pkmn: Dewgong
+special: 95
+speed: 70
+tmhm_bits: !!binary |
+  4P8IwIIIMg==
+type1: Water
+type2: Ice
+---
+attack: 80
+base_exp: 90
+catch_rate: 190
+defense: 50
+growth_rate: Medium Fast
+hp: 80
+id: 13
+learnbase:
+  move1: Pound
+  move2: Disable
+  move3: null
+  move4: null
+natdex: 88
+pkmn: Grimer
+special: 40
+speed: 25
+tmhm_bits: !!binary |
+  oACYwSpIAg==
+type1: Poison
+type2: Poison
+---
+attack: 105
+base_exp: 157
+catch_rate: 75
+defense: 75
+growth_rate: Medium Fast
+hp: 105
+id: 136
+learnbase:
+  move1: Pound
+  move2: Disable
+  move3: Poison Gas
+  move4: null
+natdex: 89
+pkmn: Muk
+special: 65
+speed: 50
+tmhm_bits: !!binary |
+  oECYwSpIAg==
+type1: Poison
+type2: Poison
+---
+attack: 65
+base_exp: 97
+catch_rate: 190
+defense: 100
+growth_rate: Slow
+hp: 30
+id: 23
+learnbase:
+  move1: Tackle
+  move2: Withdraw
+  move3: null
+  move4: null
+natdex: 90
+pkmn: Shellder
+special: 45
+speed: 40
+tmhm_bits: !!binary |
+  ID8I4EtIEw==
+type1: Water
+type2: Water
+---
+attack: 95
+base_exp: 203
+catch_rate: 60
+defense: 180
+growth_rate: Slow
+hp: 50
+id: 139
+learnbase:
+  move1: Withdraw
+  move2: Supersonic
+  move3: Clamp
+  move4: Aurora Beam
+natdex: 91
+pkmn: Cloyster
+special: 85
+speed: 70
+tmhm_bits: !!binary |
+  IH8I4EtIEw==
+type1: Water
+type2: Ice
+---
+attack: 35
+base_exp: 95
+catch_rate: 190
+defense: 30
+growth_rate: Medium Slow
+hp: 30
+id: 25
+learnbase:
+  move1: Lick
+  move2: Confuse Ray
+  move3: Night Shade
+  move4: null
+natdex: 92
+pkmn: Gastly
+special: 100
+speed: 80
+tmhm_bits: !!binary |
+  IACY0QpqAg==
+type1: Ghost
+type2: Poison
+---
+attack: 50
+base_exp: 126
+catch_rate: 90
+defense: 45
+growth_rate: Medium Slow
+hp: 45
+id: 147
+learnbase:
+  move1: Lick
+  move2: Confuse Ray
+  move3: Night Shade
+  move4: null
+natdex: 93
+pkmn: Haunter
+special: 115
+speed: 95
+tmhm_bits: !!binary |
+  IACY0QpqAg==
+type1: Ghost
+type2: Poison
+---
+attack: 65
+base_exp: 190
+catch_rate: 45
+defense: 60
+growth_rate: Medium Slow
+hp: 60
+id: 14
+learnbase:
+  move1: Lick
+  move2: Confuse Ray
+  move3: Night Shade
+  move4: null
+natdex: 94
+pkmn: Gengar
+special: 130
+speed: 110
+tmhm_bits: !!binary |
+  sUOf0Y5qIg==
+type1: Ghost
+type2: Poison
+---
+attack: 45
+base_exp: 108
+catch_rate: 45
+defense: 160
+growth_rate: Medium Fast
+hp: 35
+id: 34
+learnbase:
+  move1: Tackle
+  move2: Screech
+  move3: null
+  move4: null
+natdex: 95
+pkmn: Onix
+special: 30
+speed: 70
+tmhm_bits: !!binary |
+  oAMIzorIIg==
+type1: Rock
+type2: Ground
+---
+attack: 48
+base_exp: 102
+catch_rate: 190
+defense: 45
+growth_rate: Medium Fast
+hp: 60
+id: 48
+learnbase:
+  move1: Pound
+  move2: Hypnosis
+  move3: null
+  move4: null
+natdex: 96
+pkmn: Drowzee
+special: 90
+speed: 42
+tmhm_bits: !!binary |
+  sQMP8Ic6Qw==
+type1: Psychic
+type2: Psychic
+---
+attack: 73
+base_exp: 165
+catch_rate: 75
+defense: 70
+growth_rate: Medium Fast
+hp: 85
+id: 129
+learnbase:
+  move1: Pound
+  move2: Hypnosis
+  move3: Disable
+  move4: Confusion
+natdex: 97
+pkmn: Hypno
+special: 115
+speed: 67
+tmhm_bits: !!binary |
+  sUMP8Ic6Qw==
+type1: Psychic
+type2: Psychic
+---
+attack: 105
+base_exp: 115
+catch_rate: 225
+defense: 90
+growth_rate: Medium Fast
+hp: 30
+id: 78
+learnbase:
+  move1: Bubble
+  move2: Leer
+  move3: null
+  move4: null
+natdex: 98
+pkmn: Krabby
+special: 25
+speed: 50
+tmhm_bits: !!binary |
+  pD8IwAIINg==
+type1: Water
+type2: Water
+---
+attack: 130
+base_exp: 206
+catch_rate: 60
+defense: 115
+growth_rate: Medium Fast
+hp: 55
+id: 138
+learnbase:
+  move1: Bubble
+  move2: Leer
+  move3: Vicegrip
+  move4: null
+natdex: 99
+pkmn: Kingler
+special: 50
+speed: 75
+tmhm_bits: !!binary |
+  pH8IwAIINg==
+type1: Water
+type2: Water
+---
+attack: 30
+base_exp: 103
+catch_rate: 190
+defense: 50
+growth_rate: Medium Fast
+hp: 40
+id: 6
+learnbase:
+  move1: Tackle
+  move2: Screech
+  move3: null
+  move4: null
+natdex: 100
+pkmn: Voltorb
+special: 55
+speed: 100
+tmhm_bits: !!binary |
+  IAGI4UtYQg==
+type1: Electric
+type2: Electric
+---
+attack: 50
+base_exp: 150
+catch_rate: 60
+defense: 70
+growth_rate: Medium Fast
+hp: 60
+id: 141
+learnbase:
+  move1: Tackle
+  move2: Screech
+  move3: Sonicboom
+  move4: null
+natdex: 101
+pkmn: Electrode
+special: 80
+speed: 140
+tmhm_bits: !!binary |
+  IEGI4ctYQg==
+type1: Electric
+type2: Electric
+---
+attack: 40
+base_exp: 98
+catch_rate: 90
+defense: 80
+growth_rate: Slow
+hp: 60
+id: 12
+learnbase:
+  move1: Barrage
+  move2: Hypnosis
+  move3: null
+  move4: null
+natdex: 102
+pkmn: Exeggcute
+special: 60
+speed: 40
+tmhm_bits: !!binary |
+  IAMI8BtoAg==
+type1: Grass
+type2: Psychic
+---
+attack: 95
+base_exp: 212
+catch_rate: 45
+defense: 85
+growth_rate: Slow
+hp: 95
+id: 10
+learnbase:
+  move1: Barrage
+  move2: Hypnosis
+  move3: null
+  move4: null
+natdex: 103
+pkmn: Exeggutor
+special: 125
+speed: 55
+tmhm_bits: !!binary |
+  IEM48BtoIg==
+type1: Grass
+type2: Psychic
+---
+attack: 50
+base_exp: 87
+catch_rate: 190
+defense: 95
+growth_rate: Medium Fast
+hp: 50
+id: 17
+learnbase:
+  move1: Bone Club
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 104
+pkmn: Cubone
+special: 40
+speed: 35
+tmhm_bits: !!binary |
+  sT8PzqIIIg==
+type1: Ground
+type2: Ground
+---
+attack: 80
+base_exp: 124
+catch_rate: 75
+defense: 110
+growth_rate: Medium Fast
+hp: 60
+id: 145
+learnbase:
+  move1: Bone Club
+  move2: Growl
+  move3: Leer
+  move4: Focus Energy
+natdex: 105
+pkmn: Marowak
+special: 50
+speed: 45
+tmhm_bits: !!binary |
+  sX8PzqIIIg==
+type1: Ground
+type2: Ground
+---
+attack: 120
+base_exp: 139
+catch_rate: 45
+defense: 53
+growth_rate: Medium Fast
+hp: 50
+id: 43
+learnbase:
+  move1: Double Kick
+  move2: Meditate
+  move3: null
+  move4: null
+natdex: 106
+pkmn: Hitmonlee
+special: 35
+speed: 87
+tmhm_bits: !!binary |
+  sQMPwMYIIg==
+type1: Fighting
+type2: Fighting
+---
+attack: 105
+base_exp: 140
+catch_rate: 45
+defense: 79
+growth_rate: Medium Fast
+hp: 50
+id: 44
+learnbase:
+  move1: Comet Punch
+  move2: Agility
+  move3: null
+  move4: null
+natdex: 107
+pkmn: Hitmonchan
+special: 35
+speed: 76
+tmhm_bits: !!binary |
+  sQMPwMYIIg==
+type1: Fighting
+type2: Fighting
+---
+attack: 55
+base_exp: 127
+catch_rate: 45
+defense: 75
+growth_rate: Medium Fast
+hp: 90
+id: 11
+learnbase:
+  move1: Wrap
+  move2: Supersonic
+  move3: null
+  move4: null
+natdex: 108
+pkmn: Lickitung
+special: 60
+speed: 30
+tmhm_bits: !!binary |
+  tX+Px6IINg==
+type1: Normal
+type2: Normal
+---
+attack: 65
+base_exp: 114
+catch_rate: 190
+defense: 95
+growth_rate: Medium Fast
+hp: 40
+id: 55
+learnbase:
+  move1: Tackle
+  move2: Smog
+  move3: null
+  move4: null
+natdex: 109
+pkmn: Koffing
+special: 60
+speed: 35
+tmhm_bits: !!binary |
+  IACIwSpIAg==
+type1: Poison
+type2: Poison
+---
+attack: 90
+base_exp: 173
+catch_rate: 60
+defense: 120
+growth_rate: Medium Fast
+hp: 65
+id: 143
+learnbase:
+  move1: Tackle
+  move2: Smog
+  move3: Sludge
+  move4: null
+natdex: 110
+pkmn: Weezing
+special: 85
+speed: 60
+tmhm_bits: !!binary |
+  IECIwSpIAg==
+type1: Poison
+type2: Poison
+---
+attack: 85
+base_exp: 135
+catch_rate: 120
+defense: 95
+growth_rate: Slow
+hp: 80
+id: 18
+learnbase:
+  move1: Horn Attack
+  move2: null
+  move3: null
+  move4: null
+natdex: 111
+pkmn: Rhyhorn
+special: 30
+speed: 25
+tmhm_bits: !!binary |
+  4AOIz6KIIg==
+type1: Ground
+type2: Rock
+---
+attack: 130
+base_exp: 204
+catch_rate: 60
+defense: 120
+growth_rate: Slow
+hp: 105
+id: 1
+learnbase:
+  move1: Horn Attack
+  move2: Stomp
+  move3: Tail Whip
+  move4: Fury Attack
+natdex: 112
+pkmn: Rhydon
+special: 45
+speed: 40
+tmhm_bits: !!binary |
+  8f+Pz6KIMg==
+type1: Ground
+type2: Rock
+---
+attack: 5
+base_exp: 255
+catch_rate: 30
+defense: 5
+growth_rate: Fast
+hp: 250
+id: 40
+learnbase:
+  move1: Pound
+  move2: Doubleslap
+  move3: null
+  move4: null
+natdex: 113
+pkmn: Chansey
+special: 105
+speed: 50
+tmhm_bits: !!binary |
+  sX+v8bc5Yw==
+type1: Normal
+type2: Normal
+---
+attack: 55
+base_exp: 166
+catch_rate: 45
+defense: 115
+growth_rate: Medium Fast
+hp: 65
+id: 30
+learnbase:
+  move1: Constrict
+  move2: Bind
+  move3: null
+  move4: null
+natdex: 114
+pkmn: Tangela
+special: 100
+speed: 60
+tmhm_bits: !!binary |
+  pEM4wIIIBg==
+type1: Grass
+type2: Grass
+---
+attack: 95
+base_exp: 175
+catch_rate: 45
+defense: 80
+growth_rate: Medium Fast
+hp: 105
+id: 2
+learnbase:
+  move1: Comet Punch
+  move2: Rage
+  move3: null
+  move4: null
+natdex: 115
+pkmn: Kangaskhan
+special: 40
+speed: 90
+tmhm_bits: !!binary |
+  sX+Px6KIMg==
+type1: Normal
+type2: Normal
+---
+attack: 40
+base_exp: 83
+catch_rate: 225
+defense: 70
+growth_rate: Medium Fast
+hp: 30
+id: 92
+learnbase:
+  move1: Bubble
+  move2: null
+  move3: null
+  move4: null
+natdex: 116
+pkmn: Horsea
+special: 70
+speed: 60
+tmhm_bits: !!binary |
+  ID8IwMIIEg==
+type1: Water
+type2: Water
+---
+attack: 65
+base_exp: 155
+catch_rate: 75
+defense: 95
+growth_rate: Medium Fast
+hp: 55
+id: 93
+learnbase:
+  move1: Bubble
+  move2: Smokescreen
+  move3: null
+  move4: null
+natdex: 117
+pkmn: Seadra
+special: 95
+speed: 85
+tmhm_bits: !!binary |
+  IH8IwMIIEg==
+type1: Water
+type2: Water
+---
+attack: 67
+base_exp: 111
+catch_rate: 225
+defense: 60
+growth_rate: Medium Fast
+hp: 45
+id: 157
+learnbase:
+  move1: Peck
+  move2: Tail Whip
+  move3: null
+  move4: null
+natdex: 118
+pkmn: Goldeen
+special: 50
+speed: 63
+tmhm_bits: !!binary |
+  YD8IwMIIEg==
+type1: Water
+type2: Water
+---
+attack: 92
+base_exp: 170
+catch_rate: 60
+defense: 65
+growth_rate: Medium Fast
+hp: 80
+id: 158
+learnbase:
+  move1: Peck
+  move2: Tail Whip
+  move3: Supersonic
+  move4: null
+natdex: 119
+pkmn: Seaking
+special: 80
+speed: 68
+tmhm_bits: !!binary |
+  YH8IwMIIEg==
+type1: Water
+type2: Water
+---
+attack: 45
+base_exp: 106
+catch_rate: 225
+defense: 55
+growth_rate: Slow
+hp: 30
+id: 27
+learnbase:
+  move1: Tackle
+  move2: null
+  move3: null
+  move4: null
+natdex: 120
+pkmn: Staryu
+special: 70
+speed: 85
+tmhm_bits: !!binary |
+  ID+I8cM4Uw==
+type1: Water
+type2: Water
+---
+attack: 75
+base_exp: 207
+catch_rate: 60
+defense: 85
+growth_rate: Slow
+hp: 60
+id: 152
+learnbase:
+  move1: Tackle
+  move2: Water Gun
+  move3: Harden
+  move4: null
+natdex: 121
+pkmn: Starmie
+special: 100
+speed: 115
+tmhm_bits: !!binary |
+  IH+I8cM4Uw==
+type1: Water
+type2: Psychic
+---
+attack: 45
+base_exp: 136
+catch_rate: 45
+defense: 65
+growth_rate: Medium Fast
+hp: 40
+id: 42
+learnbase:
+  move1: Confusion
+  move2: Barrier
+  move3: null
+  move4: null
+natdex: 122
+pkmn: Mr. Mime
+special: 100
+speed: 90
+tmhm_bits: !!binary |
+  sUOv8Yc4Qg==
+type1: Psychic
+type2: Psychic
+---
+attack: 110
+base_exp: 187
+catch_rate: 45
+defense: 80
+growth_rate: Medium Fast
+hp: 70
+id: 26
+learnbase:
+  move1: Quick Attack
+  move2: null
+  move3: null
+  move4: null
+natdex: 123
+pkmn: Scyther
+special: 55
+speed: 105
+tmhm_bits: !!binary |
+  JEMIwMIIBg==
+type1: Bug
+type2: Flying
+---
+attack: 50
+base_exp: 137
+catch_rate: 45
+defense: 35
+growth_rate: Medium Fast
+hp: 65
+id: 72
+learnbase:
+  move1: Pound
+  move2: Lovely Kiss
+  move3: null
+  move4: null
+natdex: 124
+pkmn: Jynx
+special: 95
+speed: 95
+tmhm_bits: !!binary |
+  sX8P8IcoAg==
+type1: Ice
+type2: Psychic
+---
+attack: 83
+base_exp: 156
+catch_rate: 45
+defense: 57
+growth_rate: Medium Fast
+hp: 65
+id: 53
+learnbase:
+  move1: Quick Attack
+  move2: Leer
+  move3: null
+  move4: null
+natdex: 125
+pkmn: Electabuzz
+special: 85
+speed: 105
+tmhm_bits: !!binary |
+  sUOP8cc4Yg==
+type1: Electric
+type2: Electric
+---
+attack: 95
+base_exp: 167
+catch_rate: 45
+defense: 57
+growth_rate: Medium Fast
+hp: 65
+id: 51
+learnbase:
+  move1: Ember
+  move2: null
+  move3: null
+  move4: null
+natdex: 126
+pkmn: Magmar
+special: 85
+speed: 93
+tmhm_bits: !!binary |
+  sUMP8KYoIg==
+type1: Fire
+type2: Fire
+---
+attack: 125
+base_exp: 200
+catch_rate: 45
+defense: 100
+growth_rate: Slow
+hp: 65
+id: 29
+learnbase:
+  move1: Vicegrip
+  move2: null
+  move3: null
+  move4: null
+natdex: 127
+pkmn: Pinsir
+special: 55
+speed: 85
+tmhm_bits: !!binary |
+  pEMNwAIIJg==
+type1: Bug
+type2: Bug
+---
+attack: 100
+base_exp: 211
+catch_rate: 45
+defense: 95
+growth_rate: Slow
+hp: 75
+id: 60
+learnbase:
+  move1: Tackle
+  move2: null
+  move3: null
+  move4: null
+natdex: 128
+pkmn: Tauros
+special: 70
+speed: 110
+tmhm_bits: !!binary |
+  4HOIx6IIIg==
+type1: Normal
+type2: Normal
+---
+attack: 10
+base_exp: 20
+catch_rate: 255
+defense: 55
+growth_rate: Slow
+hp: 20
+id: 133
+learnbase:
+  move1: Splash
+  move2: null
+  move3: null
+  move4: null
+natdex: 129
+pkmn: Magikarp
+special: 20
+speed: 80
+tmhm_bits: !!binary |
+  AAAAAAAAAA==
+type1: Water
+type2: Water
+---
+attack: 125
+base_exp: 214
+catch_rate: 45
+defense: 79
+growth_rate: Slow
+hp: 95
+id: 22
+learnbase:
+  move1: Bite
+  move2: Dragon Rage
+  move3: Leer
+  move4: Hydro Pump
+natdex: 130
+pkmn: Gyarados
+special: 100
+speed: 81
+tmhm_bits: !!binary |
+  oH/IwaMIMg==
+type1: Water
+type2: Flying
+---
+attack: 85
+base_exp: 219
+catch_rate: 45
+defense: 80
+growth_rate: Slow
+hp: 130
+id: 19
+learnbase:
+  move1: Water Gun
+  move2: Growl
+  move3: null
+  move4: null
+natdex: 131
+pkmn: Lapras
+special: 95
+speed: 60
+tmhm_bits: !!binary |
+  4H/o0YMoMg==
+type1: Water
+type2: Ice
+---
+attack: 48
+base_exp: 61
+catch_rate: 35
+defense: 48
+growth_rate: Medium Fast
+hp: 48
+id: 76
+learnbase:
+  move1: Transform
+  move2: null
+  move3: null
+  move4: null
+natdex: 132
+pkmn: Ditto
+special: 48
+speed: 48
+tmhm_bits: !!binary |
+  AAAAAAAAAA==
+type1: Normal
+type2: Normal
+---
+attack: 55
+base_exp: 92
+catch_rate: 45
+defense: 50
+growth_rate: Medium Fast
+hp: 55
+id: 102
+learnbase:
+  move1: Tackle
+  move2: Sand Attack
+  move3: null
+  move4: null
+natdex: 133
+pkmn: Eevee
+special: 65
+speed: 55
+tmhm_bits: !!binary |
+  oAMIwMMIAg==
+type1: Normal
+type2: Normal
+---
+attack: 65
+base_exp: 196
+catch_rate: 45
+defense: 60
+growth_rate: Medium Fast
+hp: 130
+id: 105
+learnbase:
+  move1: Tackle
+  move2: Sand Attack
+  move3: Quick Attack
+  move4: Water Gun
+natdex: 134
+pkmn: Vaporeon
+special: 110
+speed: 65
+tmhm_bits: !!binary |
+  oH8IwMMIEg==
+type1: Water
+type2: Water
+---
+attack: 65
+base_exp: 197
+catch_rate: 45
+defense: 60
+growth_rate: Medium Fast
+hp: 65
+id: 104
+learnbase:
+  move1: Tackle
+  move2: Sand Attack
+  move3: Quick Attack
+  move4: Thundershock
+natdex: 135
+pkmn: Jolteon
+special: 110
+speed: 130
+tmhm_bits: !!binary |
+  oEOIwcMYQg==
+type1: Electric
+type2: Electric
+---
+attack: 130
+base_exp: 198
+catch_rate: 45
+defense: 60
+growth_rate: Medium Fast
+hp: 65
+id: 103
+learnbase:
+  move1: Tackle
+  move2: Sand Attack
+  move3: Quick Attack
+  move4: Ember
+natdex: 136
+pkmn: Flareon
+special: 110
+speed: 65
+tmhm_bits: !!binary |
+  oEMIwOMIAg==
+type1: Fire
+type2: Fire
+---
+attack: 60
+base_exp: 130
+catch_rate: 45
+defense: 70
+growth_rate: Medium Fast
+hp: 65
+id: 170
+learnbase:
+  move1: Tackle
+  move2: Sharpen
+  move3: Conversion
+  move4: null
+natdex: 137
+pkmn: Porygon
+special: 75
+speed: 40
+tmhm_bits: !!binary |
+  IHOI8cM4Qw==
+type1: Normal
+type2: Normal
+---
+attack: 40
+base_exp: 120
+catch_rate: 45
+defense: 100
+growth_rate: Medium Fast
+hp: 35
+id: 98
+learnbase:
+  move1: Water Gun
+  move2: Withdraw
+  move3: null
+  move4: null
+natdex: 138
+pkmn: Omanyte
+special: 90
+speed: 35
+tmhm_bits: !!binary |
+  oD8IwAMIEg==
+type1: Rock
+type2: Water
+---
+attack: 60
+base_exp: 199
+catch_rate: 45
+defense: 125
+growth_rate: Medium Fast
+hp: 70
+id: 99
+learnbase:
+  move1: Water Gun
+  move2: Withdraw
+  move3: Horn Attack
+  move4: null
+natdex: 139
+pkmn: Omastar
+special: 115
+speed: 55
+tmhm_bits: !!binary |
+  4H8NwIMIEg==
+type1: Rock
+type2: Water
+---
+attack: 80
+base_exp: 119
+catch_rate: 45
+defense: 90
+growth_rate: Medium Fast
+hp: 30
+id: 90
+learnbase:
+  move1: Scratch
+  move2: Harden
+  move3: null
+  move4: null
+natdex: 140
+pkmn: Kabuto
+special: 45
+speed: 55
+tmhm_bits: !!binary |
+  oD8IwAMIEg==
+type1: Rock
+type2: Water
+---
+attack: 115
+base_exp: 201
+catch_rate: 45
+defense: 105
+growth_rate: Medium Fast
+hp: 60
+id: 91
+learnbase:
+  move1: Scratch
+  move2: Harden
+  move3: Absorb
+  move4: null
+natdex: 141
+pkmn: Kabutops
+special: 70
+speed: 80
+tmhm_bits: !!binary |
+  tn8NwIMIEg==
+type1: Rock
+type2: Water
+---
+attack: 105
+base_exp: 202
+catch_rate: 45
+defense: 65
+growth_rate: Slow
+hp: 80
+id: 171
+learnbase:
+  move1: Wing Attack
+  move2: Agility
+  move3: null
+  move4: null
+natdex: 142
+pkmn: Aerodactyl
+special: 60
+speed: 130
+tmhm_bits: !!binary |
+  KkNIwGMMCg==
+type1: Rock
+type2: Flying
+---
+attack: 110
+base_exp: 154
+catch_rate: 25
+defense: 65
+growth_rate: Slow
+hp: 160
+id: 132
+learnbase:
+  move1: Headbutt
+  move2: Amnesia
+  move3: Rest
+  move4: null
+natdex: 143
+pkmn: Snorlax
+special: 65
+speed: 30
+tmhm_bits: !!binary |
+  sf+v16+oMg==
+type1: Normal
+type2: Normal
+---
+attack: 85
+base_exp: 215
+catch_rate: 3
+defense: 100
+growth_rate: Slow
+hp: 90
+id: 74
+learnbase:
+  move1: Peck
+  move2: Ice Beam
+  move3: null
+  move4: null
+natdex: 144
+pkmn: Articuno
+special: 125
+speed: 85
+tmhm_bits: !!binary |
+  Kn8IwEMMCg==
+type1: Ice
+type2: Flying
+---
+attack: 90
+base_exp: 216
+catch_rate: 3
+defense: 85
+growth_rate: Slow
+hp: 90
+id: 75
+learnbase:
+  move1: Thundershock
+  move2: Drill Peck
+  move3: null
+  move4: null
+natdex: 145
+pkmn: Zapdos
+special: 125
+speed: 100
+tmhm_bits: !!binary |
+  KkOIwUMcSg==
+type1: Electric
+type2: Flying
+---
+attack: 100
+base_exp: 217
+catch_rate: 3
+defense: 90
+growth_rate: Slow
+hp: 90
+id: 73
+learnbase:
+  move1: Peck
+  move2: Fire Spin
+  move3: null
+  move4: null
+natdex: 146
+pkmn: Moltres
+special: 125
+speed: 90
+tmhm_bits: !!binary |
+  KkMIwGMMCg==
+type1: Fire
+type2: Flying
+---
+attack: 64
+base_exp: 67
+catch_rate: 45
+defense: 45
+growth_rate: Slow
+hp: 41
+id: 88
+learnbase:
+  move1: Wrap
+  move2: Leer
+  move3: null
+  move4: null
+natdex: 147
+pkmn: Dratini
+special: 50
+speed: 50
+tmhm_bits: !!binary |
+  oD/IweMYEg==
+type1: Dragon
+type2: Dragon
+---
+attack: 84
+base_exp: 144
+catch_rate: 45
+defense: 65
+growth_rate: Slow
+hp: 61
+id: 89
+learnbase:
+  move1: Wrap
+  move2: Leer
+  move3: Thunder Wave
+  move4: null
+natdex: 148
+pkmn: Dragonair
+special: 70
+speed: 70
+tmhm_bits: !!binary |
+  4D/IweMYEg==
+type1: Dragon
+type2: Dragon
+---
+attack: 134
+base_exp: 218
+catch_rate: 45
+defense: 95
+growth_rate: Slow
+hp: 91
+id: 66
+learnbase:
+  move1: Wrap
+  move2: Leer
+  move3: Thunder Wave
+  move4: Agility
+natdex: 149
+pkmn: Dragonite
+special: 100
+speed: 80
+tmhm_bits: !!binary |
+  4n/IweMYMg==
+type1: Dragon
+type2: Flying
+---
+attack: 110
+base_exp: 220
+catch_rate: 3
+defense: 90
+growth_rate: Slow
+hp: 106
+id: 131
+learnbase:
+  move1: Confusion
+  move2: Disable
+  move3: Swift
+  move4: Psychic
+natdex: 150
+pkmn: Mewtwo
+special: 154
+speed: 130
+tmhm_bits: !!binary |
+  sf+v8a84Yw==
+type1: Psychic
+type2: Psychic
+---
+attack: 100
+base_exp: 64
+catch_rate: 45
+defense: 100
+growth_rate: Medium Slow
+hp: 100
+id: 21
+learnbase:
+  move1: Pound
+  move2: null
+  move3: null
+  move4: null
+natdex: 151
+pkmn: Mew
+special: 100
+speed: 100
+tmhm_bits: !!binary |
+  /////////w==
+type1: Psychic
+type2: Psychic

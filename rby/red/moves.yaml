@@ -1,0 +1,1319 @@
+accuracy: 0
+effect: No secondary effect
+id: 0
+name: null
+power: 0
+pp: 0
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 1
+name: Pound
+power: 40
+pp: 35
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 2
+name: Karate Chop
+power: 50
+pp: 25
+type: Normal
+---
+accuracy: 216
+effect: Attacks 2 to 5 times
+id: 3
+name: Doubleslap
+power: 15
+pp: 10
+type: Normal
+---
+accuracy: 216
+effect: Attacks 2 to 5 times
+id: 4
+name: Comet Punch
+power: 18
+pp: 15
+type: Normal
+---
+accuracy: 216
+effect: No secondary effect
+id: 5
+name: Mega Punch
+power: 80
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Pay Day
+id: 6
+name: Pay Day
+power: 40
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: 1% chance of burn
+id: 7
+name: Fire Punch
+power: 75
+pp: 15
+type: Fire
+---
+accuracy: 255
+effect: Freezes opponent
+id: 8
+name: Ice Punch
+power: 75
+pp: 15
+type: Ice
+---
+accuracy: 255
+effect: 1% chance of paralysis
+id: 9
+name: Thunderpunch
+power: 75
+pp: 15
+type: Electric
+---
+accuracy: 255
+effect: No secondary effect
+id: 10
+name: Scratch
+power: 40
+pp: 35
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 11
+name: Vicegrip
+power: 55
+pp: 30
+type: Normal
+---
+accuracy: 76
+effect: OHKO
+id: 12
+name: Guillotine
+power: 1
+pp: 5
+type: Normal
+---
+accuracy: 191
+effect: Charges one turn, then attacks on the next turn
+id: 13
+name: Razor Wind
+power: 80
+pp: 10
+type: Normal
+---
+accuracy: 255
+effect: Raises Attack 2 stages
+id: 14
+name: Swords Dance
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 242
+effect: No secondary effect
+id: 15
+name: Cut
+power: 50
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 16
+name: Gust
+power: 40
+pp: 35
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 17
+name: Wing Attack
+power: 35
+pp: 35
+type: Flying
+---
+accuracy: 216
+effect: SWITCH_AND_TELEPORT_EFFECT
+id: 18
+name: Whirlwind
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 242
+effect: Fly
+id: 19
+name: Fly
+power: 70
+pp: 15
+type: Flying
+---
+accuracy: 191
+effect: Wrap-like moves
+id: 20
+name: Bind
+power: 15
+pp: 20
+type: Normal
+---
+accuracy: 191
+effect: No secondary effect
+id: 21
+name: Slam
+power: 80
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 22
+name: Vine Whip
+power: 35
+pp: 10
+type: Grass
+---
+accuracy: 255
+effect: 2% chance of flinch
+id: 23
+name: Stomp
+power: 65
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Attacks twice
+id: 24
+name: Double Kick
+power: 30
+pp: 30
+type: Fighting
+---
+accuracy: 191
+effect: No secondary effect
+id: 25
+name: Mega Kick
+power: 120
+pp: 5
+type: Normal
+---
+accuracy: 242
+effect: Jump Kick/Hi Jump Kick
+id: 26
+name: Jump Kick
+power: 70
+pp: 25
+type: Fighting
+---
+accuracy: 216
+effect: 2% chance of flinch
+id: 27
+name: Rolling Kick
+power: 60
+pp: 15
+type: Fighting
+---
+accuracy: 255
+effect: Lowers Accuracy 1 stage
+id: 28
+name: Sand Attack
+power: 0
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: 2% chance of flinch
+id: 29
+name: Headbutt
+power: 70
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 30
+name: Horn Attack
+power: 65
+pp: 25
+type: Normal
+---
+accuracy: 216
+effect: Attacks 2 to 5 times
+id: 31
+name: Fury Attack
+power: 15
+pp: 20
+type: Normal
+---
+accuracy: 76
+effect: OHKO
+id: 32
+name: Horn Drill
+power: 1
+pp: 5
+type: Normal
+---
+accuracy: 242
+effect: No secondary effect
+id: 33
+name: Tackle
+power: 35
+pp: 35
+type: Normal
+---
+accuracy: 255
+effect: 2% chance of paralysis
+id: 34
+name: Body Slam
+power: 85
+pp: 15
+type: Normal
+---
+accuracy: 216
+effect: Wrap-like moves
+id: 35
+name: Wrap
+power: 15
+pp: 20
+type: Normal
+---
+accuracy: 216
+effect: User takes recoil damage
+id: 36
+name: Take Down
+power: 90
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Thrash/Petal Dance
+id: 37
+name: Thrash
+power: 90
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: User takes recoil damage
+id: 38
+name: Double Edge
+power: 100
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: Lowers Defense 1 stage
+id: 39
+name: Tail Whip
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: 1% chance of poison
+id: 40
+name: Poison Sting
+power: 15
+pp: 35
+type: Poison
+---
+accuracy: 255
+effect: Twineedle
+id: 41
+name: Twineedle
+power: 25
+pp: 20
+type: Bug
+---
+accuracy: 216
+effect: Attacks 2 to 5 times
+id: 42
+name: Pin Missile
+power: 14
+pp: 20
+type: Bug
+---
+accuracy: 255
+effect: Lowers Defense 1 stage
+id: 43
+name: Leer
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: 1% chance of flinch
+id: 44
+name: Bite
+power: 60
+pp: 25
+type: Normal
+---
+accuracy: 255
+effect: Lowers Attack 1 stage
+id: 45
+name: Growl
+power: 0
+pp: 40
+type: Normal
+---
+accuracy: 255
+effect: SWITCH_AND_TELEPORT_EFFECT
+id: 46
+name: Roar
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 140
+effect: Puts opponent to sleep
+id: 47
+name: Sing
+power: 0
+pp: 15
+type: Normal
+---
+accuracy: 140
+effect: Confuses opponent
+id: 48
+name: Supersonic
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 229
+effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+id: 49
+name: Sonicboom
+power: 1
+pp: 20
+type: Normal
+---
+accuracy: 140
+effect: Disable
+id: 50
+name: Disable
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Chance of lowering Defense
+id: 51
+name: Acid
+power: 40
+pp: 30
+type: Poison
+---
+accuracy: 255
+effect: 1% chance of burn
+id: 52
+name: Ember
+power: 40
+pp: 25
+type: Fire
+---
+accuracy: 255
+effect: 1% chance of burn
+id: 53
+name: Flamethrower
+power: 95
+pp: 15
+type: Fire
+---
+accuracy: 255
+effect: Mist
+id: 54
+name: Mist
+power: 0
+pp: 30
+type: Ice
+---
+accuracy: 255
+effect: No secondary effect
+id: 55
+name: Water Gun
+power: 40
+pp: 25
+type: Water
+---
+accuracy: 204
+effect: No secondary effect
+id: 56
+name: Hydro Pump
+power: 120
+pp: 5
+type: Water
+---
+accuracy: 255
+effect: No secondary effect
+id: 57
+name: Surf
+power: 95
+pp: 15
+type: Water
+---
+accuracy: 255
+effect: Freezes opponent
+id: 58
+name: Ice Beam
+power: 95
+pp: 10
+type: Ice
+---
+accuracy: 229
+effect: Freezes opponent
+id: 59
+name: Blizzard
+power: 120
+pp: 5
+type: Ice
+---
+accuracy: 255
+effect: Chance of confusion
+id: 60
+name: Psybeam
+power: 65
+pp: 20
+type: Psychic
+---
+accuracy: 255
+effect: Chance of lowering Speed
+id: 61
+name: Bubblebeam
+power: 65
+pp: 20
+type: Water
+---
+accuracy: 255
+effect: Chance of lowering Attack
+id: 62
+name: Aurora Beam
+power: 65
+pp: 20
+type: Ice
+---
+accuracy: 229
+effect: Hyper Beam
+id: 63
+name: Hyper Beam
+power: 150
+pp: 5
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 64
+name: Peck
+power: 35
+pp: 35
+type: Flying
+---
+accuracy: 255
+effect: No secondary effect
+id: 65
+name: Drill Peck
+power: 80
+pp: 20
+type: Flying
+---
+accuracy: 204
+effect: User takes recoil damage
+id: 66
+name: Submission
+power: 80
+pp: 25
+type: Fighting
+---
+accuracy: 229
+effect: 2% chance of flinch
+id: 67
+name: Low Kick
+power: 50
+pp: 20
+type: Fighting
+---
+accuracy: 255
+effect: No secondary effect
+id: 68
+name: Counter
+power: 1
+pp: 20
+type: Fighting
+---
+accuracy: 255
+effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+id: 69
+name: Seismic Toss
+power: 1
+pp: 20
+type: Fighting
+---
+accuracy: 255
+effect: No secondary effect
+id: 70
+name: Strength
+power: 80
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: Drains HP
+id: 71
+name: Absorb
+power: 20
+pp: 20
+type: Grass
+---
+accuracy: 255
+effect: Drains HP
+id: 72
+name: Mega Drain
+power: 40
+pp: 10
+type: Grass
+---
+accuracy: 229
+effect: Leech Seed
+id: 73
+name: Leech Seed
+power: 0
+pp: 10
+type: Grass
+---
+accuracy: 255
+effect: Raises Special 1 stage
+id: 74
+name: Growth
+power: 0
+pp: 40
+type: Normal
+---
+accuracy: 242
+effect: No secondary effect
+id: 75
+name: Razor Leaf
+power: 55
+pp: 25
+type: Grass
+---
+accuracy: 255
+effect: Charges one turn, then attacks on the next turn
+id: 76
+name: Solarbeam
+power: 120
+pp: 10
+type: Grass
+---
+accuracy: 191
+effect: Poisons opponent
+id: 77
+name: Poisonpowder
+power: 0
+pp: 35
+type: Poison
+---
+accuracy: 191
+effect: Paralyzes opponent
+id: 78
+name: Stun Spore
+power: 0
+pp: 30
+type: Grass
+---
+accuracy: 191
+effect: Puts opponent to sleep
+id: 79
+name: Sleep Powder
+power: 0
+pp: 15
+type: Grass
+---
+accuracy: 255
+effect: Thrash/Petal Dance
+id: 80
+name: Petal Dance
+power: 70
+pp: 20
+type: Grass
+---
+accuracy: 242
+effect: Lowers Speed 1 stage
+id: 81
+name: String Shot
+power: 0
+pp: 40
+type: Bug
+---
+accuracy: 255
+effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+id: 82
+name: Dragon Rage
+power: 1
+pp: 10
+type: Dragon
+---
+accuracy: 178
+effect: Wrap-like moves
+id: 83
+name: Fire Spin
+power: 15
+pp: 15
+type: Fire
+---
+accuracy: 255
+effect: 1% chance of paralysis
+id: 84
+name: Thundershock
+power: 40
+pp: 30
+type: Electric
+---
+accuracy: 255
+effect: 1% chance of paralysis
+id: 85
+name: Thunderbolt
+power: 95
+pp: 15
+type: Electric
+---
+accuracy: 255
+effect: Paralyzes opponent
+id: 86
+name: Thunder Wave
+power: 0
+pp: 20
+type: Electric
+---
+accuracy: 178
+effect: 1% chance of paralysis
+id: 87
+name: Thunder
+power: 120
+pp: 10
+type: Electric
+---
+accuracy: 165
+effect: No secondary effect
+id: 88
+name: Rock Throw
+power: 50
+pp: 15
+type: Rock
+---
+accuracy: 255
+effect: No secondary effect
+id: 89
+name: Earthquake
+power: 100
+pp: 10
+type: Ground
+---
+accuracy: 76
+effect: OHKO
+id: 90
+name: Fissure
+power: 1
+pp: 5
+type: Ground
+---
+accuracy: 255
+effect: Charges one turn, then attacks on the next turn
+id: 91
+name: Dig
+power: 100
+pp: 10
+type: Ground
+---
+accuracy: 216
+effect: Poisons opponent
+id: 92
+name: Toxic
+power: 0
+pp: 10
+type: Poison
+---
+accuracy: 255
+effect: Chance of confusion
+id: 93
+name: Confusion
+power: 50
+pp: 25
+type: Psychic
+---
+accuracy: 255
+effect: Chance of lowering Special
+id: 94
+name: Psychic
+power: 90
+pp: 10
+type: Psychic
+---
+accuracy: 153
+effect: Puts opponent to sleep
+id: 95
+name: Hypnosis
+power: 0
+pp: 20
+type: Psychic
+---
+accuracy: 255
+effect: Raises Attack 1 stage
+id: 96
+name: Meditate
+power: 0
+pp: 40
+type: Psychic
+---
+accuracy: 255
+effect: Raises Speed 2 stages
+id: 97
+name: Agility
+power: 0
+pp: 30
+type: Psychic
+---
+accuracy: 255
+effect: No secondary effect
+id: 98
+name: Quick Attack
+power: 40
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: Rage
+id: 99
+name: Rage
+power: 20
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: SWITCH_AND_TELEPORT_EFFECT
+id: 100
+name: Teleport
+power: 0
+pp: 20
+type: Psychic
+---
+accuracy: 255
+effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+id: 101
+name: Night Shade
+power: 0
+pp: 15
+type: Ghost
+---
+accuracy: 255
+effect: Mimic
+id: 102
+name: Mimic
+power: 0
+pp: 10
+type: Normal
+---
+accuracy: 216
+effect: Raises Defense 2 stages
+id: 103
+name: Screech
+power: 0
+pp: 40
+type: Normal
+---
+accuracy: 255
+effect: Raises Evasion 1 stage
+id: 104
+name: Double Team
+power: 0
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: Heals user
+id: 105
+name: Recover
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Raises Defense 1 stage
+id: 106
+name: Harden
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: Raises Evasion 1 stage
+id: 107
+name: Minimize
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Lowers Accuracy 1 stage
+id: 108
+name: Smokescreen
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Confuses opponent
+id: 109
+name: Confuse Ray
+power: 0
+pp: 10
+type: Ghost
+---
+accuracy: 255
+effect: Raises Defense 1 stage
+id: 110
+name: Withdraw
+power: 0
+pp: 40
+type: Water
+---
+accuracy: 255
+effect: Raises Defense 1 stage
+id: 111
+name: Defense Curl
+power: 0
+pp: 40
+type: Normal
+---
+accuracy: 255
+effect: Raises Defense 2 stages
+id: 112
+name: Barrier
+power: 0
+pp: 30
+type: Psychic
+---
+accuracy: 255
+effect: Light Screen
+id: 113
+name: Light Screen
+power: 0
+pp: 30
+type: Psychic
+---
+accuracy: 255
+effect: Haze
+id: 114
+name: Haze
+power: 0
+pp: 30
+type: Ice
+---
+accuracy: 255
+effect: Reflect
+id: 115
+name: Reflect
+power: 0
+pp: 20
+type: Psychic
+---
+accuracy: 255
+effect: Focus Energy
+id: 116
+name: Focus Energy
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: Bide
+id: 117
+name: Bide
+power: 0
+pp: 10
+type: Normal
+---
+accuracy: 255
+effect: Metronome
+id: 118
+name: Metronome
+power: 0
+pp: 10
+type: Normal
+---
+accuracy: 255
+effect: Mirror Move
+id: 119
+name: Mirror Move
+power: 0
+pp: 20
+type: Flying
+---
+accuracy: 255
+effect: Explosion/Self Destruct
+id: 120
+name: Selfdestruct
+power: 130
+pp: 5
+type: Normal
+---
+accuracy: 191
+effect: No secondary effect
+id: 121
+name: Egg Bomb
+power: 100
+pp: 10
+type: Normal
+---
+accuracy: 255
+effect: 2% chance of paralysis
+id: 122
+name: Lick
+power: 20
+pp: 30
+type: Ghost
+---
+accuracy: 178
+effect: 2% chance of poison
+id: 123
+name: Smog
+power: 20
+pp: 20
+type: Poison
+---
+accuracy: 255
+effect: 2% chance of poison
+id: 124
+name: Sludge
+power: 65
+pp: 20
+type: Poison
+---
+accuracy: 216
+effect: 1% chance of flinch
+id: 125
+name: Bone Club
+power: 65
+pp: 20
+type: Ground
+---
+accuracy: 216
+effect: 2% chance of burn
+id: 126
+name: Fire Blast
+power: 120
+pp: 5
+type: Fire
+---
+accuracy: 255
+effect: No secondary effect
+id: 127
+name: Waterfall
+power: 80
+pp: 15
+type: Water
+---
+accuracy: 191
+effect: Wrap-like moves
+id: 128
+name: Clamp
+power: 35
+pp: 10
+type: Water
+---
+accuracy: 255
+effect: Swift
+id: 129
+name: Swift
+power: 60
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Charges one turn, then attacks on the next turn
+id: 130
+name: Skull Bash
+power: 100
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: Attacks 2 to 5 times
+id: 131
+name: Spike Cannon
+power: 20
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: Chance of lowering Speed
+id: 132
+name: Constrict
+power: 10
+pp: 35
+type: Normal
+---
+accuracy: 255
+effect: Raises Special 2 stages
+id: 133
+name: Amnesia
+power: 0
+pp: 20
+type: Psychic
+---
+accuracy: 204
+effect: Lowers Accuracy 1 stage
+id: 134
+name: Kinesis
+power: 0
+pp: 15
+type: Psychic
+---
+accuracy: 255
+effect: Heals user
+id: 135
+name: Softboiled
+power: 0
+pp: 10
+type: Normal
+---
+accuracy: 229
+effect: Jump Kick/Hi Jump Kick
+id: 136
+name: Hi Jump Kick
+power: 85
+pp: 20
+type: Fighting
+---
+accuracy: 191
+effect: Paralyzes opponent
+id: 137
+name: Glare
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: Dream Eater
+id: 138
+name: Dream Eater
+power: 100
+pp: 15
+type: Psychic
+---
+accuracy: 140
+effect: Poisons opponent
+id: 139
+name: Poison Gas
+power: 0
+pp: 40
+type: Poison
+---
+accuracy: 216
+effect: Attacks 2 to 5 times
+id: 140
+name: Barrage
+power: 15
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Drains HP
+id: 141
+name: Leech Life
+power: 20
+pp: 15
+type: Bug
+---
+accuracy: 191
+effect: Puts opponent to sleep
+id: 142
+name: Lovely Kiss
+power: 0
+pp: 10
+type: Normal
+---
+accuracy: 229
+effect: Charges one turn, then attacks on the next turn
+id: 143
+name: Sky Attack
+power: 140
+pp: 5
+type: Flying
+---
+accuracy: 255
+effect: Transform
+id: 144
+name: Transform
+power: 0
+pp: 10
+type: Normal
+---
+accuracy: 255
+effect: Chance of lowering Speed
+id: 145
+name: Bubble
+power: 20
+pp: 30
+type: Water
+---
+accuracy: 255
+effect: No secondary effect
+id: 146
+name: Dizzy Punch
+power: 70
+pp: 10
+type: Normal
+---
+accuracy: 255
+effect: Puts opponent to sleep
+id: 147
+name: Spore
+power: 0
+pp: 15
+type: Grass
+---
+accuracy: 178
+effect: Lowers Accuracy 1 stage
+id: 148
+name: Flash
+power: 0
+pp: 20
+type: Normal
+---
+accuracy: 204
+effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+id: 149
+name: Psywave
+power: 1
+pp: 15
+type: Psychic
+---
+accuracy: 255
+effect: Splash
+id: 150
+name: Splash
+power: 0
+pp: 40
+type: Normal
+---
+accuracy: 255
+effect: Raises Defense 2 stages
+id: 151
+name: Acid Armor
+power: 0
+pp: 40
+type: Poison
+---
+accuracy: 216
+effect: No secondary effect
+id: 152
+name: Crabhammer
+power: 90
+pp: 10
+type: Water
+---
+accuracy: 255
+effect: Explosion/Self Destruct
+id: 153
+name: Explosion
+power: 170
+pp: 5
+type: Normal
+---
+accuracy: 204
+effect: Attacks 2 to 5 times
+id: 154
+name: Fury Swipes
+power: 18
+pp: 15
+type: Normal
+---
+accuracy: 229
+effect: Attacks twice
+id: 155
+name: Bonemerang
+power: 50
+pp: 10
+type: Ground
+---
+accuracy: 255
+effect: Heals user
+id: 156
+name: Rest
+power: 0
+pp: 10
+type: Psychic
+---
+accuracy: 229
+effect: No secondary effect
+id: 157
+name: Rock Slide
+power: 75
+pp: 10
+type: Rock
+---
+accuracy: 229
+effect: 1% chance of flinch
+id: 158
+name: Hyper Fang
+power: 80
+pp: 15
+type: Normal
+---
+accuracy: 255
+effect: Raises Attack 1 stage
+id: 159
+name: Sharpen
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: Conversion
+id: 160
+name: Conversion
+power: 0
+pp: 30
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 161
+name: Tri Attack
+power: 80
+pp: 10
+type: Normal
+---
+accuracy: 229
+effect: Super Fang
+id: 162
+name: Super Fang
+power: 1
+pp: 10
+type: Normal
+---
+accuracy: 255
+effect: No secondary effect
+id: 163
+name: Slash
+power: 70
+pp: 20
+type: Normal
+---
+accuracy: 255
+effect: Substitute
+id: 164
+name: Substitute
+power: 0
+pp: 10
+type: Normal

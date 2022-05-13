@@ -1,6 +1,6 @@
 ## rby/tools.py
 
-import pokedex, index
+from . import pokedex, index
 
 offsets = {
     'pkmn_species': {
