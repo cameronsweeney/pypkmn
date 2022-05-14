@@ -1,5 +1,3 @@
-''
----
 attack: 49
 base_exp: 64
 catch_rate: 45
@@ -8,18 +6,18 @@ growth_rate: Medium Slow
 hp: 45
 id: 153
 learnbase:
-  move1: Tackle
-  move2: Growl
-  move3: null
-  move4: null
+- Tackle
+- Growl
+- null
+- null
 natdex: 1
 pkmn: Bulbasaur
 special: 65
 speed: 45
 tmhm_bits: !!binary |
   pAM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 62
 base_exp: 141
@@ -29,18 +27,18 @@ growth_rate: Medium Slow
 hp: 60
 id: 9
 learnbase:
-  move1: Tackle
-  move2: Growl
-  move3: Leech Seed
-  move4: null
+- Tackle
+- Growl
+- Leech Seed
+- null
 natdex: 2
 pkmn: Ivysaur
 special: 80
 speed: 60
 tmhm_bits: !!binary |
   pAM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 82
 base_exp: 208
@@ -50,18 +48,18 @@ growth_rate: Medium Slow
 hp: 80
 id: 154
 learnbase:
-  move1: Tackle
-  move2: Growl
-  move3: Leech Seed
-  move4: Vine Whip
+- Tackle
+- Growl
+- Leech Seed
+- Vine Whip
 natdex: 3
 pkmn: Venusaur
 special: 100
 speed: 80
 tmhm_bits: !!binary |
   pEM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 52
 base_exp: 65
@@ -71,18 +69,18 @@ growth_rate: Medium Slow
 hp: 39
 id: 176
 learnbase:
-  move1: Scratch
-  move2: Growl
-  move3: null
-  move4: null
+- Scratch
+- Growl
+- null
+- null
 natdex: 4
 pkmn: Charmander
 special: 50
 speed: 65
 tmhm_bits: !!binary |
   tQNPyOMIJg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 64
 base_exp: 142
@@ -92,18 +90,18 @@ growth_rate: Medium Slow
 hp: 58
 id: 178
 learnbase:
-  move1: Scratch
-  move2: Growl
-  move3: Ember
-  move4: null
+- Scratch
+- Growl
+- Ember
+- null
 natdex: 5
 pkmn: Charmeleon
 special: 65
 speed: 80
 tmhm_bits: !!binary |
   tQNPyOMIJg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 84
 base_exp: 209
@@ -113,18 +111,18 @@ growth_rate: Medium Slow
 hp: 78
 id: 180
 learnbase:
-  move1: Scratch
-  move2: Growl
-  move3: Ember
-  move4: Leer
+- Scratch
+- Growl
+- Ember
+- Leer
 natdex: 6
 pkmn: Charizard
 special: 85
 speed: 100
 tmhm_bits: !!binary |
   tUNPzuMIJg==
-type1: Fire
-type2: Flying
+type1: fire
+type2: flying
 ---
 attack: 48
 base_exp: 66
@@ -134,18 +132,18 @@ growth_rate: Medium Slow
 hp: 44
 id: 177
 learnbase:
-  move1: Tackle
-  move2: Tail Whip
-  move3: null
-  move4: null
+- Tackle
+- Tail Whip
+- null
+- null
 natdex: 7
 pkmn: Squirtle
 special: 50
 speed: 43
 tmhm_bits: !!binary |
   sT8PyIMIMg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 63
 base_exp: 143
@@ -155,18 +153,18 @@ growth_rate: Medium Slow
 hp: 59
 id: 179
 learnbase:
-  move1: Tackle
-  move2: Tail Whip
-  move3: Bubble
-  move4: null
+- Tackle
+- Tail Whip
+- Bubble
+- null
 natdex: 8
 pkmn: Wartortle
 special: 65
 speed: 58
 tmhm_bits: !!binary |
   sT8PyIMIMg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 83
 base_exp: 210
@@ -176,18 +174,18 @@ growth_rate: Medium Slow
 hp: 79
 id: 28
 learnbase:
-  move1: Tackle
-  move2: Tail Whip
-  move3: Bubble
-  move4: Water Gun
+- Tackle
+- Tail Whip
+- Bubble
+- Water Gun
 natdex: 9
 pkmn: Blastoise
 special: 85
 speed: 78
 tmhm_bits: !!binary |
   sX8PzoMIMg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 30
 base_exp: 53
@@ -197,18 +195,18 @@ growth_rate: Medium Fast
 hp: 45
 id: 123
 learnbase:
-  move1: Tackle
-  move2: String Shot
-  move3: null
-  move4: null
+- Tackle
+- String Shot
+- null
+- null
 natdex: 10
 pkmn: Caterpie
 special: 20
 speed: 45
 tmhm_bits: !!binary |
   AAAAAAAAAA==
-type1: Bug
-type2: Bug
+type1: bug
+type2: bug
 ---
 attack: 20
 base_exp: 72
@@ -218,18 +216,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 124
 learnbase:
-  move1: Harden
-  move2: null
-  move3: null
-  move4: null
+- Harden
+- null
+- null
+- null
 natdex: 11
 pkmn: Metapod
 special: 25
 speed: 30
 tmhm_bits: !!binary |
   AAAAAAAAAA==
-type1: Bug
-type2: Bug
+type1: bug
+type2: bug
 ---
 attack: 45
 base_exp: 160
@@ -239,18 +237,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 125
 learnbase:
-  move1: Confusion
-  move2: null
-  move3: null
-  move4: null
+- Confusion
+- null
+- null
+- null
 natdex: 12
 pkmn: Butterfree
 special: 80
 speed: 70
 tmhm_bits: !!binary |
   KkM48EMoAg==
-type1: Bug
-type2: Flying
+type1: bug
+type2: flying
 ---
 attack: 35
 base_exp: 52
@@ -260,18 +258,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 112
 learnbase:
-  move1: Poison Sting
-  move2: String Shot
-  move3: null
-  move4: null
+- Poison Sting
+- String Shot
+- null
+- null
 natdex: 13
 pkmn: Weedle
 special: 20
 speed: 50
 tmhm_bits: !!binary |
   AAAAAAAAAA==
-type1: Bug
-type2: Poison
+type1: bug
+type2: poison
 ---
 attack: 25
 base_exp: 71
@@ -281,18 +279,18 @@ growth_rate: Medium Fast
 hp: 45
 id: 113
 learnbase:
-  move1: Harden
-  move2: null
-  move3: null
-  move4: null
+- Harden
+- null
+- null
+- null
 natdex: 14
 pkmn: Kakuna
 special: 25
 speed: 35
 tmhm_bits: !!binary |
   AAAAAAAAAA==
-type1: Bug
-type2: Poison
+type1: bug
+type2: poison
 ---
 attack: 80
 base_exp: 159
@@ -302,18 +300,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 114
 learnbase:
-  move1: Fury Attack
-  move2: null
-  move3: null
-  move4: null
+- Fury Attack
+- null
+- null
+- null
 natdex: 15
 pkmn: Beedrill
 special: 45
 speed: 75
 tmhm_bits: !!binary |
   JEMYwMMIBg==
-type1: Bug
-type2: Poison
+type1: bug
+type2: poison
 ---
 attack: 45
 base_exp: 55
@@ -323,18 +321,18 @@ growth_rate: Medium Slow
 hp: 40
 id: 36
 learnbase:
-  move1: Gust
-  move2: null
-  move3: null
-  move4: null
+- Gust
+- null
+- null
+- null
 natdex: 16
 pkmn: Pidgey
 special: 35
 speed: 56
 tmhm_bits: !!binary |
   KgMIwEMMCg==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 60
 base_exp: 113
@@ -344,18 +342,18 @@ growth_rate: Medium Slow
 hp: 63
 id: 150
 learnbase:
-  move1: Gust
-  move2: Sand Attack
-  move3: null
-  move4: null
+- Gust
+- Sand Attack
+- null
+- null
 natdex: 17
 pkmn: Pidgeotto
 special: 50
 speed: 71
 tmhm_bits: !!binary |
   KgMIwEMMCg==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 80
 base_exp: 172
@@ -365,18 +363,18 @@ growth_rate: Medium Slow
 hp: 83
 id: 151
 learnbase:
-  move1: Gust
-  move2: Sand Attack
-  move3: Quick Attack
-  move4: null
+- Gust
+- Sand Attack
+- Quick Attack
+- null
 natdex: 18
 pkmn: Pidgeot
 special: 70
 speed: 91
 tmhm_bits: !!binary |
   KkMIwEMMCg==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 56
 base_exp: 57
@@ -386,18 +384,18 @@ growth_rate: Medium Fast
 hp: 30
 id: 165
 learnbase:
-  move1: Tackle
-  move2: Tail Whip
-  move3: null
-  move4: null
+- Tackle
+- Tail Whip
+- null
+- null
 natdex: 19
 pkmn: Rattata
 special: 25
 speed: 72
 tmhm_bits: !!binary |
   oC+IycIIAg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 81
 base_exp: 116
@@ -407,18 +405,18 @@ growth_rate: Medium Fast
 hp: 55
 id: 166
 learnbase:
-  move1: Tackle
-  move2: Tail Whip
-  move3: Quick Attack
-  move4: null
+- Tackle
+- Tail Whip
+- Quick Attack
+- null
 natdex: 20
 pkmn: Raticate
 special: 50
 speed: 97
 tmhm_bits: !!binary |
   oH+IycIIAg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 60
 base_exp: 58
@@ -428,18 +426,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 5
 learnbase:
-  move1: Peck
-  move2: Growl
-  move3: null
-  move4: null
+- Peck
+- Growl
+- null
+- null
 natdex: 21
 pkmn: Spearow
 special: 31
 speed: 70
 tmhm_bits: !!binary |
   KgMIwEIMCg==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 90
 base_exp: 162
@@ -449,18 +447,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 35
 learnbase:
-  move1: Peck
-  move2: Growl
-  move3: Leer
-  move4: null
+- Peck
+- Growl
+- Leer
+- null
 natdex: 22
 pkmn: Fearow
 special: 61
 speed: 100
 tmhm_bits: !!binary |
   KkMIwEIMCg==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 60
 base_exp: 62
@@ -470,18 +468,18 @@ growth_rate: Medium Fast
 hp: 35
 id: 108
 learnbase:
-  move1: Wrap
-  move2: Leer
-  move3: null
-  move4: null
+- Wrap
+- Leer
+- null
+- null
 natdex: 23
 pkmn: Ekans
 special: 40
 speed: 55
 tmhm_bits: !!binary |
   oAMYzoKIIg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 85
 base_exp: 147
@@ -491,18 +489,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 45
 learnbase:
-  move1: Wrap
-  move2: Leer
-  move3: Poison Sting
-  move4: null
+- Wrap
+- Leer
+- Poison Sting
+- null
 natdex: 24
 pkmn: Arbok
 special: 65
 speed: 80
 tmhm_bits: !!binary |
   oEMYzoKIIg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 55
 base_exp: 82
@@ -512,18 +510,18 @@ growth_rate: Medium Fast
 hp: 35
 id: 84
 learnbase:
-  move1: Thundershock
-  move2: Growl
-  move3: null
-  move4: null
+- Thundershock
+- Growl
+- null
+- null
 natdex: 25
 pkmn: Pikachu
 special: 50
 speed: 90
 tmhm_bits: !!binary |
   sYONwcMYQg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 90
 base_exp: 122
@@ -533,18 +531,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 85
 learnbase:
-  move1: Thundershock
-  move2: Growl
-  move3: Thunder Wave
-  move4: null
+- Thundershock
+- Growl
+- Thunder Wave
+- null
 natdex: 26
 pkmn: Raichu
 special: 90
 speed: 100
 tmhm_bits: !!binary |
   scONwcMYQg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 75
 base_exp: 93
@@ -554,18 +552,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 96
 learnbase:
-  move1: Scratch
-  move2: null
-  move3: null
-  move4: null
+- Scratch
+- null
+- null
+- null
 natdex: 27
 pkmn: Sandshrew
 special: 30
 speed: 40
 tmhm_bits: !!binary |
   pAMNzsKIJg==
-type1: Ground
-type2: Ground
+type1: ground
+type2: ground
 ---
 attack: 100
 base_exp: 163
@@ -575,18 +573,18 @@ growth_rate: Medium Fast
 hp: 75
 id: 97
 learnbase:
-  move1: Scratch
-  move2: Sand Attack
-  move3: null
-  move4: null
+- Scratch
+- Sand Attack
+- null
+- null
 natdex: 28
 pkmn: Sandslash
 special: 55
 speed: 65
 tmhm_bits: !!binary |
   pEMNzsKIJg==
-type1: Ground
-type2: Ground
+type1: ground
+type2: ground
 ---
 attack: 47
 base_exp: 59
@@ -596,18 +594,18 @@ growth_rate: Medium Slow
 hp: 55
 id: 15
 learnbase:
-  move1: Growl
-  move2: Tackle
-  move3: null
-  move4: null
+- Growl
+- Tackle
+- null
+- null
 natdex: 29
 pkmn: Nidoran F
 special: 40
 speed: 41
 tmhm_bits: !!binary |
   oCOIwYMIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 62
 base_exp: 117
@@ -617,18 +615,18 @@ growth_rate: Medium Slow
 hp: 70
 id: 168
 learnbase:
-  move1: Growl
-  move2: Tackle
-  move3: Scratch
-  move4: null
+- Growl
+- Tackle
+- Scratch
+- null
 natdex: 30
 pkmn: Nidorina
 special: 55
 speed: 56
 tmhm_bits: !!binary |
   4D+IwYMIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 82
 base_exp: 194
@@ -638,18 +636,18 @@ growth_rate: Medium Slow
 hp: 90
 id: 16
 learnbase:
-  move1: Tackle
-  move2: Scratch
-  move3: Tail Whip
-  move4: Body Slam
+- Tackle
+- Scratch
+- Tail Whip
+- Body Slam
 natdex: 31
 pkmn: Nidoqueen
 special: 75
 speed: 76
 tmhm_bits: !!binary |
   8f+Px6OIMg==
-type1: Poison
-type2: Ground
+type1: poison
+type2: ground
 ---
 attack: 57
 base_exp: 60
@@ -659,18 +657,18 @@ growth_rate: Medium Slow
 hp: 46
 id: 3
 learnbase:
-  move1: Leer
-  move2: Tackle
-  move3: null
-  move4: null
+- Leer
+- Tackle
+- null
+- null
 natdex: 32
 pkmn: Nidoran M
 special: 40
 speed: 50
 tmhm_bits: !!binary |
   4COIwYMIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 72
 base_exp: 118
@@ -680,18 +678,18 @@ growth_rate: Medium Slow
 hp: 61
 id: 167
 learnbase:
-  move1: Leer
-  move2: Tackle
-  move3: Horn Attack
-  move4: null
+- Leer
+- Tackle
+- Horn Attack
+- null
 natdex: 33
 pkmn: Nidorino
 special: 55
 speed: 65
 tmhm_bits: !!binary |
   4D+IwYMIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 92
 base_exp: 195
@@ -701,18 +699,18 @@ growth_rate: Medium Slow
 hp: 81
 id: 7
 learnbase:
-  move1: Tackle
-  move2: Horn Attack
-  move3: Poison Sting
-  move4: Thrash
+- Tackle
+- Horn Attack
+- Poison Sting
+- Thrash
 natdex: 34
 pkmn: Nidoking
 special: 75
 speed: 85
 tmhm_bits: !!binary |
   8f+Px6OIMg==
-type1: Poison
-type2: Ground
+type1: poison
+type2: ground
 ---
 attack: 45
 base_exp: 68
@@ -722,18 +720,18 @@ growth_rate: Fast
 hp: 70
 id: 4
 learnbase:
-  move1: Pound
-  move2: Growl
-  move3: null
-  move4: null
+- Pound
+- Growl
+- null
+- null
 natdex: 35
 pkmn: Clefairy
 special: 60
 speed: 35
 tmhm_bits: !!binary |
   sT+v8ac4Yw==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 70
 base_exp: 129
@@ -743,18 +741,18 @@ growth_rate: Fast
 hp: 95
 id: 142
 learnbase:
-  move1: Sing
-  move2: Doubleslap
-  move3: Minimize
-  move4: Metronome
+- Sing
+- Doubleslap
+- Minimize
+- Metronome
 natdex: 36
 pkmn: Clefable
 special: 85
 speed: 60
 tmhm_bits: !!binary |
   sX+v8ac4Yw==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 41
 base_exp: 63
@@ -764,18 +762,18 @@ growth_rate: Medium Fast
 hp: 38
 id: 82
 learnbase:
-  move1: Ember
-  move2: Tail Whip
-  move3: null
-  move4: null
+- Ember
+- Tail Whip
+- null
+- null
 natdex: 37
 pkmn: Vulpix
 special: 65
 speed: 65
 tmhm_bits: !!binary |
   oAMIyOMIAg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 76
 base_exp: 178
@@ -785,18 +783,18 @@ growth_rate: Medium Fast
 hp: 73
 id: 83
 learnbase:
-  move1: Ember
-  move2: Tail Whip
-  move3: Quick Attack
-  move4: Roar
+- Ember
+- Tail Whip
+- Quick Attack
+- Roar
 natdex: 38
 pkmn: Ninetales
 special: 100
 speed: 100
 tmhm_bits: !!binary |
   oEMIyOMIAg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 45
 base_exp: 76
@@ -806,18 +804,18 @@ growth_rate: Fast
 hp: 115
 id: 100
 learnbase:
-  move1: Sing
-  move2: null
-  move3: null
-  move4: null
+- Sing
+- null
+- null
+- null
 natdex: 39
 pkmn: Jigglypuff
 special: 25
 speed: 20
 tmhm_bits: !!binary |
   sT+v8aM4Yw==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 70
 base_exp: 109
@@ -827,18 +825,18 @@ growth_rate: Fast
 hp: 140
 id: 101
 learnbase:
-  move1: Sing
-  move2: Disable
-  move3: Defense Curl
-  move4: Doubleslap
+- Sing
+- Disable
+- Defense Curl
+- Doubleslap
 natdex: 40
 pkmn: Wigglytuff
 special: 50
 speed: 45
 tmhm_bits: !!binary |
   sX+v8aM4Yw==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 45
 base_exp: 54
@@ -848,18 +846,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 107
 learnbase:
-  move1: Leech Life
-  move2: null
-  move3: null
-  move4: null
+- Leech Life
+- null
+- null
+- null
 natdex: 41
 pkmn: Zubat
 special: 40
 speed: 55
 tmhm_bits: !!binary |
   KgMYwEIIAg==
-type1: Poison
-type2: Flying
+type1: poison
+type2: flying
 ---
 attack: 80
 base_exp: 171
@@ -869,18 +867,18 @@ growth_rate: Medium Fast
 hp: 75
 id: 130
 learnbase:
-  move1: Leech Life
-  move2: Screech
-  move3: Bite
-  move4: null
+- Leech Life
+- Screech
+- Bite
+- null
 natdex: 42
 pkmn: Golbat
 special: 75
 speed: 90
 tmhm_bits: !!binary |
   KkMYwEIIAg==
-type1: Poison
-type2: Flying
+type1: poison
+type2: flying
 ---
 attack: 50
 base_exp: 78
@@ -890,18 +888,18 @@ growth_rate: Medium Slow
 hp: 45
 id: 185
 learnbase:
-  move1: Absorb
-  move2: null
-  move3: null
-  move4: null
+- Absorb
+- null
+- null
+- null
 natdex: 43
 pkmn: Oddish
 special: 75
 speed: 30
 tmhm_bits: !!binary |
   JAM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 65
 base_exp: 132
@@ -911,18 +909,18 @@ growth_rate: Medium Slow
 hp: 60
 id: 186
 learnbase:
-  move1: Absorb
-  move2: Poisonpowder
-  move3: Stun Spore
-  move4: null
+- Absorb
+- Poisonpowder
+- Stun Spore
+- null
 natdex: 44
 pkmn: Gloom
 special: 85
 speed: 40
 tmhm_bits: !!binary |
   JAM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 80
 base_exp: 184
@@ -932,18 +930,18 @@ growth_rate: Medium Slow
 hp: 75
 id: 187
 learnbase:
-  move1: Stun Spore
-  move2: Sleep Powder
-  move3: Acid
-  move4: Petal Dance
+- Stun Spore
+- Sleep Powder
+- Acid
+- Petal Dance
 natdex: 45
 pkmn: Vileplume
 special: 100
 speed: 50
 tmhm_bits: !!binary |
   pEM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 70
 base_exp: 70
@@ -953,18 +951,18 @@ growth_rate: Medium Fast
 hp: 35
 id: 109
 learnbase:
-  move1: Scratch
-  move2: null
-  move3: null
-  move4: null
+- Scratch
+- null
+- null
+- null
 natdex: 46
 pkmn: Paras
 special: 55
 speed: 25
 tmhm_bits: !!binary |
   pAM4yIMIBg==
-type1: Bug
-type2: Grass
+type1: bug
+type2: grass
 ---
 attack: 95
 base_exp: 128
@@ -974,18 +972,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 46
 learnbase:
-  move1: Scratch
-  move2: Stun Spore
-  move3: Leech Life
-  move4: null
+- Scratch
+- Stun Spore
+- Leech Life
+- null
 natdex: 47
 pkmn: Parasect
 special: 80
 speed: 30
 tmhm_bits: !!binary |
   pEM4yIMIBg==
-type1: Bug
-type2: Grass
+type1: bug
+type2: grass
 ---
 attack: 55
 base_exp: 75
@@ -995,18 +993,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 65
 learnbase:
-  move1: Tackle
-  move2: Disable
-  move3: null
-  move4: null
+- Tackle
+- Disable
+- null
+- null
 natdex: 48
 pkmn: Venonat
 special: 40
 speed: 45
 tmhm_bits: !!binary |
   IAM40AMoAg==
-type1: Bug
-type2: Poison
+type1: bug
+type2: poison
 ---
 attack: 65
 base_exp: 138
@@ -1016,18 +1014,18 @@ growth_rate: Medium Fast
 hp: 70
 id: 119
 learnbase:
-  move1: Tackle
-  move2: Disable
-  move3: Poisonpowder
-  move4: Leech Life
+- Tackle
+- Disable
+- Poisonpowder
+- Leech Life
 natdex: 49
 pkmn: Venomoth
 special: 90
 speed: 90
 tmhm_bits: !!binary |
   KkM48EMoAg==
-type1: Bug
-type2: Poison
+type1: bug
+type2: poison
 ---
 attack: 55
 base_exp: 81
@@ -1037,18 +1035,18 @@ growth_rate: Medium Fast
 hp: 10
 id: 59
 learnbase:
-  move1: Scratch
-  move2: null
-  move3: null
-  move4: null
+- Scratch
+- null
+- null
+- null
 natdex: 50
 pkmn: Diglett
 special: 45
 speed: 95
 tmhm_bits: !!binary |
   oAMIzgKIAg==
-type1: Ground
-type2: Ground
+type1: ground
+type2: ground
 ---
 attack: 80
 base_exp: 153
@@ -1058,18 +1056,18 @@ growth_rate: Medium Fast
 hp: 35
 id: 118
 learnbase:
-  move1: Scratch
-  move2: Growl
-  move3: Dig
-  move4: null
+- Scratch
+- Growl
+- Dig
+- null
 natdex: 51
 pkmn: Dugtrio
 special: 70
 speed: 120
 tmhm_bits: !!binary |
   oEMIzgKIAg==
-type1: Ground
-type2: Ground
+type1: ground
+type2: ground
 ---
 attack: 45
 base_exp: 69
@@ -1079,18 +1077,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 77
 learnbase:
-  move1: Scratch
-  move2: Growl
-  move3: null
-  move4: null
+- Scratch
+- Growl
+- null
+- null
 natdex: 52
 pkmn: Meowth
 special: 40
 speed: 90
 tmhm_bits: !!binary |
   oI+IwcIIAg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 70
 base_exp: 148
@@ -1100,18 +1098,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 144
 learnbase:
-  move1: Scratch
-  move2: Growl
-  move3: Bite
-  move4: Screech
+- Scratch
+- Growl
+- Bite
+- Screech
 natdex: 53
 pkmn: Persian
 special: 65
 speed: 115
 tmhm_bits: !!binary |
   oM+IwcIIAg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 52
 base_exp: 80
@@ -1121,18 +1119,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 47
 learnbase:
-  move1: Scratch
-  move2: null
-  move3: null
-  move4: null
+- Scratch
+- null
+- null
+- null
 natdex: 54
 pkmn: Psyduck
 special: 50
 speed: 55
 tmhm_bits: !!binary |
   sb8PyMIIMg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 82
 base_exp: 174
@@ -1142,18 +1140,18 @@ growth_rate: Medium Fast
 hp: 80
 id: 128
 learnbase:
-  move1: Scratch
-  move2: Tail Whip
-  move3: Disable
-  move4: null
+- Scratch
+- Tail Whip
+- Disable
+- null
 natdex: 55
 pkmn: Golduck
 special: 80
 speed: 85
 tmhm_bits: !!binary |
   sf8PyMIIMg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 80
 base_exp: 74
@@ -1163,18 +1161,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 57
 learnbase:
-  move1: Scratch
-  move2: Leer
-  move3: null
-  move4: null
+- Scratch
+- Leer
+- null
+- null
 natdex: 56
 pkmn: Mankey
 special: 35
 speed: 70
 tmhm_bits: !!binary |
   sYOPycaIIg==
-type1: Fighting
-type2: Fighting
+type1: fighting
+type2: fighting
 ---
 attack: 105
 base_exp: 149
@@ -1184,18 +1182,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 117
 learnbase:
-  move1: Scratch
-  move2: Leer
-  move3: Karate Chop
-  move4: Fury Swipes
+- Scratch
+- Leer
+- Karate Chop
+- Fury Swipes
 natdex: 57
 pkmn: Primeape
 special: 60
 speed: 95
 tmhm_bits: !!binary |
   scOPycaIIg==
-type1: Fighting
-type2: Fighting
+type1: fighting
+type2: fighting
 ---
 attack: 70
 base_exp: 91
@@ -1205,18 +1203,18 @@ growth_rate: Slow
 hp: 55
 id: 33
 learnbase:
-  move1: Bite
-  move2: Roar
-  move3: null
-  move4: null
+- Bite
+- Roar
+- null
+- null
 natdex: 58
 pkmn: Growlithe
 special: 50
 speed: 60
 tmhm_bits: !!binary |
   oANIyOMIAg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 110
 base_exp: 213
@@ -1226,18 +1224,18 @@ growth_rate: Slow
 hp: 90
 id: 20
 learnbase:
-  move1: Roar
-  move2: Ember
-  move3: Leer
-  move4: Take Down
+- Roar
+- Ember
+- Leer
+- Take Down
 natdex: 59
 pkmn: Arcanine
 special: 80
 speed: 95
 tmhm_bits: !!binary |
   oENI6OMIAg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 50
 base_exp: 77
@@ -1247,18 +1245,18 @@ growth_rate: Medium Slow
 hp: 40
 id: 71
 learnbase:
-  move1: Bubble
-  move2: null
-  move3: null
-  move4: null
+- Bubble
+- null
+- null
+- null
 natdex: 60
 pkmn: Poliwag
 special: 40
 speed: 90
 tmhm_bits: !!binary |
   oD8I0IIoEg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 65
 base_exp: 131
@@ -1268,18 +1266,18 @@ growth_rate: Medium Slow
 hp: 65
 id: 110
 learnbase:
-  move1: Bubble
-  move2: Hypnosis
-  move3: Water Gun
-  move4: null
+- Bubble
+- Hypnosis
+- Water Gun
+- null
 natdex: 61
 pkmn: Poliwhirl
 special: 50
 speed: 90
 tmhm_bits: !!binary |
   sT8P1oYoMg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 85
 base_exp: 185
@@ -1289,18 +1287,18 @@ growth_rate: Medium Slow
 hp: 90
 id: 111
 learnbase:
-  move1: Hypnosis
-  move2: Water Gun
-  move3: Doubleslap
-  move4: Body Slam
+- Hypnosis
+- Water Gun
+- Doubleslap
+- Body Slam
 natdex: 62
 pkmn: Poliwrath
 special: 70
 speed: 70
 tmhm_bits: !!binary |
   sX8P1oYoMg==
-type1: Water
-type2: Fighting
+type1: water
+type2: fighting
 ---
 attack: 20
 base_exp: 73
@@ -1310,18 +1308,18 @@ growth_rate: Medium Slow
 hp: 25
 id: 148
 learnbase:
-  move1: Teleport
-  move2: null
-  move3: null
-  move4: null
+- Teleport
+- null
+- null
+- null
 natdex: 63
 pkmn: Abra
 special: 105
 speed: 90
 tmhm_bits: !!binary |
   sQMP8Ic4Qw==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic
 ---
 attack: 35
 base_exp: 145
@@ -1331,18 +1329,18 @@ growth_rate: Medium Slow
 hp: 40
 id: 38
 learnbase:
-  move1: Teleport
-  move2: Confusion
-  move3: Disable
-  move4: null
+- Teleport
+- Confusion
+- Disable
+- null
 natdex: 64
 pkmn: Kadabra
 special: 120
 speed: 105
 tmhm_bits: !!binary |
   sQMP+Ic4Qw==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic
 ---
 attack: 50
 base_exp: 186
@@ -1352,18 +1350,18 @@ growth_rate: Medium Slow
 hp: 55
 id: 149
 learnbase:
-  move1: Teleport
-  move2: Confusion
-  move3: Disable
-  move4: null
+- Teleport
+- Confusion
+- Disable
+- null
 natdex: 65
 pkmn: Alakazam
 special: 135
 speed: 120
 tmhm_bits: !!binary |
   sUMP+Ic4Qw==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic
 ---
 attack: 80
 base_exp: 88
@@ -1373,18 +1371,18 @@ growth_rate: Medium Slow
 hp: 70
 id: 106
 learnbase:
-  move1: Karate Chop
-  move2: null
-  move3: null
-  move4: null
+- Karate Chop
+- null
+- null
+- null
 natdex: 66
 pkmn: Machop
 special: 35
 speed: 35
 tmhm_bits: !!binary |
   sQMPzqaIIg==
-type1: Fighting
-type2: Fighting
+type1: fighting
+type2: fighting
 ---
 attack: 100
 base_exp: 146
@@ -1394,18 +1392,18 @@ growth_rate: Medium Slow
 hp: 80
 id: 41
 learnbase:
-  move1: Karate Chop
-  move2: Low Kick
-  move3: Leer
-  move4: null
+- Karate Chop
+- Low Kick
+- Leer
+- null
 natdex: 67
 pkmn: Machoke
 special: 50
 speed: 45
 tmhm_bits: !!binary |
   sQMPzqaIIg==
-type1: Fighting
-type2: Fighting
+type1: fighting
+type2: fighting
 ---
 attack: 130
 base_exp: 193
@@ -1415,18 +1413,18 @@ growth_rate: Medium Slow
 hp: 90
 id: 126
 learnbase:
-  move1: Karate Chop
-  move2: Low Kick
-  move3: Leer
-  move4: null
+- Karate Chop
+- Low Kick
+- Leer
+- null
 natdex: 68
 pkmn: Machamp
 special: 65
 speed: 55
 tmhm_bits: !!binary |
   sUMPzqaIIg==
-type1: Fighting
-type2: Fighting
+type1: fighting
+type2: fighting
 ---
 attack: 75
 base_exp: 84
@@ -1436,18 +1434,18 @@ growth_rate: Medium Slow
 hp: 50
 id: 188
 learnbase:
-  move1: Vine Whip
-  move2: Growth
-  move3: null
-  move4: null
+- Vine Whip
+- Growth
+- null
+- null
 natdex: 69
 pkmn: Bellsprout
 special: 70
 speed: 40
 tmhm_bits: !!binary |
   JAM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 90
 base_exp: 151
@@ -1457,18 +1455,18 @@ growth_rate: Medium Slow
 hp: 65
 id: 189
 learnbase:
-  move1: Vine Whip
-  move2: Growth
-  move3: Wrap
-  move4: null
+- Vine Whip
+- Growth
+- Wrap
+- null
 natdex: 70
 pkmn: Weepinbell
 special: 85
 speed: 55
 tmhm_bits: !!binary |
   JAM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 105
 base_exp: 191
@@ -1478,18 +1476,18 @@ growth_rate: Medium Slow
 hp: 80
 id: 190
 learnbase:
-  move1: Sleep Powder
-  move2: Stun Spore
-  move3: Acid
-  move4: Razor Leaf
+- Sleep Powder
+- Stun Spore
+- Acid
+- Razor Leaf
 natdex: 71
 pkmn: Victreebel
 special: 100
 speed: 70
 tmhm_bits: !!binary |
   pEM4wAMIBg==
-type1: Grass
-type2: Poison
+type1: grass
+type2: poison
 ---
 attack: 40
 base_exp: 105
@@ -1499,18 +1497,18 @@ growth_rate: Slow
 hp: 40
 id: 24
 learnbase:
-  move1: Acid
-  move2: null
-  move3: null
-  move4: null
+- Acid
+- null
+- null
+- null
 natdex: 72
 pkmn: Tentacool
 special: 100
 speed: 70
 tmhm_bits: !!binary |
   JD8YwIMIFg==
-type1: Water
-type2: Poison
+type1: water
+type2: poison
 ---
 attack: 70
 base_exp: 205
@@ -1520,18 +1518,18 @@ growth_rate: Slow
 hp: 80
 id: 155
 learnbase:
-  move1: Acid
-  move2: Supersonic
-  move3: Wrap
-  move4: null
+- Acid
+- Supersonic
+- Wrap
+- null
 natdex: 73
 pkmn: Tentacruel
 special: 120
 speed: 100
 tmhm_bits: !!binary |
   JH8YwIMIFg==
-type1: Water
-type2: Poison
+type1: water
+type2: poison
 ---
 attack: 80
 base_exp: 86
@@ -1541,18 +1539,18 @@ growth_rate: Medium Slow
 hp: 40
 id: 169
 learnbase:
-  move1: Tackle
-  move2: null
-  move3: null
-  move4: null
+- Tackle
+- null
+- null
+- null
 natdex: 74
 pkmn: Geodude
 special: 30
 speed: 20
 tmhm_bits: !!binary |
   oQMPzi7IIg==
-type1: Rock
-type2: Ground
+type1: rock
+type2: ground
 ---
 attack: 95
 base_exp: 134
@@ -1562,18 +1560,18 @@ growth_rate: Medium Slow
 hp: 55
 id: 39
 learnbase:
-  move1: Tackle
-  move2: Defense Curl
-  move3: null
-  move4: null
+- Tackle
+- Defense Curl
+- null
+- null
 natdex: 75
 pkmn: Graveler
 special: 45
 speed: 35
 tmhm_bits: !!binary |
   oQMPzi7IIg==
-type1: Rock
-type2: Ground
+type1: rock
+type2: ground
 ---
 attack: 110
 base_exp: 177
@@ -1583,18 +1581,18 @@ growth_rate: Medium Slow
 hp: 80
 id: 49
 learnbase:
-  move1: Tackle
-  move2: Defense Curl
-  move3: null
-  move4: null
+- Tackle
+- Defense Curl
+- null
+- null
 natdex: 76
 pkmn: Golem
 special: 55
 speed: 45
 tmhm_bits: !!binary |
   sUMPzi7IIg==
-type1: Rock
-type2: Ground
+type1: rock
+type2: ground
 ---
 attack: 85
 base_exp: 152
@@ -1604,18 +1602,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 163
 learnbase:
-  move1: Ember
-  move2: null
-  move3: null
-  move4: null
+- Ember
+- null
+- null
+- null
 natdex: 77
 pkmn: Ponyta
 special: 65
 speed: 90
 tmhm_bits: !!binary |
   4AMIwOMIAg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 100
 base_exp: 192
@@ -1625,18 +1623,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 164
 learnbase:
-  move1: Ember
-  move2: Tail Whip
-  move3: Stomp
-  move4: Growl
+- Ember
+- Tail Whip
+- Stomp
+- Growl
 natdex: 78
 pkmn: Rapidash
 special: 80
 speed: 105
 tmhm_bits: !!binary |
   4EMIwOMIAg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 65
 base_exp: 99
@@ -1646,18 +1644,18 @@ growth_rate: Medium Fast
 hp: 90
 id: 37
 learnbase:
-  move1: Confusion
-  move2: null
-  move3: null
-  move4: null
+- Confusion
+- null
+- null
+- null
 natdex: 79
 pkmn: Slowpoke
 special: 40
 speed: 15
 tmhm_bits: !!binary |
   oL8I/uM4cw==
-type1: Water
-type2: Psychic
+type1: water
+type2: psychic
 ---
 attack: 75
 base_exp: 164
@@ -1667,18 +1665,18 @@ growth_rate: Medium Fast
 hp: 95
 id: 8
 learnbase:
-  move1: Confusion
-  move2: Disable
-  move3: Headbutt
-  move4: null
+- Confusion
+- Disable
+- Headbutt
+- null
 natdex: 80
 pkmn: Slowbro
 special: 80
 speed: 30
 tmhm_bits: !!binary |
   sf8P/uM4cw==
-type1: Water
-type2: Psychic
+type1: water
+type2: psychic
 ---
 attack: 35
 base_exp: 89
@@ -1688,18 +1686,18 @@ growth_rate: Medium Fast
 hp: 25
 id: 173
 learnbase:
-  move1: Tackle
-  move2: null
-  move3: null
-  move4: null
+- Tackle
+- null
+- null
+- null
 natdex: 81
 pkmn: Magnemite
 special: 95
 speed: 45
 tmhm_bits: !!binary |
   IAOI4UMYQg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 60
 base_exp: 161
@@ -1709,18 +1707,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 54
 learnbase:
-  move1: Tackle
-  move2: Sonicboom
-  move3: Thundershock
-  move4: null
+- Tackle
+- Sonicboom
+- Thundershock
+- null
 natdex: 82
 pkmn: Magneton
 special: 120
 speed: 70
 tmhm_bits: !!binary |
   IEOI4UMYQg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 65
 base_exp: 94
@@ -1730,18 +1728,18 @@ growth_rate: Medium Fast
 hp: 52
 id: 64
 learnbase:
-  move1: Peck
-  move2: Sand Attack
-  move3: null
-  move4: null
+- Peck
+- Sand Attack
+- null
+- null
 natdex: 83
 pkmn: Farfetch'd
 special: 58
 speed: 60
 tmhm_bits: !!binary |
   rgMIwMMIDg==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 85
 base_exp: 96
@@ -1751,18 +1749,18 @@ growth_rate: Medium Fast
 hp: 35
 id: 70
 learnbase:
-  move1: Peck
-  move2: null
-  move3: null
-  move4: null
+- Peck
+- null
+- null
+- null
 natdex: 84
 pkmn: Doduo
 special: 35
 speed: 75
 tmhm_bits: !!binary |
   qAMIwIMMCw==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 110
 base_exp: 158
@@ -1772,18 +1770,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 116
 learnbase:
-  move1: Peck
-  move2: Growl
-  move3: Fury Attack
-  move4: null
+- Peck
+- Growl
+- Fury Attack
+- null
 natdex: 85
 pkmn: Dodrio
 special: 60
 speed: 100
 tmhm_bits: !!binary |
   qEMIwIMMCw==
-type1: Normal
-type2: Flying
+type1: normal
+type2: flying
 ---
 attack: 45
 base_exp: 100
@@ -1793,18 +1791,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 58
 learnbase:
-  move1: Headbutt
-  move2: null
-  move3: null
-  move4: null
+- Headbutt
+- null
+- null
+- null
 natdex: 86
 pkmn: Seel
 special: 70
 speed: 45
 tmhm_bits: !!binary |
   4L8IwIIIMg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 70
 base_exp: 176
@@ -1814,18 +1812,18 @@ growth_rate: Medium Fast
 hp: 90
 id: 120
 learnbase:
-  move1: Headbutt
-  move2: Growl
-  move3: Aurora Beam
-  move4: null
+- Headbutt
+- Growl
+- Aurora Beam
+- null
 natdex: 87
 pkmn: Dewgong
 special: 95
 speed: 70
 tmhm_bits: !!binary |
   4P8IwIIIMg==
-type1: Water
-type2: Ice
+type1: water
+type2: ice
 ---
 attack: 80
 base_exp: 90
@@ -1835,18 +1833,18 @@ growth_rate: Medium Fast
 hp: 80
 id: 13
 learnbase:
-  move1: Pound
-  move2: Disable
-  move3: null
-  move4: null
+- Pound
+- Disable
+- null
+- null
 natdex: 88
 pkmn: Grimer
 special: 40
 speed: 25
 tmhm_bits: !!binary |
   oACYwSpIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 105
 base_exp: 157
@@ -1856,18 +1854,18 @@ growth_rate: Medium Fast
 hp: 105
 id: 136
 learnbase:
-  move1: Pound
-  move2: Disable
-  move3: Poison Gas
-  move4: null
+- Pound
+- Disable
+- Poison Gas
+- null
 natdex: 89
 pkmn: Muk
 special: 65
 speed: 50
 tmhm_bits: !!binary |
   oECYwSpIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 65
 base_exp: 97
@@ -1877,18 +1875,18 @@ growth_rate: Slow
 hp: 30
 id: 23
 learnbase:
-  move1: Tackle
-  move2: Withdraw
-  move3: null
-  move4: null
+- Tackle
+- Withdraw
+- null
+- null
 natdex: 90
 pkmn: Shellder
 special: 45
 speed: 40
 tmhm_bits: !!binary |
   ID8I4EtIEw==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 95
 base_exp: 203
@@ -1898,18 +1896,18 @@ growth_rate: Slow
 hp: 50
 id: 139
 learnbase:
-  move1: Withdraw
-  move2: Supersonic
-  move3: Clamp
-  move4: Aurora Beam
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
 natdex: 91
 pkmn: Cloyster
 special: 85
 speed: 70
 tmhm_bits: !!binary |
   IH8I4EtIEw==
-type1: Water
-type2: Ice
+type1: water
+type2: ice
 ---
 attack: 35
 base_exp: 95
@@ -1919,18 +1917,18 @@ growth_rate: Medium Slow
 hp: 30
 id: 25
 learnbase:
-  move1: Lick
-  move2: Confuse Ray
-  move3: Night Shade
-  move4: null
+- Lick
+- Confuse Ray
+- Night Shade
+- null
 natdex: 92
 pkmn: Gastly
 special: 100
 speed: 80
 tmhm_bits: !!binary |
   IACY0QpqAg==
-type1: Ghost
-type2: Poison
+type1: ghost
+type2: poison
 ---
 attack: 50
 base_exp: 126
@@ -1940,18 +1938,18 @@ growth_rate: Medium Slow
 hp: 45
 id: 147
 learnbase:
-  move1: Lick
-  move2: Confuse Ray
-  move3: Night Shade
-  move4: null
+- Lick
+- Confuse Ray
+- Night Shade
+- null
 natdex: 93
 pkmn: Haunter
 special: 115
 speed: 95
 tmhm_bits: !!binary |
   IACY0QpqAg==
-type1: Ghost
-type2: Poison
+type1: ghost
+type2: poison
 ---
 attack: 65
 base_exp: 190
@@ -1961,18 +1959,18 @@ growth_rate: Medium Slow
 hp: 60
 id: 14
 learnbase:
-  move1: Lick
-  move2: Confuse Ray
-  move3: Night Shade
-  move4: null
+- Lick
+- Confuse Ray
+- Night Shade
+- null
 natdex: 94
 pkmn: Gengar
 special: 130
 speed: 110
 tmhm_bits: !!binary |
   sUOf0Y5qIg==
-type1: Ghost
-type2: Poison
+type1: ghost
+type2: poison
 ---
 attack: 45
 base_exp: 108
@@ -1982,18 +1980,18 @@ growth_rate: Medium Fast
 hp: 35
 id: 34
 learnbase:
-  move1: Tackle
-  move2: Screech
-  move3: null
-  move4: null
+- Tackle
+- Screech
+- null
+- null
 natdex: 95
 pkmn: Onix
 special: 30
 speed: 70
 tmhm_bits: !!binary |
   oAMIzorIIg==
-type1: Rock
-type2: Ground
+type1: rock
+type2: ground
 ---
 attack: 48
 base_exp: 102
@@ -2003,18 +2001,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 48
 learnbase:
-  move1: Pound
-  move2: Hypnosis
-  move3: null
-  move4: null
+- Pound
+- Hypnosis
+- null
+- null
 natdex: 96
 pkmn: Drowzee
 special: 90
 speed: 42
 tmhm_bits: !!binary |
   sQMP8Ic6Qw==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic
 ---
 attack: 73
 base_exp: 165
@@ -2024,18 +2022,18 @@ growth_rate: Medium Fast
 hp: 85
 id: 129
 learnbase:
-  move1: Pound
-  move2: Hypnosis
-  move3: Disable
-  move4: Confusion
+- Pound
+- Hypnosis
+- Disable
+- Confusion
 natdex: 97
 pkmn: Hypno
 special: 115
 speed: 67
 tmhm_bits: !!binary |
   sUMP8Ic6Qw==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic
 ---
 attack: 105
 base_exp: 115
@@ -2045,18 +2043,18 @@ growth_rate: Medium Fast
 hp: 30
 id: 78
 learnbase:
-  move1: Bubble
-  move2: Leer
-  move3: null
-  move4: null
+- Bubble
+- Leer
+- null
+- null
 natdex: 98
 pkmn: Krabby
 special: 25
 speed: 50
 tmhm_bits: !!binary |
   pD8IwAIINg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 130
 base_exp: 206
@@ -2066,18 +2064,18 @@ growth_rate: Medium Fast
 hp: 55
 id: 138
 learnbase:
-  move1: Bubble
-  move2: Leer
-  move3: Vicegrip
-  move4: null
+- Bubble
+- Leer
+- Vicegrip
+- null
 natdex: 99
 pkmn: Kingler
 special: 50
 speed: 75
 tmhm_bits: !!binary |
   pH8IwAIINg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 30
 base_exp: 103
@@ -2087,18 +2085,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 6
 learnbase:
-  move1: Tackle
-  move2: Screech
-  move3: null
-  move4: null
+- Tackle
+- Screech
+- null
+- null
 natdex: 100
 pkmn: Voltorb
 special: 55
 speed: 100
 tmhm_bits: !!binary |
   IAGI4UtYQg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 50
 base_exp: 150
@@ -2108,18 +2106,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 141
 learnbase:
-  move1: Tackle
-  move2: Screech
-  move3: Sonicboom
-  move4: null
+- Tackle
+- Screech
+- Sonicboom
+- null
 natdex: 101
 pkmn: Electrode
 special: 80
 speed: 140
 tmhm_bits: !!binary |
   IEGI4ctYQg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 40
 base_exp: 98
@@ -2129,18 +2127,18 @@ growth_rate: Slow
 hp: 60
 id: 12
 learnbase:
-  move1: Barrage
-  move2: Hypnosis
-  move3: null
-  move4: null
+- Barrage
+- Hypnosis
+- null
+- null
 natdex: 102
 pkmn: Exeggcute
 special: 60
 speed: 40
 tmhm_bits: !!binary |
   IAMI8BtoAg==
-type1: Grass
-type2: Psychic
+type1: grass
+type2: psychic
 ---
 attack: 95
 base_exp: 212
@@ -2150,18 +2148,18 @@ growth_rate: Slow
 hp: 95
 id: 10
 learnbase:
-  move1: Barrage
-  move2: Hypnosis
-  move3: null
-  move4: null
+- Barrage
+- Hypnosis
+- null
+- null
 natdex: 103
 pkmn: Exeggutor
 special: 125
 speed: 55
 tmhm_bits: !!binary |
   IEM48BtoIg==
-type1: Grass
-type2: Psychic
+type1: grass
+type2: psychic
 ---
 attack: 50
 base_exp: 87
@@ -2171,18 +2169,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 17
 learnbase:
-  move1: Bone Club
-  move2: Growl
-  move3: null
-  move4: null
+- Bone Club
+- Growl
+- null
+- null
 natdex: 104
 pkmn: Cubone
 special: 40
 speed: 35
 tmhm_bits: !!binary |
   sT8PzqIIIg==
-type1: Ground
-type2: Ground
+type1: ground
+type2: ground
 ---
 attack: 80
 base_exp: 124
@@ -2192,18 +2190,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 145
 learnbase:
-  move1: Bone Club
-  move2: Growl
-  move3: Leer
-  move4: Focus Energy
+- Bone Club
+- Growl
+- Leer
+- Focus Energy
 natdex: 105
 pkmn: Marowak
 special: 50
 speed: 45
 tmhm_bits: !!binary |
   sX8PzqIIIg==
-type1: Ground
-type2: Ground
+type1: ground
+type2: ground
 ---
 attack: 120
 base_exp: 139
@@ -2213,18 +2211,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 43
 learnbase:
-  move1: Double Kick
-  move2: Meditate
-  move3: null
-  move4: null
+- Double Kick
+- Meditate
+- null
+- null
 natdex: 106
 pkmn: Hitmonlee
 special: 35
 speed: 87
 tmhm_bits: !!binary |
   sQMPwMYIIg==
-type1: Fighting
-type2: Fighting
+type1: fighting
+type2: fighting
 ---
 attack: 105
 base_exp: 140
@@ -2234,18 +2232,18 @@ growth_rate: Medium Fast
 hp: 50
 id: 44
 learnbase:
-  move1: Comet Punch
-  move2: Agility
-  move3: null
-  move4: null
+- Comet Punch
+- Agility
+- null
+- null
 natdex: 107
 pkmn: Hitmonchan
 special: 35
 speed: 76
 tmhm_bits: !!binary |
   sQMPwMYIIg==
-type1: Fighting
-type2: Fighting
+type1: fighting
+type2: fighting
 ---
 attack: 55
 base_exp: 127
@@ -2255,18 +2253,18 @@ growth_rate: Medium Fast
 hp: 90
 id: 11
 learnbase:
-  move1: Wrap
-  move2: Supersonic
-  move3: null
-  move4: null
+- Wrap
+- Supersonic
+- null
+- null
 natdex: 108
 pkmn: Lickitung
 special: 60
 speed: 30
 tmhm_bits: !!binary |
   tX+Px6IINg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 65
 base_exp: 114
@@ -2276,18 +2274,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 55
 learnbase:
-  move1: Tackle
-  move2: Smog
-  move3: null
-  move4: null
+- Tackle
+- Smog
+- null
+- null
 natdex: 109
 pkmn: Koffing
 special: 60
 speed: 35
 tmhm_bits: !!binary |
   IACIwSpIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 90
 base_exp: 173
@@ -2297,18 +2295,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 143
 learnbase:
-  move1: Tackle
-  move2: Smog
-  move3: Sludge
-  move4: null
+- Tackle
+- Smog
+- Sludge
+- null
 natdex: 110
 pkmn: Weezing
 special: 85
 speed: 60
 tmhm_bits: !!binary |
   IECIwSpIAg==
-type1: Poison
-type2: Poison
+type1: poison
+type2: poison
 ---
 attack: 85
 base_exp: 135
@@ -2318,18 +2316,18 @@ growth_rate: Slow
 hp: 80
 id: 18
 learnbase:
-  move1: Horn Attack
-  move2: null
-  move3: null
-  move4: null
+- Horn Attack
+- null
+- null
+- null
 natdex: 111
 pkmn: Rhyhorn
 special: 30
 speed: 25
 tmhm_bits: !!binary |
   4AOIz6KIIg==
-type1: Ground
-type2: Rock
+type1: ground
+type2: rock
 ---
 attack: 130
 base_exp: 204
@@ -2339,18 +2337,18 @@ growth_rate: Slow
 hp: 105
 id: 1
 learnbase:
-  move1: Horn Attack
-  move2: Stomp
-  move3: Tail Whip
-  move4: Fury Attack
+- Horn Attack
+- Stomp
+- Tail Whip
+- Fury Attack
 natdex: 112
 pkmn: Rhydon
 special: 45
 speed: 40
 tmhm_bits: !!binary |
   8f+Pz6KIMg==
-type1: Ground
-type2: Rock
+type1: ground
+type2: rock
 ---
 attack: 5
 base_exp: 255
@@ -2360,18 +2358,18 @@ growth_rate: Fast
 hp: 250
 id: 40
 learnbase:
-  move1: Pound
-  move2: Doubleslap
-  move3: null
-  move4: null
+- Pound
+- Doubleslap
+- null
+- null
 natdex: 113
 pkmn: Chansey
 special: 105
 speed: 50
 tmhm_bits: !!binary |
   sX+v8bc5Yw==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 55
 base_exp: 166
@@ -2381,18 +2379,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 30
 learnbase:
-  move1: Constrict
-  move2: Bind
-  move3: null
-  move4: null
+- Constrict
+- Bind
+- null
+- null
 natdex: 114
 pkmn: Tangela
 special: 100
 speed: 60
 tmhm_bits: !!binary |
   pEM4wIIIBg==
-type1: Grass
-type2: Grass
+type1: grass
+type2: grass
 ---
 attack: 95
 base_exp: 175
@@ -2402,18 +2400,18 @@ growth_rate: Medium Fast
 hp: 105
 id: 2
 learnbase:
-  move1: Comet Punch
-  move2: Rage
-  move3: null
-  move4: null
+- Comet Punch
+- Rage
+- null
+- null
 natdex: 115
 pkmn: Kangaskhan
 special: 40
 speed: 90
 tmhm_bits: !!binary |
   sX+Px6KIMg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 40
 base_exp: 83
@@ -2423,18 +2421,18 @@ growth_rate: Medium Fast
 hp: 30
 id: 92
 learnbase:
-  move1: Bubble
-  move2: null
-  move3: null
-  move4: null
+- Bubble
+- null
+- null
+- null
 natdex: 116
 pkmn: Horsea
 special: 70
 speed: 60
 tmhm_bits: !!binary |
   ID8IwMIIEg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 65
 base_exp: 155
@@ -2444,18 +2442,18 @@ growth_rate: Medium Fast
 hp: 55
 id: 93
 learnbase:
-  move1: Bubble
-  move2: Smokescreen
-  move3: null
-  move4: null
+- Bubble
+- Smokescreen
+- null
+- null
 natdex: 117
 pkmn: Seadra
 special: 95
 speed: 85
 tmhm_bits: !!binary |
   IH8IwMIIEg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 67
 base_exp: 111
@@ -2465,18 +2463,18 @@ growth_rate: Medium Fast
 hp: 45
 id: 157
 learnbase:
-  move1: Peck
-  move2: Tail Whip
-  move3: null
-  move4: null
+- Peck
+- Tail Whip
+- null
+- null
 natdex: 118
 pkmn: Goldeen
 special: 50
 speed: 63
 tmhm_bits: !!binary |
   YD8IwMIIEg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 92
 base_exp: 170
@@ -2486,18 +2484,18 @@ growth_rate: Medium Fast
 hp: 80
 id: 158
 learnbase:
-  move1: Peck
-  move2: Tail Whip
-  move3: Supersonic
-  move4: null
+- Peck
+- Tail Whip
+- Supersonic
+- null
 natdex: 119
 pkmn: Seaking
 special: 80
 speed: 68
 tmhm_bits: !!binary |
   YH8IwMIIEg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 45
 base_exp: 106
@@ -2507,18 +2505,18 @@ growth_rate: Slow
 hp: 30
 id: 27
 learnbase:
-  move1: Tackle
-  move2: null
-  move3: null
-  move4: null
+- Tackle
+- null
+- null
+- null
 natdex: 120
 pkmn: Staryu
 special: 70
 speed: 85
 tmhm_bits: !!binary |
   ID+I8cM4Uw==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 75
 base_exp: 207
@@ -2528,18 +2526,18 @@ growth_rate: Slow
 hp: 60
 id: 152
 learnbase:
-  move1: Tackle
-  move2: Water Gun
-  move3: Harden
-  move4: null
+- Tackle
+- Water Gun
+- Harden
+- null
 natdex: 121
 pkmn: Starmie
 special: 100
 speed: 115
 tmhm_bits: !!binary |
   IH+I8cM4Uw==
-type1: Water
-type2: Psychic
+type1: water
+type2: psychic
 ---
 attack: 45
 base_exp: 136
@@ -2549,18 +2547,18 @@ growth_rate: Medium Fast
 hp: 40
 id: 42
 learnbase:
-  move1: Confusion
-  move2: Barrier
-  move3: null
-  move4: null
+- Confusion
+- Barrier
+- null
+- null
 natdex: 122
 pkmn: Mr. Mime
 special: 100
 speed: 90
 tmhm_bits: !!binary |
   sUOv8Yc4Qg==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic
 ---
 attack: 110
 base_exp: 187
@@ -2570,18 +2568,18 @@ growth_rate: Medium Fast
 hp: 70
 id: 26
 learnbase:
-  move1: Quick Attack
-  move2: null
-  move3: null
-  move4: null
+- Quick Attack
+- null
+- null
+- null
 natdex: 123
 pkmn: Scyther
 special: 55
 speed: 105
 tmhm_bits: !!binary |
   JEMIwMIIBg==
-type1: Bug
-type2: Flying
+type1: bug
+type2: flying
 ---
 attack: 50
 base_exp: 137
@@ -2591,18 +2589,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 72
 learnbase:
-  move1: Pound
-  move2: Lovely Kiss
-  move3: null
-  move4: null
+- Pound
+- Lovely Kiss
+- null
+- null
 natdex: 124
 pkmn: Jynx
 special: 95
 speed: 95
 tmhm_bits: !!binary |
   sX8P8IcoAg==
-type1: Ice
-type2: Psychic
+type1: ice
+type2: psychic
 ---
 attack: 83
 base_exp: 156
@@ -2612,18 +2610,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 53
 learnbase:
-  move1: Quick Attack
-  move2: Leer
-  move3: null
-  move4: null
+- Quick Attack
+- Leer
+- null
+- null
 natdex: 125
 pkmn: Electabuzz
 special: 85
 speed: 105
 tmhm_bits: !!binary |
   sUOP8cc4Yg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 95
 base_exp: 167
@@ -2633,18 +2631,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 51
 learnbase:
-  move1: Ember
-  move2: null
-  move3: null
-  move4: null
+- Ember
+- null
+- null
+- null
 natdex: 126
 pkmn: Magmar
 special: 85
 speed: 93
 tmhm_bits: !!binary |
   sUMP8KYoIg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 125
 base_exp: 200
@@ -2654,18 +2652,18 @@ growth_rate: Slow
 hp: 65
 id: 29
 learnbase:
-  move1: Vicegrip
-  move2: null
-  move3: null
-  move4: null
+- Vicegrip
+- null
+- null
+- null
 natdex: 127
 pkmn: Pinsir
 special: 55
 speed: 85
 tmhm_bits: !!binary |
   pEMNwAIIJg==
-type1: Bug
-type2: Bug
+type1: bug
+type2: bug
 ---
 attack: 100
 base_exp: 211
@@ -2675,18 +2673,18 @@ growth_rate: Slow
 hp: 75
 id: 60
 learnbase:
-  move1: Tackle
-  move2: null
-  move3: null
-  move4: null
+- Tackle
+- null
+- null
+- null
 natdex: 128
 pkmn: Tauros
 special: 70
 speed: 110
 tmhm_bits: !!binary |
   4HOIx6IIIg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 10
 base_exp: 20
@@ -2696,18 +2694,18 @@ growth_rate: Slow
 hp: 20
 id: 133
 learnbase:
-  move1: Splash
-  move2: null
-  move3: null
-  move4: null
+- Splash
+- null
+- null
+- null
 natdex: 129
 pkmn: Magikarp
 special: 20
 speed: 80
 tmhm_bits: !!binary |
   AAAAAAAAAA==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 125
 base_exp: 214
@@ -2717,18 +2715,18 @@ growth_rate: Slow
 hp: 95
 id: 22
 learnbase:
-  move1: Bite
-  move2: Dragon Rage
-  move3: Leer
-  move4: Hydro Pump
+- Bite
+- Dragon Rage
+- Leer
+- Hydro Pump
 natdex: 130
 pkmn: Gyarados
 special: 100
 speed: 81
 tmhm_bits: !!binary |
   oH/IwaMIMg==
-type1: Water
-type2: Flying
+type1: water
+type2: flying
 ---
 attack: 85
 base_exp: 219
@@ -2738,18 +2736,18 @@ growth_rate: Slow
 hp: 130
 id: 19
 learnbase:
-  move1: Water Gun
-  move2: Growl
-  move3: null
-  move4: null
+- Water Gun
+- Growl
+- null
+- null
 natdex: 131
 pkmn: Lapras
 special: 95
 speed: 60
 tmhm_bits: !!binary |
   4H/o0YMoMg==
-type1: Water
-type2: Ice
+type1: water
+type2: ice
 ---
 attack: 48
 base_exp: 61
@@ -2759,18 +2757,18 @@ growth_rate: Medium Fast
 hp: 48
 id: 76
 learnbase:
-  move1: Transform
-  move2: null
-  move3: null
-  move4: null
+- Transform
+- null
+- null
+- null
 natdex: 132
 pkmn: Ditto
 special: 48
 speed: 48
 tmhm_bits: !!binary |
   AAAAAAAAAA==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 55
 base_exp: 92
@@ -2780,18 +2778,18 @@ growth_rate: Medium Fast
 hp: 55
 id: 102
 learnbase:
-  move1: Tackle
-  move2: Sand Attack
-  move3: null
-  move4: null
+- Tackle
+- Sand Attack
+- null
+- null
 natdex: 133
 pkmn: Eevee
 special: 65
 speed: 55
 tmhm_bits: !!binary |
   oAMIwMMIAg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 65
 base_exp: 196
@@ -2801,18 +2799,18 @@ growth_rate: Medium Fast
 hp: 130
 id: 105
 learnbase:
-  move1: Tackle
-  move2: Sand Attack
-  move3: Quick Attack
-  move4: Water Gun
+- Tackle
+- Sand Attack
+- Quick Attack
+- Water Gun
 natdex: 134
 pkmn: Vaporeon
 special: 110
 speed: 65
 tmhm_bits: !!binary |
   oH8IwMMIEg==
-type1: Water
-type2: Water
+type1: water
+type2: water
 ---
 attack: 65
 base_exp: 197
@@ -2822,18 +2820,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 104
 learnbase:
-  move1: Tackle
-  move2: Sand Attack
-  move3: Quick Attack
-  move4: Thundershock
+- Tackle
+- Sand Attack
+- Quick Attack
+- Thundershock
 natdex: 135
 pkmn: Jolteon
 special: 110
 speed: 130
 tmhm_bits: !!binary |
   oEOIwcMYQg==
-type1: Electric
-type2: Electric
+type1: electric
+type2: electric
 ---
 attack: 130
 base_exp: 198
@@ -2843,18 +2841,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 103
 learnbase:
-  move1: Tackle
-  move2: Sand Attack
-  move3: Quick Attack
-  move4: Ember
+- Tackle
+- Sand Attack
+- Quick Attack
+- Ember
 natdex: 136
 pkmn: Flareon
 special: 110
 speed: 65
 tmhm_bits: !!binary |
   oEMIwOMIAg==
-type1: Fire
-type2: Fire
+type1: fire
+type2: fire
 ---
 attack: 60
 base_exp: 130
@@ -2864,18 +2862,18 @@ growth_rate: Medium Fast
 hp: 65
 id: 170
 learnbase:
-  move1: Tackle
-  move2: Sharpen
-  move3: Conversion
-  move4: null
+- Tackle
+- Sharpen
+- Conversion
+- null
 natdex: 137
 pkmn: Porygon
 special: 75
 speed: 40
 tmhm_bits: !!binary |
   IHOI8cM4Qw==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 40
 base_exp: 120
@@ -2885,18 +2883,18 @@ growth_rate: Medium Fast
 hp: 35
 id: 98
 learnbase:
-  move1: Water Gun
-  move2: Withdraw
-  move3: null
-  move4: null
+- Water Gun
+- Withdraw
+- null
+- null
 natdex: 138
 pkmn: Omanyte
 special: 90
 speed: 35
 tmhm_bits: !!binary |
   oD8IwAMIEg==
-type1: Rock
-type2: Water
+type1: rock
+type2: water
 ---
 attack: 60
 base_exp: 199
@@ -2906,18 +2904,18 @@ growth_rate: Medium Fast
 hp: 70
 id: 99
 learnbase:
-  move1: Water Gun
-  move2: Withdraw
-  move3: Horn Attack
-  move4: null
+- Water Gun
+- Withdraw
+- Horn Attack
+- null
 natdex: 139
 pkmn: Omastar
 special: 115
 speed: 55
 tmhm_bits: !!binary |
   4H8NwIMIEg==
-type1: Rock
-type2: Water
+type1: rock
+type2: water
 ---
 attack: 80
 base_exp: 119
@@ -2927,18 +2925,18 @@ growth_rate: Medium Fast
 hp: 30
 id: 90
 learnbase:
-  move1: Scratch
-  move2: Harden
-  move3: null
-  move4: null
+- Scratch
+- Harden
+- null
+- null
 natdex: 140
 pkmn: Kabuto
 special: 45
 speed: 55
 tmhm_bits: !!binary |
   oD8IwAMIEg==
-type1: Rock
-type2: Water
+type1: rock
+type2: water
 ---
 attack: 115
 base_exp: 201
@@ -2948,18 +2946,18 @@ growth_rate: Medium Fast
 hp: 60
 id: 91
 learnbase:
-  move1: Scratch
-  move2: Harden
-  move3: Absorb
-  move4: null
+- Scratch
+- Harden
+- Absorb
+- null
 natdex: 141
 pkmn: Kabutops
 special: 70
 speed: 80
 tmhm_bits: !!binary |
   tn8NwIMIEg==
-type1: Rock
-type2: Water
+type1: rock
+type2: water
 ---
 attack: 105
 base_exp: 202
@@ -2969,18 +2967,18 @@ growth_rate: Slow
 hp: 80
 id: 171
 learnbase:
-  move1: Wing Attack
-  move2: Agility
-  move3: null
-  move4: null
+- Wing Attack
+- Agility
+- null
+- null
 natdex: 142
 pkmn: Aerodactyl
 special: 60
 speed: 130
 tmhm_bits: !!binary |
   KkNIwGMMCg==
-type1: Rock
-type2: Flying
+type1: rock
+type2: flying
 ---
 attack: 110
 base_exp: 154
@@ -2990,18 +2988,18 @@ growth_rate: Slow
 hp: 160
 id: 132
 learnbase:
-  move1: Headbutt
-  move2: Amnesia
-  move3: Rest
-  move4: null
+- Headbutt
+- Amnesia
+- Rest
+- null
 natdex: 143
 pkmn: Snorlax
 special: 65
 speed: 30
 tmhm_bits: !!binary |
   sf+v16+oMg==
-type1: Normal
-type2: Normal
+type1: normal
+type2: normal
 ---
 attack: 85
 base_exp: 215
@@ -3011,18 +3009,18 @@ growth_rate: Slow
 hp: 90
 id: 74
 learnbase:
-  move1: Peck
-  move2: Ice Beam
-  move3: null
-  move4: null
+- Peck
+- Ice Beam
+- null
+- null
 natdex: 144
 pkmn: Articuno
 special: 125
 speed: 85
 tmhm_bits: !!binary |
   Kn8IwEMMCg==
-type1: Ice
-type2: Flying
+type1: ice
+type2: flying
 ---
 attack: 90
 base_exp: 216
@@ -3032,18 +3030,18 @@ growth_rate: Slow
 hp: 90
 id: 75
 learnbase:
-  move1: Thundershock
-  move2: Drill Peck
-  move3: null
-  move4: null
+- Thundershock
+- Drill Peck
+- null
+- null
 natdex: 145
 pkmn: Zapdos
 special: 125
 speed: 100
 tmhm_bits: !!binary |
   KkOIwUMcSg==
-type1: Electric
-type2: Flying
+type1: electric
+type2: flying
 ---
 attack: 100
 base_exp: 217
@@ -3053,18 +3051,18 @@ growth_rate: Slow
 hp: 90
 id: 73
 learnbase:
-  move1: Peck
-  move2: Fire Spin
-  move3: null
-  move4: null
+- Peck
+- Fire Spin
+- null
+- null
 natdex: 146
 pkmn: Moltres
 special: 125
 speed: 90
 tmhm_bits: !!binary |
   KkMIwGMMCg==
-type1: Fire
-type2: Flying
+type1: fire
+type2: flying
 ---
 attack: 64
 base_exp: 67
@@ -3074,18 +3072,18 @@ growth_rate: Slow
 hp: 41
 id: 88
 learnbase:
-  move1: Wrap
-  move2: Leer
-  move3: null
-  move4: null
+- Wrap
+- Leer
+- null
+- null
 natdex: 147
 pkmn: Dratini
 special: 50
 speed: 50
 tmhm_bits: !!binary |
   oD/IweMYEg==
-type1: Dragon
-type2: Dragon
+type1: dragon
+type2: dragon
 ---
 attack: 84
 base_exp: 144
@@ -3095,18 +3093,18 @@ growth_rate: Slow
 hp: 61
 id: 89
 learnbase:
-  move1: Wrap
-  move2: Leer
-  move3: Thunder Wave
-  move4: null
+- Wrap
+- Leer
+- Thunder Wave
+- null
 natdex: 148
 pkmn: Dragonair
 special: 70
 speed: 70
 tmhm_bits: !!binary |
   4D/IweMYEg==
-type1: Dragon
-type2: Dragon
+type1: dragon
+type2: dragon
 ---
 attack: 134
 base_exp: 218
@@ -3116,18 +3114,18 @@ growth_rate: Slow
 hp: 91
 id: 66
 learnbase:
-  move1: Wrap
-  move2: Leer
-  move3: Thunder Wave
-  move4: Agility
+- Wrap
+- Leer
+- Thunder Wave
+- Agility
 natdex: 149
 pkmn: Dragonite
 special: 100
 speed: 80
 tmhm_bits: !!binary |
   4n/IweMYMg==
-type1: Dragon
-type2: Flying
+type1: dragon
+type2: flying
 ---
 attack: 110
 base_exp: 220
@@ -3137,18 +3135,18 @@ growth_rate: Slow
 hp: 106
 id: 131
 learnbase:
-  move1: Confusion
-  move2: Disable
-  move3: Swift
-  move4: Psychic
+- Confusion
+- Disable
+- Swift
+- Psychic
 natdex: 150
 pkmn: Mewtwo
 special: 154
 speed: 130
 tmhm_bits: !!binary |
   sf+v8a84Yw==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic
 ---
 attack: 100
 base_exp: 64
@@ -3158,15 +3156,15 @@ growth_rate: Medium Slow
 hp: 100
 id: 21
 learnbase:
-  move1: Pound
-  move2: null
-  move3: null
-  move4: null
+- Pound
+- null
+- null
+- null
 natdex: 151
 pkmn: Mew
 special: 100
 speed: 100
 tmhm_bits: !!binary |
   /////////w==
-type1: Psychic
-type2: Psychic
+type1: psychic
+type2: psychic

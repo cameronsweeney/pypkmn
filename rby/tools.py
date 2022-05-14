@@ -1,5 +1,5 @@
 ## rby/tools.py
-
+import yaml
 from . import pokedex, index
 
 offsets = {
@@ -78,13 +78,32 @@ def parse_pkmn_bytes(bytes):
         'growth_rate': index.growth_rates[bytes[0x13]],
         'tmhm_bits': bytes[0x14:0x1B],
 
-        'learnbase': {
-            'move1': index.moves[bytes[15]],
-            'move2': index.moves[bytes[16]],
-            'move3': index.moves[bytes[17]],
-            'move4': index.moves[bytes[18]]
-        }
+        'learnbase': [
+            index.moves[bytes[15]],
+            index.moves[bytes[16]],
+            index.moves[bytes[17]],
+            index.moves[bytes[18]]
+        ]
     }
+
+def get_learnbases_only(pkmn_as_yaml):
+    # this function accepts a list of YAML objects created by parse_pkmn_bytes above
+    # and returns a list of YAML objects of moves found in each Pokémon's 'learnbase' key
+    basemove_list = []
+    for current_pkmn in pkmn_as_yaml:
+        current_obj = yaml.safe_load(current_pkmn)
+        current_learnbase = current_obj['learnbase']
+        for move in current_learnbase:
+            if not move:
+                continue
+            else:
+                new_move = {
+                    'pkmn': current_obj['pkmn'],
+                    'move': move,
+                    'level': 0
+                }
+                basemove_list.append(yaml.safe_dump(new_move))
+    return basemove_list
 
 def parse_evolution_learnset(pkmn, bytes):
     evolutions = []
@@ -157,3 +176,12 @@ def resolve_offset(bank, pointer_as_2_bytes):
 ## source for understanding GB/C pointers: https://hax.iimarckus.org/topic/1627/
 ## a pointer between 0x4000 and 0x7FFF inclusive points to the ROM's current bank (length 0x4000)
 ## pointers in [0x0000, 0x3FFF], [0x8000, 0xBFFF], etc. have own meanings for ROM/RAM banks
+
+def bcd_decode(bytes):
+    # input is the raw bytes from the ROM representing a binary-coded decimal number
+    # output is a Python integer of the encoded value
+    result = 0
+    for byte in bytes:
+        result *= 100
+        result += 10*(byte // 16) + byte % 16
+    return result

@@ -561,23 +561,23 @@ items = {
 }
 
 types = {
-    0x00: 'Normal',
-    0x01: 'Fighting',
-    0x02: 'Flying',
-    0x03: 'Poison',
-    0x04: 'Ground',
-    0x05: 'Rock',
+    0x00: 'normal',
+    0x01: 'fighting',
+    0x02: 'flying',
+    0x03: 'poison',
+    0x04: 'ground',
+    0x05: 'rock',
 #   0x06: 'Bird',
-    0x07: 'Bug',
-    0x08: 'Ghost',
+    0x07: 'bug',
+    0x08: 'ghost',
 #   0x09-0x13: 'blank',
-    0x14: 'Fire',
-    0x15: 'Water',
-    0x16: 'Grass',
-    0x17: 'Electric',
-    0x18: 'Psychic',
-    0x19: 'Ice',
-    0x1A: 'Dragon'
+    0x14: 'fire',
+    0x15: 'water',
+    0x16: 'grass',
+    0x17: 'electric',
+    0x18: 'psychic',
+    0x19: 'ice',
+    0x1A: 'dragon'
 }
 
 growth_rates = {

@@ -775,8 +775,7 @@ natdex = [
     'Sandygast',
     'Palossand',
     'Pyukumuku',
-    'Type Null', # officially 'Type: Null', but the colon will fuck with YAML
-                 # gotta remember to fix this later when I get to Gen VII lmao
+    '"Type: Null"',
     'Silvally',
     'Minior',
     'Komala',

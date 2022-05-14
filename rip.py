@@ -2,6 +2,8 @@
 
 import yaml
 import re
+import sys
+import os
 
 import rby.tools, rby.meta, rby.index
 
@@ -68,8 +70,40 @@ def rip_move_data(romdump, version):
         list_of_move_dicts.append(rby.tools.parse_move_bytes(move_name, raw_bytes))
     return list_of_move_dicts
 
+def rip_item_data(romdump, version):
+    list_of_item_dicts = []
+    for current_item_index in rby.index.items.keys():
+        item_name = rby.index.items[current_item_index]
+        if current_item_index > 0x53: # is a TM or HM
+            if current_item_index < 0xC9: # is an HM
+                item_price = 0
+            else: # is a TM
+                table_offset = rby.meta.offsets['tm_prices'][version]
+                tm_number = current_item_index - 0xC8
+                price_offset = table_offset + ((tm_number-1) // 2) # tm_number+1 so that (TM02-1)//2 = 0
+                price_byte = romdump[price_offset]
+                # 2 TM prices stored per byte
+                if (tm_number % 2): # odd TM#, need high nybble
+                    price_byte >>= 4
+                else: # even need low nybble
+                    price_byte %= 16
+                item_price = price_byte * 1000
+        else: # is not a TM/HM
+            table_offset = rby.meta.offsets['items'][version]
+            price_offset = table_offset + 3*(current_item_index-1)
+            raw_bytes = romdump[price_offset:price_offset+3]
+            item_price = rby.tools.bcd_decode(raw_bytes)
+        item_dict = {
+            'name': item_name,
+            'id': current_item_index,
+            'price': item_price,
+        }
+        list_of_item_dicts.append(item_dict)
+    return list_of_item_dicts
+
+
 def main(filepath, version, data_flags):
-    print(f"Running pypkmn/rip.py on {filepath}, which points to a Pokémon {version.title()} ROM.")
+    print(f"Running pypkmn/rip.py on {filepath}, which points to a Pokémon {version.title()} ROM...")
     
     print("Reading ROM contents...")
     romdump = []
@@ -77,17 +111,17 @@ def main(filepath, version, data_flags):
         romdump = rom.read()
 
     if data_flags['pkmn']:
-        print(f"Ripping Pokémon species headers to rby/{version}/species.yaml...")
+        print(f"Ripping Pokémon species headers to rby/{version}/pkmn.yaml...")
         species_dicts = rip_pkmn_species_data(romdump, version)
-        with open(f'rby/{version}/species.yaml', 'w') as out_file:
+        with open(f'rby/{version}/pkmn.yaml', 'w') as out_file:
             out_file.write(yaml.dump_all(species_dicts))
 
     if data_flags['evolutions']:
         print(f"Ripping evolution and learnset data to rby/{version}/evolutions.yaml and rby/{version}/learnsets.yaml...")
         (evolution_dicts, learnset_dicts) = rip_evolutions_learnsets(romdump, version)
-        with open(f'rby/{version}/out_evolutions.yaml', 'w') as out_file:
+        with open(f'rby/{version}/evolutions.yaml', 'w') as out_file:
             out_file.write(yaml.dump_all(evolution_dicts))
-        with open(f'rby/{version}/out_learnsets.yaml', 'w') as out_file:
+        with open(f'rby/{version}/learnsets.yaml', 'w') as out_file:
             out_file.write(yaml.dump_all(learnset_dicts))
 
     if data_flags['moves']:
@@ -95,6 +129,12 @@ def main(filepath, version, data_flags):
         move_dicts = rip_move_data(romdump, version)
         with open(f'rby/{version}/moves.yaml', 'w') as out_file:
             out_file.write(yaml.dump_all(move_dicts))
+
+    if data_flags['items']:
+        print(f"Ripping item price data to rby/{version}/items.yaml...")
+        item_dicts = rip_item_data(romdump, version)
+        with open(f'rby/{version}/items.yaml', 'w') as out_file:
+            out_file.write(yaml.dump_all(item_dicts))
 
 errors = {
     'noargs': 
@@ -106,9 +146,10 @@ errors = {
     (case-insensitive, leading hyphens allowed, e.g. -r, --red)
     & where [DATA_TO_RIP] is one or more of the following data structures:
         -p, --pkmn, --species             Pokémon species data
-        -e, --evo, --evolution            Evolutions
-        -l, --learnset, --level-up        Level-up moves
+        -e, --evo, --evolution,
+        -l, --learns, --learnset          Evolutions & Learnsets
         -m, --move, --moves               Move data
+        -i, --item, --items               Item data
     (case-insensitive, leading hyphens optional but encouraged for the cool factor)
     """,
     
@@ -133,23 +174,18 @@ errors = {
     >>> python rip.py FILEPATH.gb VERSION [DATA_TO_RIP]
     where [DATA_TO_RIP] is one or more of the following data structures:
         -p, --pkmn, --species             Pokémon species data
-        -e, --evo, --evolution            Evolutions & learnsets
+        -e, --evo, --evolution,
+        -l, --learns, --learnset          Evolutions & Learnsets
         -m, --move, --moves               Move data
+        -i, --item, --items               Item data
     (case-insensitive, leading hyphens optional but encouraged for the cool factor)
     """
 }
 
-data_flags = {
-    'pkmn': False,
-    'evolutions': False,
-    'moves': False
-}
+
 
 
 if __name__ == '__main__':
-    import sys
-    import os
-
     # catch any IndexErrors if 2 command line arguments aren't provided
     try: 
         filepath = sys.argv[1]
@@ -165,28 +201,14 @@ if __name__ == '__main__':
         print(errors['version'])
         sys.exit()
 
-    # validate filepath & conditionally read in rom contents (16MB)
+    # validate filepath
     if not os.path.exists(filepath):
         print(errors['file'])
         sys.exit()
 
-    no_match = True
-    for maybe_a_flag in data_to_rip:
-        if re.match(r'^\-*p(kmn)?', maybe_a_flag, flags=re.IGNORECASE):
-            data_flags['pkmn'] = True
-            no_match = False
-        elif re.match(r'^\-*species', maybe_a_flag, flags=re.IGNORECASE):
-            data_flags['pkmn'] = True
-            no_match = False
-
-        if re.match(r'^\-*e(vo(lutions?)?)?', maybe_a_flag, flags=re.IGNORECASE):
-            data_flags['evolutions'] = True
-            no_match = False
-        if re.match(r'^\-*m(oves?)?', maybe_a_flag, flags=re.IGNORECASE):
-            data_flags['moves'] = True
-            no_match = False
-
-    if no_match:
+    # parse other arguments for data structure flags
+    data_flags = rby.meta.read_data_flags(data_to_rip)
+    if not data_flags:
         print(errors['data_flags'])
         sys.exit()
 
