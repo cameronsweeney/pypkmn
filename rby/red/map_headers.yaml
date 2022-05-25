@@ -1,0 +1,3810 @@
+0:
+  binary: 00090AFD42884F5B4E0C0C9241EBC60A0A230009C8206D50ABC70A0A0000F9C6C342
+  connections:
+    north:
+      connection_size: 10
+      connection_width: 10
+      index: 32
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: ABC7
+      pointer_to_map_start: 6D50
+      pointer_to_window: F9C6
+    south:
+      connection_size: 10
+      connection_width: 10
+      index: 12
+      offset_x: 35
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: '9241'
+      pointer_to_window: 09C8
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xC342'
+  map_objects: 99011
+  map_objects_hex: '0x182C3'
+  name: Pallet Town
+  offset: '0x182A1'
+  pointer_to_map_bytes: '0x182FD'
+  pointer_to_map_scripts_bytes: '0x18E5B'
+  pointer_to_text_scripts_bytes: '0x18F88'
+  tileset_index: 0
+  width_in_blocks: 10
+1:
+  binary: 001214EC43E450F14F0E0DC841F0C60A0A47F629C90CFC4012C90A0A00F6F9C6214E409EC70914F82716C78443
+  connections:
+    north:
+      connection_size: 9
+      connection_width: 20
+      index: 33
+      offset_x: 248
+      offset_y: 39
+      pointer_to_connection_start: 9EC7
+      pointer_to_map_start: 4E40
+      pointer_to_window: 16C7
+    south:
+      connection_size: 10
+      connection_width: 10
+      index: 12
+      offset_x: 0
+      offset_y: 246
+      pointer_to_connection_start: 12C9
+      pointer_to_map_start: FC40
+      pointer_to_window: F9C6
+    west:
+      connection_size: 10
+      connection_width: 10
+      index: 13
+      offset_x: 71
+      offset_y: 246
+      pointer_to_connection_start: F0C6
+      pointer_to_map_start: C841
+      pointer_to_window: 29C9
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x8443'
+  map_objects: 99204
+  map_objects_hex: '0x18384'
+  name: Viridian City
+  offset: '0x18357'
+  pointer_to_map_bytes: '0x183EC'
+  pointer_to_map_scripts_bytes: '0x18FF1'
+  pointer_to_text_scripts_bytes: '0x190E4'
+  tileset_index: 0
+  width_in_blocks: 20
+2:
+  binary: 001214E6458B533752050D7E4012C90A0A00F6F9C60E5542B5C70923F80012C77745
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 13
+      offset_x: 0
+      offset_y: 246
+      pointer_to_connection_start: 12C9
+      pointer_to_map_start: 7E40
+      pointer_to_window: F9C6
+    south:
+      connection_size: 9
+      connection_width: 35
+      index: 14
+      offset_x: 248
+      offset_y: 0
+      pointer_to_connection_start: B5C7
+      pointer_to_map_start: '5542'
+      pointer_to_window: 12C7
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x7745'
+  map_objects: 99703
+  map_objects_hex: '0x18577'
+  name: Pewter City
+  offset: '0x18554'
+  pointer_to_map_bytes: '0x185E6'
+  pointer_to_map_scripts_bytes: '0x19237'
+  pointer_to_text_scripts_bytes: '0x1938B'
+  tileset_index: 0
+  width_in_blocks: 20
+3:
+  binary: 00121430482D5680540F237D47F0C60A0A23F609C810D24512C90A0A00F6F9C60F16449EC7092DF85948C714FE46B5C7091EF8000DC78647
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 35
+      offset_x: 35
+      offset_y: 246
+      pointer_to_connection_start: F0C6
+      pointer_to_map_start: 7D47
+      pointer_to_window: 09C8
+    north:
+      connection_size: 9
+      connection_width: 30
+      index: 20
+      offset_x: 248
+      offset_y: 0
+      pointer_to_connection_start: B5C7
+      pointer_to_map_start: FE46
+      pointer_to_window: 0DC7
+    south:
+      connection_size: 9
+      connection_width: 45
+      index: 15
+      offset_x: 248
+      offset_y: 89
+      pointer_to_connection_start: 9EC7
+      pointer_to_map_start: '1644'
+      pointer_to_window: 48C7
+    west:
+      connection_size: 10
+      connection_width: 10
+      index: 16
+      offset_x: 0
+      offset_y: 246
+      pointer_to_connection_start: 12C9
+      pointer_to_map_start: D245
+      pointer_to_window: F9C6
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x8647'
+  map_objects: 100230
+  map_objects_hex: '0x18786'
+  name: Cerulean City
+  offset: '0x1874E'
+  pointer_to_map_bytes: '0x18830'
+  pointer_to_map_scripts_bytes: '0x19480'
+  pointer_to_text_scripts_bytes: '0x1962D'
+  tileset_index: 0
+  width_in_blocks: 20
+4:
+  binary: 00090A85400E410B410E15A044EBC60A0A470029C9171047ABC70A0A0000F9C613E14118C7091E003B2AC72D40
+  connections:
+    north:
+      connection_size: 9
+      connection_width: 30
+      index: 19
+      offset_x: 0
+      offset_y: 59
+      pointer_to_connection_start: 18C7
+      pointer_to_map_start: E141
+      pointer_to_window: 2AC7
+    south:
+      connection_size: 10
+      connection_width: 10
+      index: 23
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: ABC7
+      pointer_to_map_start: '1047'
+      pointer_to_window: F9C6
+    west:
+      connection_size: 10
+      connection_width: 10
+      index: 21
+      offset_x: 71
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: A044
+      pointer_to_window: 29C9
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x2D40'
+  map_objects: 278573
+  map_objects_hex: '0x4402D'
+  name: Lavender Town
+  offset: '0x44000'
+  pointer_to_map_bytes: '0x44085'
+  pointer_to_map_scripts_bytes: '0x4410B'
+  pointer_to_text_scripts_bytes: '0x4410E'
+  tileset_index: 0
+  width_in_blocks: 10
+5:
+  binary: 0012143F4A6F58A15709110F41F0C60A0A23F609C8165F45B5C7091EF8000DC7BA49
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 17
+      offset_x: 35
+      offset_y: 246
+      pointer_to_connection_start: F0C6
+      pointer_to_map_start: 0F41
+      pointer_to_window: 09C8
+    north:
+      connection_size: 9
+      connection_width: 30
+      index: 22
+      offset_x: 248
+      offset_y: 0
+      pointer_to_connection_start: B5C7
+      pointer_to_map_start: 5F45
+      pointer_to_window: 0DC7
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xBA49'
+  map_objects: 100794
+  map_objects_hex: '0x189BA'
+  name: Vermilion City
+  offset: '0x18998'
+  pointer_to_map_bytes: '0x18A3F'
+  pointer_to_map_scripts_bytes: '0x197A1'
+  pointer_to_text_scripts_bytes: '0x1986F'
+  tileset_index: 0
+  width_in_blocks: 20
+6:
+  binary: 001219DF4066595659031B954BC1C70914F82716C7125140DDC7090AF800F9C62240
+  connections:
+    east:
+      connection_size: 9
+      connection_width: 20
+      index: 27
+      offset_x: 248
+      offset_y: 39
+      pointer_to_connection_start: C1C7
+      pointer_to_map_start: 954B
+      pointer_to_window: 16C7
+    west:
+      connection_size: 9
+      connection_width: 10
+      index: 18
+      offset_x: 248
+      offset_y: 0
+      pointer_to_connection_start: DDC7
+      pointer_to_map_start: '5140'
+      pointer_to_window: F9C6
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x2240'
+  map_objects: 98338
+  map_objects_hex: '0x18022'
+  name: Celadon City
+  offset: '0x18000'
+  pointer_to_map_bytes: '0x180DF'
+  pointer_to_map_scripts_bytes: '0x19956'
+  pointer_to_text_scripts_bytes: '0x19966'
+  tileset_index: 0
+  width_in_blocks: 25
+7:
+  binary: 001214864C2E5A2B5A071EF14E12C90A0A00F6F9C61DB24C9EC70919F83120C71ACC49B5C7091EF8000DC7D44B
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 30
+      offset_x: 0
+      offset_y: 246
+      pointer_to_connection_start: 12C9
+      pointer_to_map_start: F14E
+      pointer_to_window: F9C6
+    south:
+      connection_size: 9
+      connection_width: 30
+      index: 26
+      offset_x: 248
+      offset_y: 0
+      pointer_to_connection_start: B5C7
+      pointer_to_map_start: CC49
+      pointer_to_window: 0DC7
+    west:
+      connection_size: 9
+      connection_width: 25
+      index: 29
+      offset_x: 248
+      offset_y: 49
+      pointer_to_connection_start: 9EC7
+      pointer_to_map_start: B24C
+      pointer_to_window: 20C7
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xD44B'
+  map_objects: 101332
+  map_objects_hex: '0x18BD4'
+  name: Fuchsia City
+  offset: '0x18BA7'
+  pointer_to_map_bytes: '0x18C86'
+  pointer_to_map_scripts_bytes: '0x19A2B'
+  pointer_to_text_scripts_bytes: '0x19A2E'
+  tileset_index: 0
+  width_in_blocks: 20
+8:
+  binary: 00090A6940814A194A09201152EBC60A0A5900B9C91F7D4125C70932000021C72240
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 32
+      offset_x: 89
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: '1152'
+      pointer_to_window: B9C9
+    north:
+      connection_size: 9
+      connection_width: 50
+      index: 31
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 25C7
+      pointer_to_map_start: 7D41
+      pointer_to_window: 21C7
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x2240'
+  map_objects: 114722
+  map_objects_hex: '0x1C022'
+  name: Cinnabar Island
+  offset: '0x1C000'
+  pointer_to_map_bytes: '0x1C069'
+  pointer_to_map_scripts_bytes: '0x1CA19'
+  pointer_to_text_scripts_bytes: '0x1CA81'
+  tileset_index: 0
+  width_in_blocks: 10
+9:
+  binary: 17090A4A49364935490422B243ABC70A0A0000F9C63649
+  connections:
+    south:
+      connection_size: 10
+      connection_width: 10
+      index: 34
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: ABC7
+      pointer_to_map_start: B243
+      pointer_to_window: F9C6
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x3649'
+  map_objects: 330038
+  map_objects_hex: '0x50936'
+  name: Indigo Plateau
+  offset: '0x5091E'
+  pointer_to_map_bytes: '0x5094A'
+  pointer_to_map_scripts_bytes: '0x50935'
+  pointer_to_text_scripts_bytes: '0x50936'
+  tileset_index: 23
+  width_in_blocks: 10
+10:
+  binary: 001214984A034C004C0F106846F0C60A0A23F609C811794012C90A0A00F6F9C61258409EC7090AF81302C713C641B5C7091EF8000DC7DC49
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 16
+      offset_x: 35
+      offset_y: 246
+      pointer_to_connection_start: F0C6
+      pointer_to_map_start: '6846'
+      pointer_to_window: 09C8
+    north:
+      connection_size: 9
+      connection_width: 30
+      index: 19
+      offset_x: 248
+      offset_y: 0
+      pointer_to_connection_start: B5C7
+      pointer_to_map_start: C641
+      pointer_to_window: 0DC7
+    south:
+      connection_size: 9
+      connection_width: 10
+      index: 18
+      offset_x: 248
+      offset_y: 19
+      pointer_to_connection_start: 9EC7
+      pointer_to_map_start: '5840'
+      pointer_to_window: 02C7
+    west:
+      connection_size: 10
+      connection_width: 10
+      index: 17
+      offset_x: 0
+      offset_y: 246
+      pointer_to_connection_start: 12C9
+      pointer_to_map_start: '7940'
+      pointer_to_window: F9C6
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xDC49'
+  map_objects: 330204
+  map_objects_hex: '0x509DC'
+  name: Saffron City
+  offset: '0x509A4'
+  pointer_to_map_bytes: '0x50A98'
+  pointer_to_map_scripts_bytes: '0x50C00'
+  pointer_to_text_scripts_bytes: '0x50C03'
+  tileset_index: 0
+  width_in_blocks: 20
+12:
+  binary: 00120AFC40B24AAF4A0C011A45E8C61014230ABDC800FD423BC80A0A0000F9C6E540
+  connections:
+    north:
+      connection_size: 10
+      connection_width: 10
+      index: 0
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 3BC8
+      pointer_to_map_start: FD42
+      pointer_to_window: F9C6
+    south:
+      connection_size: 16
+      connection_width: 20
+      index: 1
+      offset_x: 35
+      offset_y: 10
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: 1A45
+      pointer_to_window: BDC8
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xE540'
+  map_objects: 114917
+  map_objects_hex: '0x1C0E5'
+  name: Route 1
+  offset: '0x1C0C3'
+  pointer_to_map_bytes: '0x1C0FC'
+  pointer_to_map_scripts_bytes: '0x1CAAF'
+  pointer_to_text_scripts_bytes: '0x1CAB2'
+  tileset_index: 0
+  width_in_blocks: 10
+13:
+  binary: 00240A7E40E654E3540C021447E8C61014230ABDC801EE4358C91014000A03C72240
+  connections:
+    north:
+      connection_size: 16
+      connection_width: 20
+      index: 1
+      offset_x: 0
+      offset_y: 10
+      pointer_to_connection_start: 58C9
+      pointer_to_map_start: EE43
+      pointer_to_window: 03C7
+    south:
+      connection_size: 16
+      connection_width: 20
+      index: 2
+      offset_x: 35
+      offset_y: 10
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: '1447'
+      pointer_to_window: BDC8
+  height_in_blocks: 36
+  map_object_pointer_bytes: '0x2240'
+  map_objects: 344098
+  map_objects_hex: '0x54022'
+  name: Route 2
+  offset: '0x54000'
+  pointer_to_map_bytes: '0x5407E'
+  pointer_to_map_scripts_bytes: '0x554E3'
+  pointer_to_text_scripts_bytes: '0x554E6'
+  tileset_index: 0
+  width_in_blocks: 10
+14:
+  binary: 00092355421155F8540A0FFA4404C70D2D11CEB4C8020B46E8C60F14082716C70842
+  connections:
+    north:
+      connection_size: 15
+      connection_width: 20
+      index: 2
+      offset_x: 8
+      offset_y: 39
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: 0B46
+      pointer_to_window: 16C7
+    west:
+      connection_size: 13
+      connection_width: 45
+      index: 15
+      offset_x: 17
+      offset_y: 206
+      pointer_to_connection_start: 04C7
+      pointer_to_map_start: FA44
+      pointer_to_window: B4C8
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x0842'
+  map_objects: 344584
+  map_objects_hex: '0x54208'
+  name: Route 3
+  offset: '0x541E6'
+  pointer_to_map_bytes: '0x54255'
+  pointer_to_map_scripts_bytes: '0x554F8'
+  pointer_to_text_scripts_bytes: '0x55511'
+  tileset_index: 0
+  width_in_blocks: 35
+15:
+  binary: 00092DEC4371565856050E6B424CC90D23003212C703444818C70F14080003C7B243
+  connections:
+    east:
+      connection_size: 13
+      connection_width: 35
+      index: 14
+      offset_x: 0
+      offset_y: 50
+      pointer_to_connection_start: 4CC9
+      pointer_to_map_start: 6B42
+      pointer_to_window: 12C7
+    south:
+      connection_size: 15
+      connection_width: 20
+      index: 3
+      offset_x: 8
+      offset_y: 0
+      pointer_to_connection_start: 18C7
+      pointer_to_map_start: '4448'
+      pointer_to_window: 03C7
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xB243'
+  map_objects: 345010
+  map_objects_hex: '0x543B2'
+  name: Route 4
+  offset: '0x54390'
+  pointer_to_map_bytes: '0x543EC'
+  pointer_to_map_scripts_bytes: '0x55658'
+  pointer_to_text_scripts_bytes: '0x55671'
+  tileset_index: 0
+  width_in_blocks: 45
+16:
+  binary: 00120AD245B556B2560C035E49E8C61014230ABDC80A9A4A38C81014000A03C7A345
+  connections:
+    north:
+      connection_size: 16
+      connection_width: 20
+      index: 10
+      offset_x: 0
+      offset_y: 10
+      pointer_to_connection_start: 38C8
+      pointer_to_map_start: 9A4A
+      pointer_to_window: 03C7
+    south:
+      connection_size: 16
+      connection_width: 20
+      index: 3
+      offset_x: 35
+      offset_y: 10
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: 5E49
+      pointer_to_window: BDC8
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xA345'
+  map_objects: 345507
+  map_objects_hex: '0x545A3'
+  name: Route 5
+  offset: '0x54581'
+  pointer_to_map_bytes: '0x545D2'
+  pointer_to_map_scripts_bytes: '0x556B2'
+  pointer_to_text_scripts_bytes: '0x556B5'
+  tileset_index: 0
+  width_in_blocks: 10
+17:
+  binary: 00120A7940C950B0500C0AC64BE8C61014230ABDC805414A38C81014000A03C72240
+  connections:
+    north:
+      connection_size: 16
+      connection_width: 20
+      index: 5
+      offset_x: 0
+      offset_y: 10
+      pointer_to_connection_start: 38C8
+      pointer_to_map_start: 414A
+      pointer_to_window: 03C7
+    south:
+      connection_size: 16
+      connection_width: 20
+      index: 10
+      offset_x: 35
+      offset_y: 10
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: C64B
+      pointer_to_window: BDC8
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x2240'
+  map_objects: 360482
+  map_objects_hex: '0x58022'
+  name: Route 6
+  offset: '0x58000'
+  pointer_to_map_bytes: '0x58079'
+  pointer_to_map_scripts_bytes: '0x590B0'
+  pointer_to_text_scripts_bytes: '0x590C9'
+  tileset_index: 0
+  width_in_blocks: 10
+18:
+  binary: 00090A51405541524103060E41E8C60F19083120C70AAC4AF5C60F14080003C72240
+  connections:
+    east:
+      connection_size: 15
+      connection_width: 25
+      index: 6
+      offset_x: 8
+      offset_y: 49
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: 0E41
+      pointer_to_window: 20C7
+    west:
+      connection_size: 15
+      connection_width: 20
+      index: 10
+      offset_x: 8
+      offset_y: 0
+      pointer_to_connection_start: F5C6
+      pointer_to_map_start: AC4A
+      pointer_to_window: 03C7
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x2240'
+  map_objects: 294946
+  map_objects_hex: '0x48022'
+  name: Route 7
+  offset: '0x48000'
+  pointer_to_map_bytes: '0x48051'
+  pointer_to_map_scripts_bytes: '0x48152'
+  pointer_to_text_scripts_bytes: '0x48155'
+  tileset_index: 0
+  width_in_blocks: 10
+19:
+  binary: 00091EC641CF51B651030ABD4AE8C60F14082716C704854075C7090A0000F9C64F41
+  connections:
+    east:
+      connection_size: 15
+      connection_width: 20
+      index: 10
+      offset_x: 8
+      offset_y: 39
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: BD4A
+      pointer_to_window: 16C7
+    west:
+      connection_size: 9
+      connection_width: 10
+      index: 4
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 75C7
+      pointer_to_map_start: '8540'
+      pointer_to_window: F9C6
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x4F41'
+  map_objects: 360783
+  map_objects_hex: '0x5814F'
+  name: Route 8
+  offset: '0x5812D'
+  pointer_to_map_bytes: '0x581C6'
+  pointer_to_map_scripts_bytes: '0x591B6'
+  pointer_to_text_scripts_bytes: '0x591CF'
+  tileset_index: 0
+  width_in_blocks: 30
+20:
+  binary: 00091EFE46D556BC5603035548E8C60F14082716C715564375C70C0A0000F9C6A846
+  connections:
+    east:
+      connection_size: 15
+      connection_width: 20
+      index: 3
+      offset_x: 8
+      offset_y: 39
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: '5548'
+      pointer_to_window: 16C7
+    west:
+      connection_size: 12
+      connection_width: 10
+      index: 21
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 75C7
+      pointer_to_map_start: '5643'
+      pointer_to_window: F9C6
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xA846'
+  map_objects: 345768
+  map_objects_hex: '0x546A8'
+  name: Route 9
+  offset: '0x54686'
+  pointer_to_map_bytes: '0x546FE'
+  pointer_to_map_scripts_bytes: '0x556BC'
+  pointer_to_text_scripts_bytes: '0x556D5'
+  tileset_index: 0
+  width_in_blocks: 30
+21:
+  binary: 00240A56434F533653060485405BC90A0A0000F9C614194718C7091E003B2AC7F642
+  connections:
+    south:
+      connection_size: 9
+      connection_width: 30
+      index: 20
+      offset_x: 0
+      offset_y: 59
+      pointer_to_connection_start: 18C7
+      pointer_to_map_start: '1947'
+      pointer_to_window: 2AC7
+    west:
+      connection_size: 10
+      connection_width: 10
+      index: 4
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 5BC9
+      pointer_to_map_start: '8540'
+      pointer_to_window: F9C6
+  height_in_blocks: 36
+  map_object_pointer_bytes: '0xF642'
+  map_objects: 361206
+  map_objects_hex: '0x582F6'
+  name: Route 10
+  offset: '0x582D4'
+  pointer_to_map_bytes: '0x58356'
+  pointer_to_map_scripts_bytes: '0x59336'
+  pointer_to_text_scripts_bytes: '0x5934F'
+  tileset_index: 0
+  width_in_blocks: 10
+22:
+  binary: 00091E5F4565544C540305644AE8C60F14082716C717004809C70F0A3600F9C6E044
+  connections:
+    east:
+      connection_size: 15
+      connection_width: 20
+      index: 5
+      offset_x: 8
+      offset_y: 39
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: 644A
+      pointer_to_window: 16C7
+    west:
+      connection_size: 15
+      connection_width: 10
+      index: 23
+      offset_x: 54
+      offset_y: 0
+      pointer_to_connection_start: 09C7
+      pointer_to_map_start: 0048
+      pointer_to_window: F9C6
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xE044'
+  map_objects: 361696
+  map_objects_hex: '0x584E0'
+  name: Route 11
+  offset: '0x584BE'
+  pointer_to_map_bytes: '0x5855F'
+  pointer_to_map_scripts_bytes: '0x5944C'
+  pointer_to_text_scripts_bytes: '0x59465'
+  tileset_index: 0
+  width_in_blocks: 30
+23:
+  binary: 00360A10477556F3550E04C140EBC60A0A110079C7189C4878CA0D1E00280DC7167A45C8C8091ECA3B2AC79A46
+  connections:
+    north:
+      connection_size: 9
+      connection_width: 30
+      index: 22
+      offset_x: 202
+      offset_y: 59
+      pointer_to_connection_start: C8C8
+      pointer_to_map_start: 7A45
+      pointer_to_window: 2AC7
+    south:
+      connection_size: 13
+      connection_width: 30
+      index: 24
+      offset_x: 0
+      offset_y: 40
+      pointer_to_connection_start: 78CA
+      pointer_to_map_start: 9C48
+      pointer_to_window: 0DC7
+    west:
+      connection_size: 10
+      connection_width: 10
+      index: 4
+      offset_x: 17
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: C140
+      pointer_to_window: 79C7
+  height_in_blocks: 54
+  map_object_pointer_bytes: '0x9A46'
+  map_objects: 362138
+  map_objects_hex: '0x5869A'
+  name: Route 12
+  offset: '0x5866D'
+  pointer_to_map_bytes: '0x58710'
+  pointer_to_map_scripts_bytes: '0x595F3'
+  pointer_to_text_scripts_bytes: '0x59675'
+  tileset_index: 0
+  width_in_blocks: 10
+24:
+  binary: 00091E8B4837581E580A170E49FFC60A0A6BD849CA19194A54C70C0A001302C72E48
+  connections:
+    north:
+      connection_size: 12
+      connection_width: 10
+      index: 25
+      offset_x: 0
+      offset_y: 19
+      pointer_to_connection_start: 54C7
+      pointer_to_map_start: 194A
+      pointer_to_window: 02C7
+    west:
+      connection_size: 10
+      connection_width: 10
+      index: 23
+      offset_x: 107
+      offset_y: 216
+      pointer_to_connection_start: FFC6
+      pointer_to_map_start: 0E49
+      pointer_to_window: 49CA
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x2E48'
+  map_objects: 346158
+  map_objects_hex: '0x5482E'
+  name: Route 13
+  offset: '0x5480C'
+  pointer_to_map_bytes: '0x5488B'
+  pointer_to_map_scripts_bytes: '0x5581E'
+  pointer_to_text_scripts_bytes: '0x55837'
+  tileset_index: 0
+  width_in_blocks: 30
+25:
+  binary: 001B0A124AEC59D359031AE74938C8091EDC3B2AC7188B4825C7091E00000DC7BB49
+  connections:
+    east:
+      connection_size: 9
+      connection_width: 30
+      index: 26
+      offset_x: 220
+      offset_y: 59
+      pointer_to_connection_start: 38C8
+      pointer_to_map_start: E749
+      pointer_to_window: 2AC7
+    west:
+      connection_size: 9
+      connection_width: 30
+      index: 24
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 25C7
+      pointer_to_map_start: 8B48
+      pointer_to_window: 0DC7
+  height_in_blocks: 27
+  map_object_pointer_bytes: '0xBB49'
+  map_objects: 346555
+  map_objects_hex: '0x549BB'
+  name: Route 14
+  offset: '0x54999'
+  pointer_to_map_bytes: '0x54A12'
+  pointer_to_map_scripts_bytes: '0x559D3'
+  pointer_to_text_scripts_bytes: '0x559EC'
+  tileset_index: 0
+  width_in_blocks: 10
+26:
+  binary: 00091ECC49C757AE570307AB4CE8C60F14082716C719A84A09C70C0A2400F9C64E49
+  connections:
+    east:
+      connection_size: 15
+      connection_width: 20
+      index: 7
+      offset_x: 8
+      offset_y: 39
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: AB4C
+      pointer_to_window: 16C7
+    west:
+      connection_size: 12
+      connection_width: 10
+      index: 25
+      offset_x: 36
+      offset_y: 0
+      pointer_to_connection_start: 09C7
+      pointer_to_map_start: A84A
+      pointer_to_window: F9C6
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x4E49'
+  map_objects: 362830
+  map_objects_hex: '0x5894E'
+  name: Route 15
+  offset: '0x5892C'
+  pointer_to_map_bytes: '0x589CC'
+  pointer_to_map_scripts_bytes: '0x597AE'
+  pointer_to_text_scripts_bytes: '0x597C7'
+  tileset_index: 0
+  width_in_blocks: 30
+27:
+  binary: 000914844BB9593359051CA84B23C80A0A0000F9C606F840FFC60F19080008C7FC4A
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 28
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 23C8
+      pointer_to_map_start: A84B
+      pointer_to_window: F9C6
+    south:
+      connection_size: 15
+      connection_width: 25
+      index: 6
+      offset_x: 8
+      offset_y: 0
+      pointer_to_connection_start: FFC6
+      pointer_to_map_start: F840
+      pointer_to_window: 08C7
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xFC4A'
+  map_objects: 363260
+  map_objects_hex: '0x58AFC'
+  name: Route 16
+  offset: '0x58ADA'
+  pointer_to_map_bytes: '0x58B84'
+  pointer_to_map_scripts_bytes: '0x59933'
+  pointer_to_text_scripts_bytes: '0x599B9'
+  tileset_index: 0
+  width_in_blocks: 20
+28:
+  binary: 00480AA84B935B7A5B0C1BFC4BEBC60D141100D3C71D9C4C9BCB0D19000008C7424B
+  connections:
+    north:
+      connection_size: 13
+      connection_width: 25
+      index: 29
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 9BCB
+      pointer_to_map_start: 9C4C
+      pointer_to_window: 08C7
+    south:
+      connection_size: 13
+      connection_width: 20
+      index: 27
+      offset_x: 17
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: FC4B
+      pointer_to_window: D3C7
+  height_in_blocks: 72
+  map_object_pointer_bytes: '0x424B'
+  map_objects: 346946
+  map_objects_hex: '0x54B42'
+  name: Route 17
+  offset: '0x54B20'
+  pointer_to_map_bytes: '0x54BA8'
+  pointer_to_map_scripts_bytes: '0x55B7A'
+  pointer_to_text_scripts_bytes: '0x55B93'
+  tileset_index: 0
+  width_in_blocks: 10
+29:
+  binary: 0009199C4CE05AC75A091C5A4EEBC60A0A8F0069CB079A4C04C70F14080003C75A4C
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 28
+      offset_x: 143
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: 5A4E
+      pointer_to_window: 69CB
+    north:
+      connection_size: 15
+      connection_width: 20
+      index: 7
+      offset_x: 8
+      offset_y: 0
+      pointer_to_connection_start: 04C7
+      pointer_to_map_start: 9A4C
+      pointer_to_window: 03C7
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x5A4C'
+  map_objects: 363610
+  map_objects_hex: '0x58C5A'
+  name: Route 18
+  offset: '0x58C38'
+  pointer_to_map_bytes: '0x58C9C'
+  pointer_to_map_scripts_bytes: '0x59AC7'
+  pointer_to_text_scripts_bytes: '0x59AE0'
+  tileset_index: 0
+  width_in_blocks: 25
+30:
+  binary: 001B0AF14E5D5D445D0A07B44DE8C61014230ABDC81FAC4138C80932DC6352C79A4E
+  connections:
+    north:
+      connection_size: 9
+      connection_width: 50
+      index: 31
+      offset_x: 220
+      offset_y: 99
+      pointer_to_connection_start: 38C8
+      pointer_to_map_start: AC41
+      pointer_to_window: 52C7
+    west:
+      connection_size: 16
+      connection_width: 20
+      index: 7
+      offset_x: 35
+      offset_y: 10
+      pointer_to_connection_start: E8C6
+      pointer_to_map_start: B44D
+      pointer_to_window: BDC8
+  height_in_blocks: 27
+  map_object_pointer_bytes: '0x9A4E'
+  map_objects: 347802
+  map_objects_hex: '0x54E9A'
+  name: Route 19
+  offset: '0x54E78'
+  pointer_to_map_bytes: '0x54EF1'
+  pointer_to_map_scripts_bytes: '0x55D44'
+  pointer_to_text_scripts_bytes: '0x55D5D'
+  tileset_index: 0
+  width_in_blocks: 10
+31:
+  binary: 0009327D41224DA94C0308704090C7090A001302C71E874F1DC70C0A2400F9C61341
+  connections:
+    east:
+      connection_size: 9
+      connection_width: 10
+      index: 8
+      offset_x: 0
+      offset_y: 19
+      pointer_to_connection_start: 90C7
+      pointer_to_map_start: '7040'
+      pointer_to_window: 02C7
+    west:
+      connection_size: 12
+      connection_width: 10
+      index: 30
+      offset_x: 36
+      offset_y: 0
+      pointer_to_connection_start: 1DC7
+      pointer_to_map_start: 874F
+      pointer_to_window: F9C6
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x1341'
+  map_objects: 327955
+  map_objects_hex: '0x50113'
+  name: Route 20
+  offset: '0x500F1'
+  pointer_to_map_bytes: '0x5017D'
+  pointer_to_map_scripts_bytes: '0x50CA9'
+  pointer_to_text_scripts_bytes: '0x50D22'
+  tileset_index: 0
+  width_in_blocks: 50
+32:
+  binary: 002D0A6D50045FEB5E0C003943EBC60A0A110079C7086940EBC90A0A0000F9C62150
+  connections:
+    north:
+      connection_size: 10
+      connection_width: 10
+      index: 8
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: EBC9
+      pointer_to_map_start: '6940'
+      pointer_to_window: F9C6
+    south:
+      connection_size: 10
+      connection_width: 10
+      index: 0
+      offset_x: 17
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: '3943'
+      pointer_to_window: 79C7
+  height_in_blocks: 45
+  map_object_pointer_bytes: '0x2150'
+  map_objects: 348193
+  map_objects_hex: '0x55021'
+  name: Route 21
+  offset: '0x54FFF'
+  pointer_to_map_bytes: '0x5506D'
+  pointer_to_map_scripts_bytes: '0x55EEB'
+  pointer_to_text_scripts_bytes: '0x55F04'
+  tileset_index: 0
+  width_in_blocks: 10
+33:
+  binary: 0009143D407551B24E09226446EBC60A0A8F0069CB010044FFC60F14080003C72240
+  connections:
+    east:
+      connection_size: 10
+      connection_width: 10
+      index: 34
+      offset_x: 143
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: '6446'
+      pointer_to_window: 69CB
+    north:
+      connection_size: 15
+      connection_width: 20
+      index: 1
+      offset_x: 8
+      offset_y: 0
+      pointer_to_connection_start: FFC6
+      pointer_to_map_start: '0044'
+      pointer_to_window: 03C7
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x2240'
+  map_objects: 327714
+  map_objects_hex: '0x50022'
+  name: Route 22
+  offset: '0x50000'
+  pointer_to_map_bytes: '0x5003D'
+  pointer_to_map_scripts_bytes: '0x50EB2'
+  pointer_to_text_scripts_bytes: '0x51175'
+  tileset_index: 0
+  width_in_blocks: 20
+34:
+  binary: 17480AB243F752DA510C098649EBC60A0A110079C7213D409BCB0D14000003C76143
+  connections:
+    north:
+      connection_size: 13
+      connection_width: 20
+      index: 33
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 9BCB
+      pointer_to_map_start: 3D40
+      pointer_to_window: 03C7
+    south:
+      connection_size: 10
+      connection_width: 10
+      index: 9
+      offset_x: 17
+      offset_y: 0
+      pointer_to_connection_start: EBC6
+      pointer_to_map_start: '8649'
+      pointer_to_window: 79C7
+  height_in_blocks: 72
+  map_object_pointer_bytes: '0x6143'
+  map_objects: 328545
+  map_objects_hex: '0x50361'
+  name: Route 23
+  offset: '0x5033F'
+  pointer_to_map_bytes: '0x503B2'
+  pointer_to_map_scripts_bytes: '0x511DA'
+  pointer_to_text_scripts_bytes: '0x512F7'
+  tileset_index: 23
+  width_in_blocks: 10
+35:
+  binary: 00120AE7464B54AD530503324838C81014000A03C724104825C7091E00000DC7A446
+  connections:
+    east:
+      connection_size: 16
+      connection_width: 20
+      index: 3
+      offset_x: 0
+      offset_y: 10
+      pointer_to_connection_start: 38C8
+      pointer_to_map_start: '3248'
+      pointer_to_window: 03C7
+    south:
+      connection_size: 9
+      connection_width: 30
+      index: 36
+      offset_x: 0
+      offset_y: 0
+      pointer_to_connection_start: 25C7
+      pointer_to_map_start: '1048'
+      pointer_to_window: 0DC7
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xA446'
+  map_objects: 329380
+  map_objects_hex: '0x506A4'
+  name: Route 24
+  offset: '0x50682'
+  pointer_to_map_bytes: '0x506E7'
+  pointer_to_map_scripts_bytes: '0x513AD'
+  pointer_to_text_scripts_bytes: '0x5144B'
+  tileset_index: 0
+  width_in_blocks: 10
+36:
+  binary: 00091E10482856CB550223EE4654C70C0A001302C7B247
+  connections:
+    west:
+      connection_size: 12
+      connection_width: 10
+      index: 35
+      offset_x: 0
+      offset_y: 19
+      pointer_to_connection_start: 54C7
+      pointer_to_map_start: EE46
+      pointer_to_window: 02C7
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xB247'
+  map_objects: 329650
+  map_objects_hex: '0x507B2'
+  name: Route 25
+  offset: '0x5079B'
+  pointer_to_map_bytes: '0x50810'
+  pointer_to_map_scripts_bytes: '0x515CB'
+  pointer_to_text_scripts_bytes: '0x51628'
+  tileset_index: 0
+  width_in_blocks: 30
+37:
+  binary: 01040409426B41684100E441
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xE441'
+  map_objects: 295396
+  map_objects_hex: '0x481E4'
+  name: Pallet Red's House 1F
+  offset: '0x4815C'
+  pointer_to_map_bytes: '0x48209'
+  pointer_to_map_scripts_bytes: '0x48168'
+  pointer_to_text_scripts_bytes: '0x4816B'
+  tileset_index: 1
+  width_in_blocks: 4
+38:
+  binary: 0404041040CF40B04000D040
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xD040'
+  map_objects: 377040
+  map_objects_hex: '0x5C0D0'
+  name: Pallet Red's House 2F
+  offset: '0x5C0A4'
+  pointer_to_map_bytes: '0x5C010'
+  pointer_to_map_scripts_bytes: '0x5C0B0'
+  pointer_to_text_scripts_bytes: '0x5C0CF'
+  tileset_index: 4
+  width_in_blocks: 4
+39:
+  binary: 080404F65B575B3B5B00CE5B
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xCE5B'
+  map_objects: 105422
+  map_objects_hex: '0x19BCE'
+  name: Pallet Blue's House
+  offset: '0x19B2F'
+  pointer_to_map_bytes: '0x19BF6'
+  pointer_to_map_scripts_bytes: '0x19B3B'
+  pointer_to_text_scripts_bytes: '0x19B57'
+  tileset_index: 8
+  width_in_blocks: 4
+40:
+  binary: 050605C04182500E4B000A54
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0x0A54'
+  map_objects: 119818
+  map_objects_hex: '0x1D40A'
+  name: Pallet Professor Oak's Laboratory
+  offset: '0x1CB02'
+  pointer_to_map_bytes: '0x1C1C0'
+  pointer_to_map_scripts_bytes: '0x1CB0E'
+  pointer_to_text_scripts_bytes: '0x1D082'
+  tileset_index: 5
+  width_in_blocks: 5
+41:
+  binary: 060407DF4063425D42007742
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x7742'
+  map_objects: 279159
+  map_objects_hex: '0x44277'
+  name: "Viridian Pok\xE9mon Center"
+  offset: '0x44251'
+  pointer_to_map_bytes: '0x440DF'
+  pointer_to_map_scripts_bytes: '0x4425D'
+  pointer_to_text_scripts_bytes: '0x44263'
+  tileset_index: 6
+  width_in_blocks: 7
+42:
+  binary: 0204043055E0546E54000A55
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x0A55'
+  map_objects: 120074
+  map_objects_hex: '0x1D50A'
+  name: "Viridian Pok\xE9 Mart"
+  offset: '0x1D462'
+  pointer_to_map_bytes: '0x1D530'
+  pointer_to_map_scripts_bytes: '0x1D46E'
+  pointer_to_text_scripts_bytes: '0x1D4E0'
+  tileset_index: 2
+  width_in_blocks: 4
+43:
+  binary: 080404EE414F554C55005D55
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x5D55'
+  map_objects: 120157
+  map_objects_hex: '0x1D55D'
+  name: Viridian Trainers' School
+  offset: '0x1D540'
+  pointer_to_map_bytes: '0x1C1EE'
+  pointer_to_map_scripts_bytes: '0x1D54C'
+  pointer_to_text_scripts_bytes: '0x1D54F'
+  tileset_index: 8
+  width_in_blocks: 4
+44:
+  binary: 080404DE418D558A5500BB55
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xBB55'
+  map_objects: 120251
+  map_objects_hex: '0x1D5BB'
+  name: Viridian House
+  offset: '0x1D57D'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1D58A'
+  pointer_to_text_scripts_bytes: '0x1D58D'
+  tileset_index: 8
+  width_in_blocks: 4
+45:
+  binary: 07090A474CEC49A34800DE4B
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xDE4B'
+  map_objects: 478174
+  map_objects_hex: '0x74BDE'
+  name: Viridian Gym
+  offset: '0x74897'
+  pointer_to_map_bytes: '0x74C47'
+  pointer_to_map_scripts_bytes: '0x748A3'
+  pointer_to_text_scripts_bytes: '0x749EC'
+  tileset_index: 7
+  width_in_blocks: 10
+46:
+  binary: 1104040E42B85EB05E00BF5E
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xBF5E'
+  map_objects: 122559
+  map_objects_hex: '0x1DEBF'
+  name: Route 2 Diglett's Cave Entrance
+  offset: '0x1DEA4'
+  pointer_to_map_bytes: '0x1C20E'
+  pointer_to_map_scripts_bytes: '0x1DEB0'
+  pointer_to_text_scripts_bytes: '0x1DEB8'
+  tileset_index: 17
+  width_in_blocks: 4
+47:
+  binary: 09040590408A558755009855
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x9855'
+  map_objects: 382360
+  map_objects_hex: '0x5D598'
+  name: Viridian Forest North Gate
+  offset: '0x5D57B'
+  pointer_to_map_bytes: '0x5C090'
+  pointer_to_map_scripts_bytes: '0x5D587'
+  pointer_to_text_scripts_bytes: '0x5D58A'
+  tileset_index: 9
+  width_in_blocks: 5
+48:
+  binary: 080404DE41F05EED5E00075F
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x075F'
+  map_objects: 122631
+  map_objects_hex: '0x1DF07'
+  name: Route 2 House
+  offset: '0x1DEE1'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1DEED'
+  pointer_to_text_scripts_bytes: '0x1DEF0'
+  tileset_index: 8
+  width_in_blocks: 4
+49:
+  binary: 0C04059040D755D455002056
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x2056'
+  map_objects: 382496
+  map_objects_hex: '0x5D620'
+  name: Route 2 Gate
+  offset: '0x5D5C8'
+  pointer_to_map_bytes: '0x5C090'
+  pointer_to_map_scripts_bytes: '0x5D5D4'
+  pointer_to_text_scripts_bytes: '0x5D5D7'
+  tileset_index: 12
+  width_in_blocks: 5
+50:
+  binary: 09040590405F565C56006D56
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x6D56'
+  map_objects: 382573
+  map_objects_hex: '0x5D66D'
+  name: Viridian Forest South Gate
+  offset: '0x5D650'
+  pointer_to_map_bytes: '0x5C090'
+  pointer_to_map_scripts_bytes: '0x5D65C'
+  pointer_to_text_scripts_bytes: '0x5D65F'
+  tileset_index: 9
+  width_in_blocks: 5
+51:
+  binary: 031811004026510D5100DA51
+  connections: {}
+  height_in_blocks: 24
+  map_object_pointer_bytes: '0xDA51'
+  map_objects: 397786
+  map_objects_hex: '0x611DA'
+  name: Viridian Forest
+  offset: '0x61101'
+  pointer_to_map_bytes: '0x60000'
+  pointer_to_map_scripts_bytes: '0x6110D'
+  pointer_to_text_scripts_bytes: '0x61126'
+  tileset_index: 3
+  width_in_blocks: 17
+52:
+  binary: 0A040A20402B41F74000C142
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xC142'
+  map_objects: 377537
+  map_objects_hex: '0x5C2C1'
+  name: Pewter Museum 1F
+  offset: '0x5C0EB'
+  pointer_to_map_bytes: '0x5C020'
+  pointer_to_map_scripts_bytes: '0x5C0F7'
+  pointer_to_text_scripts_bytes: '0x5C12B'
+  tileset_index: 10
+  width_in_blocks: 10
+53:
+  binary: 0A040748401A431743004B43
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x4B43'
+  map_objects: 377675
+  map_objects_hex: '0x5C34B'
+  name: Pewter Museum 2F
+  offset: '0x5C30B'
+  pointer_to_map_bytes: '0x5C048'
+  pointer_to_map_scripts_bytes: '0x5C317'
+  pointer_to_text_scripts_bytes: '0x5C31A'
+  tileset_index: 10
+  width_in_blocks: 7
+54:
+  binary: 070705584535448743002E45
+  connections: {}
+  height_in_blocks: 7
+  map_object_pointer_bytes: '0x2E45'
+  map_objects: 378158
+  map_objects_hex: '0x5C52E'
+  name: Pewter Gym
+  offset: '0x5C37B'
+  pointer_to_map_bytes: '0x5C558'
+  pointer_to_map_scripts_bytes: '0x5C387'
+  pointer_to_text_scripts_bytes: '0x5C435'
+  tileset_index: 7
+  width_in_blocks: 5
+55:
+  binary: 080404DE41F655F355001656
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x1656'
+  map_objects: 120342
+  map_objects_hex: '0x1D616'
+  name: Pewter House NE
+  offset: '0x1D5E7'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1D5F3'
+  pointer_to_text_scripts_bytes: '0x1D5F6'
+  tileset_index: 8
+  width_in_blocks: 4
+56:
+  binary: 0204041040B64CAD4C00DA4C
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xDA4C'
+  map_objects: 478426
+  map_objects_hex: '0x74CDA'
+  name: "Pewter Pok\xE9 Mart"
+  offset: '0x74CA1'
+  pointer_to_map_bytes: '0x74010'
+  pointer_to_map_scripts_bytes: '0x74CAD'
+  pointer_to_text_scripts_bytes: '0x74CB6'
+  tileset_index: 2
+  width_in_blocks: 4
+57:
+  binary: 080404DE414B564856005956
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x5956'
+  map_objects: 120409
+  map_objects_hex: '0x1D659'
+  name: Pewter House SW
+  offset: '0x1D63C'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1D648'
+  pointer_to_text_scripts_bytes: '0x1D64B'
+  tileset_index: 8
+  width_in_blocks: 4
+58:
+  binary: 06040764408D458745000D46
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x0D46'
+  map_objects: 378381
+  map_objects_hex: '0x5C60D'
+  name: "Pewter Pok\xE9mon Center"
+  offset: '0x5C57B'
+  pointer_to_map_bytes: '0x5C064'
+  pointer_to_map_scripts_bytes: '0x5C587'
+  pointer_to_text_scripts_bytes: '0x5C58D'
+  tileset_index: 6
+  width_in_blocks: 7
+59:
+  binary: 111214975BE159C85900065B
+  connections: {}
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x065B'
+  map_objects: 301830
+  map_objects_hex: '0x49B06'
+  name: Mt. Moon 1F
+  offset: '0x499BC'
+  pointer_to_map_bytes: '0x49B97'
+  pointer_to_map_scripts_bytes: '0x499C8'
+  pointer_to_text_scripts_bytes: '0x499E1'
+  tileset_index: 17
+  width_in_blocks: 20
+60:
+  binary: 110E0E915A465A425A004D5A
+  connections: {}
+  height_in_blocks: 14
+  map_object_pointer_bytes: '0x4D5A'
+  map_objects: 334413
+  map_objects_hex: '0x51A4D'
+  name: Mt. Moon B1
+  offset: '0x51A36'
+  pointer_to_map_bytes: '0x51A91'
+  pointer_to_map_scripts_bytes: '0x51A42'
+  pointer_to_text_scripts_bytes: '0x51A46'
+  tileset_index: 17
+  width_in_blocks: 14
+61:
+  binary: 1112144160345E0B5D00DB5F
+  connections: {}
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xDB5F'
+  map_objects: 303067
+  map_objects_hex: '0x49FDB'
+  name: Mt. Moon B2
+  offset: '0x49CFF'
+  pointer_to_map_bytes: '0x4A041'
+  pointer_to_map_scripts_bytes: '0x49D0B'
+  pointer_to_text_scripts_bytes: '0x49E34'
+  tileset_index: 17
+  width_in_blocks: 20
+62:
+  binary: 080404FE418956855600BF56
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xBF56'
+  map_objects: 120511
+  map_objects_hex: '0x1D6BF'
+  name: Cerulean House (Trashed)
+  offset: '0x1D679'
+  pointer_to_map_bytes: '0x1C1FE'
+  pointer_to_map_scripts_bytes: '0x1D685'
+  pointer_to_text_scripts_bytes: '0x1D689'
+  tileset_index: 8
+  width_in_blocks: 4
+63:
+  binary: 080404DE41F956F656001057
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x1057'
+  map_objects: 120592
+  map_objects_hex: '0x1D710'
+  name: Cerulean House (Trade)
+  offset: '0x1D6EA'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1D6F6'
+  pointer_to_text_scripts_bytes: '0x1D6F9'
+  tileset_index: 8
+  width_in_blocks: 4
+64:
+  binary: 0604078B464B464546005F46
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x5F46'
+  map_objects: 378463
+  map_objects_hex: '0x5C65F'
+  name: "Cerulean Pok\xE9mon Center"
+  offset: '0x5C639'
+  pointer_to_map_bytes: '0x5C68B'
+  pointer_to_map_scripts_bytes: '0x5C645'
+  pointer_to_text_scripts_bytes: '0x5C64B'
+  tileset_index: 6
+  width_in_blocks: 7
+65:
+  binary: 07070566484A47B346003448
+  connections: {}
+  height_in_blocks: 7
+  map_object_pointer_bytes: '0x3448'
+  map_objects: 378932
+  map_objects_hex: '0x5C834'
+  name: Cerulean Gym
+  offset: '0x5C6A7'
+  pointer_to_map_bytes: '0x5C866'
+  pointer_to_map_scripts_bytes: '0x5C6B3'
+  pointer_to_text_scripts_bytes: '0x5C74A'
+  tileset_index: 7
+  width_in_blocks: 5
+66:
+  binary: 1504048C583F573C57006658
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x6658'
+  map_objects: 120934
+  map_objects_hex: '0x1D866'
+  name: Cerulean Bike Shop
+  offset: '0x1D730'
+  pointer_to_map_bytes: '0x1D88C'
+  pointer_to_map_scripts_bytes: '0x1D73C'
+  pointer_to_text_scripts_bytes: '0x1D73F'
+  tileset_index: 21
+  width_in_blocks: 4
+67:
+  binary: 02040400409848954800A848
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xA848'
+  map_objects: 379048
+  map_objects_hex: '0x5C8A8'
+  name: "Cerulean Pok\xE9 Mart"
+  offset: '0x5C889'
+  pointer_to_map_bytes: '0x5C000'
+  pointer_to_map_scripts_bytes: '0x5C895'
+  pointer_to_text_scripts_bytes: '0x5C898'
+  tileset_index: 2
+  width_in_blocks: 4
+68:
+  binary: 060407AB40D552CF52007653
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x7653'
+  map_objects: 299894
+  map_objects_hex: '0x49376'
+  name: "Mt. Moon Pok\xE9mon Center"
+  offset: '0x492C3'
+  pointer_to_map_bytes: '0x480AB'
+  pointer_to_map_scripts_bytes: '0x492CF'
+  pointer_to_text_scripts_bytes: '0x492D5'
+  tileset_index: 6
+  width_in_blocks: 7
+70:
+  binary: 0C03042560A45F335F00FB5F
+  connections: {}
+  height_in_blocks: 3
+  map_object_pointer_bytes: '0xFB5F'
+  map_objects: 122875
+  map_objects_hex: '0x1DFFB'
+  name: Route 5 Gate
+  offset: '0x1DF27'
+  pointer_to_map_bytes: '0x1E025'
+  pointer_to_map_scripts_bytes: '0x1DF33'
+  pointer_to_text_scripts_bytes: '0x1DFA4'
+  tileset_index: 12
+  width_in_blocks: 4
+71:
+  binary: 0C04048040B056A95600C156
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xC156'
+  map_objects: 382657
+  map_objects_hex: '0x5D6C1'
+  name: Route 5 Underground Path Entrance
+  offset: '0x5D69D'
+  pointer_to_map_bytes: '0x5C080'
+  pointer_to_map_scripts_bytes: '0x5D6A9'
+  pointer_to_text_scripts_bytes: '0x5D6B0'
+  tileset_index: 12
+  width_in_blocks: 4
+72:
+  binary: 0804042F5252624F62005964
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x5964'
+  map_objects: 353369
+  map_objects_hex: '0x56459'
+  name: Route 5 Day Care
+  offset: '0x56243'
+  pointer_to_map_bytes: '0x5522F'
+  pointer_to_map_scripts_bytes: '0x5624F'
+  pointer_to_text_scripts_bytes: '0x56252'
+  tileset_index: 8
+  width_in_blocks: 4
+73:
+  binary: 0C0304E860B8603D6000BE60
+  connections: {}
+  height_in_blocks: 3
+  map_object_pointer_bytes: '0xBE60'
+  map_objects: 123070
+  map_objects_hex: '0x1E0BE'
+  name: Route 6 Gate
+  offset: '0x1E031'
+  pointer_to_map_bytes: '0x1E0E8'
+  pointer_to_map_scripts_bytes: '0x1E03D'
+  pointer_to_text_scripts_bytes: '0x1E0B8'
+  tileset_index: 12
+  width_in_blocks: 4
+74:
+  binary: 0C04048040F756EF5600FE56
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xFE56'
+  map_objects: 382718
+  map_objects_hex: '0x5D6FE'
+  name: Route 6 Underground Path Entrance
+  offset: '0x5D6E3'
+  pointer_to_map_bytes: '0x5C080'
+  pointer_to_map_scripts_bytes: '0x5D6EF'
+  pointer_to_text_scripts_bytes: '0x5D6F7'
+  tileset_index: 12
+  width_in_blocks: 4
+76:
+  binary: 0C0403AF617F610061008561
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x8561'
+  map_objects: 123269
+  map_objects_hex: '0x1E185'
+  name: Route 7 Gate
+  offset: '0x1E0F4'
+  pointer_to_map_bytes: '0x1E1AF'
+  pointer_to_map_scripts_bytes: '0x1E100'
+  pointer_to_text_scripts_bytes: '0x1E17F'
+  tileset_index: 12
+  width_in_blocks: 3
+77:
+  binary: 0C0404804034572C57003B57
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x3B57'
+  map_objects: 382779
+  map_objects_hex: '0x5D73B'
+  name: Route 7 Underground Path Entrance
+  offset: '0x5D720'
+  pointer_to_map_bytes: '0x5C080'
+  pointer_to_map_scripts_bytes: '0x5D72C'
+  pointer_to_text_scripts_bytes: '0x5D734'
+  tileset_index: 12
+  width_in_blocks: 4
+79:
+  binary: 0C040371624162C761004762
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x4762'
+  map_objects: 123463
+  map_objects_hex: '0x1E247'
+  name: Route 8 Gate
+  offset: '0x1E1BB'
+  pointer_to_map_bytes: '0x1E271'
+  pointer_to_map_scripts_bytes: '0x1E1C7'
+  pointer_to_text_scripts_bytes: '0x1E241'
+  tileset_index: 12
+  width_in_blocks: 3
+80:
+  binary: 0C0404B04191628962009862
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x9862'
+  map_objects: 123544
+  map_objects_hex: '0x1E298'
+  name: Route 8 Underground Path Entrance
+  offset: '0x1E27D'
+  pointer_to_map_bytes: '0x1C1B0'
+  pointer_to_map_scripts_bytes: '0x1E289'
+  pointer_to_text_scripts_bytes: '0x1E291'
+  tileset_index: 12
+  width_in_blocks: 4
+81:
+  binary: 060407AB40C053BA5300D453
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xD453'
+  map_objects: 299988
+  map_objects_hex: '0x493D4'
+  name: "Rock Tunnel Pok\xE9mon Center"
+  offset: '0x493AE'
+  pointer_to_map_bytes: '0x480AB'
+  pointer_to_map_scripts_bytes: '0x493BA'
+  pointer_to_text_scripts_bytes: '0x493C0'
+  tileset_index: 6
+  width_in_blocks: 7
+82:
+  binary: 1112147546F544DC4400F645
+  connections: {}
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xF645'
+  map_objects: 280054
+  map_objects_hex: '0x445F6'
+  name: Rock Tunnel 1F
+  offset: '0x444D0'
+  pointer_to_map_bytes: '0x44675'
+  pointer_to_map_scripts_bytes: '0x444DC'
+  pointer_to_text_scripts_bytes: '0x444F5'
+  tileset_index: 17
+  width_in_blocks: 20
+83:
+  binary: 1612144664DF62C66200BF63
+  connections: {}
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xBF63'
+  map_objects: 123839
+  map_objects_hex: '0x1E3BF'
+  name: Power Plant
+  offset: '0x1E2BA'
+  pointer_to_map_bytes: '0x1E446'
+  pointer_to_map_scripts_bytes: '0x1E2C6'
+  pointer_to_text_scripts_bytes: '0x1E2DF'
+  tileset_index: 22
+  width_in_blocks: 20
+84:
+  binary: 0C0504C7400F540C54001654
+  connections: {}
+  height_in_blocks: 5
+  map_object_pointer_bytes: '0x1654'
+  map_objects: 300054
+  map_objects_hex: '0x49416'
+  name: Route 11 Gate 1F
+  offset: '0x49400'
+  pointer_to_map_bytes: '0x480C7'
+  pointer_to_map_scripts_bytes: '0x4940C'
+  pointer_to_text_scripts_bytes: '0x4940F'
+  tileset_index: 12
+  width_in_blocks: 4
+85:
+  binary: 1104040E42C365BA6500CA65
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xCA65'
+  map_objects: 124362
+  map_objects_hex: '0x1E5CA'
+  name: Route 11 Diglett's Cave Entrance
+  offset: '0x1E5AE'
+  pointer_to_map_bytes: '0x1C20E'
+  pointer_to_map_scripts_bytes: '0x1E5BA'
+  pointer_to_text_scripts_bytes: '0x1E5C3'
+  tileset_index: 17
+  width_in_blocks: 4
+86:
+  binary: 0C0404DB405754545400DA54
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xDA54'
+  map_objects: 300250
+  map_objects_hex: '0x494DA'
+  name: Route 11 Gate 2F
+  offset: '0x49448'
+  pointer_to_map_bytes: '0x480DB'
+  pointer_to_map_scripts_bytes: '0x49454'
+  pointer_to_text_scripts_bytes: '0x49457'
+  tileset_index: 12
+  width_in_blocks: 4
+87:
+  binary: 0C0405405507550455000E55
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x0E55'
+  map_objects: 300302
+  map_objects_hex: '0x4950E'
+  name: Route 12 Gate 1F
+  offset: '0x494F8'
+  pointer_to_map_bytes: '0x49540'
+  pointer_to_map_scripts_bytes: '0x49504'
+  pointer_to_text_scripts_bytes: '0x49507'
+  tileset_index: 12
+  width_in_blocks: 5
+88:
+  binary: 100404056934686A6700DF68
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xDF68'
+  map_objects: 125151
+  map_objects_hex: '0x1E8DF'
+  name: Route 25 Bill's House
+  offset: '0x1E75E'
+  pointer_to_map_bytes: '0x1E905'
+  pointer_to_map_scripts_bytes: '0x1E76A'
+  pointer_to_text_scripts_bytes: '0x1E834'
+  tileset_index: 16
+  width_in_blocks: 4
+89:
+  binary: 060407644095498F4900A949
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xA949'
+  map_objects: 379305
+  map_objects_hex: '0x5C9A9'
+  name: "Vermilion Pok\xE9mon Center"
+  offset: '0x5C983'
+  pointer_to_map_bytes: '0x5C064'
+  pointer_to_map_scripts_bytes: '0x5C98F'
+  pointer_to_text_scripts_bytes: '0x5C995'
+  tileset_index: 6
+  width_in_blocks: 7
+90:
+  binary: 100404D55C845B705B00975C
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x975C'
+  map_objects: 367767
+  map_objects_hex: '0x59C97'
+  name: "Vermilion Pok\xE9mon Fan Club"
+  offset: '0x59B64'
+  pointer_to_map_bytes: '0x59CD5'
+  pointer_to_map_scripts_bytes: '0x59B70'
+  pointer_to_text_scripts_bytes: '0x59B84'
+  tileset_index: 16
+  width_in_blocks: 4
+91:
+  binary: 0204040040E449E14900F449
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xF449'
+  map_objects: 379380
+  map_objects_hex: '0x5C9F4'
+  name: "Vermilion Pok\xE9 Mart"
+  offset: '0x5C9D5'
+  pointer_to_map_bytes: '0x5C000'
+  pointer_to_map_scripts_bytes: '0x5C9E1'
+  pointer_to_text_scripts_bytes: '0x5C9E4'
+  tileset_index: 2
+  width_in_blocks: 4
+92:
+  binary: 070905384CE84A264A00FE4B
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xFE4B'
+  map_objects: 379902
+  map_objects_hex: '0x5CBFE'
+  name: Vermilion Gym
+  offset: '0x5CA1A'
+  pointer_to_map_bytes: '0x5CC38'
+  pointer_to_map_scripts_bytes: '0x5CA26'
+  pointer_to_text_scripts_bytes: '0x5CAE8'
+  tileset_index: 7
+  width_in_blocks: 5
+93:
+  binary: 080404DE41005BFC5A00205B
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x205B'
+  map_objects: 121632
+  map_objects_hex: '0x1DB20'
+  name: Vermilion House SE
+  offset: '0x1DAF0'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1DAFC'
+  pointer_to_text_scripts_bytes: '0x1DB00'
+  tileset_index: 8
+  width_in_blocks: 4
+94:
+  binary: 0E060EDA5CBF5C525B00C65C
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0xC65C'
+  map_objects: 122054
+  map_objects_hex: '0x1DCC6'
+  name: Vermilion Dock
+  offset: '0x1DB46'
+  pointer_to_map_bytes: '0x1DCDA'
+  pointer_to_map_scripts_bytes: '0x1DB52'
+  pointer_to_text_scripts_bytes: '0x1DCBF'
+  tileset_index: 14
+  width_in_blocks: 14
+95:
+  binary: 0D0914DF5269526552007752
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x7752'
+  map_objects: 397943
+  map_objects_hex: '0x61277'
+  name: S.S. Anne 1F Corridor
+  offset: '0x61259'
+  pointer_to_map_bytes: '0x612DF'
+  pointer_to_map_scripts_bytes: '0x61265'
+  pointer_to_text_scripts_bytes: '0x61269'
+  tileset_index: 13
+  width_in_blocks: 20
+96:
+  binary: 0D09146E55DB549F53001455
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x1455'
+  map_objects: 398612
+  map_objects_hex: '0x61514'
+  name: S.S. Anne 2F Corridor
+  offset: '0x61393'
+  pointer_to_map_bytes: '0x6156E'
+  pointer_to_map_scripts_bytes: '0x6139F'
+  pointer_to_text_scripts_bytes: '0x614DB'
+  tileset_index: 13
+  width_in_blocks: 20
+97:
+  binary: 0D030A564935493249003C49
+  connections: {}
+  height_in_blocks: 3
+  map_object_pointer_bytes: '0x3C49'
+  map_objects: 280892
+  map_objects_hex: '0x4493C'
+  name: S.S. Anne Corridor to Deck
+  offset: '0x44926'
+  pointer_to_map_bytes: '0x44956'
+  pointer_to_map_scripts_bytes: '0x44932'
+  pointer_to_text_scripts_bytes: '0x44935'
+  tileset_index: 13
+  width_in_blocks: 10
+98:
+  binary: 0D040F665631562E56003256
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x3256'
+  map_objects: 398898
+  map_objects_hex: '0x61632'
+  name: S.S. Anne B1 Corridor
+  offset: '0x61622'
+  pointer_to_map_bytes: '0x61666'
+  pointer_to_map_scripts_bytes: '0x6162E'
+  pointer_to_text_scripts_bytes: '0x61631'
+  tileset_index: 13
+  width_in_blocks: 15
+99:
+  binary: 0D070A6157C756AE56002B57
+  connections: {}
+  height_in_blocks: 7
+  map_object_pointer_bytes: '0x2B57'
+  map_objects: 399147
+  map_objects_hex: '0x6172B'
+  name: S.S. Anne Deck
+  offset: '0x616A2'
+  pointer_to_map_bytes: '0x61761'
+  pointer_to_map_scripts_bytes: '0x616AE'
+  pointer_to_text_scripts_bytes: '0x616C7'
+  tileset_index: 13
+  width_in_blocks: 10
+100:
+  binary: 0D08075158B757B357001B58
+  connections: {}
+  height_in_blocks: 8
+  map_object_pointer_bytes: '0x1B58'
+  map_objects: 399387
+  map_objects_hex: '0x6181B'
+  name: S.S. Anne Kitchen
+  offset: '0x617A7'
+  pointer_to_map_bytes: '0x61851'
+  pointer_to_map_scripts_bytes: '0x617B3'
+  pointer_to_text_scripts_bytes: '0x617B7'
+  tileset_index: 13
+  width_in_blocks: 7
+101:
+  binary: 0D04035E59A7589558004659
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x4659'
+  map_objects: 399686
+  map_objects_hex: '0x61946'
+  name: S.S. Anne Captain's Room
+  offset: '0x61889'
+  pointer_to_map_bytes: '0x6195E'
+  pointer_to_map_scripts_bytes: '0x61895'
+  pointer_to_text_scripts_bytes: '0x618A7'
+  tileset_index: 13
+  width_in_blocks: 3
+102:
+  binary: 0D080CDF5A8F59765900605A
+  connections: {}
+  height_in_blocks: 8
+  map_object_pointer_bytes: '0x605A'
+  map_objects: 399968
+  map_objects_hex: '0x61A60'
+  name: S.S. Anne 1F Rooms
+  offset: '0x6196A'
+  pointer_to_map_bytes: '0x61ADF'
+  pointer_to_map_scripts_bytes: '0x61976'
+  pointer_to_text_scripts_bytes: '0x6198F'
+  tileset_index: 13
+  width_in_blocks: 12
+103:
+  binary: 0D080CC0436A5B4B5B008D5C
+  connections: {}
+  height_in_blocks: 8
+  map_object_pointer_bytes: '0x8D5C'
+  map_objects: 400525
+  map_objects_hex: '0x61C8D'
+  name: S.S. Anne 2F Rooms
+  offset: '0x61B3F'
+  pointer_to_map_bytes: '0x603C0'
+  pointer_to_map_scripts_bytes: '0x61B4B'
+  pointer_to_text_scripts_bytes: '0x61B6A'
+  tileset_index: 13
+  width_in_blocks: 12
+104:
+  binary: 0D080CC0436E5D555D00755E
+  connections: {}
+  height_in_blocks: 8
+  map_object_pointer_bytes: '0x755E'
+  map_objects: 401013
+  map_objects_hex: '0x61E75'
+  name: S.S. Anne B1 Rooms
+  offset: '0x61D49'
+  pointer_to_map_bytes: '0x603C0'
+  pointer_to_map_scripts_bytes: '0x61D55'
+  pointer_to_text_scripts_bytes: '0x61D6E'
+  tileset_index: 13
+  width_in_blocks: 12
+108:
+  binary: 11090A045B5F5A0A5A00B85A
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xB85A'
+  map_objects: 383672
+  map_objects_hex: '0x5DAB8'
+  name: Victory Road 1F
+  offset: '0x5D9FE'
+  pointer_to_map_bytes: '0x5DB04'
+  pointer_to_map_scripts_bytes: '0x5DA0A'
+  pointer_to_text_scripts_bytes: '0x5DA5F'
+  tileset_index: 17
+  width_in_blocks: 10
+113:
+  binary: 050D0DE9639563AE6200C563
+  connections: {}
+  height_in_blocks: 13
+  map_object_pointer_bytes: '0xC563'
+  map_objects: 369605
+  map_objects_hex: '0x5A3C5'
+  name: Indigo Plateau Lance's Room
+  offset: '0x5A2A2'
+  pointer_to_map_bytes: '0x5A3E9'
+  pointer_to_map_scripts_bytes: '0x5A2AE'
+  pointer_to_text_scripts_bytes: '0x5A395'
+  tileset_index: 5
+  width_in_blocks: 13
+118:
+  binary: 0704058B656A659E64007165
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x7165'
+  map_objects: 370033
+  map_objects_hex: '0x5A571'
+  name: Indigo Plateau Hall of Fame Room
+  offset: '0x5A492'
+  pointer_to_map_bytes: '0x5A58B'
+  pointer_to_map_scripts_bytes: '0x5A49E'
+  pointer_to_text_scripts_bytes: '0x5A56A'
+  tileset_index: 7
+  width_in_blocks: 5
+119:
+  binary: 0B18049841295F265F002A5F
+  connections: {}
+  height_in_blocks: 24
+  map_object_pointer_bytes: '0x2A5F'
+  map_objects: 401194
+  map_objects_hex: '0x61F2A'
+  name: Underground Path (N/S)
+  offset: '0x61F1A'
+  pointer_to_map_bytes: '0x60198'
+  pointer_to_map_scripts_bytes: '0x61F26'
+  pointer_to_text_scripts_bytes: '0x61F29'
+  tileset_index: 11
+  width_in_blocks: 4
+120:
+  binary: 0704045F61D6601D5F002F61
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x2F61'
+  map_objects: 483631
+  map_objects_hex: '0x7612F'
+  name: Indigo Plateau Champion's Room
+  offset: '0x75F11'
+  pointer_to_map_bytes: '0x7615F'
+  pointer_to_map_scripts_bytes: '0x75F1D'
+  pointer_to_text_scripts_bytes: '0x760D6'
+  tileset_index: 7
+  width_in_blocks: 4
+121:
+  binary: 0B0419F4414D5F4A5F004E5F
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x4E5F'
+  map_objects: 401230
+  map_objects_hex: '0x61F4E'
+  name: Underground Path (W/E)
+  offset: '0x61F3E'
+  pointer_to_map_bytes: '0x601F4'
+  pointer_to_map_scripts_bytes: '0x61F4A'
+  pointer_to_text_scripts_bytes: '0x61F4D'
+  tileset_index: 11
+  width_in_blocks: 25
+122:
+  binary: 12040ADE4F894F864F009E4F
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x9E4F'
+  map_objects: 397214
+  map_objects_hex: '0x60F9E'
+  name: Celadon Department Store 1F
+  offset: '0x60F7A'
+  pointer_to_map_bytes: '0x60FDE'
+  pointer_to_map_scripts_bytes: '0x60F86'
+  pointer_to_text_scripts_bytes: '0x60F89'
+  tileset_index: 18
+  width_in_blocks: 10
+123:
+  binary: 12040A4861F860F560001161
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x1161'
+  map_objects: 352529
+  map_objects_hex: '0x56111'
+  name: Celadon Department Store 2F
+  offset: '0x560E9'
+  pointer_to_map_bytes: '0x56148'
+  pointer_to_map_scripts_bytes: '0x560F5'
+  pointer_to_text_scripts_bytes: '0x560F8'
+  tileset_index: 18
+  width_in_blocks: 10
+124:
+  binary: 12040A22432842254200C442
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xC442'
+  map_objects: 295620
+  map_objects_hex: '0x482C4'
+  name: Celadon Department Store 3F
+  offset: '0x48219'
+  pointer_to_map_bytes: '0x48322'
+  pointer_to_map_scripts_bytes: '0x48225'
+  pointer_to_text_scripts_bytes: '0x48228'
+  tileset_index: 18
+  width_in_blocks: 10
+125:
+  binary: 12040AA14359435643007043
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x7043'
+  map_objects: 295792
+  map_objects_hex: '0x48370'
+  name: Celadon Department Store 4F
+  offset: '0x4834A'
+  pointer_to_map_bytes: '0x483A1'
+  pointer_to_map_scripts_bytes: '0x48356'
+  pointer_to_text_scripts_bytes: '0x48359'
+  tileset_index: 18
+  width_in_blocks: 10
+126:
+  binary: 12040ACC455B45D54300A845
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xA845'
+  map_objects: 296360
+  map_objects_hex: '0x485A8'
+  name: Celadon Department Store Roof
+  offset: '0x483C9'
+  pointer_to_map_bytes: '0x485CC'
+  pointer_to_map_scripts_bytes: '0x483D5'
+  pointer_to_text_scripts_bytes: '0x4855B'
+  tileset_index: 18
+  width_in_blocks: 10
+127:
+  binary: 12020284465C460046006D46
+  connections: {}
+  height_in_blocks: 2
+  map_object_pointer_bytes: '0x6D46'
+  map_objects: 296557
+  map_objects_hex: '0x4866D'
+  name: Celadon Department Store Elevator
+  offset: '0x485F4'
+  pointer_to_map_bytes: '0x48684'
+  pointer_to_map_scripts_bytes: '0x48600'
+  pointer_to_text_scripts_bytes: '0x4865C'
+  tileset_index: 18
+  width_in_blocks: 2
+128:
+  binary: 13060416479746944600CF46
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0xCF46'
+  map_objects: 296655
+  map_objects_hex: '0x486CF'
+  name: Celadon Mansion 1F
+  offset: '0x48688'
+  pointer_to_map_bytes: '0x48716'
+  pointer_to_map_scripts_bytes: '0x48694'
+  pointer_to_text_scripts_bytes: '0x48697'
+  tileset_index: 19
+  width_in_blocks: 4
+129:
+  binary: 1306046C473E473A47004547
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0x4547'
+  map_objects: 296773
+  map_objects_hex: '0x48745'
+  name: Celadon Mansion 2F
+  offset: '0x4872E'
+  pointer_to_map_bytes: '0x4876C'
+  pointer_to_map_scripts_bytes: '0x4873A'
+  pointer_to_text_scripts_bytes: '0x4873E'
+  tileset_index: 19
+  width_in_blocks: 4
+130:
+  binary: 13060447489347904700FF47
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0xFF47'
+  map_objects: 296959
+  map_objects_hex: '0x487FF'
+  name: Celadon Mansion 3F
+  offset: '0x48784'
+  pointer_to_map_bytes: '0x48847'
+  pointer_to_map_scripts_bytes: '0x48790'
+  pointer_to_text_scripts_bytes: '0x48793'
+  tileset_index: 19
+  width_in_blocks: 4
+131:
+  binary: 13060494486E486B48007548
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0x7548'
+  map_objects: 297077
+  map_objects_hex: '0x48875'
+  name: Celadon Mansion Rooftop
+  offset: '0x4885F'
+  pointer_to_map_bytes: '0x48894'
+  pointer_to_map_scripts_bytes: '0x4886B'
+  pointer_to_text_scripts_bytes: '0x4886E'
+  tileset_index: 19
+  width_in_blocks: 4
+132:
+  binary: 080404EE413D5D3A5D005C5D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x5C5D'
+  map_objects: 122204
+  map_objects_hex: '0x1DD5C'
+  name: Celadon Mansion Rooftop Room
+  offset: '0x1DD2E'
+  pointer_to_map_bytes: '0x1C1EE'
+  pointer_to_map_scripts_bytes: '0x1DD3A'
+  pointer_to_text_scripts_bytes: '0x1DD3D'
+  tileset_index: 8
+  width_in_blocks: 4
+133:
+  binary: 060407AB40BE48B84800D248
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xD248'
+  map_objects: 297170
+  map_objects_hex: '0x488D2'
+  name: "Celadon Pok\xE9mon Center"
+  offset: '0x488AC'
+  pointer_to_map_bytes: '0x480AB'
+  pointer_to_map_scripts_bytes: '0x488B8'
+  pointer_to_text_scripts_bytes: '0x488BE'
+  tileset_index: 6
+  width_in_blocks: 7
+134:
+  binary: 070905844BA6490A4900304B
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x304B'
+  map_objects: 297776
+  map_objects_hex: '0x48B30'
+  name: Celadon Gym
+  offset: '0x488FE'
+  pointer_to_map_bytes: '0x48B84'
+  pointer_to_map_scripts_bytes: '0x4890A'
+  pointer_to_text_scripts_bytes: '0x489A6'
+  tileset_index: 7
+  width_in_blocks: 5
+135:
+  binary: 12090A03508A4CBD4B00A04F
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xA04F'
+  map_objects: 298912
+  map_objects_hex: '0x48FA0'
+  name: Celadon Game Corner
+  offset: '0x48BB1'
+  pointer_to_map_bytes: '0x49003'
+  pointer_to_map_scripts_bytes: '0x48BBD'
+  pointer_to_text_scripts_bytes: '0x48C8A'
+  tileset_index: 18
+  width_in_blocks: 10
+136:
+  binary: 12040ABC506C506950008550
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x8550'
+  map_objects: 299141
+  map_objects_hex: '0x49085'
+  name: Celadon Department Store 5F
+  offset: '0x4905D'
+  pointer_to_map_bytes: '0x490BC'
+  pointer_to_map_scripts_bytes: '0x49069'
+  pointer_to_text_scripts_bytes: '0x4906C'
+  tileset_index: 18
+  width_in_blocks: 10
+137:
+  binary: 1204053151F350F050000851
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x0851'
+  map_objects: 299272
+  map_objects_hex: '0x49108'
+  name: Celadon Game Corner Prize Exchange
+  offset: '0x490E4'
+  pointer_to_map_bytes: '0x49131'
+  pointer_to_map_scripts_bytes: '0x490F0'
+  pointer_to_text_scripts_bytes: '0x490F3'
+  tileset_index: 18
+  width_in_blocks: 5
+138:
+  binary: 120405EE515551515100BC51
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xBC51'
+  map_objects: 299452
+  map_objects_hex: '0x491BC'
+  name: Celadon Diner
+  offset: '0x49145'
+  pointer_to_map_bytes: '0x491EE'
+  pointer_to_map_scripts_bytes: '0x49151'
+  pointer_to_text_scripts_bytes: '0x49155'
+  tileset_index: 18
+  width_in_blocks: 5
+139:
+  binary: 1304044D5212520E52002752
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x2752'
+  map_objects: 299559
+  map_objects_hex: '0x49227'
+  name: Celadon House
+  offset: '0x49202'
+  pointer_to_map_bytes: '0x4924D'
+  pointer_to_map_scripts_bytes: '0x4920E'
+  pointer_to_text_scripts_bytes: '0x49212'
+  tileset_index: 19
+  width_in_blocks: 4
+140:
+  binary: 060407A7526C526952008152
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x8152'
+  map_objects: 299649
+  map_objects_hex: '0x49281'
+  name: Celadon Hotel
+  offset: '0x4925D'
+  pointer_to_map_bytes: '0x492A7'
+  pointer_to_map_scripts_bytes: '0x49269'
+  pointer_to_text_scripts_bytes: '0x4926C'
+  tileset_index: 6
+  width_in_blocks: 7
+141:
+  binary: 0604076440E048DA4800F448
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xF448'
+  map_objects: 379124
+  map_objects_hex: '0x5C8F4'
+  name: "Lavender Pok\xE9mon Center"
+  offset: '0x5C8CE'
+  pointer_to_map_bytes: '0x5C064'
+  pointer_to_map_scripts_bytes: '0x5C8DA'
+  pointer_to_text_scripts_bytes: '0x5C8E0'
+  tileset_index: 6
+  width_in_blocks: 7
+142:
+  binary: 0F090A8C442F442C44005244
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x5244'
+  map_objects: 394322
+  map_objects_hex: '0x60452'
+  name: "Pok\xE9mon Tower 1F"
+  offset: '0x60420'
+  pointer_to_map_bytes: '0x6048C'
+  pointer_to_map_scripts_bytes: '0x6042C'
+  pointer_to_text_scripts_bytes: '0x6042F'
+  tileset_index: 15
+  width_in_blocks: 10
+143:
+  binary: 0F090A6646DB45F244004646
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x4646'
+  map_objects: 394822
+  map_objects_hex: '0x60646'
+  name: "Pok\xE9mon Tower 2F"
+  offset: '0x604E6'
+  pointer_to_map_bytes: '0x60666'
+  pointer_to_map_scripts_bytes: '0x604F2'
+  pointer_to_text_scripts_bytes: '0x605DB'
+  tileset_index: 15
+  width_in_blocks: 10
+144:
+  binary: 0F090A9047E546CC46005D47
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x5D47'
+  map_objects: 395101
+  map_objects_hex: '0x6075D'
+  name: "Pok\xE9mon Tower 3F"
+  offset: '0x606C0'
+  pointer_to_map_bytes: '0x60790'
+  pointer_to_map_scripts_bytes: '0x606CC'
+  pointer_to_text_scripts_bytes: '0x606E5'
+  tileset_index: 15
+  width_in_blocks: 10
+145:
+  binary: 0F090ACC480F48F647008B48
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x8B48'
+  map_objects: 395403
+  map_objects_hex: '0x6088B'
+  name: "Pok\xE9mon Tower 4F"
+  offset: '0x607EA'
+  pointer_to_map_bytes: '0x608CC'
+  pointer_to_map_scripts_bytes: '0x607F6'
+  pointer_to_text_scripts_bytes: '0x6080F'
+  tileset_index: 15
+  width_in_blocks: 10
+146:
+  binary: 0F090A894A9B49324900484A
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x484A'
+  map_objects: 395848
+  map_objects_hex: '0x60A48'
+  name: "Pok\xE9mon Tower 5F"
+  offset: '0x60926'
+  pointer_to_map_bytes: '0x60A89'
+  pointer_to_map_scripts_bytes: '0x60932'
+  pointer_to_text_scripts_bytes: '0x6099B'
+  tileset_index: 15
+  width_in_blocks: 10
+147:
+  binary: 0F090A954CB14BEF4A005B4C
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x5B4C'
+  map_objects: 396379
+  map_objects_hex: '0x60C5B'
+  name: "Pok\xE9mon Tower 6F"
+  offset: '0x60AE3'
+  pointer_to_map_bytes: '0x60C95'
+  pointer_to_map_scripts_bytes: '0x60AEF'
+  pointer_to_text_scripts_bytes: '0x60BB1'
+  tileset_index: 15
+  width_in_blocks: 10
+148:
+  binary: 0F090A204F3F4E054D00F64E
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xF64E'
+  map_objects: 397046
+  map_objects_hex: '0x60EF6'
+  name: "Pok\xE9mon Tower 7F"
+  offset: '0x60CF9'
+  pointer_to_map_bytes: '0x60F20'
+  pointer_to_map_scripts_bytes: '0x60D05'
+  pointer_to_text_scripts_bytes: '0x60E3F'
+  tileset_index: 15
+  width_in_blocks: 10
+149:
+  binary: 080404DE41AC58A858006A59
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x6A59'
+  map_objects: 121194
+  map_objects_hex: '0x1D96A'
+  name: Lavender Mr. Fuji's House
+  offset: '0x1D89C'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1D8A8'
+  pointer_to_text_scripts_bytes: '0x1D8AC'
+  tileset_index: 8
+  width_in_blocks: 4
+150:
+  binary: 02040400402F492C49005D49
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x5D49'
+  map_objects: 379229
+  map_objects_hex: '0x5C95D'
+  name: "Lavender Pok\xE9 Mart"
+  offset: '0x5C920'
+  pointer_to_map_bytes: '0x5C000'
+  pointer_to_map_scripts_bytes: '0x5C92C'
+  pointer_to_text_scripts_bytes: '0x5C92F'
+  tileset_index: 2
+  width_in_blocks: 4
+151:
+  binary: 080404DE41B259AE5900E659
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xE659'
+  map_objects: 121318
+  map_objects_hex: '0x1D9E6'
+  name: Lavender House SW
+  offset: '0x1D9A2'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1D9AE'
+  pointer_to_text_scripts_bytes: '0x1D9B2'
+  tileset_index: 8
+  width_in_blocks: 4
+152:
+  binary: 020404C15D8B5D885D009B5D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x9B5D'
+  map_objects: 122267
+  map_objects_hex: '0x1DD9B'
+  name: "Fuchsia Pok\xE9 Mart"
+  offset: '0x1DD7C'
+  pointer_to_map_bytes: '0x1DDC1'
+  pointer_to_map_scripts_bytes: '0x1DD88'
+  pointer_to_text_scripts_bytes: '0x1DD8B'
+  tileset_index: 2
+  width_in_blocks: 4
+153:
+  binary: 08040420401C501850003150
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x3150'
+  map_objects: 479281
+  map_objects_hex: '0x75031'
+  name: Fuchsia House SW
+  offset: '0x7500C'
+  pointer_to_map_bytes: '0x74020'
+  pointer_to_map_scripts_bytes: '0x75018'
+  pointer_to_text_scripts_bytes: '0x7501C'
+  tileset_index: 8
+  width_in_blocks: 4
+154:
+  binary: 060407304069506350007D50
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x7D50'
+  map_objects: 479357
+  map_objects_hex: '0x7507D'
+  name: "Fuchsia Pok\xE9mon Center"
+  offset: '0x75057'
+  pointer_to_map_bytes: '0x74030'
+  pointer_to_map_scripts_bytes: '0x75063'
+  pointer_to_text_scripts_bytes: '0x75069'
+  tileset_index: 6
+  width_in_blocks: 7
+155:
+  binary: 140405AD51B850B550008051
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x8051'
+  map_objects: 479616
+  map_objects_hex: '0x75180'
+  name: Fuchsia Warden's House
+  offset: '0x750A9'
+  pointer_to_map_bytes: '0x751AD'
+  pointer_to_map_scripts_bytes: '0x750B5'
+  pointer_to_text_scripts_bytes: '0x750B8'
+  tileset_index: 20
+  width_in_blocks: 5
+156:
+  binary: 0C03042554B952CD5100F553
+  connections: {}
+  height_in_blocks: 3
+  map_object_pointer_bytes: '0xF553'
+  map_objects: 480245
+  map_objects_hex: '0x753F5'
+  name: Safari Zone Entrance
+  offset: '0x751C1'
+  pointer_to_map_bytes: '0x75425'
+  pointer_to_map_scripts_bytes: '0x751CD'
+  pointer_to_text_scripts_bytes: '0x752B9'
+  tileset_index: 12
+  width_in_blocks: 4
+157:
+  binary: 070905AA56D5543D54005856
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x5856'
+  map_objects: 480856
+  map_objects_hex: '0x75658'
+  name: Fuchsia Gym
+  offset: '0x75431'
+  pointer_to_map_bytes: '0x756AA'
+  pointer_to_map_scripts_bytes: '0x7543D'
+  pointer_to_text_scripts_bytes: '0x754D5'
+  tileset_index: 7
+  width_in_blocks: 5
+158:
+  binary: 1404072257E756E35600FC56
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xFC56'
+  map_objects: 481020
+  map_objects_hex: '0x756FC'
+  name: Safari Zone Meeting Room
+  offset: '0x756D7'
+  pointer_to_map_bytes: '0x75722'
+  pointer_to_map_scripts_bytes: '0x756E3'
+  pointer_to_text_scripts_bytes: '0x756E7'
+  tileset_index: 20
+  width_in_blocks: 7
+159:
+  binary: 11090FBE6372631563007663
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x7663'
+  map_objects: 287606
+  map_objects_hex: '0x46376'
+  name: Seafoam Islands B1
+  offset: '0x46309'
+  pointer_to_map_bytes: '0x463BE'
+  pointer_to_map_scripts_bytes: '0x46315'
+  pointer_to_text_scripts_bytes: '0x46372'
+  tileset_index: 17
+  width_in_blocks: 15
+160:
+  binary: 11090FFA64AE64516400B264
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xB264'
+  map_objects: 287922
+  map_objects_hex: '0x464B2'
+  name: Seafoam Islands B2
+  offset: '0x46445'
+  pointer_to_map_bytes: '0x464FA'
+  pointer_to_map_scripts_bytes: '0x46451'
+  pointer_to_text_scripts_bytes: '0x464AE'
+  tileset_index: 17
+  width_in_blocks: 15
+161:
+  binary: 11090F06679A668D6500A666
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xA666'
+  map_objects: 288422
+  map_objects_hex: '0x466A6'
+  name: Seafoam Islands B3
+  offset: '0x46581'
+  pointer_to_map_bytes: '0x46706'
+  pointer_to_map_scripts_bytes: '0x4658D'
+  pointer_to_text_scripts_bytes: '0x4669A'
+  tileset_index: 17
+  width_in_blocks: 15
+162:
+  binary: 11090FFA687C68996700BC68
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xBC68'
+  map_objects: 288956
+  map_objects_hex: '0x468BC'
+  name: Seafoam Islands B4
+  offset: '0x4678D'
+  pointer_to_map_bytes: '0x468FA'
+  pointer_to_map_scripts_bytes: '0x46799'
+  pointer_to_text_scripts_bytes: '0x4687C'
+  tileset_index: 17
+  width_in_blocks: 15
+163:
+  binary: 0804042F527360706000CF60
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xCF60'
+  map_objects: 352463
+  map_objects_hex: '0x560CF'
+  name: Vermilion Fishing Guru's House
+  offset: '0x56064'
+  pointer_to_map_bytes: '0x5522F'
+  pointer_to_map_scripts_bytes: '0x56070'
+  pointer_to_text_scripts_bytes: '0x56073'
+  tileset_index: 8
+  width_in_blocks: 4
+164:
+  binary: 0D04043F527F617C61002162
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x2162'
+  map_objects: 352801
+  map_objects_hex: '0x56221'
+  name: Fuchsia Fishing Guru's Older Brother's House
+  offset: '0x56170'
+  pointer_to_map_bytes: '0x5523F'
+  pointer_to_map_scripts_bytes: '0x5617C'
+  pointer_to_text_scripts_bytes: '0x5617F'
+  tileset_index: 13
+  width_in_blocks: 4
+165:
+  binary: 160E0FFE432C43AF4200A443
+  connections: {}
+  height_in_blocks: 14
+  map_object_pointer_bytes: '0xA443'
+  map_objects: 279460
+  map_objects_hex: '0x443A4'
+  name: "Pok\xE9mon Mansion 1F"
+  offset: '0x442A3'
+  pointer_to_map_bytes: '0x443FE'
+  pointer_to_map_scripts_bytes: '0x442AF'
+  pointer_to_text_scripts_bytes: '0x4432C'
+  tileset_index: 22
+  width_in_blocks: 15
+166:
+  binary: 16090A265B9F584A5700CC5A
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xCC5A'
+  map_objects: 481996
+  map_objects_hex: '0x75ACC'
+  name: Cinnabar Gym
+  offset: '0x7573E'
+  pointer_to_map_bytes: '0x75B26'
+  pointer_to_map_scripts_bytes: '0x7574A'
+  pointer_to_text_scripts_bytes: '0x7589F'
+  tileset_index: 22
+  width_in_blocks: 10
+167:
+  binary: 140409F15B905B8C5B00B35B
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xB35B'
+  map_objects: 482227
+  map_objects_hex: '0x75BB3'
+  name: "Cinnabar Pok\xE9mon Lab Entrance"
+  offset: '0x75B80'
+  pointer_to_map_bytes: '0x75BF1'
+  pointer_to_map_scripts_bytes: '0x75B8C'
+  pointer_to_text_scripts_bytes: '0x75B90'
+  tileset_index: 20
+  width_in_blocks: 9
+168:
+  binary: 1404046B5C245C215C00455C
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x455C'
+  map_objects: 482373
+  map_objects_hex: '0x75C45'
+  name: "Cinnabar Pok\xE9mon Lab Meeting Room"
+  offset: '0x75C15'
+  pointer_to_map_bytes: '0x75C6B'
+  pointer_to_map_scripts_bytes: '0x75C21'
+  pointer_to_text_scripts_bytes: '0x75C24'
+  tileset_index: 20
+  width_in_blocks: 4
+169:
+  binary: 140404155D8A5C875C00EC5C
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xEC5C'
+  map_objects: 482540
+  map_objects_hex: '0x75CEC'
+  name: "Cinnabar Pok\xE9mon Lab R&D Room"
+  offset: '0x75C7B'
+  pointer_to_map_bytes: '0x75D15'
+  pointer_to_map_scripts_bytes: '0x75C87'
+  pointer_to_text_scripts_bytes: '0x75C8A'
+  tileset_index: 20
+  width_in_blocks: 4
+170:
+  binary: 140404105E345D315D00F05D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xF05D'
+  map_objects: 482800
+  map_objects_hex: '0x75DF0'
+  name: "Cinnabar Pok\xE9mon Lab Testing Room"
+  offset: '0x75D25'
+  pointer_to_map_bytes: '0x75E10'
+  pointer_to_map_scripts_bytes: '0x75D31'
+  pointer_to_text_scripts_bytes: '0x75D34'
+  tileset_index: 20
+  width_in_blocks: 4
+171:
+  binary: 0604073040325E2C5E00465E
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x465E'
+  map_objects: 482886
+  map_objects_hex: '0x75E46'
+  name: "Cinnabar Pok\xE9mon Center"
+  offset: '0x75E20'
+  pointer_to_map_bytes: '0x74030'
+  pointer_to_map_scripts_bytes: '0x75E2C'
+  pointer_to_text_scripts_bytes: '0x75E32'
+  tileset_index: 6
+  width_in_blocks: 7
+172:
+  binary: 0204041040815E7E5E00915E
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x915E'
+  map_objects: 482961
+  map_objects_hex: '0x75E91'
+  name: "Cinnabar Pok\xE9 Mart"
+  offset: '0x75E72'
+  pointer_to_map_bytes: '0x74010'
+  pointer_to_map_scripts_bytes: '0x75E7E'
+  pointer_to_text_scripts_bytes: '0x75E81'
+  tileset_index: 2
+  width_in_blocks: 4
+174:
+  binary: 020608CF5C7F5C5B5C00955C
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0x955C'
+  map_objects: 105621
+  map_objects_hex: '0x19C95'
+  name: Indigo Plateau Lobby
+  offset: '0x19C4F'
+  pointer_to_map_bytes: '0x19CCF'
+  pointer_to_map_scripts_bytes: '0x19C5B'
+  pointer_to_text_scripts_bytes: '0x19C7F'
+  tileset_index: 2
+  width_in_blocks: 8
+175:
+  binary: 0104040040C65EC35E00E35E
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xE35E'
+  map_objects: 483043
+  map_objects_hex: '0x75EE3'
+  name: Saffron Copycat's House 1F
+  offset: '0x75EB7'
+  pointer_to_map_bytes: '0x74000'
+  pointer_to_map_scripts_bytes: '0x75EC3'
+  pointer_to_text_scripts_bytes: '0x75EC6'
+  tileset_index: 1
+  width_in_blocks: 4
+176:
+  binary: 0404041040744C714C00214D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x214D'
+  map_objects: 380193
+  map_objects_hex: '0x5CD21'
+  name: Saffron Copycat's House 2F
+  offset: '0x5CC65'
+  pointer_to_map_bytes: '0x5C010'
+  pointer_to_map_scripts_bytes: '0x5CC71'
+  pointer_to_text_scripts_bytes: '0x5CC74'
+  tileset_index: 4
+  width_in_blocks: 4
+177:
+  binary: 050605E34F034E5D4D009B4F
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0x9B4F'
+  map_objects: 380827
+  map_objects_hex: '0x5CF9B'
+  name: Saffron Fighting Dojo
+  offset: '0x5CD51'
+  pointer_to_map_bytes: '0x5CFE3'
+  pointer_to_map_scripts_bytes: '0x5CD5D'
+  pointer_to_text_scripts_bytes: '0x5CE03'
+  tileset_index: 5
+  width_in_blocks: 5
+178:
+  binary: 16090AA353AB500D50005952
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x5952'
+  map_objects: 381529
+  map_objects_hex: '0x5D259'
+  name: Saffron Gym
+  offset: '0x5D001'
+  pointer_to_map_bytes: '0x5D3A3'
+  pointer_to_map_scripts_bytes: '0x5D00D'
+  pointer_to_text_scripts_bytes: '0x5D0AB'
+  tileset_index: 22
+  width_in_blocks: 10
+179:
+  binary: 080404DE41E05DDD5D00045E
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x045E'
+  map_objects: 122372
+  map_objects_hex: '0x1DE04'
+  name: Saffron House NW
+  offset: '0x1DDD1'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1DDDD'
+  pointer_to_text_scripts_bytes: '0x1DDE0'
+  tileset_index: 8
+  width_in_blocks: 4
+180:
+  binary: 02040400400C540954001C54
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x1C54'
+  map_objects: 381980
+  map_objects_hex: '0x5D41C'
+  name: "Saffron Pok\xE9 Mart"
+  offset: '0x5D3FD'
+  pointer_to_map_bytes: '0x5C000'
+  pointer_to_map_scripts_bytes: '0x5D409'
+  pointer_to_text_scripts_bytes: '0x5D40C'
+  tileset_index: 2
+  width_in_blocks: 4
+181:
+  binary: 16090FA25469544E54007054
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x7054'
+  map_objects: 382064
+  map_objects_hex: '0x5D470'
+  name: Silph Co 1F
+  offset: '0x5D442'
+  pointer_to_map_bytes: '0x5D4A2'
+  pointer_to_map_scripts_bytes: '0x5D44E'
+  pointer_to_text_scripts_bytes: '0x5D469'
+  tileset_index: 22
+  width_in_blocks: 15
+182:
+  binary: 06040764403B553555004F55
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x4F55'
+  map_objects: 382287
+  map_objects_hex: '0x5D54F'
+  name: "Saffron Pok\xE9mon Center"
+  offset: '0x5D529'
+  pointer_to_map_bytes: '0x5C064'
+  pointer_to_map_scripts_bytes: '0x5D535'
+  pointer_to_text_scripts_bytes: '0x5D53B'
+  tileset_index: 6
+  width_in_blocks: 7
+183:
+  binary: 080404DE413F5E3C5E008A5E
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x8A5E'
+  map_objects: 122506
+  map_objects_hex: '0x1DE8A'
+  name: Saffron Mr. Psychic's House
+  offset: '0x1DE30'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1DE3C'
+  pointer_to_text_scripts_bytes: '0x1DE3F'
+  tileset_index: 8
+  width_in_blocks: 4
+184:
+  binary: 0C0504C74005560256000C56
+  connections: {}
+  height_in_blocks: 5
+  map_object_pointer_bytes: '0x0C56'
+  map_objects: 300556
+  map_objects_hex: '0x4960C'
+  name: Route 15 Gate 1F
+  offset: '0x495F6'
+  pointer_to_map_bytes: '0x480C7'
+  pointer_to_map_scripts_bytes: '0x49602'
+  pointer_to_text_scripts_bytes: '0x49605'
+  tileset_index: 12
+  width_in_blocks: 4
+185:
+  binary: 0C0404DB404D564A56009D56
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x9D56'
+  map_objects: 300701
+  map_objects_hex: '0x4969D'
+  name: Route 15 Gate 2F
+  offset: '0x4963E'
+  pointer_to_map_bytes: '0x480DB'
+  pointer_to_map_scripts_bytes: '0x4964A'
+  pointer_to_text_scripts_bytes: '0x4964D'
+  tileset_index: 12
+  width_in_blocks: 4
+186:
+  binary: 0C0704E3575A57BE56008B57
+  connections: {}
+  height_in_blocks: 7
+  map_object_pointer_bytes: '0x8B57'
+  map_objects: 300939
+  map_objects_hex: '0x4978B'
+  name: Route 16 Gate 1F
+  offset: '0x496B2'
+  pointer_to_map_bytes: '0x497E3'
+  pointer_to_map_scripts_bytes: '0x496BE'
+  pointer_to_text_scripts_bytes: '0x4975A'
+  tileset_index: 12
+  width_in_blocks: 4
+187:
+  binary: 0C0404DB400E580B58004C58
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x4C58'
+  map_objects: 301132
+  map_objects_hex: '0x4984C'
+  name: Route 16 Gate 2F
+  offset: '0x497FF'
+  pointer_to_map_bytes: '0x480DB'
+  pointer_to_map_scripts_bytes: '0x4980B'
+  pointer_to_text_scripts_bytes: '0x4980E'
+  tileset_index: 12
+  width_in_blocks: 4
+188:
+  binary: 080404DE41FB65F865005766
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x5766'
+  map_objects: 124503
+  map_objects_hex: '0x1E657'
+  name: Route 16 House
+  offset: '0x1E5EC'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1E5F8'
+  pointer_to_text_scripts_bytes: '0x1E5FB'
+  tileset_index: 8
+  width_in_blocks: 4
+189:
+  binary: 0804042F5282647F6400DE64
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xDE64'
+  map_objects: 353502
+  map_objects_hex: '0x564DE'
+  name: Route 12 House
+  offset: '0x56473'
+  pointer_to_map_bytes: '0x5522F'
+  pointer_to_map_scripts_bytes: '0x5647F'
+  pointer_to_text_scripts_bytes: '0x56482'
+  tileset_index: 8
+  width_in_blocks: 4
+190:
+  binary: 0C0504C7400D597658003759
+  connections: {}
+  height_in_blocks: 5
+  map_object_pointer_bytes: '0x3759'
+  map_objects: 301367
+  map_objects_hex: '0x49937'
+  name: Route 18 Gate 1F
+  offset: '0x4986A'
+  pointer_to_map_bytes: '0x480C7'
+  pointer_to_map_scripts_bytes: '0x49876'
+  pointer_to_text_scripts_bytes: '0x4990D'
+  tileset_index: 12
+  width_in_blocks: 4
+191:
+  binary: 0C0404DB407859755900A459
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xA459'
+  map_objects: 301476
+  map_objects_hex: '0x499A4'
+  name: Route 18 Gate 2F
+  offset: '0x49969'
+  pointer_to_map_bytes: '0x480DB'
+  pointer_to_map_scripts_bytes: '0x49975'
+  pointer_to_text_scripts_bytes: '0x49978'
+  tileset_index: 12
+  width_in_blocks: 4
+192:
+  binary: 11090F9F484B48E947004F48
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x4F48'
+  map_objects: 280655
+  map_objects_hex: '0x4484F'
+  name: Seafoam Islands 1F
+  offset: '0x447DD'
+  pointer_to_map_bytes: '0x4489F'
+  pointer_to_map_scripts_bytes: '0x447E9'
+  pointer_to_text_scripts_bytes: '0x4484B'
+  tileset_index: 17
+  width_in_blocks: 15
+193:
+  binary: 0C04054A67DF668366002067
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x2067'
+  map_objects: 124704
+  map_objects_hex: '0x1E720'
+  name: Route 22 Gate
+  offset: '0x1E677'
+  pointer_to_map_bytes: '0x1E74A'
+  pointer_to_map_scripts_bytes: '0x1E683'
+  pointer_to_text_scripts_bytes: '0x1E6DF'
+  tileset_index: 12
+  width_in_blocks: 5
+194:
+  binary: 11090FAF591B589D57001559
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x1559'
+  map_objects: 334101
+  map_objects_hex: '0x51915'
+  name: Victory Road 2F
+  offset: '0x51791'
+  pointer_to_map_bytes: '0x519AF'
+  pointer_to_map_scripts_bytes: '0x5179D'
+  pointer_to_text_scripts_bytes: '0x5181B'
+  tileset_index: 17
+  width_in_blocks: 15
+195:
+  binary: 0C0404DB406355605500DE55
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xDE55'
+  map_objects: 300510
+  map_objects_hex: '0x495DE'
+  name: Route 12 Gate 2F
+  offset: '0x49554'
+  pointer_to_map_bytes: '0x480DB'
+  pointer_to_map_scripts_bytes: '0x49560'
+  pointer_to_text_scripts_bytes: '0x49563'
+  tileset_index: 12
+  width_in_blocks: 4
+196:
+  binary: 0804043F5C155C125C00255C
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x255C'
+  map_objects: 105509
+  map_objects_hex: '0x19C25'
+  name: Vermilion House (Trade)
+  offset: '0x19C06'
+  pointer_to_map_bytes: '0x19C3F'
+  pointer_to_map_scripts_bytes: '0x19C12'
+  pointer_to_text_scripts_bytes: '0x19C15'
+  tileset_index: 8
+  width_in_blocks: 4
+197:
+  binary: 111214865F715F6E5F00725F
+  connections: {}
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x725F'
+  map_objects: 401266
+  map_objects_hex: '0x61F72'
+  name: Diglett's Cave
+  offset: '0x61F62'
+  pointer_to_map_bytes: '0x61F86'
+  pointer_to_map_scripts_bytes: '0x61F6E'
+  pointer_to_text_scripts_bytes: '0x61F71'
+  tileset_index: 17
+  width_in_blocks: 20
+198:
+  binary: 11090F374B244A804900CD4A
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xCD4A'
+  map_objects: 281293
+  map_objects_hex: '0x44ACD'
+  name: Victory Road 3F
+  offset: '0x44974'
+  pointer_to_map_bytes: '0x44B37'
+  pointer_to_map_scripts_bytes: '0x44980'
+  pointer_to_text_scripts_bytes: '0x44A24'
+  tileset_index: 17
+  width_in_blocks: 15
+199:
+  binary: 160E0F494D144CCA4B00E74C
+  connections: {}
+  height_in_blocks: 14
+  map_object_pointer_bytes: '0xE74C'
+  map_objects: 281831
+  map_objects_hex: '0x44CE7'
+  name: Rocket Hideout B1
+  offset: '0x44BBE'
+  pointer_to_map_bytes: '0x44D49'
+  pointer_to_map_scripts_bytes: '0x44BCA'
+  pointer_to_text_scripts_bytes: '0x44C14'
+  tileset_index: 22
+  width_in_blocks: 15
+200:
+  binary: 160E0F4751C750274E00F750
+  connections: {}
+  height_in_blocks: 14
+  map_object_pointer_bytes: '0xF750'
+  map_objects: 282871
+  map_objects_hex: '0x450F7'
+  name: Rocket Hideout B2
+  offset: '0x44E1B'
+  pointer_to_map_bytes: '0x45147'
+  pointer_to_map_scripts_bytes: '0x44E27'
+  pointer_to_text_scripts_bytes: '0x450C7'
+  tileset_index: 22
+  width_in_blocks: 15
+201:
+  binary: 160E0F7F53FA522552004D53
+  connections: {}
+  height_in_blocks: 14
+  map_object_pointer_bytes: '0x4D53'
+  map_objects: 283469
+  map_objects_hex: '0x4534D'
+  name: Rocket Hideout B3
+  offset: '0x45219'
+  pointer_to_map_bytes: '0x4537F'
+  pointer_to_map_scripts_bytes: '0x45225'
+  pointer_to_text_scripts_bytes: '0x452FA'
+  tileset_index: 22
+  width_in_blocks: 15
+202:
+  binary: 160C0F505601555D5400F155
+  connections: {}
+  height_in_blocks: 12
+  map_object_pointer_bytes: '0xF155'
+  map_objects: 284145
+  map_objects_hex: '0x455F1'
+  name: Rocket Hideout B4
+  offset: '0x45451'
+  pointer_to_map_bytes: '0x45650'
+  pointer_to_map_scripts_bytes: '0x4545D'
+  pointer_to_text_scripts_bytes: '0x45501'
+  tileset_index: 22
+  width_in_blocks: 15
+203:
+  binary: 120403A8576B571057009157
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x9157'
+  map_objects: 284561
+  map_objects_hex: '0x45791'
+  name: Rocket Hideout Elevator
+  offset: '0x45704'
+  pointer_to_map_bytes: '0x457A8'
+  pointer_to_map_scripts_bytes: '0x45710'
+  pointer_to_text_scripts_bytes: '0x4576B'
+  tileset_index: 18
+  width_in_blocks: 3
+207:
+  binary: 16090FC85E865DF15C00665E
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x665E'
+  map_objects: 368230
+  map_objects_hex: '0x59E66'
+  name: Silph Co. 2F
+  offset: '0x59CE5'
+  pointer_to_map_bytes: '0x59EC8'
+  pointer_to_map_scripts_bytes: '0x59CF1'
+  pointer_to_text_scripts_bytes: '0x59D86'
+  tileset_index: 22
+  width_in_blocks: 15
+208:
+  binary: 16090FA660C45F5B5F003560
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x3560'
+  map_objects: 368693
+  map_objects_hex: '0x5A035'
+  name: Silph Co. 3F
+  offset: '0x59F4F'
+  pointer_to_map_bytes: '0x5A0A6'
+  pointer_to_map_scripts_bytes: '0x59F5B'
+  pointer_to_text_scripts_bytes: '0x59FC4'
+  tileset_index: 22
+  width_in_blocks: 15
+209:
+  binary: 16090FA45EA05D0B5D00355E
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x355E'
+  map_objects: 106037
+  map_objects_hex: '0x19E35'
+  name: Silph Co. 4F
+  offset: '0x19CFF'
+  pointer_to_map_bytes: '0x19EA4'
+  pointer_to_map_scripts_bytes: '0x19D0B'
+  pointer_to_text_scripts_bytes: '0x19DA0'
+  tileset_index: 22
+  width_in_blocks: 15
+210:
+  binary: 16090F1661BC5F375F008D60
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x8D60'
+  map_objects: 106637
+  map_objects_hex: '0x1A08D'
+  name: Silph Co. 5F
+  offset: '0x19F2B'
+  pointer_to_map_bytes: '0x1A116'
+  pointer_to_map_scripts_bytes: '0x19F37'
+  pointer_to_text_scripts_bytes: '0x19FBC'
+  tileset_index: 22
+  width_in_blocks: 15
+211:
+  binary: 16090D6B63F661A96100FB62
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xFB62'
+  map_objects: 107259
+  map_objects_hex: '0x1A2FB'
+  name: Silph Co. 6F
+  offset: '0x1A19D'
+  pointer_to_map_bytes: '0x1A36B'
+  pointer_to_map_scripts_bytes: '0x1A1A9'
+  pointer_to_text_scripts_bytes: '0x1A1F6'
+  tileset_index: 22
+  width_in_blocks: 13
+212:
+  binary: 16090D575F3F5D615B00D75E
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xD75E'
+  map_objects: 335575
+  map_objects_hex: '0x51ED7'
+  name: Silph Co. 7F
+  offset: '0x51B55'
+  pointer_to_map_bytes: '0x51F57'
+  pointer_to_map_scripts_bytes: '0x51B61'
+  pointer_to_text_scripts_bytes: '0x51D3F'
+  tileset_index: 22
+  width_in_blocks: 13
+213:
+  binary: 16090D6D667D650465001366
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x1366'
+  map_objects: 353811
+  map_objects_hex: '0x56613'
+  name: Silph Co. 8F
+  offset: '0x564F8'
+  pointer_to_map_bytes: '0x5666D'
+  pointer_to_map_scripts_bytes: '0x56504'
+  pointer_to_text_scripts_bytes: '0x5657D'
+  tileset_index: 22
+  width_in_blocks: 13
+214:
+  binary: 160E0F10614D60D85F00D160
+  connections: {}
+  height_in_blocks: 14
+  map_object_pointer_bytes: '0xD160'
+  map_objects: 336081
+  map_objects_hex: '0x520D1'
+  name: "Pok\xE9mon Mansion 2F"
+  offset: '0x51FCC'
+  pointer_to_map_bytes: '0x52110'
+  pointer_to_map_scripts_bytes: '0x51FD8'
+  pointer_to_text_scripts_bytes: '0x5204D'
+  tileset_index: 22
+  width_in_blocks: 15
+215:
+  binary: 16090F26638A62EE6100E662
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xE662'
+  map_objects: 336614
+  map_objects_hex: '0x522E6'
+  name: "Pok\xE9mon Mansion 3F"
+  offset: '0x521E2'
+  pointer_to_map_bytes: '0x52326'
+  pointer_to_map_scripts_bytes: '0x521EE'
+  pointer_to_text_scripts_bytes: '0x5228A'
+  tileset_index: 22
+  width_in_blocks: 15
+216:
+  binary: 160E0FDD643664B963009864
+  connections: {}
+  height_in_blocks: 14
+  map_object_pointer_bytes: '0x9864'
+  map_objects: 337048
+  map_objects_hex: '0x52498'
+  name: "Pok\xE9mon Mansion 4F"
+  offset: '0x523AD'
+  pointer_to_map_bytes: '0x524DD'
+  pointer_to_map_scripts_bytes: '0x523B9'
+  pointer_to_text_scripts_bytes: '0x52436'
+  tileset_index: 22
+  width_in_blocks: 15
+217:
+  binary: 030D0FDC586E586B58008B58
+  connections: {}
+  height_in_blocks: 13
+  map_object_pointer_bytes: '0x8B58'
+  map_objects: 284811
+  map_objects_hex: '0x4588B'
+  name: Safari Zone East
+  offset: '0x4585F'
+  pointer_to_map_bytes: '0x458DC'
+  pointer_to_map_scripts_bytes: '0x4586B'
+  pointer_to_text_scripts_bytes: '0x4586E'
+  tileset_index: 3
+  width_in_blocks: 15
+218:
+  binary: 0312143E5AAE59AB5900D559
+  connections: {}
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0xD559'
+  map_objects: 285141
+  map_objects_hex: '0x459D5'
+  name: Safari Zone North
+  offset: '0x4599F'
+  pointer_to_map_bytes: '0x45A3E'
+  pointer_to_map_scripts_bytes: '0x459AB'
+  pointer_to_text_scripts_bytes: '0x459AE'
+  tileset_index: 3
+  width_in_blocks: 20
+219:
+  binary: 030D0F4862B861B56100DC61
+  connections: {}
+  height_in_blocks: 13
+  map_object_pointer_bytes: '0xDC61'
+  map_objects: 303580
+  map_objects_hex: '0x4A1DC'
+  name: Safari Zone West
+  offset: '0x4A1A9'
+  pointer_to_map_bytes: '0x4A248'
+  pointer_to_map_scripts_bytes: '0x4A1B5'
+  pointer_to_text_scripts_bytes: '0x4A1B8'
+  tileset_index: 3
+  width_in_blocks: 15
+220:
+  binary: 030D0F1E5CB55BB25B00C55B
+  connections: {}
+  height_in_blocks: 13
+  map_object_pointer_bytes: '0xC55B'
+  map_objects: 285637
+  map_objects_hex: '0x45BC5'
+  name: Safari Zone Center
+  offset: '0x45BA6'
+  pointer_to_map_bytes: '0x45C1E'
+  pointer_to_map_scripts_bytes: '0x45BB2'
+  pointer_to_text_scripts_bytes: '0x45BB5'
+  tileset_index: 3
+  width_in_blocks: 15
+221:
+  binary: 0C0404FB40F05CED5C00FE5C
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xFE5C'
+  map_objects: 285950
+  map_objects_hex: '0x45CFE'
+  name: Safari Zone Center Rest House
+  offset: '0x45CE1'
+  pointer_to_map_bytes: '0x440FB'
+  pointer_to_map_scripts_bytes: '0x45CED'
+  pointer_to_text_scripts_bytes: '0x45CF0'
+  tileset_index: 12
+  width_in_blocks: 4
+222:
+  binary: 1404047F631A631763006563
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x6563'
+  map_objects: 303973
+  map_objects_hex: '0x4A365'
+  name: Safari Zone Secret House
+  offset: '0x4A30B'
+  pointer_to_map_bytes: '0x4A37F'
+  pointer_to_map_scripts_bytes: '0x4A317'
+  pointer_to_text_scripts_bytes: '0x4A31A'
+  tileset_index: 20
+  width_in_blocks: 4
+223:
+  binary: 0C0404FB402E5D2A5D00435D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x435D'
+  map_objects: 286019
+  map_objects_hex: '0x45D43'
+  name: Safari Zone West Rest House
+  offset: '0x45D1E'
+  pointer_to_map_bytes: '0x440FB'
+  pointer_to_map_scripts_bytes: '0x45D2A'
+  pointer_to_text_scripts_bytes: '0x45D2E'
+  tileset_index: 12
+  width_in_blocks: 4
+224:
+  binary: 0C0404FB40795D755D008E5D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x8E5D'
+  map_objects: 286094
+  map_objects_hex: '0x45D8E'
+  name: Safari Zone East Rest House
+  offset: '0x45D69'
+  pointer_to_map_bytes: '0x440FB'
+  pointer_to_map_scripts_bytes: '0x45D75'
+  pointer_to_text_scripts_bytes: '0x45D79'
+  tileset_index: 12
+  width_in_blocks: 4
+225:
+  binary: 0C0404FB40C45DC05D00D95D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xD95D'
+  map_objects: 286169
+  map_objects_hex: '0x45DD9'
+  name: Safari Zone North Rest House
+  offset: '0x45DB4'
+  pointer_to_map_bytes: '0x440FB'
+  pointer_to_map_scripts_bytes: '0x45DC0'
+  pointer_to_text_scripts_bytes: '0x45DC4'
+  tileset_index: 12
+  width_in_blocks: 4
+226:
+  binary: 11090F5D5E0E5E0B5E00145E
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x145E'
+  map_objects: 286228
+  map_objects_hex: '0x45E14'
+  name: Cerulean Cave 2F
+  offset: '0x45DFF'
+  pointer_to_map_bytes: '0x45E5D'
+  pointer_to_map_scripts_bytes: '0x45E0B'
+  pointer_to_text_scripts_bytes: '0x45E0E'
+  tileset_index: 17
+  width_in_blocks: 15
+227:
+  binary: 11090F585F095FF05E00365F
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x365F'
+  map_objects: 286518
+  map_objects_hex: '0x45F36'
+  name: Cerulean Cave B1
+  offset: '0x45EE4'
+  pointer_to_map_bytes: '0x45F58'
+  pointer_to_map_scripts_bytes: '0x45EF0'
+  pointer_to_text_scripts_bytes: '0x45F09'
+  tileset_index: 17
+  width_in_blocks: 15
+228:
+  binary: 11090F764D0F4D0C4D00154D
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x154D'
+  map_objects: 478485
+  map_objects_hex: '0x74D15'
+  name: Cerulean Cave 1F
+  offset: '0x74D00'
+  pointer_to_map_bytes: '0x74D76'
+  pointer_to_map_scripts_bytes: '0x74D0C'
+  pointer_to_text_scripts_bytes: '0x74D0F'
+  tileset_index: 17
+  width_in_blocks: 15
+229:
+  binary: 080404DE41545A125A00D65A
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xD65A'
+  map_objects: 121558
+  map_objects_hex: '0x1DAD6'
+  name: Lavender Name Rater's House
+  offset: '0x1DA06'
+  pointer_to_map_bytes: '0x1C1DE'
+  pointer_to_map_scripts_bytes: '0x1DA12'
+  pointer_to_text_scripts_bytes: '0x1DA54'
+  tileset_index: 8
+  width_in_blocks: 4
+230:
+  binary: 0D04044C40134E094E00BE4E
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0xBE4E'
+  map_objects: 478910
+  map_objects_hex: '0x74EBE'
+  name: Cerulean House (Badges)
+  offset: '0x74DFD'
+  pointer_to_map_bytes: '0x7404C'
+  pointer_to_map_scripts_bytes: '0x74E09'
+  pointer_to_text_scripts_bytes: '0x74E13'
+  tileset_index: 13
+  width_in_blocks: 4
+232:
+  binary: 111214A1610460EB5F003D61
+  connections: {}
+  height_in_blocks: 18
+  map_object_pointer_bytes: '0x3D61'
+  map_objects: 287037
+  map_objects_hex: '0x4613D'
+  name: Rock Tunnel B1
+  offset: '0x45FDF'
+  pointer_to_map_bytes: '0x461A1'
+  pointer_to_map_scripts_bytes: '0x45FEB'
+  pointer_to_text_scripts_bytes: '0x46004'
+  tileset_index: 17
+  width_in_blocks: 20
+233:
+  binary: 16090D89598B58BB57003F59
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x3F59'
+  map_objects: 383295
+  map_objects_hex: '0x5D93F'
+  name: Silph Co. 9F
+  offset: '0x5D7AF'
+  pointer_to_map_bytes: '0x5D989'
+  pointer_to_map_scripts_bytes: '0x5D7BB'
+  pointer_to_text_scripts_bytes: '0x5D88B'
+  tileset_index: 22
+  width_in_blocks: 13
+234:
+  binary: 1609085A628661396100FB61
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0xFB61'
+  map_objects: 369147
+  map_objects_hex: '0x5A1FB'
+  name: Silph Co. 10F
+  offset: '0x5A12D'
+  pointer_to_map_bytes: '0x5A25A'
+  pointer_to_map_scripts_bytes: '0x5A139'
+  pointer_to_text_scripts_bytes: '0x5A186'
+  tileset_index: 22
+  width_in_blocks: 8
+235:
+  binary: 100909C863B762FA60008063
+  connections: {}
+  height_in_blocks: 9
+  map_object_pointer_bytes: '0x8063'
+  map_objects: 402304
+  map_objects_hex: '0x62380'
+  name: Silph Co. 11F
+  offset: '0x620EE'
+  pointer_to_map_bytes: '0x623C8'
+  pointer_to_map_scripts_bytes: '0x620FA'
+  pointer_to_text_scripts_bytes: '0x622B7'
+  tileset_index: 16
+  width_in_blocks: 9
+236:
+  binary: 1202025B583358C057004458
+  connections: {}
+  height_in_blocks: 2
+  map_object_pointer_bytes: '0x4458'
+  map_objects: 284740
+  map_objects_hex: '0x45844'
+  name: Silph Co. Elevator
+  offset: '0x457B4'
+  pointer_to_map_bytes: '0x4585B'
+  pointer_to_map_scripts_bytes: '0x457C0'
+  pointer_to_text_scripts_bytes: '0x45833'
+  tileset_index: 18
+  width_in_blocks: 2
+239:
+  binary: 1504055D7D4C7D107D00537D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x537D'
+  map_objects: 326995
+  map_objects_hex: '0x4FD53'
+  name: Battle Center
+  offset: '0x4FD04'
+  pointer_to_map_bytes: '0x4FD5D'
+  pointer_to_map_scripts_bytes: '0x4FD10'
+  pointer_to_text_scripts_bytes: '0x4FD4C'
+  tileset_index: 21
+  width_in_blocks: 5
+240:
+  binary: 150405917D807D7D7D00877D
+  connections: {}
+  height_in_blocks: 4
+  map_object_pointer_bytes: '0x877D'
+  map_objects: 327047
+  map_objects_hex: '0x4FD87'
+  name: Trade Center
+  offset: '0x4FD71'
+  pointer_to_map_bytes: '0x4FD91'
+  pointer_to_map_scripts_bytes: '0x4FD7D'
+  pointer_to_text_scripts_bytes: '0x4FD80'
+  tileset_index: 21
+  width_in_blocks: 5
+245:
+  binary: 070605AC6251627B61008062
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0x8062'
+  map_objects: 483968
+  map_objects_hex: '0x76280'
+  name: Indigo Plateau Lorelei's Room
+  offset: '0x7616F'
+  pointer_to_map_bytes: '0x762AC'
+  pointer_to_map_scripts_bytes: '0x7617B'
+  pointer_to_text_scripts_bytes: '0x76251'
+  tileset_index: 7
+  width_in_blocks: 5
+246:
+  binary: 0706050364A863D66200D763
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0xD763'
+  map_objects: 484311
+  map_objects_hex: '0x763D7'
+  name: Indigo Plateau Bruno's Room
+  offset: '0x762CA'
+  pointer_to_map_bytes: '0x76403'
+  pointer_to_map_scripts_bytes: '0x762D6'
+  pointer_to_text_scripts_bytes: '0x763A8'
+  tileset_index: 7
+  width_in_blocks: 5
+247:
+  binary: 0F0605606505652D64003465
+  connections: {}
+  height_in_blocks: 6
+  map_object_pointer_bytes: '0x3465'
+  map_objects: 484660
+  map_objects_hex: '0x76534'
+  name: Indigo Plateau Agatha's Room
+  offset: '0x76421'
+  pointer_to_map_bytes: '0x76560'
+  pointer_to_map_scripts_bytes: '0x7642D'
+  pointer_to_text_scripts_bytes: '0x76505'
+  tileset_index: 15
+  width_in_blocks: 5

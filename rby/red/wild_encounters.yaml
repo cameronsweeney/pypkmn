@@ -1,0 +1,1970 @@
+0:
+  binary: '0000'
+  grass_rate: 0
+  name: Pallet Town
+  offset: '0xD0DD'
+  surf_rate: 0
+1:
+  binary: '0000'
+  grass_rate: 0
+  name: Viridian City
+  offset: '0xD0DD'
+  surf_rate: 0
+2:
+  binary: '0000'
+  grass_rate: 0
+  name: Pewter City
+  offset: '0xD0DD'
+  surf_rate: 0
+3:
+  binary: '0000'
+  grass_rate: 0
+  name: Cerulean City
+  offset: '0xD0DD'
+  surf_rate: 0
+4:
+  binary: '0000'
+  grass_rate: 0
+  name: Lavender Town
+  offset: '0xD0DD'
+  surf_rate: 0
+5:
+  binary: '0000'
+  grass_rate: 0
+  name: Vermilion City
+  offset: '0xD0DD'
+  surf_rate: 0
+6:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon City
+  offset: '0xD0DD'
+  surf_rate: 0
+7:
+  binary: '0000'
+  grass_rate: 0
+  name: Fuchsia City
+  offset: '0xD0DD'
+  surf_rate: 0
+8:
+  binary: '0000'
+  grass_rate: 0
+  name: Cinnabar Island
+  offset: '0xD0DD'
+  surf_rate: 0
+9:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau
+  offset: '0xD0DD'
+  surf_rate: 0
+10:
+  binary: '0000'
+  grass_rate: 0
+  name: Saffron City
+  offset: '0xD0DD'
+  surf_rate: 0
+12:
+  binary: 19032403A503A502A502240324032404A504240524001903A50324042404A50524037002A505A50470057000
+  grass:
+  - Pidgey Lv.3
+  - Rattata Lv.3
+  - Rattata Lv.3
+  - Rattata Lv.2
+  - Pidgey Lv.2
+  - Pidgey Lv.3
+  - Pidgey Lv.3
+  - Rattata Lv.4
+  - Pidgey Lv.4
+  - Pidgey Lv.5
+  grass_rate: 25
+  name: Route 1
+  offset: '0xD0DF'
+  surf_rate: 0
+13:
+  binary: 1903A50324042404A50524037002A505A504700570001903A5030304A5040302A5020303050505030F040F00
+  grass:
+  - Rattata Lv.3
+  - Pidgey Lv.3
+  - Pidgey Lv.4
+  - Rattata Lv.4
+  - Pidgey Lv.5
+  - Weedle Lv.3
+  - Rattata Lv.2
+  - Rattata Lv.5
+  - Weedle Lv.4
+  - Weedle Lv.5
+  grass_rate: 25
+  name: Route 2
+  offset: '0xD0F5'
+  surf_rate: 0
+14:
+  binary: 140624050507240605070508240805036405640764000A086B076B096B08A9066B0A6B0AA9086D0B6B080400
+  grass:
+  - Pidgey Lv.6
+  - Spearow Lv.5
+  - Pidgey Lv.7
+  - Spearow Lv.6
+  - Spearow Lv.7
+  - Pidgey Lv.8
+  - Spearow Lv.8
+  - Jigglypuff Lv.3
+  - Jigglypuff Lv.5
+  - Jigglypuff Lv.7
+  grass_rate: 20
+  name: Route 3
+  offset: '0xD137'
+  surf_rate: 0
+15:
+  binary: 140AA50A0508A5066C08050A6C0CA50C05086C0C6C0019077008710C240CB90DB90A940EB90D2408940C9400
+  grass:
+  - Rattata Lv.10
+  - Spearow Lv.10
+  - Rattata Lv.8
+  - Ekans Lv.6
+  - Spearow Lv.8
+  - Ekans Lv.10
+  - Rattata Lv.12
+  - Spearow Lv.12
+  - Ekans Lv.8
+  - Ekans Lv.12
+  grass_rate: 20
+  name: Route 4
+  offset: '0xD18F'
+  surf_rate: 0
+16:
+  binary: 0F0DB90D240F240A390C390FB910B910240E391039000F0DB90D240F240A390C390FB910B910240E39103900
+  grass:
+  - Oddish Lv.13
+  - Pidgey Lv.13
+  - Pidgey Lv.15
+  - Mankey Lv.10
+  - Mankey Lv.12
+  - Oddish Lv.15
+  - Oddish Lv.16
+  - Pidgey Lv.16
+  - Mankey Lv.14
+  - Mankey Lv.16
+  grass_rate: 15
+  name: Route 5
+  offset: '0xD1E7'
+  surf_rate: 0
+17:
+  binary: 0F0DB90D240F240A390C390FB910B910240E391039000F0E6C0F050C6C09300D050D300F6C11050B300F3000
+  grass:
+  - Oddish Lv.13
+  - Pidgey Lv.13
+  - Pidgey Lv.15
+  - Mankey Lv.10
+  - Mankey Lv.12
+  - Oddish Lv.15
+  - Oddish Lv.16
+  - Pidgey Lv.16
+  - Mankey Lv.14
+  - Mankey Lv.16
+  grass_rate: 15
+  name: Route 6
+  offset: '0xD1FD'
+  surf_rate: 0
+18:
+  binary: 0F132413B9113916B91624123912211421133914390000
+  grass:
+  - Pidgey Lv.19
+  - Oddish Lv.19
+  - Mankey Lv.17
+  - Oddish Lv.22
+  - Pidgey Lv.22
+  - Mankey Lv.18
+  - Growlithe Lv.18
+  - Growlithe Lv.20
+  - Mankey Lv.19
+  - Mankey Lv.20
+  grass_rate: 15
+  name: Route 7
+  offset: '0xD297'
+  surf_rate: 0
+19:
+  binary: 0F12241239116C102114241439136C11210F211221000F132413B9113916B916241239122114211339143900
+  grass:
+  - Pidgey Lv.18
+  - Mankey Lv.18
+  - Ekans Lv.17
+  - Growlithe Lv.16
+  - Pidgey Lv.20
+  - Mankey Lv.20
+  - Ekans Lv.19
+  - Growlithe Lv.17
+  - Growlithe Lv.15
+  - Growlithe Lv.18
+  grass_rate: 15
+  name: Route 8
+  offset: '0xD281'
+  surf_rate: 0
+20:
+  binary: 0F10A510050EA50B6C0D050F6C11A511050D6C116C000F0DB90D240F240A390C390FB910B910240E39103900
+  grass:
+  - Rattata Lv.16
+  - Spearow Lv.16
+  - Rattata Lv.14
+  - Ekans Lv.11
+  - Spearow Lv.13
+  - Ekans Lv.15
+  - Rattata Lv.17
+  - Spearow Lv.17
+  - Ekans Lv.13
+  - Ekans Lv.17
+  grass_rate: 15
+  name: Route 9
+  offset: '0xD1D1'
+  surf_rate: 0
+21:
+  binary: 0F100610050E060B6C0D050F6C110611050D6C116C000F18B919241724184116B91A411AB91B241CBA1EBA00
+  grass:
+  - Voltorb Lv.16
+  - Spearow Lv.16
+  - Voltorb Lv.14
+  - Ekans Lv.11
+  - Spearow Lv.13
+  - Ekans Lv.15
+  - Voltorb Lv.17
+  - Spearow Lv.17
+  - Ekans Lv.13
+  - Ekans Lv.17
+  grass_rate: 15
+  name: Route 10
+  offset: '0xD255'
+  surf_rate: 0
+22:
+  binary: 0F0E6C0F050C6C09300D050D300F6C11050B300F30000F106B116B11A90F6A10A9126B0F6B116A0D220F2200
+  grass:
+  - Ekans Lv.14
+  - Spearow Lv.15
+  - Ekans Lv.12
+  - Drowzee Lv.9
+  - Spearow Lv.13
+  - Drowzee Lv.13
+  - Ekans Lv.15
+  - Spearow Lv.17
+  - Drowzee Lv.11
+  - Drowzee Lv.15
+  grass_rate: 15
+  name: Route 11
+  offset: '0xD213'
+  surf_rate: 0
+23:
+  binary: 0F18B919241724184116B91A411AB91B241CBA1EBA000F12241239116C102114241439136C11210F21122100
+  grass:
+  - Oddish Lv.24
+  - Pidgey Lv.25
+  - Pidgey Lv.23
+  - Venonat Lv.24
+  - Oddish Lv.22
+  - Venonat Lv.26
+  - Oddish Lv.26
+  - Pidgey Lv.27
+  - Gloom Lv.28
+  - Gloom Lv.30
+  grass_rate: 15
+  name: Route 12
+  offset: '0xD26B'
+  surf_rate: 0
+24:
+  binary: 1418B919241B24184116B91A411AB9194C1CBA1EBA000F18B91A24174C184116B91A411AB91EBA1C961E9600
+  grass:
+  - Oddish Lv.24
+  - Pidgey Lv.25
+  - Pidgey Lv.27
+  - Venonat Lv.24
+  - Oddish Lv.22
+  - Venonat Lv.26
+  - Oddish Lv.26
+  - Ditto Lv.25
+  - Gloom Lv.28
+  - Gloom Lv.30
+  grass_rate: 20
+  name: Route 13
+  offset: '0xD31F'
+  surf_rate: 0
+25:
+  binary: 0F18B91A24174C184116B91A411AB91EBA1C961E96000F18B91A4C17241A4116B91C411AB91EBA1C961E9600
+  grass:
+  - Oddish Lv.24
+  - Pidgey Lv.26
+  - Ditto Lv.23
+  - Venonat Lv.24
+  - Oddish Lv.22
+  - Venonat Lv.26
+  - Oddish Lv.26
+  - Gloom Lv.30
+  - Pidgeotto Lv.28
+  - Pidgeotto Lv.30
+  grass_rate: 15
+  name: Route 14
+  offset: '0xD335'
+  surf_rate: 0
+26:
+  binary: 0F18B91A4C17241A4116B91C411AB91EBA1C961E9600191405160512A5144614A51246164616A517A619A600
+  grass:
+  - Oddish Lv.24
+  - Ditto Lv.26
+  - Pidgey Lv.23
+  - Venonat Lv.26
+  - Oddish Lv.22
+  - Venonat Lv.28
+  - Oddish Lv.26
+  - Gloom Lv.30
+  - Pidgeotto Lv.28
+  - Pidgeotto Lv.30
+  grass_rate: 15
+  name: Route 15
+  offset: '0xD34B'
+  surf_rate: 0
+27:
+  binary: 191405160512A5144614A51246164616A517A619A600191405160519A618461BA61A461C461DA619231B2300
+  grass:
+  - Spearow Lv.20
+  - Spearow Lv.22
+  - Rattata Lv.18
+  - Doduo Lv.20
+  - Rattata Lv.20
+  - Doduo Lv.18
+  - Doduo Lv.22
+  - Rattata Lv.22
+  - Raticate Lv.23
+  - Raticate Lv.25
+  grass_rate: 25
+  name: Route 16
+  offset: '0xD361'
+  surf_rate: 0
+28:
+  binary: 191405160519A618461BA61A461C461DA619231B2300191405160519A6184619231A461C461DA61B231D2300
+  grass:
+  - Spearow Lv.20
+  - Spearow Lv.22
+  - Raticate Lv.25
+  - Doduo Lv.24
+  - Raticate Lv.27
+  - Doduo Lv.26
+  - Doduo Lv.28
+  - Raticate Lv.29
+  - Fearow Lv.25
+  - Fearow Lv.27
+  grass_rate: 25
+  name: Route 17
+  offset: '0xD377'
+  surf_rate: 0
+29:
+  binary: 191405160519A6184619231A461C461DA61B231D23001E160319121641180C1FA7190C1FA81E2E171A172800
+  grass:
+  - Spearow Lv.20
+  - Spearow Lv.22
+  - Raticate Lv.25
+  - Doduo Lv.24
+  - Fearow Lv.25
+  - Doduo Lv.26
+  - Doduo Lv.28
+  - Raticate Lv.29
+  - Fearow Lv.27
+  - Fearow Lv.29
+  grass_rate: 25
+  name: Route 18
+  offset: '0xD38D'
+  surf_rate: 0
+30:
+  binary: 000505180A180F1805180A180F1814181E18231828180F1E3A1E251E171E5C1C5C156B1D821C2F1C17268000
+  grass_rate: 0
+  name: Route 19
+  offset: '0xD3FB'
+  surf:
+  - Tentacool Lv.5
+  - Tentacool Lv.10
+  - Tentacool Lv.15
+  - Tentacool Lv.5
+  - Tentacool Lv.10
+  - Tentacool Lv.15
+  - Tentacool Lv.20
+  - Tentacool Lv.30
+  - Tentacool Lv.35
+  - Tentacool Lv.40
+  surf_rate: 5
+31:
+  binary: 000505180A180F1805180A180F1814181E18231828180F1E3A1E251E171E5C1C5C156B1D821C2F1C17268000
+  grass_rate: 0
+  name: Route 20
+  offset: '0xD3FB'
+  surf:
+  - Tentacool Lv.5
+  - Tentacool Lv.10
+  - Tentacool Lv.15
+  - Tentacool Lv.5
+  - Tentacool Lv.10
+  - Tentacool Lv.15
+  - Tentacool Lv.20
+  - Tentacool Lv.30
+  - Tentacool Lv.35
+  - Tentacool Lv.40
+  surf_rate: 5
+32:
+  binary: 1915A517241EA617A515241E9620961C1E1E1E201E0505180A180F1805180A180F1814181E18231828180A2E822E812E3631743177342D3126342E3555354C000F33743377332634013491348D38283665374C3C4C00
+  grass:
+  - Rattata Lv.21
+  - Pidgey Lv.23
+  - Raticate Lv.30
+  - Rattata Lv.23
+  - Pidgey Lv.21
+  - Pidgeotto Lv.30
+  - Pidgeotto Lv.32
+  - Tangela Lv.28
+  - Tangela Lv.30
+  - Tangela Lv.32
+  grass_rate: 25
+  name: Route 21
+  offset: '0xD4D7'
+  surf:
+  - Tentacool Lv.5
+  - Tentacool Lv.10
+  - Tentacool Lv.15
+  - Tentacool Lv.5
+  - Tentacool Lv.10
+  - Tentacool Lv.15
+  - Tentacool Lv.20
+  - Tentacool Lv.30
+  - Tentacool Lv.35
+  - Tentacool Lv.40
+  surf_rate: 5
+33:
+  binary: 1903A5030304A5040302A5020303050505030F040F0008047005710370057004710671047C037B0354055400
+  grass:
+  - Rattata Lv.3
+  - Nidoran M Lv.3
+  - Rattata Lv.4
+  - Nidoran M Lv.4
+  - Rattata Lv.2
+  - Nidoran M Lv.2
+  - Spearow Lv.3
+  - Spearow Lv.5
+  - Nidoran F Lv.3
+  - Nidoran F Lv.4
+  grass_rate: 25
+  name: Route 22
+  offset: '0xD10B'
+  surf_rate: 0
+34:
+  binary: 0A1A6C214C1A052623264C2623292D2B4C29232B23000A166A18A91A6B242227222A222929288228912B2700
+  grass:
+  - Ekans Lv.26
+  - Ditto Lv.33
+  - Spearow Lv.26
+  - Fearow Lv.38
+  - Ditto Lv.38
+  - Fearow Lv.38
+  - Arbok Lv.41
+  - Ditto Lv.43
+  - Fearow Lv.41
+  - Fearow Lv.43
+  grass_rate: 10
+  name: Route 23
+  offset: '0xD559'
+  surf_rate: 0
+35:
+  binary: 19077008710C240CB90DB90A940EB90D2408940C94000F087009710D240CB90DB90C940EB90A94077C087B00
+  grass:
+  - Weedle Lv.7
+  - Kakuna Lv.8
+  - Pidgey Lv.12
+  - Oddish Lv.12
+  - Oddish Lv.13
+  - Abra Lv.10
+  - Oddish Lv.14
+  - Pidgey Lv.13
+  - Abra Lv.8
+  - Abra Lv.12
+  grass_rate: 25
+  name: Route 24
+  offset: '0xD1A5'
+  surf_rate: 0
+36:
+  binary: 0F087009710D240CB90DB90C940EB90A94077C087B000F10A510050EA50B6C0D050F6C11A511050D6C116C00
+  grass:
+  - Weedle Lv.8
+  - Kakuna Lv.9
+  - Pidgey Lv.13
+  - Oddish Lv.12
+  - Oddish Lv.13
+  - Abra Lv.12
+  - Oddish Lv.14
+  - Abra Lv.10
+  - Metapod Lv.7
+  - Caterpie Lv.8
+  grass_rate: 15
+  name: Route 25
+  offset: '0xD1BB'
+  surf_rate: 0
+37:
+  binary: '0000'
+  grass_rate: 0
+  name: Pallet Red's House 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+38:
+  binary: '0000'
+  grass_rate: 0
+  name: Pallet Red's House 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+39:
+  binary: '0000'
+  grass_rate: 0
+  name: Pallet Blue's House
+  offset: '0xD0DD'
+  surf_rate: 0
+40:
+  binary: '0000'
+  grass_rate: 0
+  name: Pallet Professor Oak's Laboratory
+  offset: '0xD0DD'
+  surf_rate: 0
+41:
+  binary: '0000'
+  grass_rate: 0
+  name: "Viridian Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+42:
+  binary: '0000'
+  grass_rate: 0
+  name: "Viridian Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+43:
+  binary: '0000'
+  grass_rate: 0
+  name: Viridian Trainers' School
+  offset: '0xD0DD'
+  surf_rate: 0
+44:
+  binary: '0000'
+  grass_rate: 0
+  name: Viridian House
+  offset: '0xD0DD'
+  surf_rate: 0
+45:
+  binary: '0000'
+  grass_rate: 0
+  name: Viridian Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+46:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 2 Diglett's Cave Entrance
+  offset: '0xD0DD'
+  surf_rate: 0
+47:
+  binary: '0000'
+  grass_rate: 0
+  name: Viridian Forest North Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+48:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 2 House
+  offset: '0xD0DD'
+  surf_rate: 0
+49:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 2 Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+50:
+  binary: '0000'
+  grass_rate: 0
+  name: Viridian Forest South Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+51:
+  binary: 08047005710370057004710671047C037B035405540014062405050724060507050824080503640564076400
+  grass:
+  - Weedle Lv.4
+  - Kakuna Lv.5
+  - Weedle Lv.3
+  - Weedle Lv.5
+  - Kakuna Lv.4
+  - Kakuna Lv.6
+  - Metapod Lv.4
+  - Caterpie Lv.3
+  - Pikachu Lv.3
+  - Pikachu Lv.5
+  grass_rate: 8
+  name: Viridian Forest
+  offset: '0xD121'
+  surf_rate: 0
+52:
+  binary: '0000'
+  grass_rate: 0
+  name: Pewter Museum 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+53:
+  binary: '0000'
+  grass_rate: 0
+  name: Pewter Museum 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+54:
+  binary: '0000'
+  grass_rate: 0
+  name: Pewter Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+55:
+  binary: '0000'
+  grass_rate: 0
+  name: Pewter House NE
+  offset: '0xD0DD'
+  surf_rate: 0
+56:
+  binary: '0000'
+  grass_rate: 0
+  name: "Pewter Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+57:
+  binary: '0000'
+  grass_rate: 0
+  name: Pewter House SW
+  offset: '0xD0DD'
+  surf_rate: 0
+58:
+  binary: '0000'
+  grass_rate: 0
+  name: "Pewter Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+59:
+  binary: 0A086B076B096B08A9066B0A6B0AA9086D0B6B0804000A086B076B07A908A9096B0A6D0A6B0B6B090409A900
+  grass:
+  - Zubat Lv.8
+  - Zubat Lv.7
+  - Zubat Lv.9
+  - Geodude Lv.8
+  - Zubat Lv.6
+  - Zubat Lv.10
+  - Geodude Lv.10
+  - Paras Lv.8
+  - Zubat Lv.11
+  - Clefairy Lv.8
+  grass_rate: 10
+  name: Mt. Moon 1F
+  offset: '0xD14D'
+  surf_rate: 0
+60:
+  binary: 0A086B076B07A908A9096B0A6D0A6B0B6B090409A9000A096B09A90A6B0AA90B6B0A6D0C6D0A040C6B0C0400
+  grass:
+  - Zubat Lv.8
+  - Zubat Lv.7
+  - Geodude Lv.7
+  - Geodude Lv.8
+  - Zubat Lv.9
+  - Paras Lv.10
+  - Zubat Lv.10
+  - Zubat Lv.11
+  - Clefairy Lv.9
+  - Geodude Lv.9
+  grass_rate: 10
+  name: Mt. Moon B1
+  offset: '0xD163'
+  surf_rate: 0
+61:
+  binary: 0A096B09A90A6B0AA90B6B0A6D0C6D0A040C6B0C0400140AA50A0508A5066C08050A6C0CA50C05086C0C6C00
+  grass:
+  - Zubat Lv.9
+  - Geodude Lv.9
+  - Zubat Lv.10
+  - Geodude Lv.10
+  - Zubat Lv.11
+  - Paras Lv.10
+  - Paras Lv.12
+  - Clefairy Lv.10
+  - Zubat Lv.12
+  - Clefairy Lv.12
+  grass_rate: 10
+  name: Mt. Moon B2
+  offset: '0xD179'
+  surf_rate: 0
+62:
+  binary: '0000'
+  grass_rate: 0
+  name: Cerulean House (Trashed)
+  offset: '0xD0DD'
+  surf_rate: 0
+63:
+  binary: '0000'
+  grass_rate: 0
+  name: Cerulean House (Trade)
+  offset: '0xD0DD'
+  surf_rate: 0
+64:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cerulean Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+65:
+  binary: '0000'
+  grass_rate: 0
+  name: Cerulean Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+66:
+  binary: '0000'
+  grass_rate: 0
+  name: Cerulean Bike Shop
+  offset: '0xD0DD'
+  surf_rate: 0
+67:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cerulean Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+68:
+  binary: '0000'
+  grass_rate: 0
+  name: "Mt. Moon Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+70:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 5 Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+71:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 5 Underground Path Entrance
+  offset: '0xD0DD'
+  surf_rate: 0
+72:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 5 Day Care
+  offset: '0xD0DD'
+  surf_rate: 0
+73:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 6 Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+74:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 6 Underground Path Entrance
+  offset: '0xD0DD'
+  surf_rate: 0
+76:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 7 Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+77:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 7 Underground Path Entrance
+  offset: '0xD0DD'
+  surf_rate: 0
+79:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 8 Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+80:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 8 Underground Path Entrance
+  offset: '0xD0DD'
+  surf_rate: 0
+81:
+  binary: '0000'
+  grass_rate: 0
+  name: "Rock Tunnel Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+82:
+  binary: 0F106B116B11A90F6A10A9126B0F6B116A0D220F22000F106B116B11A90F6A10A9126B116A11220D2212A900
+  grass:
+  - Zubat Lv.16
+  - Zubat Lv.17
+  - Geodude Lv.17
+  - Machop Lv.15
+  - Geodude Lv.16
+  - Zubat Lv.18
+  - Zubat Lv.15
+  - Machop Lv.17
+  - Onix Lv.13
+  - Onix Lv.15
+  grass_rate: 15
+  name: Rock Tunnel 1F
+  offset: '0xD229'
+  surf_rate: 0
+83:
+  binary: 0A150615AD1454185417AD17062036233621352435000A1A6C214C1A052623264C2623292D2B4C29232B2300
+  grass:
+  - Voltorb Lv.21
+  - Magnemite Lv.21
+  - Pikachu Lv.20
+  - Pikachu Lv.24
+  - Magnemite Lv.23
+  - Voltorb Lv.23
+  - Magneton Lv.32
+  - Magneton Lv.35
+  - Electabuzz Lv.33
+  - Electabuzz Lv.36
+  grass_rate: 10
+  name: Power Plant
+  offset: '0xD543'
+  surf_rate: 0
+84:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 11 Gate 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+85:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 11 Diglett's Cave Entrance
+  offset: '0xD0DD'
+  surf_rate: 0
+86:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 11 Gate 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+87:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 12 Gate 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+88:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 25 Bill's House
+  offset: '0xD0DD'
+  surf_rate: 0
+89:
+  binary: '0000'
+  grass_rate: 0
+  name: "Vermilion Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+90:
+  binary: '0000'
+  grass_rate: 0
+  name: "Vermilion Pok\xE9mon Fan Club"
+  offset: '0xD0DD'
+  surf_rate: 0
+91:
+  binary: '0000'
+  grass_rate: 0
+  name: "Vermilion Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+92:
+  binary: '0000'
+  grass_rate: 0
+  name: Vermilion Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+93:
+  binary: '0000'
+  grass_rate: 0
+  name: Vermilion House SE
+  offset: '0xD0DD'
+  surf_rate: 0
+94:
+  binary: '0000'
+  grass_rate: 0
+  name: Vermilion Dock
+  offset: '0xD0DD'
+  surf_rate: 0
+95:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne 1F Corridor
+  offset: '0xD0DD'
+  surf_rate: 0
+96:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne 2F Corridor
+  offset: '0xD0DD'
+  surf_rate: 0
+97:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne Corridor to Deck
+  offset: '0xD0DD'
+  surf_rate: 0
+98:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne B1 Corridor
+  offset: '0xD0DD'
+  surf_rate: 0
+99:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne Deck
+  offset: '0xD0DD'
+  surf_rate: 0
+100:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne Kitchen
+  offset: '0xD0DD'
+  surf_rate: 0
+101:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne Captain's Room
+  offset: '0xD0DD'
+  surf_rate: 0
+102:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne 1F Rooms
+  offset: '0xD0DD'
+  surf_rate: 0
+103:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne 2F Rooms
+  offset: '0xD0DD'
+  surf_rate: 0
+104:
+  binary: '0000'
+  grass_rate: 0
+  name: S.S. Anne B1 Rooms
+  offset: '0xD0DD'
+  surf_rate: 0
+108:
+  binary: 0F186A1AA9166B242227222A22292729822A292B910014123B133B113B143B103B0F3B153B163B1D761F7600
+  grass:
+  - Machop Lv.24
+  - Geodude Lv.26
+  - Zubat Lv.22
+  - Onix Lv.36
+  - Onix Lv.39
+  - Onix Lv.42
+  - Graveler Lv.41
+  - Golbat Lv.41
+  - Machoke Lv.42
+  - Marowak Lv.43
+  grass_rate: 15
+  name: Victory Road 1F
+  offset: '0xD59B'
+  surf_rate: 0
+113:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau Lance's Room
+  offset: '0xD0DD'
+  surf_rate: 0
+118:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau Hall of Fame Room
+  offset: '0xD0DD'
+  surf_rate: 0
+119:
+  binary: '0000'
+  grass_rate: 0
+  name: Underground Path (N/S)
+  offset: '0xD0DD'
+  surf_rate: 0
+120:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau Champion's Room
+  offset: '0xD0DD'
+  surf_rate: 0
+121:
+  binary: '0000'
+  grass_rate: 0
+  name: Underground Path (W/E)
+  offset: '0xD0DD'
+  surf_rate: 0
+122:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Department Store 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+123:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Department Store 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+124:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Department Store 3F
+  offset: '0xD0DD'
+  surf_rate: 0
+125:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Department Store 4F
+  offset: '0xD0DD'
+  surf_rate: 0
+126:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Department Store Roof
+  offset: '0xD0DD'
+  surf_rate: 0
+127:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Department Store Elevator
+  offset: '0xD0DD'
+  surf_rate: 0
+128:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Mansion 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+129:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Mansion 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+130:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Mansion 3F
+  offset: '0xD0DD'
+  surf_rate: 0
+131:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Mansion Rooftop
+  offset: '0xD0DD'
+  surf_rate: 0
+132:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Mansion Rooftop Room
+  offset: '0xD0DD'
+  surf_rate: 0
+133:
+  binary: '0000'
+  grass_rate: 0
+  name: "Celadon Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+134:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+135:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Game Corner
+  offset: '0xD0DD'
+  surf_rate: 0
+136:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Department Store 5F
+  offset: '0xD0DD'
+  surf_rate: 0
+137:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Game Corner Prize Exchange
+  offset: '0xD0DD'
+  surf_rate: 0
+138:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Diner
+  offset: '0xD0DD'
+  surf_rate: 0
+139:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon House
+  offset: '0xD0DD'
+  surf_rate: 0
+140:
+  binary: '0000'
+  grass_rate: 0
+  name: Celadon Hotel
+  offset: '0xD0DD'
+  surf_rate: 0
+141:
+  binary: '0000'
+  grass_rate: 0
+  name: "Lavender Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+142:
+  binary: '0000'
+  grass_rate: 0
+  name: "Pok\xE9mon Tower 1F"
+  offset: '0xD2AD'
+  surf_rate: 0
+143:
+  binary: '0000'
+  grass_rate: 0
+  name: "Pok\xE9mon Tower 2F"
+  offset: '0xD2AF'
+  surf_rate: 0
+144:
+  binary: 0A1419151916191719131912191819141116111993000A141915191619171913191219199314111611181900
+  grass:
+  - Gastly Lv.20
+  - Gastly Lv.21
+  - Gastly Lv.22
+  - Gastly Lv.23
+  - Gastly Lv.19
+  - Gastly Lv.18
+  - Gastly Lv.24
+  - Cubone Lv.20
+  - Cubone Lv.22
+  - Haunter Lv.25
+  grass_rate: 10
+  name: "Pok\xE9mon Tower 3F"
+  offset: '0xD2B1'
+  surf_rate: 0
+145:
+  binary: 0A1419151916191719131912191993141116111819000A141915191619171913191219199314111611181900
+  grass:
+  - Gastly Lv.20
+  - Gastly Lv.21
+  - Gastly Lv.22
+  - Gastly Lv.23
+  - Gastly Lv.19
+  - Gastly Lv.18
+  - Haunter Lv.25
+  - Cubone Lv.20
+  - Cubone Lv.22
+  - Gastly Lv.24
+  grass_rate: 10
+  name: "Pok\xE9mon Tower 4F"
+  offset: '0xD2C7'
+  surf_rate: 0
+146:
+  binary: 0A1419151916191719131912191993141116111819000F1519161917191819141913191A93161118111C9300
+  grass:
+  - Gastly Lv.20
+  - Gastly Lv.21
+  - Gastly Lv.22
+  - Gastly Lv.23
+  - Gastly Lv.19
+  - Gastly Lv.18
+  - Haunter Lv.25
+  - Cubone Lv.20
+  - Cubone Lv.22
+  - Gastly Lv.24
+  grass_rate: 10
+  name: "Pok\xE9mon Tower 5F"
+  offset: '0xD2DD'
+  surf_rate: 0
+147:
+  binary: 0F1519161917191819141913191A93161118111C93000F151916191719181914191C93161118111C931E9300
+  grass:
+  - Gastly Lv.21
+  - Gastly Lv.22
+  - Gastly Lv.23
+  - Gastly Lv.24
+  - Gastly Lv.20
+  - Gastly Lv.19
+  - Haunter Lv.26
+  - Cubone Lv.22
+  - Cubone Lv.24
+  - Haunter Lv.28
+  grass_rate: 15
+  name: "Pok\xE9mon Tower 6F"
+  offset: '0xD2F3'
+  surf_rate: 0
+148:
+  binary: 0F151916191719181914191C93161118111C931E93001418B919241B24184116B91A411AB9194C1CBA1EBA00
+  grass:
+  - Gastly Lv.21
+  - Gastly Lv.22
+  - Gastly Lv.23
+  - Gastly Lv.24
+  - Gastly Lv.20
+  - Haunter Lv.28
+  - Cubone Lv.22
+  - Cubone Lv.24
+  - Haunter Lv.28
+  - Haunter Lv.30
+  grass_rate: 15
+  name: "Pok\xE9mon Tower 7F"
+  offset: '0xD309'
+  surf_rate: 0
+149:
+  binary: '0000'
+  grass_rate: 0
+  name: Lavender Mr. Fuji's House
+  offset: '0xD0DD'
+  surf_rate: 0
+150:
+  binary: '0000'
+  grass_rate: 0
+  name: "Lavender Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+151:
+  binary: '0000'
+  grass_rate: 0
+  name: Lavender House SW
+  offset: '0xD0DD'
+  surf_rate: 0
+152:
+  binary: '0000'
+  grass_rate: 0
+  name: "Fuchsia Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+153:
+  binary: '0000'
+  grass_rate: 0
+  name: Fuchsia House SW
+  offset: '0xD0DD'
+  surf_rate: 0
+154:
+  binary: '0000'
+  grass_rate: 0
+  name: "Fuchsia Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+155:
+  binary: '0000'
+  grass_rate: 0
+  name: Fuchsia Warden's House
+  offset: '0xD0DD'
+  surf_rate: 0
+156:
+  binary: '0000'
+  grass_rate: 0
+  name: Safari Zone Entrance
+  offset: '0xD0DD'
+  surf_rate: 0
+157:
+  binary: '0000'
+  grass_rate: 0
+  name: Fuchsia Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+158:
+  binary: '0000'
+  grass_rate: 0
+  name: Safari Zone Meeting Room
+  offset: '0xD0DD'
+  surf_rate: 0
+159:
+  binary: 0A1E1B1E5C2017205C1C251E3A1E251C3A2678255D000A1E3A1E25203A20251C5C1E1B1E5C1C171E82250800
+  grass:
+  - Staryu Lv.30
+  - Horsea Lv.30
+  - Shellder Lv.32
+  - Horsea Lv.32
+  - Slowpoke Lv.28
+  - Seel Lv.30
+  - Slowpoke Lv.30
+  - Seel Lv.28
+  - Dewgong Lv.38
+  - Seadra Lv.37
+  grass_rate: 10
+  name: Seafoam Islands B1
+  offset: '0xD427'
+  surf_rate: 0
+160:
+  binary: 0A1E3A1E25203A20251C5C1E1B1E5C1C171E822508000A1F251F3A2125213A1D5C1F171F5C1D17275D257800
+  grass:
+  - Seel Lv.30
+  - Slowpoke Lv.30
+  - Seel Lv.32
+  - Slowpoke Lv.32
+  - Horsea Lv.28
+  - Staryu Lv.30
+  - Horsea Lv.30
+  - Shellder Lv.28
+  - Golbat Lv.30
+  - Slowbro Lv.37
+  grass_rate: 10
+  name: Seafoam Islands B2
+  offset: '0xD43D'
+  surf_rate: 0
+161:
+  binary: 0A1F251F3A2125213A1D5C1F171F5C1D17275D2578000A1F5C1F17215C21171D251F3A1F251D3A2708208200
+  grass:
+  - Slowpoke Lv.31
+  - Seel Lv.31
+  - Slowpoke Lv.33
+  - Seel Lv.33
+  - Horsea Lv.29
+  - Shellder Lv.31
+  - Horsea Lv.31
+  - Shellder Lv.29
+  - Seadra Lv.39
+  - Dewgong Lv.37
+  grass_rate: 10
+  name: Seafoam Islands B3
+  offset: '0xD453'
+  surf_rate: 0
+162:
+  binary: 0A1F5C1F17215C21171D251F3A1F251D3A27082082000A20371E3722A31EA3222120A31E0D1CA3258F278800
+  grass:
+  - Horsea Lv.31
+  - Shellder Lv.31
+  - Horsea Lv.33
+  - Shellder Lv.33
+  - Slowpoke Lv.29
+  - Seel Lv.31
+  - Slowpoke Lv.31
+  - Seel Lv.29
+  - Slowbro Lv.39
+  - Golbat Lv.32
+  grass_rate: 10
+  name: Seafoam Islands B4
+  offset: '0xD469'
+  surf_rate: 0
+163:
+  binary: '0000'
+  grass_rate: 0
+  name: Vermilion Fishing Guru's House
+  offset: '0xD0DD'
+  surf_rate: 0
+164:
+  binary: '0000'
+  grass_rate: 0
+  name: Fuchsia Fishing Guru's Older Brother's House
+  offset: '0xD0DD'
+  surf_rate: 0
+165:
+  binary: 0A20371E3722A31EA3222120A31E0D1CA3258F2788000A2021223722371EA31E3720A31E0D1CA3278F258800
+  grass:
+  - Koffing Lv.32
+  - Koffing Lv.30
+  - Ponyta Lv.34
+  - Ponyta Lv.30
+  - Growlithe Lv.34
+  - Ponyta Lv.32
+  - Grimer Lv.30
+  - Ponyta Lv.28
+  - Weezing Lv.37
+  - Muk Lv.39
+  grass_rate: 10
+  name: "Pok\xE9mon Mansion 1F"
+  offset: '0xD47F'
+  surf_rate: 0
+166:
+  binary: '0000'
+  grass_rate: 0
+  name: Cinnabar Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+167:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cinnabar Pok\xE9mon Lab Entrance"
+  offset: '0xD0DD'
+  surf_rate: 0
+168:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cinnabar Pok\xE9mon Lab Meeting Room"
+  offset: '0xD0DD'
+  surf_rate: 0
+169:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cinnabar Pok\xE9mon Lab R&D Room"
+  offset: '0xD0DD'
+  surf_rate: 0
+170:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cinnabar Pok\xE9mon Lab Testing Room"
+  offset: '0xD0DD'
+  surf_rate: 0
+171:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cinnabar Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+172:
+  binary: '0000'
+  grass_rate: 0
+  name: "Cinnabar Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+174:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau Lobby
+  offset: '0xD0DD'
+  surf_rate: 0
+175:
+  binary: '0000'
+  grass_rate: 0
+  name: Saffron Copycat's House 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+176:
+  binary: '0000'
+  grass_rate: 0
+  name: Saffron Copycat's House 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+177:
+  binary: '0000'
+  grass_rate: 0
+  name: Saffron Fighting Dojo
+  offset: '0xD0DD'
+  surf_rate: 0
+178:
+  binary: '0000'
+  grass_rate: 0
+  name: Saffron Gym
+  offset: '0xD0DD'
+  surf_rate: 0
+179:
+  binary: '0000'
+  grass_rate: 0
+  name: Saffron House NW
+  offset: '0xD0DD'
+  surf_rate: 0
+180:
+  binary: '0000'
+  grass_rate: 0
+  name: "Saffron Pok\xE9 Mart"
+  offset: '0xD0DD'
+  surf_rate: 0
+181:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+182:
+  binary: '0000'
+  grass_rate: 0
+  name: "Saffron Pok\xE9mon Center"
+  offset: '0xD0DD'
+  surf_rate: 0
+183:
+  binary: '0000'
+  grass_rate: 0
+  name: Saffron Mr. Psychic's House
+  offset: '0xD0DD'
+  surf_rate: 0
+184:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 15 Gate 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+185:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 15 Gate 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+186:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 16 Gate 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+187:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 16 Gate 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+188:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 16 House
+  offset: '0xD0DD'
+  surf_rate: 0
+189:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 12 House
+  offset: '0xD0DD'
+  surf_rate: 0
+190:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 18 Gate 1F
+  offset: '0xD0DD'
+  surf_rate: 0
+191:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 18 Gate 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+192:
+  binary: 0F1E3A1E251E171E5C1C5C156B1D821C2F1C172680000A1E1B1E5C2017205C1C251E3A1E251C3A2678255D00
+  grass:
+  - Seel Lv.30
+  - Slowpoke Lv.30
+  - Shellder Lv.30
+  - Horsea Lv.30
+  - Horsea Lv.28
+  - Zubat Lv.21
+  - Golbat Lv.29
+  - Psyduck Lv.28
+  - Shellder Lv.28
+  - Golduck Lv.38
+  grass_rate: 15
+  name: Seafoam Islands 1F
+  offset: '0xD411'
+  surf_rate: 0
+193:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 22 Gate
+  offset: '0xD0DD'
+  surf_rate: 0
+194:
+  binary: 0A166A18A91A6B242227222A222929288228912B27000F186A1AA9166B2A2228772D222B2729822A292D2900
+  grass:
+  - Machop Lv.22
+  - Geodude Lv.24
+  - Zubat Lv.26
+  - Onix Lv.36
+  - Onix Lv.39
+  - Onix Lv.42
+  - Machoke Lv.41
+  - Golbat Lv.40
+  - Marowak Lv.40
+  - Graveler Lv.43
+  grass_rate: 10
+  name: Victory Road 2F
+  offset: '0xD56F'
+  surf_rate: 0
+195:
+  binary: '0000'
+  grass_rate: 0
+  name: Route 12 Gate 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+196:
+  binary: '0000'
+  grass_rate: 0
+  name: Vermilion House (Trade)
+  offset: '0xD0DD'
+  surf_rate: 0
+197:
+  binary: 14123B133B113B143B103B0F3B153B163B1D761F76003E01EA6ACDFA91CFFEC4D2796421E1553D874F0600
+  grass:
+  - Diglett Lv.18
+  - Diglett Lv.19
+  - Diglett Lv.17
+  - Diglett Lv.20
+  - Diglett Lv.16
+  - Diglett Lv.15
+  - Diglett Lv.21
+  - Diglett Lv.22
+  - Dugtrio Lv.29
+  - Dugtrio Lv.31
+  grass_rate: 20
+  name: Diglett's Cave
+  offset: '0xD5B1'
+  surf_rate: 0
+198:
+  binary: 0F186A1AA9166B2A2228772D222B2729822A292D29000F186A1AA9166B242227222A22292729822A292B9100
+  grass:
+  - Machop Lv.24
+  - Geodude Lv.26
+  - Zubat Lv.22
+  - Onix Lv.42
+  - Venomoth Lv.40
+  - Onix Lv.45
+  - Graveler Lv.43
+  - Golbat Lv.41
+  - Machoke Lv.42
+  - Machoke Lv.45
+  grass_rate: 15
+  name: Victory Road 3F
+  offset: '0xD585'
+  surf_rate: 0
+199:
+  binary: '0000'
+  grass_rate: 0
+  name: Rocket Hideout B1
+  offset: '0xD0DD'
+  surf_rate: 0
+200:
+  binary: '0000'
+  grass_rate: 0
+  name: Rocket Hideout B2
+  offset: '0xD0DD'
+  surf_rate: 0
+201:
+  binary: '0000'
+  grass_rate: 0
+  name: Rocket Hideout B3
+  offset: '0xD0DD'
+  surf_rate: 0
+202:
+  binary: '0000'
+  grass_rate: 0
+  name: Rocket Hideout B4
+  offset: '0xD0DD'
+  surf_rate: 0
+203:
+  binary: '0000'
+  grass_rate: 0
+  name: Rocket Hideout Elevator
+  offset: '0xD0DD'
+  surf_rate: 0
+207:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 2F
+  offset: '0xD0DD'
+  surf_rate: 0
+208:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 3F
+  offset: '0xD0DD'
+  surf_rate: 0
+209:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 4F
+  offset: '0xD0DD'
+  surf_rate: 0
+210:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 5F
+  offset: '0xD0DD'
+  surf_rate: 0
+211:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 6F
+  offset: '0xD0DD'
+  surf_rate: 0
+212:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 7F
+  offset: '0xD0DD'
+  surf_rate: 0
+213:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 8F
+  offset: '0xD0DD'
+  surf_rate: 0
+214:
+  binary: 0A2021223722371EA31E3720A31E0D1CA3278F2588000A1F372121233720A322A3288F220D268F24A32A8800
+  grass:
+  - Growlithe Lv.32
+  - Koffing Lv.34
+  - Koffing Lv.34
+  - Ponyta Lv.30
+  - Koffing Lv.30
+  - Ponyta Lv.32
+  - Grimer Lv.30
+  - Ponyta Lv.28
+  - Weezing Lv.39
+  - Muk Lv.37
+  grass_rate: 10
+  name: "Pok\xE9mon Mansion 2F"
+  offset: '0xD495'
+  surf_rate: 0
+215:
+  binary: 0A1F372121233720A322A3288F220D268F24A32A88000A21371F37232120A31F37288F22A3230D2A8F2A8800
+  grass:
+  - Koffing Lv.31
+  - Growlithe Lv.33
+  - Koffing Lv.35
+  - Ponyta Lv.32
+  - Ponyta Lv.34
+  - Weezing Lv.40
+  - Grimer Lv.34
+  - Weezing Lv.38
+  - Ponyta Lv.36
+  - Muk Lv.42
+  grass_rate: 10
+  name: "Pok\xE9mon Mansion 3F"
+  offset: '0xD4AB'
+  surf_rate: 0
+216:
+  binary: 0A21371F37232120A31F37288F22A3230D2A8F2A88001915A517241EA617A515241E9620961C1E1E1E201E0505180A180F1805180A180F1814181E18231828180A2E822E812E3631743177342D3126342E3555354C00
+  grass:
+  - Koffing Lv.33
+  - Koffing Lv.31
+  - Growlithe Lv.35
+  - Ponyta Lv.32
+  - Koffing Lv.31
+  - Weezing Lv.40
+  - Ponyta Lv.34
+  - Grimer Lv.35
+  - Weezing Lv.42
+  - Muk Lv.42
+  grass_rate: 10
+  name: "Pok\xE9mon Mansion 4F"
+  offset: '0xD4C1'
+  surf_rate: 0
+217:
+  binary: 1E18031A46166D190C21A7170C180F192E19021C1A001E16031A12176D190C1EA71B0C1EA820771A281C3C00
+  grass:
+  - Nidoran M Lv.24
+  - Doduo Lv.26
+  - Paras Lv.22
+  - Exeggcute Lv.25
+  - Nidorino Lv.33
+  - Exeggcute Lv.23
+  - Nidoran F Lv.24
+  - Parasect Lv.25
+  - Kangaskhan Lv.25
+  - Scyther Lv.28
+  grass_rate: 30
+  name: Safari Zone East
+  offset: '0xD3B9'
+  surf_rate: 0
+218:
+  binary: 1E16031A12176D190C1EA71B0C1EA820771A281C3C001E19031A461741180C21A71A0C190F1F771A3C1C0200
+  grass:
+  - Nidoran M Lv.22
+  - Rhyhorn Lv.26
+  - Paras Lv.23
+  - Exeggcute Lv.25
+  - Nidorino Lv.30
+  - Exeggcute Lv.27
+  - Nidorina Lv.30
+  - Venomoth Lv.32
+  - Chansey Lv.26
+  - Tauros Lv.28
+  grass_rate: 30
+  name: Safari Zone North
+  offset: '0xD3CF'
+  surf_rate: 0
+219:
+  binary: 1E19031A461741180C21A71A0C190F1F771A3C1C020000
+  grass:
+  - Nidoran M Lv.25
+  - Doduo Lv.26
+  - Venonat Lv.23
+  - Exeggcute Lv.24
+  - Nidorino Lv.33
+  - Exeggcute Lv.26
+  - Nidoran F Lv.25
+  - Venomoth Lv.31
+  - Tauros Lv.26
+  - Kangaskhan Lv.28
+  grass_rate: 30
+  name: Safari Zone West
+  offset: '0xD3E5'
+  surf_rate: 0
+220:
+  binary: 1E160319121641180C1FA7190C1FA81E2E171A1728001E18031A46166D190C21A7170C180F192E19021C1A00
+  grass:
+  - Nidoran M Lv.22
+  - Rhyhorn Lv.25
+  - Venonat Lv.22
+  - Exeggcute Lv.24
+  - Nidorino Lv.31
+  - Exeggcute Lv.25
+  - Nidorina Lv.31
+  - Parasect Lv.30
+  - Scyther Lv.23
+  - Chansey Lv.23
+  grass_rate: 30
+  name: Safari Zone Center
+  offset: '0xD3A3'
+  surf_rate: 0
+221:
+  binary: '0000'
+  grass_rate: 0
+  name: Safari Zone Center Rest House
+  offset: '0xD0DD'
+  surf_rate: 0
+222:
+  binary: '0000'
+  grass_rate: 0
+  name: Safari Zone Secret House
+  offset: '0xD0DD'
+  surf_rate: 0
+223:
+  binary: '0000'
+  grass_rate: 0
+  name: Safari Zone West Rest House
+  offset: '0xD0DD'
+  surf_rate: 0
+224:
+  binary: '0000'
+  grass_rate: 0
+  name: Safari Zone East Rest House
+  offset: '0xD0DD'
+  surf_rate: 0
+225:
+  binary: '0000'
+  grass_rate: 0
+  name: Safari Zone North Rest House
+  offset: '0xD0DD'
+  surf_rate: 0
+226:
+  binary: 0F33743377332634013491348D38283665374C3C4C001937013791378D4028402E4055392D414C3F4C434C00
+  grass:
+  - Dodrio Lv.51
+  - Venomoth Lv.51
+  - Kadabra Lv.51
+  - Rhydon Lv.52
+  - Marowak Lv.52
+  - Electrode Lv.52
+  - Chansey Lv.56
+  - Wigglytuff Lv.54
+  - Ditto Lv.55
+  - Ditto Lv.60
+  grass_rate: 15
+  name: Cerulean Cave 2F
+  offset: '0xD517'
+  surf_rate: 0
+227:
+  binary: 1937013791378D4028402E4055392D414C3F4C434C000A150615AD1454185417AD1706203623362135243500
+  grass:
+  - Rhydon Lv.55
+  - Marowak Lv.55
+  - Electrode Lv.55
+  - Chansey Lv.64
+  - Parasect Lv.64
+  - Raichu Lv.64
+  - Arbok Lv.57
+  - Ditto Lv.65
+  - Ditto Lv.63
+  - Ditto Lv.67
+  grass_rate: 25
+  name: Cerulean Cave B1
+  offset: '0xD52D'
+  surf_rate: 0
+228:
+  binary: 0A2E822E812E3631743177342D3126342E3555354C000F33743377332634013491348D38283665374C3C4C00
+  grass:
+  - Golbat Lv.46
+  - Hypno Lv.46
+  - Magneton Lv.46
+  - Dodrio Lv.49
+  - Venomoth Lv.49
+  - Arbok Lv.52
+  - Kadabra Lv.49
+  - Parasect Lv.52
+  - Raichu Lv.53
+  - Ditto Lv.53
+  grass_rate: 10
+  name: Cerulean Cave 1F
+  offset: '0xD501'
+  surf_rate: 0
+229:
+  binary: '0000'
+  grass_rate: 0
+  name: Lavender Name Rater's House
+  offset: '0xD0DD'
+  surf_rate: 0
+230:
+  binary: '0000'
+  grass_rate: 0
+  name: Cerulean House (Badges)
+  offset: '0xD0DD'
+  surf_rate: 0
+232:
+  binary: 0F106B116B11A90F6A10A9126B116A11220D2212A9000F100610050E060B6C0D050F6C110611050D6C116C00
+  grass:
+  - Zubat Lv.16
+  - Zubat Lv.17
+  - Geodude Lv.17
+  - Machop Lv.15
+  - Geodude Lv.16
+  - Zubat Lv.18
+  - Machop Lv.17
+  - Onix Lv.17
+  - Onix Lv.13
+  - Geodude Lv.18
+  grass_rate: 15
+  name: Rock Tunnel B1
+  offset: '0xD23F'
+  surf_rate: 0
+233:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 9F
+  offset: '0xD0DD'
+  surf_rate: 0
+234:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 10F
+  offset: '0xD0DD'
+  surf_rate: 0
+235:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. 11F
+  offset: '0xD0DD'
+  surf_rate: 0
+236:
+  binary: '0000'
+  grass_rate: 0
+  name: Silph Co. Elevator
+  offset: '0xD0DD'
+  surf_rate: 0
+239:
+  binary: '0000'
+  grass_rate: 0
+  name: Battle Center
+  offset: '0xD0DD'
+  surf_rate: 0
+240:
+  binary: '0000'
+  grass_rate: 0
+  name: Trade Center
+  offset: '0xD0DD'
+  surf_rate: 0
+245:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau Lorelei's Room
+  offset: '0xD0DD'
+  surf_rate: 0
+246:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau Bruno's Room
+  offset: '0xD0DD'
+  surf_rate: 0
+247:
+  binary: '0000'
+  grass_rate: 0
+  name: Indigo Plateau Agatha's Room
+  offset: '0xD0DD'
+  surf_rate: 0

@@ -1,0 +1,1611 @@
+1:
+  binary: 0BA56C000E05000AA5A56B000EA56C6B000FA505001125000E6C6000150300156C0013606B0011A5A5A6001203A7001105A5A50500186000
+  name: Youngster
+  offset: '0x39E2F'
+  teams:
+    1:
+    - Rattata Lv.11
+    - Ekans Lv.11
+    2:
+    - Spearow Lv.14
+    3:
+    - Rattata Lv.10
+    - Rattata Lv.10
+    - Zubat Lv.10
+    4:
+    - Rattata Lv.14
+    - Ekans Lv.14
+    - Zubat Lv.14
+    5:
+    - Rattata Lv.15
+    - Spearow Lv.15
+    6:
+    - Slowpoke Lv.17
+    7:
+    - Ekans Lv.14
+    - Sandshrew Lv.14
+    8:
+    - Nidoran M Lv.21
+    9:
+    - Ekans Lv.21
+    10:
+    - Sandshrew Lv.19
+    - Zubat Lv.19
+    11:
+    - Rattata Lv.17
+    - Rattata Lv.17
+    - Raticate Lv.17
+    12:
+    - Nidoran M Lv.18
+    - Nidorino Lv.18
+    13:
+    - Spearow Lv.17
+    - Rattata Lv.17
+    - Rattata Lv.17
+    - Spearow Lv.17
+    14:
+    - Sandshrew Lv.24
+2:
+  binary: 077B7B00067C7B7C000A7B000A7B707B000970717B7C000B7B7C000B7071000A7B7C7B000E7B700010707B7000147D00127C7B410013727200147B704100087B7C00
+  name: Bug Catcher
+  offset: '0x39E67'
+  teams:
+    1:
+    - Caterpie Lv.7
+    - Caterpie Lv.7
+    2:
+    - Metapod Lv.6
+    - Caterpie Lv.6
+    - Metapod Lv.6
+    3:
+    - Caterpie Lv.10
+    4:
+    - Caterpie Lv.10
+    - Weedle Lv.10
+    - Caterpie Lv.10
+    5:
+    - Weedle Lv.9
+    - Kakuna Lv.9
+    - Caterpie Lv.9
+    - Metapod Lv.9
+    6:
+    - Caterpie Lv.11
+    - Metapod Lv.11
+    7:
+    - Weedle Lv.11
+    - Kakuna Lv.11
+    8:
+    - Caterpie Lv.10
+    - Metapod Lv.10
+    - Caterpie Lv.10
+    9:
+    - Caterpie Lv.14
+    - Weedle Lv.14
+    10:
+    - Weedle Lv.16
+    - Caterpie Lv.16
+    - Weedle Lv.16
+    11:
+    - Butterfree Lv.20
+    12:
+    - Metapod Lv.18
+    - Caterpie Lv.18
+    - Venonat Lv.18
+    13:
+    - Beedrill Lv.19
+    - Beedrill Lv.19
+    14:
+    - Caterpie Lv.20
+    - Weedle Lv.20
+    - Venonat Lv.20
+    15:
+    - Caterpie Lv.8
+    - Metapod Lv.8
+3:
+  binary: 092424000AA503000E64001F6D6D2E000BB9BC000E040010240F000E240F000F030F000DB924B90012240F00146400170FA800184D4D4D001324A50F4D03001604040017BCBD0017B9BA00060F0300
+  name: Lass
+  offset: '0x39EA9'
+  teams:
+    1:
+    - Pidgey Lv.9
+    - Pidgey Lv.9
+    2:
+    - Rattata Lv.10
+    - Nidoran M Lv.10
+    3:
+    - Jigglypuff Lv.14
+    4:
+    - Paras Lv.31
+    - Paras Lv.31
+    - Parasect Lv.31
+    5:
+    - Oddish Lv.11
+    - Bellsprout Lv.11
+    6:
+    - Clefairy Lv.14
+    7:
+    - Pidgey Lv.16
+    - Nidoran F Lv.16
+    8:
+    - Pidgey Lv.14
+    - Nidoran F Lv.14
+    9:
+    - Nidoran M Lv.15
+    - Nidoran F Lv.15
+    10:
+    - Oddish Lv.13
+    - Pidgey Lv.13
+    - Oddish Lv.13
+    11:
+    - Pidgey Lv.18
+    - Nidoran F Lv.18
+    12:
+    - Jigglypuff Lv.20
+    13:
+    - Nidoran F Lv.23
+    - Nidorina Lv.23
+    14:
+    - Meowth Lv.24
+    - Meowth Lv.24
+    - Meowth Lv.24
+    15:
+    - Pidgey Lv.19
+    - Rattata Lv.19
+    - Nidoran F Lv.19
+    - Meowth Lv.19
+    - Nidoran M Lv.19
+    16:
+    - Clefairy Lv.22
+    - Clefairy Lv.22
+    17:
+    - Bellsprout Lv.23
+    - Weepinbell Lv.23
+    18:
+    - Oddish Lv.23
+    - Gloom Lv.23
+    19:
+    - Nidoran F Lv.6
+    - Nidoran M Lv.6
+4:
+  binary: 126A1700116A1800151700115C17180012181B00115C5C5C00146A0018AD00
+  name: Sailor
+  offset: '0x39EF8'
+  teams:
+    1:
+    - Machop Lv.18
+    - Shellder Lv.18
+    2:
+    - Machop Lv.17
+    - Tentacool Lv.17
+    3:
+    - Shellder Lv.21
+    4:
+    - Horsea Lv.17
+    - Shellder Lv.17
+    - Tentacool Lv.17
+    5:
+    - Tentacool Lv.18
+    - Staryu Lv.18
+    6:
+    - Horsea Lv.17
+    - Horsea Lv.17
+    - Horsea Lv.17
+    7:
+    - Machop Lv.20
+    8:
+    - Magnemite Lv.24
+5:
+  binary: 093B60000EA56C0012390014B1001005A600123B3B60001521B00013A53B6C60001D03A70010BD00
+  name: Jr. Trainer M
+  offset: '0x39F17'
+  teams:
+    1:
+    - Diglett Lv.9
+    - Sandshrew Lv.9
+    2:
+    - Rattata Lv.14
+    - Ekans Lv.14
+    3:
+    - Mankey Lv.18
+    4:
+    - Squirtle Lv.20
+    5:
+    - Spearow Lv.16
+    - Raticate Lv.16
+    6:
+    - Diglett Lv.18
+    - Diglett Lv.18
+    - Sandshrew Lv.18
+    7:
+    - Growlithe Lv.21
+    - Charmander Lv.21
+    8:
+    - Rattata Lv.19
+    - Diglett Lv.19
+    - Ekans Lv.19
+    - Sandshrew Lv.19
+    9:
+    - Nidoran M Lv.29
+    - Nidorino Lv.29
+    10:
+    - Weepinbell Lv.16
+6:
+  binary: 139D0010B9BC00102424240016990012B9BCB9BC00174D0014640400152496001564244D0016B999001899090018244DA5244D001E4747001B244D2496001C9D475C001F9D9E0016BC0400144DB924001324A5A5BC001CBAB9B9001D2496002104001DBCB91E001E185C3A00141100
+  name: Jr. Trainer F
+  offset: '0x39F3F'
+  teams:
+    1:
+    - Goldeen Lv.19
+    2:
+    - Oddish Lv.16
+    - Bellsprout Lv.16
+    3:
+    - Pidgey Lv.16
+    - Pidgey Lv.16
+    - Pidgey Lv.16
+    4:
+    - Bulbasaur Lv.22
+    5:
+    - Oddish Lv.18
+    - Bellsprout Lv.18
+    - Oddish Lv.18
+    - Bellsprout Lv.18
+    6:
+    - Meowth Lv.23
+    7:
+    - Jigglypuff Lv.20
+    - Clefairy Lv.20
+    8:
+    - Pidgey Lv.21
+    - Pidgeotto Lv.21
+    9:
+    - Jigglypuff Lv.21
+    - Pidgey Lv.21
+    - Meowth Lv.21
+    10:
+    - Oddish Lv.22
+    - Bulbasaur Lv.22
+    11:
+    - Bulbasaur Lv.24
+    - Ivysaur Lv.24
+    12:
+    - Pidgey Lv.24
+    - Meowth Lv.24
+    - Rattata Lv.24
+    - Pidgey Lv.24
+    - Meowth Lv.24
+    13:
+    - Poliwag Lv.30
+    - Poliwag Lv.30
+    14:
+    - Pidgey Lv.27
+    - Meowth Lv.27
+    - Pidgey Lv.27
+    - Pidgeotto Lv.27
+    15:
+    - Goldeen Lv.28
+    - Poliwag Lv.28
+    - Horsea Lv.28
+    16:
+    - Goldeen Lv.31
+    - Seaking Lv.31
+    17:
+    - Bellsprout Lv.22
+    - Clefairy Lv.22
+    18:
+    - Meowth Lv.20
+    - Oddish Lv.20
+    - Pidgey Lv.20
+    19:
+    - Pidgey Lv.19
+    - Rattata Lv.19
+    - Rattata Lv.19
+    - Bellsprout Lv.19
+    20:
+    - Gloom Lv.28
+    - Oddish Lv.28
+    - Oddish Lv.28
+    21:
+    - Pidgey Lv.29
+    - Pidgeotto Lv.29
+    22:
+    - Clefairy Lv.33
+    23:
+    - Bellsprout Lv.29
+    - Oddish Lv.29
+    - Tangela Lv.29
+    24:
+    - Tentacool Lv.30
+    - Horsea Lv.30
+    - Seel Lv.30
+    25:
+    - Cubone Lv.20
+7:
+  binary: 1E120B0014112500142525250016B0110019250028B2130B0017112500
+  name: "Pok\xE9maniac"
+  offset: '0x39FAE'
+  teams:
+    1:
+    - Rhyhorn Lv.30
+    - Lickitung Lv.30
+    2:
+    - Cubone Lv.20
+    - Slowpoke Lv.20
+    3:
+    - Slowpoke Lv.20
+    - Slowpoke Lv.20
+    - Slowpoke Lv.20
+    4:
+    - Charmander Lv.22
+    - Cubone Lv.22
+    5:
+    - Slowpoke Lv.25
+    6:
+    - Charmeleon Lv.40
+    - Lapras Lv.40
+    - Lickitung Lv.40
+    7:
+    - Cubone Lv.23
+    - Slowpoke Lv.23
+8:
+  binary: 0BAD06000C0D06370014063706AD00160D880D001A37001637AD8F0014ADAD37AD0018AD0600245252530022A3B052210029A40025215200
+  name: Super Nerd
+  offset: '0x39FCB'
+  teams:
+    1:
+    - Magnemite Lv.11
+    - Voltorb Lv.11
+    2:
+    - Grimer Lv.12
+    - Voltorb Lv.12
+    - Koffing Lv.12
+    3:
+    - Voltorb Lv.20
+    - Koffing Lv.20
+    - Voltorb Lv.20
+    - Magnemite Lv.20
+    4:
+    - Grimer Lv.22
+    - Muk Lv.22
+    - Grimer Lv.22
+    5:
+    - Koffing Lv.26
+    6:
+    - Koffing Lv.22
+    - Magnemite Lv.22
+    - Weezing Lv.22
+    7:
+    - Magnemite Lv.20
+    - Magnemite Lv.20
+    - Koffing Lv.20
+    - Magnemite Lv.20
+    8:
+    - Magnemite Lv.24
+    - Voltorb Lv.24
+    9:
+    - Vulpix Lv.36
+    - Vulpix Lv.36
+    - Ninetales Lv.36
+    10:
+    - Ponyta Lv.34
+    - Charmander Lv.34
+    - Vulpix Lv.34
+    - Growlithe Lv.34
+    11:
+    - Rapidash Lv.41
+    12:
+    - Growlithe Lv.37
+    - Vulpix Lv.37
+9:
+  binary: 0AA9A922000F6AA9000DA9A96AA90011220015A9220014A96AA90015A922001322270015A9A9270019A900146A220013A96AA9A900142222A90015A92700
+  name: Hiker
+  offset: '0x3A003'
+  teams:
+    1:
+    - Geodude Lv.10
+    - Geodude Lv.10
+    - Onix Lv.10
+    2:
+    - Machop Lv.15
+    - Geodude Lv.15
+    3:
+    - Geodude Lv.13
+    - Geodude Lv.13
+    - Machop Lv.13
+    - Geodude Lv.13
+    4:
+    - Onix Lv.17
+    5:
+    - Geodude Lv.21
+    - Onix Lv.21
+    6:
+    - Geodude Lv.20
+    - Machop Lv.20
+    - Geodude Lv.20
+    7:
+    - Geodude Lv.21
+    - Onix Lv.21
+    8:
+    - Onix Lv.19
+    - Graveler Lv.19
+    9:
+    - Geodude Lv.21
+    - Geodude Lv.21
+    - Graveler Lv.21
+    10:
+    - Geodude Lv.25
+    11:
+    - Machop Lv.20
+    - Onix Lv.20
+    12:
+    - Geodude Lv.19
+    - Machop Lv.19
+    - Geodude Lv.19
+    - Geodude Lv.19
+    13:
+    - Onix Lv.20
+    - Onix Lv.20
+    - Geodude Lv.20
+    14:
+    - Geodude Lv.21
+    - Graveler Lv.21
+10:
+  binary: 1C373737001D370D001937378F370D001C370D8F001D0D3700218F001A0D0D0D0D001C8F378F002188001D0606001D8F880019378F37378F001A37370D37001C0D0D37001D378800
+  name: Biker
+  offset: '0x3A041'
+  teams:
+    1:
+    - Koffing Lv.28
+    - Koffing Lv.28
+    - Koffing Lv.28
+    2:
+    - Koffing Lv.29
+    - Grimer Lv.29
+    3:
+    - Koffing Lv.25
+    - Koffing Lv.25
+    - Weezing Lv.25
+    - Koffing Lv.25
+    - Grimer Lv.25
+    4:
+    - Koffing Lv.28
+    - Grimer Lv.28
+    - Weezing Lv.28
+    5:
+    - Grimer Lv.29
+    - Koffing Lv.29
+    6:
+    - Weezing Lv.33
+    7:
+    - Grimer Lv.26
+    - Grimer Lv.26
+    - Grimer Lv.26
+    - Grimer Lv.26
+    8:
+    - Weezing Lv.28
+    - Koffing Lv.28
+    - Weezing Lv.28
+    9:
+    - Muk Lv.33
+    10:
+    - Voltorb Lv.29
+    - Voltorb Lv.29
+    11:
+    - Weezing Lv.29
+    - Muk Lv.29
+    12:
+    - Koffing Lv.25
+    - Weezing Lv.25
+    - Koffing Lv.25
+    - Koffing Lv.25
+    - Weezing Lv.25
+    13:
+    - Koffing Lv.26
+    - Koffing Lv.26
+    - Grimer Lv.26
+    - Koffing Lv.26
+    14:
+    - Grimer Lv.28
+    - Grimer Lv.28
+    - Koffing Lv.28
+    15:
+    - Koffing Lv.29
+    - Muk Lv.29
+11:
+  binary: 1D2152002121001C52B0A300242152530029A3002552210022B0B2002653002221A300
+  name: Burglar
+  offset: '0x3A089'
+  teams:
+    1:
+    - Growlithe Lv.29
+    - Vulpix Lv.29
+    2:
+    - Growlithe Lv.33
+    3:
+    - Vulpix Lv.28
+    - Charmander Lv.28
+    - Ponyta Lv.28
+    4:
+    - Growlithe Lv.36
+    - Vulpix Lv.36
+    - Ninetales Lv.36
+    5:
+    - Ponyta Lv.41
+    6:
+    - Vulpix Lv.37
+    - Growlithe Lv.37
+    7:
+    - Charmander Lv.34
+    - Charmeleon Lv.34
+    8:
+    - Ninetales Lv.38
+    9:
+    - Growlithe Lv.34
+    - Ponyta Lv.34
+12:
+  binary: 1506AD0015AD0012ADAD3600
+  name: Engineer
+  offset: '0x3A0AC'
+  teams:
+    1:
+    - Voltorb Lv.21
+    - Magnemite Lv.21
+    2:
+    - Magnemite Lv.21
+    3:
+    - Magnemite Lv.18
+    - Magnemite Lv.18
+    - Magneton Lv.18
+14:
+  binary: 119D189D0011181B1700169D479D0018189D001B9D001547179D5C001C9E9D9E9E001F178B001B85858585858500219E9D0018858500
+  name: Fisher
+  offset: '0x3A0B8'
+  teams:
+    1:
+    - Goldeen Lv.17
+    - Tentacool Lv.17
+    - Goldeen Lv.17
+    2:
+    - Tentacool Lv.17
+    - Staryu Lv.17
+    - Shellder Lv.17
+    3:
+    - Goldeen Lv.22
+    - Poliwag Lv.22
+    - Goldeen Lv.22
+    4:
+    - Tentacool Lv.24
+    - Goldeen Lv.24
+    5:
+    - Goldeen Lv.27
+    6:
+    - Poliwag Lv.21
+    - Shellder Lv.21
+    - Goldeen Lv.21
+    - Horsea Lv.21
+    7:
+    - Seaking Lv.28
+    - Goldeen Lv.28
+    - Seaking Lv.28
+    - Seaking Lv.28
+    8:
+    - Shellder Lv.31
+    - Cloyster Lv.31
+    9:
+    - Magikarp Lv.27
+    - Magikarp Lv.27
+    - Magikarp Lv.27
+    - Magikarp Lv.27
+    - Magikarp Lv.27
+    - Magikarp Lv.27
+    10:
+    - Seaking Lv.33
+    - Goldeen Lv.33
+    11:
+    - Magikarp Lv.24
+    - Magikarp Lv.24
+15:
+  binary: 105C17001E1817001D9D5C1B001E476E001B5C18189D001D9D179E001E5C5C001B18181B5C9B001F178B00231B001C5C5C5D5C00215D9B00259800211BB300206E185D00
+  name: Swimmer
+  offset: '0x3A0EE'
+  teams:
+    1:
+    - Horsea Lv.16
+    - Shellder Lv.16
+    2:
+    - Tentacool Lv.30
+    - Shellder Lv.30
+    3:
+    - Goldeen Lv.29
+    - Horsea Lv.29
+    - Staryu Lv.29
+    4:
+    - Poliwag Lv.30
+    - Poliwhirl Lv.30
+    5:
+    - Horsea Lv.27
+    - Tentacool Lv.27
+    - Tentacool Lv.27
+    - Goldeen Lv.27
+    6:
+    - Goldeen Lv.29
+    - Shellder Lv.29
+    - Seaking Lv.29
+    7:
+    - Horsea Lv.30
+    - Horsea Lv.30
+    8:
+    - Tentacool Lv.27
+    - Tentacool Lv.27
+    - Staryu Lv.27
+    - Horsea Lv.27
+    - Tentacruel Lv.27
+    9:
+    - Shellder Lv.31
+    - Cloyster Lv.31
+    10:
+    - Staryu Lv.35
+    11:
+    - Horsea Lv.28
+    - Horsea Lv.28
+    - Seadra Lv.28
+    - Horsea Lv.28
+    12:
+    - Seadra Lv.33
+    - Tentacruel Lv.33
+    13:
+    - Starmie Lv.37
+    14:
+    - Staryu Lv.33
+    - Wartortle Lv.33
+    15:
+    - Poliwhirl Lv.32
+    - Tentacool Lv.32
+    - Seadra Lv.32
+16:
+  binary: 1C6A396A001D396A00216A001D3975001D6A29002129001A3939296A001D7529001F18189B00
+  name: Cue Ball
+  offset: '0x3A132'
+  teams:
+    1:
+    - Machop Lv.28
+    - Mankey Lv.28
+    - Machop Lv.28
+    2:
+    - Mankey Lv.29
+    - Machop Lv.29
+    3:
+    - Machop Lv.33
+    4:
+    - Mankey Lv.29
+    - Primeape Lv.29
+    5:
+    - Machop Lv.29
+    - Machoke Lv.29
+    6:
+    - Machoke Lv.33
+    7:
+    - Mankey Lv.26
+    - Mankey Lv.26
+    - Machoke Lv.26
+    - Machop Lv.26
+    8:
+    - Primeape Lv.29
+    - Machoke Lv.29
+    9:
+    - Tentacool Lv.31
+    - Tentacool Lv.31
+    - Tentacruel Lv.31
+17:
+  binary: 12475C0012BCB9001206AD00122152001647476E001622A9270018215200
+  name: Gambler
+  offset: '0x3A158'
+  teams:
+    1:
+    - Poliwag Lv.18
+    - Horsea Lv.18
+    2:
+    - Bellsprout Lv.18
+    - Oddish Lv.18
+    3:
+    - Voltorb Lv.18
+    - Magnemite Lv.18
+    4:
+    - Growlithe Lv.18
+    - Vulpix Lv.18
+    5:
+    - Poliwag Lv.22
+    - Poliwag Lv.22
+    - Poliwhirl Lv.22
+    6:
+    - Onix Lv.22
+    - Geodude Lv.22
+    - Graveler Lv.22
+    7:
+    - Growlithe Lv.24
+    - Vulpix Lv.24
+18:
+  binary: 15B9BCB9BC0018BCBC001A0C001BA552A5001D044D00239E001E17178B001F479E001D9665001D99090021BDBCBD001B479D9E9D47001E9D9E001D1B1B1B001E5D5C5D00
+  name: Beauty
+  offset: '0x3A176'
+  teams:
+    1:
+    - Oddish Lv.21
+    - Bellsprout Lv.21
+    - Oddish Lv.21
+    - Bellsprout Lv.21
+    2:
+    - Bellsprout Lv.24
+    - Bellsprout Lv.24
+    3:
+    - Exeggcute Lv.26
+    4:
+    - Rattata Lv.27
+    - Vulpix Lv.27
+    - Rattata Lv.27
+    5:
+    - Clefairy Lv.29
+    - Meowth Lv.29
+    6:
+    - Seaking Lv.35
+    7:
+    - Shellder Lv.30
+    - Shellder Lv.30
+    - Cloyster Lv.30
+    8:
+    - Poliwag Lv.31
+    - Seaking Lv.31
+    9:
+    - Pidgeotto Lv.29
+    - Wigglytuff Lv.29
+    10:
+    - Bulbasaur Lv.29
+    - Ivysaur Lv.29
+    11:
+    - Weepinbell Lv.33
+    - Bellsprout Lv.33
+    - Weepinbell Lv.33
+    12:
+    - Poliwag Lv.27
+    - Goldeen Lv.27
+    - Seaking Lv.27
+    - Goldeen Lv.27
+    - Poliwag Lv.27
+    13:
+    - Goldeen Lv.30
+    - Seaking Lv.30
+    14:
+    - Staryu Lv.29
+    - Staryu Lv.29
+    - Staryu Lv.29
+    15:
+    - Seadra Lv.30
+    - Horsea Lv.30
+    - Seadra Lv.30
+19:
+  binary: 1F26252A2600222A26002125250800260800
+  name: Psychic
+  offset: '0x3A1BA'
+  teams:
+    1:
+    - Kadabra Lv.31
+    - Slowpoke Lv.31
+    - Mr. Mime Lv.31
+    - Kadabra Lv.31
+    2:
+    - Mr. Mime Lv.34
+    - Kadabra Lv.34
+    3:
+    - Slowpoke Lv.33
+    - Slowpoke Lv.33
+    - Slowbro Lv.33
+    4:
+    - Slowbro Lv.38
+20:
+  binary: 14060606001D068D00
+  name: Rocker
+  offset: '0x3A1CC'
+  teams:
+    1:
+    - Voltorb Lv.20
+    - Voltorb Lv.20
+    - Voltorb Lv.20
+    2:
+    - Voltorb Lv.29
+    - Electrode Lv.29
+21:
+  binary: 1D262A002930812626001F303026300022308100302A0021810026810022302600
+  name: Juggler
+  offset: '0x3A1D5'
+  teams:
+    1:
+    - Kadabra Lv.29
+    - Mr. Mime Lv.29
+    2:
+    - Drowzee Lv.41
+    - Hypno Lv.41
+    - Kadabra Lv.41
+    - Kadabra Lv.41
+    3:
+    - Drowzee Lv.31
+    - Drowzee Lv.31
+    - Kadabra Lv.31
+    - Drowzee Lv.31
+    4:
+    - Drowzee Lv.34
+    - Hypno Lv.34
+    5:
+    - Mr. Mime Lv.48
+    6:
+    - Hypno Lv.33
+    7:
+    - Hypno Lv.38
+    8:
+    - Drowzee Lv.34
+    - Kadabra Lv.34
+22:
+  binary: 22612D00212D612D002B1200272D3C002C9080002A12752D3C00
+  name: Tamer
+  offset: '0x3A1F6'
+  teams:
+    1:
+    - Sandslash Lv.34
+    - Arbok Lv.34
+    2:
+    - Arbok Lv.33
+    - Sandslash Lv.33
+    - Arbok Lv.33
+    3:
+    - Rhyhorn Lv.43
+    4:
+    - Arbok Lv.39
+    - Tauros Lv.39
+    5:
+    - Persian Lv.44
+    - Golduck Lv.44
+    6:
+    - Rhyhorn Lv.42
+    - Primeape Lv.42
+    - Arbok Lv.42
+    - Tauros Lv.42
+23:
+  binary: 1D249600190524240505001A24960523002140001D0523001A96404624001C744646001D0523002274001A05052305001E232396002796962496002A4023001C244696001A24052423001D9623001C05462300
+  name: Bird Keeper
+  offset: '0x3A210'
+  teams:
+    1:
+    - Pidgey Lv.29
+    - Pidgeotto Lv.29
+    2:
+    - Spearow Lv.25
+    - Pidgey Lv.25
+    - Pidgey Lv.25
+    - Spearow Lv.25
+    - Spearow Lv.25
+    3:
+    - Pidgey Lv.26
+    - Pidgeotto Lv.26
+    - Spearow Lv.26
+    - Fearow Lv.26
+    4:
+    - Farfetch'd Lv.33
+    5:
+    - Spearow Lv.29
+    - Fearow Lv.29
+    6:
+    - Pidgeotto Lv.26
+    - Farfetch'd Lv.26
+    - Doduo Lv.26
+    - Pidgey Lv.26
+    7:
+    - Dodrio Lv.28
+    - Doduo Lv.28
+    - Doduo Lv.28
+    8:
+    - Spearow Lv.29
+    - Fearow Lv.29
+    9:
+    - Dodrio Lv.34
+    10:
+    - Spearow Lv.26
+    - Spearow Lv.26
+    - Fearow Lv.26
+    - Spearow Lv.26
+    11:
+    - Fearow Lv.30
+    - Fearow Lv.30
+    - Pidgeotto Lv.30
+    12:
+    - Pidgeotto Lv.39
+    - Pidgeotto Lv.39
+    - Pidgey Lv.39
+    - Pidgeotto Lv.39
+    13:
+    - Farfetch'd Lv.42
+    - Fearow Lv.42
+    14:
+    - Pidgey Lv.28
+    - Doduo Lv.28
+    - Pidgeotto Lv.28
+    15:
+    - Pidgey Lv.26
+    - Spearow Lv.26
+    - Pidgey Lv.26
+    - Fearow Lv.26
+    16:
+    - Pidgeotto Lv.29
+    - Fearow Lv.29
+    17:
+    - Spearow Lv.28
+    - Doduo Lv.28
+    - Fearow Lv.28
+24:
+  binary: 252B2C001F39397500206A29002475001F6A397500286A29002B290026296A29002B296A2900
+  name: Blackbelt
+  offset: '0x3A263'
+  teams:
+    1:
+    - Hitmonlee Lv.37
+    - Hitmonchan Lv.37
+    2:
+    - Mankey Lv.31
+    - Mankey Lv.31
+    - Primeape Lv.31
+    3:
+    - Machop Lv.32
+    - Machoke Lv.32
+    4:
+    - Primeape Lv.36
+    5:
+    - Machop Lv.31
+    - Mankey Lv.31
+    - Primeape Lv.31
+    6:
+    - Machop Lv.40
+    - Machoke Lv.40
+    7:
+    - Machoke Lv.43
+    8:
+    - Machoke Lv.38
+    - Machop Lv.38
+    - Machoke Lv.38
+    9:
+    - Machoke Lv.43
+    - Machop Lv.43
+    - Machoke Lv.43
+25:
+  binary: 056600FF0905086600FF12050F600FA5116600
+  name: Rival
+  offset: '0x3A289'
+  teams:
+    1:
+    - Eevee Lv.5
+    2:
+    - Spearow Lv.9
+    - Eevee Lv.8
+    3:
+    - Spearow Lv.18
+    - Sandshrew Lv.15
+    - Rattata Lv.15
+    - Eevee Lv.17
+26:
+  binary: FF423C430A4414451C461600FF423C430A4414459A461600FF423C430A441445B4461600
+  name: Professor Oak
+  offset: '0x3A29C'
+  teams:
+    1:
+    - Tauros Lv.66
+    - Exeggutor Lv.67
+    - Arcanine Lv.68
+    - Blastoise Lv.69
+    - Gyarados Lv.70
+    2:
+    - Tauros Lv.66
+    - Exeggutor Lv.67
+    - Arcanine Lv.68
+    - Venusaur Lv.69
+    - Gyarados Lv.70
+    3:
+    - Tauros Lv.66
+    - Exeggutor Lv.67
+    - Arcanine Lv.68
+    - Charizard Lv.69
+    - Gyarados Lv.70
+28:
+  binary: 223706001A0D8F378F001CAD0636001D8D8F00218D001A36378FAD0019063736AD37001D8D88001D0D8D001C063736001DAD370021AD36060022AD8D00
+  name: Scientist
+  offset: '0x3A2C0'
+  teams:
+    1:
+    - Koffing Lv.34
+    - Voltorb Lv.34
+    2:
+    - Grimer Lv.26
+    - Weezing Lv.26
+    - Koffing Lv.26
+    - Weezing Lv.26
+    3:
+    - Magnemite Lv.28
+    - Voltorb Lv.28
+    - Magneton Lv.28
+    4:
+    - Electrode Lv.29
+    - Weezing Lv.29
+    5:
+    - Electrode Lv.33
+    6:
+    - Magneton Lv.26
+    - Koffing Lv.26
+    - Weezing Lv.26
+    - Magnemite Lv.26
+    7:
+    - Voltorb Lv.25
+    - Koffing Lv.25
+    - Magneton Lv.25
+    - Magnemite Lv.25
+    - Koffing Lv.25
+    8:
+    - Electrode Lv.29
+    - Muk Lv.29
+    9:
+    - Grimer Lv.29
+    - Electrode Lv.29
+    10:
+    - Voltorb Lv.28
+    - Koffing Lv.28
+    - Magneton Lv.28
+    11:
+    - Magnemite Lv.29
+    - Koffing Lv.29
+    12:
+    - Magnemite Lv.33
+    - Magneton Lv.33
+    - Voltorb Lv.33
+    13:
+    - Magnemite Lv.34
+    - Electrode Lv.34
+29:
+  binary: FF192218121D9000FF25A723902512291000FF3276359035103707370100
+  name: Giovanni
+  offset: '0x3A2FD'
+  teams:
+    1:
+    - Onix Lv.25
+    - Rhyhorn Lv.24
+    - Persian Lv.29
+    2:
+    - Nidorino Lv.37
+    - Persian Lv.35
+    - Rhyhorn Lv.37
+    - Nidoqueen Lv.41
+    3:
+    - Dugtrio Lv.50
+    - Persian Lv.53
+    - Nidoqueen Lv.53
+    - Nidoking Lv.55
+    - Rhydon Lv.55
+30:
+  binary: 0DA56B000B60A56B000C6B6C0010A600116A30000F6C6B0014A66B0015306A0015A6A600140D37370013A5A6A6A500160D3700116B370D6BA60014A5A63000156A6A0017606C6100176C602D0015376B00196B6B82001A373000176BA5A66B001A3037001D116B0019826B6BA66B001CA681A6001D6A30001C6C6B1100212D002181001D6A29001C6B6B82001AA62D3782001D1111001D6061001AA66B82A5001C8F8237001C300D6A001C8230810021290019A5A56BA56C0020113091000E6C4D370019374D6C001B4D2D8F001F8F2D4D001037001B37001D8F00218F00
+  name: Rocket
+  offset: '0x3A31B'
+  teams:
+    1:
+    - Rattata Lv.13
+    - Zubat Lv.13
+    2:
+    - Sandshrew Lv.11
+    - Rattata Lv.11
+    - Zubat Lv.11
+    3:
+    - Zubat Lv.12
+    - Ekans Lv.12
+    4:
+    - Raticate Lv.16
+    5:
+    - Machop Lv.17
+    - Drowzee Lv.17
+    6:
+    - Ekans Lv.15
+    - Zubat Lv.15
+    7:
+    - Raticate Lv.20
+    - Zubat Lv.20
+    8:
+    - Drowzee Lv.21
+    - Machop Lv.21
+    9:
+    - Raticate Lv.21
+    - Raticate Lv.21
+    10:
+    - Grimer Lv.20
+    - Koffing Lv.20
+    - Koffing Lv.20
+    11:
+    - Rattata Lv.19
+    - Raticate Lv.19
+    - Raticate Lv.19
+    - Rattata Lv.19
+    12:
+    - Grimer Lv.22
+    - Koffing Lv.22
+    13:
+    - Zubat Lv.17
+    - Koffing Lv.17
+    - Grimer Lv.17
+    - Zubat Lv.17
+    - Raticate Lv.17
+    14:
+    - Rattata Lv.20
+    - Raticate Lv.20
+    - Drowzee Lv.20
+    15:
+    - Machop Lv.21
+    - Machop Lv.21
+    16:
+    - Sandshrew Lv.23
+    - Ekans Lv.23
+    - Sandslash Lv.23
+    17:
+    - Ekans Lv.23
+    - Sandshrew Lv.23
+    - Arbok Lv.23
+    18:
+    - Koffing Lv.21
+    - Zubat Lv.21
+    19:
+    - Zubat Lv.25
+    - Zubat Lv.25
+    - Golbat Lv.25
+    20:
+    - Koffing Lv.26
+    - Drowzee Lv.26
+    21:
+    - Zubat Lv.23
+    - Rattata Lv.23
+    - Raticate Lv.23
+    - Zubat Lv.23
+    22:
+    - Drowzee Lv.26
+    - Koffing Lv.26
+    23:
+    - Cubone Lv.29
+    - Zubat Lv.29
+    24:
+    - Golbat Lv.25
+    - Zubat Lv.25
+    - Zubat Lv.25
+    - Raticate Lv.25
+    - Zubat Lv.25
+    25:
+    - Raticate Lv.28
+    - Hypno Lv.28
+    - Raticate Lv.28
+    26:
+    - Machop Lv.29
+    - Drowzee Lv.29
+    27:
+    - Ekans Lv.28
+    - Zubat Lv.28
+    - Cubone Lv.28
+    28:
+    - Arbok Lv.33
+    29:
+    - Hypno Lv.33
+    30:
+    - Machop Lv.29
+    - Machoke Lv.29
+    31:
+    - Zubat Lv.28
+    - Zubat Lv.28
+    - Golbat Lv.28
+    32:
+    - Raticate Lv.26
+    - Arbok Lv.26
+    - Koffing Lv.26
+    - Golbat Lv.26
+    33:
+    - Cubone Lv.29
+    - Cubone Lv.29
+    34:
+    - Sandshrew Lv.29
+    - Sandslash Lv.29
+    35:
+    - Raticate Lv.26
+    - Zubat Lv.26
+    - Golbat Lv.26
+    - Rattata Lv.26
+    36:
+    - Weezing Lv.28
+    - Golbat Lv.28
+    - Koffing Lv.28
+    37:
+    - Drowzee Lv.28
+    - Grimer Lv.28
+    - Machop Lv.28
+    38:
+    - Golbat Lv.28
+    - Drowzee Lv.28
+    - Hypno Lv.28
+    39:
+    - Machoke Lv.33
+    40:
+    - Rattata Lv.25
+    - Rattata Lv.25
+    - Zubat Lv.25
+    - Rattata Lv.25
+    - Ekans Lv.25
+    41:
+    - Cubone Lv.32
+    - Drowzee Lv.32
+    - Marowak Lv.32
+    42:
+    - Ekans Lv.14
+    - Meowth Lv.14
+    - Koffing Lv.14
+    43:
+    - Koffing Lv.25
+    - Meowth Lv.25
+    - Ekans Lv.25
+    44:
+    - Meowth Lv.27
+    - Arbok Lv.27
+    - Weezing Lv.27
+    45:
+    - Weezing Lv.31
+    - Arbok Lv.31
+    - Meowth Lv.31
+    46:
+    - Koffing Lv.16
+    47:
+    - Koffing Lv.27
+    48:
+    - Weezing Lv.29
+    49:
+    - Weezing Lv.33
+31:
+  binary: 27A707002B0A8B14002B8A9B1C002D8A98002A09B3B2B4002C09B3B2003107002C8A8B00276176002B1200
+  name: Cooltrainer M
+  offset: '0x3A3F9'
+  teams:
+    1:
+    - Nidorino Lv.39
+    - Nidoking Lv.39
+    2:
+    - Exeggutor Lv.43
+    - Cloyster Lv.43
+    - Arcanine Lv.43
+    3:
+    - Kingler Lv.43
+    - Tentacruel Lv.43
+    - Blastoise Lv.43
+    4:
+    - Kingler Lv.45
+    - Starmie Lv.45
+    5:
+    - Ivysaur Lv.42
+    - Wartortle Lv.42
+    - Charmeleon Lv.42
+    - Charizard Lv.42
+    6:
+    - Ivysaur Lv.44
+    - Wartortle Lv.44
+    - Charmeleon Lv.44
+    7:
+    - Nidoking Lv.49
+    8:
+    - Kingler Lv.44
+    - Cloyster Lv.44
+    9:
+    - Sandslash Lv.39
+    - Dugtrio Lv.39
+    10:
+    - Rhyhorn Lv.43
+32:
+  binary: 18BDBA09002BBCBDBE002B2E7828002EBB7D002C9053002D099A002DA810002B90535500
+  name: Cooltrainer F
+  offset: '0x3A424'
+  teams:
+    1:
+    - Weepinbell Lv.24
+    - Gloom Lv.24
+    - Ivysaur Lv.24
+    2:
+    - Bellsprout Lv.43
+    - Weepinbell Lv.43
+    - Victreebel Lv.43
+    3:
+    - Parasect Lv.43
+    - Dewgong Lv.43
+    - Chansey Lv.43
+    4:
+    - Vileplume Lv.46
+    - Butterfree Lv.46
+    5:
+    - Persian Lv.44
+    - Ninetales Lv.44
+    6:
+    - Ivysaur Lv.45
+    - Venusaur Lv.45
+    7:
+    - Nidorina Lv.45
+    - Nidoqueen Lv.45
+    8:
+    - Persian Lv.43
+    - Ninetales Lv.43
+    - Raichu Lv.43
+33:
+  binary: FF3522372C372B38223A7E00
+  name: Bruno
+  offset: '0x3A448'
+  teams:
+    1:
+    - Onix Lv.53
+    - Hitmonchan Lv.55
+    - Hitmonlee Lv.55
+    - Onix Lv.56
+    - Machamp Lv.58
+34:
+  binary: FF0AA90C2200
+  name: Brock
+  offset: '0x3A454'
+  teams:
+    1:
+    - Geodude Lv.10
+    - Onix Lv.12
+35:
+  binary: FF121B159800
+  name: Misty
+  offset: '0x3A45A'
+  teams:
+    1:
+    - Staryu Lv.18
+    - Starmie Lv.21
+36:
+  binary: FF1C5500
+  name: Lt. Surge
+  offset: '0x3A460'
+  teams:
+    1:
+    - Raichu Lv.28
+37:
+  binary: FF1E1E20BD20BA00
+  name: Erika
+  offset: '0x3A464'
+  teams:
+    1:
+    - Tangela Lv.30
+    - Weepinbell Lv.32
+    - Gloom Lv.32
+38:
+  binary: FF2C412E413041327700
+  name: Koga
+  offset: '0x3A46C'
+  teams:
+    1:
+    - Venonat Lv.44
+    - Venonat Lv.46
+    - Venonat Lv.48
+    - Venomoth Lv.50
+39:
+  binary: FF305332A4361400
+  name: Blaine
+  offset: '0x3A476'
+  teams:
+    1:
+    - Ninetales Lv.48
+    - Rapidash Lv.50
+    - Arcanine Lv.54
+40:
+  binary: FF32943226329500
+  name: Sabrina
+  offset: '0x3A47E'
+  teams:
+    1:
+    - Abra Lv.50
+    - Kadabra Lv.50
+    - Alakazam Lv.50
+41:
+  binary: 1221210013030F001606AD003075001121A300
+  name: Gentleman
+  offset: '0x3A486'
+  teams:
+    1:
+    - Growlithe Lv.18
+    - Growlithe Lv.18
+    2:
+    - Nidoran M Lv.19
+    - Nidoran F Lv.19
+    3:
+    - Voltorb Lv.22
+    - Magnemite Lv.22
+    4:
+    - Primeape Lv.48
+    5:
+    - Growlithe Lv.17
+    - Ponyta Lv.17
+42:
+  binary: FF130510A51260146600FF1923171716521460196600FF192317AD16171460196600FF1923175216AD1460196600FF26612353258B2326286800FF2661238B25362326286700FF2661233625532326286900FF2F612D0C2D532F8B3226356800FF2F612D0C2D8B2F363226356700FF2F612D0C2D362F533226356900
+  name: Rival
+  offset: '0x3A499'
+  teams:
+    1:
+    - Spearow Lv.19
+    - Rattata Lv.16
+    - Sandshrew Lv.18
+    - Eevee Lv.20
+    2:
+    - Fearow Lv.25
+    - Shellder Lv.23
+    - Vulpix Lv.22
+    - Sandshrew Lv.20
+    - Eevee Lv.25
+    3:
+    - Fearow Lv.25
+    - Magnemite Lv.23
+    - Shellder Lv.22
+    - Sandshrew Lv.20
+    - Eevee Lv.25
+    4:
+    - Fearow Lv.25
+    - Vulpix Lv.23
+    - Magnemite Lv.22
+    - Sandshrew Lv.20
+    - Eevee Lv.25
+    5:
+    - Sandslash Lv.38
+    - Ninetales Lv.35
+    - Cloyster Lv.37
+    - Kadabra Lv.35
+    - Jolteon Lv.40
+    6:
+    - Sandslash Lv.38
+    - Cloyster Lv.35
+    - Magneton Lv.37
+    - Kadabra Lv.35
+    - Flareon Lv.40
+    7:
+    - Sandslash Lv.38
+    - Magneton Lv.35
+    - Ninetales Lv.37
+    - Kadabra Lv.35
+    - Vaporeon Lv.40
+    8:
+    - Sandslash Lv.47
+    - Exeggcute Lv.45
+    - Ninetales Lv.45
+    - Cloyster Lv.47
+    - Kadabra Lv.50
+    - Jolteon Lv.53
+    9:
+    - Sandslash Lv.47
+    - Exeggcute Lv.45
+    - Cloyster Lv.45
+    - Magneton Lv.47
+    - Kadabra Lv.50
+    - Flareon Lv.53
+    10:
+    - Sandslash Lv.47
+    - Exeggcute Lv.45
+    - Magneton Lv.45
+    - Ninetales Lv.47
+    - Kadabra Lv.50
+    - Vaporeon Lv.53
+43:
+  binary: FF3D613B953D0A3D8B3F53416800FF3D613B953D0A3D363F8B416700FF3D613B953D0A3D533F36416900
+  name: Rival
+  offset: '0x3A515'
+  teams:
+    1:
+    - Sandslash Lv.61
+    - Alakazam Lv.59
+    - Exeggutor Lv.61
+    - Cloyster Lv.61
+    - Ninetales Lv.63
+    - Jolteon Lv.65
+    2:
+    - Sandslash Lv.61
+    - Alakazam Lv.59
+    - Exeggutor Lv.61
+    - Magneton Lv.61
+    - Cloyster Lv.63
+    - Flareon Lv.65
+    3:
+    - Sandslash Lv.61
+    - Alakazam Lv.59
+    - Exeggutor Lv.61
+    - Ninetales Lv.61
+    - Magneton Lv.63
+    - Vaporeon Lv.65
+44:
+  binary: FF3678358B36083848381300
+  name: Lorelei
+  offset: '0x3A53F'
+  teams:
+    1:
+    - Dewgong Lv.54
+    - Cloyster Lv.53
+    - Slowbro Lv.54
+    - Jynx Lv.56
+    - Lapras Lv.56
+45:
+  binary: '16190018190017191900181900171900181900189300161900181900171919001819001619001819001793001819001619001819001693001619191900181900181900221993002693002119199300'
+  name: Channeler
+  offset: '0x3A54B'
+  teams:
+    1:
+    - Gastly Lv.22
+    2:
+    - Gastly Lv.24
+    3:
+    - Gastly Lv.23
+    - Gastly Lv.23
+    4:
+    - Gastly Lv.24
+    5:
+    - Gastly Lv.23
+    6:
+    - Gastly Lv.24
+    7:
+    - Haunter Lv.24
+    8:
+    - Gastly Lv.22
+    9:
+    - Gastly Lv.24
+    10:
+    - Gastly Lv.23
+    - Gastly Lv.23
+    11:
+    - Gastly Lv.24
+    12:
+    - Gastly Lv.22
+    13:
+    - Gastly Lv.24
+    14:
+    - Haunter Lv.23
+    15:
+    - Gastly Lv.24
+    16:
+    - Gastly Lv.22
+    17:
+    - Gastly Lv.24
+    18:
+    - Haunter Lv.22
+    19:
+    - Gastly Lv.22
+    - Gastly Lv.22
+    - Gastly Lv.22
+    20:
+    - Gastly Lv.24
+    21:
+    - Gastly Lv.24
+    22:
+    - Gastly Lv.34
+    - Haunter Lv.34
+    23:
+    - Haunter Lv.38
+    24:
+    - Gastly Lv.33
+    - Gastly Lv.33
+    - Haunter Lv.33
+46:
+  binary: FF380E388237933A2D3C0E00
+  name: Agatha
+  offset: '0x3A59A'
+  teams:
+    1:
+    - Gengar Lv.56
+    - Golbat Lv.56
+    - Haunter Lv.55
+    - Arbok Lv.58
+    - Gengar Lv.60
+47:
+  binary: FF3A16385938593CAB3E4200
+  name: Lance
+  offset: '0x3A5A6'
+  teams:
+    1:
+    - Gyarados Lv.58
+    - Dragonair Lv.56
+    - Dragonair Lv.56
+    - Aerodactyl Lv.60
+    - Dragonite Lv.62

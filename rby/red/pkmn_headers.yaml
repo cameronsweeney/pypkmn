@@ -1,0 +1,3322 @@
+1:
+  attack: 49
+  base_exp: 64
+  binary: 012D31312D4116032D40550040E540212D000003A40338C003080600
+  catch_rate: 45
+  defense: 49
+  growth_rate: Medium Slow
+  hp: 45
+  index: 153
+  learnbase:
+  - Tackle
+  - Growl
+  - null
+  - null
+  name: Bulbasaur
+  natdex: 1
+  offset: '0x383DE'
+  special: 65
+  speed: 45
+  tmhm_bits: a40338c0030806
+  type1: grass
+  type2: poison
+2:
+  attack: 62
+  base_exp: 141
+  binary: 023C3E3F3C5016032D8D662B505751212D490003A40338C003080600
+  catch_rate: 45
+  defense: 63
+  growth_rate: Medium Slow
+  hp: 60
+  index: 9
+  learnbase:
+  - Tackle
+  - Growl
+  - Leech Seed
+  - null
+  name: Ivysaur
+  natdex: 2
+  offset: '0x383FA'
+  special: 80
+  speed: 60
+  tmhm_bits: a40338c0030806
+  type1: grass
+  type2: poison
+3:
+  attack: 82
+  base_exp: 208
+  binary: 03505253506416032DD07762419743212D491603A44338C003080600
+  catch_rate: 45
+  defense: 83
+  growth_rate: Medium Slow
+  hp: 80
+  index: 154
+  learnbase:
+  - Tackle
+  - Growl
+  - Leech Seed
+  - Vine Whip
+  name: Venusaur
+  natdex: 3
+  offset: '0x38416'
+  special: 100
+  speed: 80
+  tmhm_bits: a44338c0030806
+  type1: grass
+  type2: poison
+4:
+  attack: 52
+  base_exp: 65
+  binary: 0427342B413214142D41555C5C5C5D0A2D000003B5034FC8E3082600
+  catch_rate: 45
+  defense: 43
+  growth_rate: Medium Slow
+  hp: 39
+  index: 176
+  learnbase:
+  - Scratch
+  - Growl
+  - null
+  - null
+  name: Charmander
+  natdex: 4
+  offset: '0x38432'
+  special: 50
+  speed: 65
+  tmhm_bits: b5034fc8e30826
+  type1: fire
+  type2: fire
+5:
+  attack: 64
+  base_exp: 142
+  binary: 053A403A504114142D8E660C5F48600A2D340003B5034FC8E3082600
+  catch_rate: 45
+  defense: 58
+  growth_rate: Medium Slow
+  hp: 58
+  index: 178
+  learnbase:
+  - Scratch
+  - Growl
+  - Ember
+  - null
+  name: Charmeleon
+  natdex: 5
+  offset: '0x3844E'
+  special: 65
+  speed: 80
+  tmhm_bits: b5034fc8e30826
+  type1: fire
+  type2: fire
+6:
+  attack: 84
+  base_exp: 209
+  binary: 064E544E645514022DD177866295640A2D342B03B5434FCEE3082600
+  catch_rate: 45
+  defense: 78
+  growth_rate: Medium Slow
+  hp: 78
+  index: 180
+  learnbase:
+  - Scratch
+  - Growl
+  - Ember
+  - Leer
+  name: Charizard
+  natdex: 6
+  offset: '0x3846A'
+  special: 85
+  speed: 100
+  tmhm_bits: b5434fcee30826
+  type1: fire
+  type2: flying
+7:
+  attack: 48
+  base_exp: 66
+  binary: 072C30412B3215152D4255B85D8F5E2127000003B13F0FC883083200
+  catch_rate: 45
+  defense: 65
+  growth_rate: Medium Slow
+  hp: 44
+  index: 177
+  learnbase:
+  - Tackle
+  - Tail Whip
+  - null
+  - null
+  name: Squirtle
+  natdex: 7
+  offset: '0x38486'
+  special: 50
+  speed: 43
+  tmhm_bits: b13f0fc8830832
+  type1: water
+  type2: water
+8:
+  attack: 63
+  base_exp: 143
+  binary: 083B3F503A4115152D8F66B160F1612127910003B13F0FC883083200
+  catch_rate: 45
+  defense: 80
+  growth_rate: Medium Slow
+  hp: 59
+  index: 179
+  learnbase:
+  - Tackle
+  - Tail Whip
+  - Bubble
+  - null
+  name: Wartortle
+  natdex: 8
+  offset: '0x384A2'
+  special: 65
+  speed: 58
+  tmhm_bits: b13f0fc8830832
+  type1: water
+  type2: water
+9:
+  attack: 83
+  base_exp: 210
+  binary: 094F53644E5515152DD277377651782127913703B17F0FCE83083200
+  catch_rate: 45
+  defense: 100
+  growth_rate: Medium Slow
+  hp: 79
+  index: 28
+  learnbase:
+  - Tackle
+  - Tail Whip
+  - Bubble
+  - Water Gun
+  name: Blastoise
+  natdex: 9
+  offset: '0x384BE'
+  special: 85
+  speed: 78
+  tmhm_bits: b17f0fce830832
+  type1: water
+  type2: water
+10:
+  attack: 30
+  base_exp: 53
+  binary: 0A2D1E232D140707FF3555494AE14A21510000000000000000000000
+  catch_rate: 255
+  defense: 35
+  growth_rate: Medium Fast
+  hp: 45
+  index: 123
+  learnbase:
+  - Tackle
+  - String Shot
+  - null
+  - null
+  name: Caterpie
+  natdex: 10
+  offset: '0x384DA'
+  special: 20
+  speed: 45
+  tmhm_bits: '00000000000000'
+  type1: bug
+  type2: bug
+11:
+  attack: 20
+  base_exp: 72
+  binary: 0B3214371E1907077848553A4BC84B6A000000000000000000000000
+  catch_rate: 120
+  defense: 55
+  growth_rate: Medium Fast
+  hp: 50
+  index: 124
+  learnbase:
+  - Harden
+  - null
+  - null
+  - null
+  name: Metapod
+  natdex: 11
+  offset: '0x384F6'
+  special: 25
+  speed: 30
+  tmhm_bits: '00000000000000'
+  type1: bug
+  type2: bug
+12:
+  attack: 45
+  base_exp: 160
+  binary: 0C3C2D32465007022DA077374C0E4E5D000000002A4338F043280200
+  catch_rate: 45
+  defense: 50
+  growth_rate: Medium Fast
+  hp: 60
+  index: 125
+  learnbase:
+  - Confusion
+  - null
+  - null
+  - null
+  name: Butterfree
+  natdex: 12
+  offset: '0x38512'
+  special: 80
+  speed: 70
+  tmhm_bits: 2a4338f0432802
+  type1: bug
+  type2: flying
+13:
+  attack: 35
+  base_exp: 52
+  binary: 0D28231E32140703FF34557D75247628510000000000000000000000
+  catch_rate: 255
+  defense: 30
+  growth_rate: Medium Fast
+  hp: 40
+  index: 112
+  learnbase:
+  - Poison Sting
+  - String Shot
+  - null
+  - null
+  name: Weedle
+  natdex: 13
+  offset: '0x3852E'
+  special: 20
+  speed: 50
+  tmhm_bits: '00000000000000'
+  type1: bug
+  type2: poison
+14:
+  attack: 25
+  base_exp: 71
+  binary: 0E2D193223190703784755777636776A000000000000000000000000
+  catch_rate: 120
+  defense: 50
+  growth_rate: Medium Fast
+  hp: 45
+  index: 113
+  learnbase:
+  - Harden
+  - null
+  - null
+  - null
+  name: Kakuna
+  natdex: 14
+  offset: '0x3854A'
+  special: 25
+  speed: 35
+  tmhm_bits: '00000000000000'
+  type1: bug
+  type2: poison
+15:
+  attack: 80
+  base_exp: 159
+  binary: 0F4150284B2D07032D9F77887780791F00000000244318C0C3080600
+  catch_rate: 45
+  defense: 40
+  growth_rate: Medium Fast
+  hp: 65
+  index: 114
+  learnbase:
+  - Fury Attack
+  - null
+  - null
+  - null
+  name: Beedrill
+  natdex: 15
+  offset: '0x38566'
+  special: 45
+  speed: 75
+  tmhm_bits: 244318c0c30806
+  type1: bug
+  type2: poison
+16:
+  attack: 45
+  base_exp: 55
+  binary: 10282D2838230002FF3755A7455B4610000000032A0308C0430C0A00
+  catch_rate: 255
+  defense: 40
+  growth_rate: Medium Slow
+  hp: 40
+  index: 36
+  learnbase:
+  - Gust
+  - null
+  - null
+  - null
+  name: Pidgey
+  natdex: 16
+  offset: '0x38582'
+  special: 35
+  speed: 56
+  tmhm_bits: 2a0308c0430c0a
+  type1: normal
+  type2: flying
+17:
+  attack: 60
+  base_exp: 113
+  binary: 113F3C37473200027871660A785B79101C0000032A0308C0430C0A00
+  catch_rate: 120
+  defense: 55
+  growth_rate: Medium Slow
+  hp: 63
+  index: 150
+  learnbase:
+  - Gust
+  - Sand Attack
+  - null
+  - null
+  name: Pidgeotto
+  natdex: 17
+  offset: '0x3859E'
+  special: 50
+  speed: 71
+  tmhm_bits: 2a0308c0430c0a
+  type1: normal
+  type2: flying
+18:
+  attack: 80
+  base_exp: 172
+  binary: 1253504B5B4600022DAC77C279797B101C6200032A4308C0430C0A00
+  catch_rate: 45
+  defense: 75
+  growth_rate: Medium Slow
+  hp: 83
+  index: 151
+  learnbase:
+  - Gust
+  - Sand Attack
+  - Quick Attack
+  - null
+  name: Pidgeot
+  natdex: 18
+  offset: '0x385BA'
+  special: 70
+  speed: 91
+  tmhm_bits: 2a4308c0430c0a
+  type1: normal
+  type2: flying
+19:
+  attack: 56
+  base_exp: 57
+  binary: 131E382348190000FF39556A4F41502127000000A02F88C9C2080200
+  catch_rate: 255
+  defense: 35
+  growth_rate: Medium Fast
+  hp: 30
+  index: 165
+  learnbase:
+  - Tackle
+  - Tail Whip
+  - null
+  - null
+  name: Rattata
+  natdex: 19
+  offset: '0x385D6'
+  special: 25
+  speed: 72
+  tmhm_bits: a02f88c9c20802
+  type1: normal
+  type2: normal
+20:
+  attack: 81
+  base_exp: 116
+  binary: 1437513C613200005A74667A500D522127620000A07F88C9C2080200
+  catch_rate: 90
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 55
+  index: 166
+  learnbase:
+  - Tackle
+  - Tail Whip
+  - Quick Attack
+  - null
+  name: Raticate
+  natdex: 20
+  offset: '0x385F2'
+  special: 50
+  speed: 97
+  tmhm_bits: a07f88c9c20802
+  type1: normal
+  type2: normal
+21:
+  attack: 60
+  base_exp: 58
+  binary: 15283C1E461F0002FF3A55DF47C248402D0000002A0308C0420C0A00
+  catch_rate: 255
+  defense: 30
+  growth_rate: Medium Fast
+  hp: 40
+  index: 5
+  learnbase:
+  - Peck
+  - Growl
+  - null
+  - null
+  name: Spearow
+  natdex: 21
+  offset: '0x3860E'
+  special: 31
+  speed: 70
+  tmhm_bits: 2a0308c0420c0a
+  type1: normal
+  type2: flying
+22:
+  attack: 90
+  base_exp: 162
+  binary: 16415A41643D00025AA27783432945402D2B00002A4308C0420C0A00
+  catch_rate: 90
+  defense: 65
+  growth_rate: Medium Fast
+  hp: 65
+  index: 35
+  learnbase:
+  - Peck
+  - Growl
+  - Leer
+  - null
+  name: Fearow
+  natdex: 22
+  offset: '0x3862A'
+  special: 61
+  speed: 100
+  tmhm_bits: 2a4308c0420c0a
+  type1: normal
+  type2: flying
+23:
+  attack: 60
+  base_exp: 62
+  binary: 17233C2C37280303FF3E556B6F6D70232B000000A00318CE82882200
+  catch_rate: 255
+  defense: 44
+  growth_rate: Medium Fast
+  hp: 35
+  index: 108
+  learnbase:
+  - Wrap
+  - Leer
+  - null
+  - null
+  name: Ekans
+  natdex: 23
+  offset: '0x38646'
+  special: 40
+  speed: 55
+  tmhm_bits: a00318ce828822
+  type1: poison
+  type2: poison
+24:
+  attack: 85
+  base_exp: 147
+  binary: 183C5545504103035A9377B4561159232B280000A04318CE82882200
+  catch_rate: 90
+  defense: 69
+  growth_rate: Medium Fast
+  hp: 60
+  index: 45
+  learnbase:
+  - Wrap
+  - Leer
+  - Poison Sting
+  - null
+  name: Arbok
+  natdex: 24
+  offset: '0x38662'
+  special: 65
+  speed: 80
+  tmhm_bits: a04318ce828822
+  type1: poison
+  type2: poison
+25:
+  attack: 55
+  base_exp: 82
+  binary: 1923371E5A321717BE52557D4D8B4E542D000000B1838DC1C3184200
+  catch_rate: 190
+  defense: 30
+  growth_rate: Medium Fast
+  hp: 35
+  index: 84
+  learnbase:
+  - Thundershock
+  - Growl
+  - null
+  - null
+  name: Pikachu
+  natdex: 25
+  offset: '0x3867E'
+  special: 50
+  speed: 90
+  tmhm_bits: b1838dc1c31842
+  type1: electric
+  type2: electric
+26:
+  attack: 90
+  base_exp: 122
+  binary: 1A3C5A37645A17174B7A77034FC350542D560000B1C38DC1C3184200
+  catch_rate: 75
+  defense: 55
+  growth_rate: Medium Fast
+  hp: 60
+  index: 85
+  learnbase:
+  - Thundershock
+  - Growl
+  - Thunder Wave
+  - null
+  name: Raichu
+  natdex: 26
+  offset: '0x3869A'
+  special: 90
+  speed: 100
+  tmhm_bits: b1c38dc1c31842
+  type1: electric
+  type2: electric
+27:
+  attack: 75
+  base_exp: 93
+  binary: 1B324B55281E0404FF5D55C95AE75B0A00000000A4030DCEC2882600
+  catch_rate: 255
+  defense: 85
+  growth_rate: Medium Fast
+  hp: 50
+  index: 96
+  learnbase:
+  - Scratch
+  - null
+  - null
+  - null
+  name: Sandshrew
+  natdex: 27
+  offset: '0x386B6'
+  special: 30
+  speed: 40
+  tmhm_bits: a4030dcec28826
+  type1: ground
+  type2: ground
+28:
+  attack: 100
+  base_exp: 163
+  binary: 1C4B646E413704045AA3666B5C045E0A1C000000A4430DCEC2882600
+  catch_rate: 90
+  defense: 110
+  growth_rate: Medium Fast
+  hp: 75
+  index: 97
+  learnbase:
+  - Scratch
+  - Sand Attack
+  - null
+  - null
+  name: Sandslash
+  natdex: 28
+  offset: '0x386D2'
+  special: 55
+  speed: 65
+  tmhm_bits: a4430dcec28826
+  type1: ground
+  type2: ground
+29:
+  attack: 47
+  base_exp: 59
+  binary: 1D372F3429280303EB3B55285DC25D2D21000003A02388C183080200
+  catch_rate: 235
+  defense: 52
+  growth_rate: Medium Slow
+  hp: 55
+  index: 15
+  learnbase:
+  - Growl
+  - Tackle
+  - null
+  - null
+  name: Nidoran F
+  natdex: 29
+  offset: '0x386EE'
+  special: 40
+  speed: 41
+  tmhm_bits: a02388c1830802
+  type1: poison
+  type2: poison
+30:
+  attack: 62
+  base_exp: 117
+  binary: 1E463E43383703037875668B54C8552D210A0003E03F88C183080200
+  catch_rate: 120
+  defense: 67
+  growth_rate: Medium Slow
+  hp: 70
+  index: 168
+  learnbase:
+  - Growl
+  - Tackle
+  - Scratch
+  - null
+  name: Nidorina
+  natdex: 30
+  offset: '0x3870A'
+  special: 55
+  speed: 56
+  tmhm_bits: e03f88c1830802
+  type1: poison
+  type2: poison
+31:
+  attack: 82
+  base_exp: 194
+  binary: 1F5A52574C4B03042DC277095EEF5F210A272203F1FF8FC7A3883200
+  catch_rate: 45
+  defense: 87
+  growth_rate: Medium Slow
+  hp: 90
+  index: 16
+  learnbase:
+  - Tackle
+  - Scratch
+  - Tail Whip
+  - Body Slam
+  name: Nidoqueen
+  natdex: 31
+  offset: '0x38726'
+  special: 75
+  speed: 76
+  tmhm_bits: f1ff8fc7a38832
+  type1: poison
+  type2: ground
+32:
+  attack: 57
+  base_exp: 60
+  binary: 202E392832280303EB3C553C4523462B21000003E02388C183080200
+  catch_rate: 235
+  defense: 40
+  growth_rate: Medium Slow
+  hp: 46
+  index: 3
+  learnbase:
+  - Leer
+  - Tackle
+  - null
+  - null
+  name: Nidoran M
+  natdex: 32
+  offset: '0x38742'
+  special: 40
+  speed: 50
+  tmhm_bits: e02388c1830802
+  type1: poison
+  type2: poison
+33:
+  attack: 72
+  base_exp: 118
+  binary: 213D4839413703037876668252F0532B211E0003E03F88C183080200
+  catch_rate: 120
+  defense: 57
+  growth_rate: Medium Slow
+  hp: 61
+  index: 167
+  learnbase:
+  - Leer
+  - Tackle
+  - Horn Attack
+  - null
+  name: Nidorino
+  natdex: 33
+  offset: '0x3875E'
+  special: 55
+  speed: 65
+  tmhm_bits: e03f88c1830802
+  type1: poison
+  type2: poison
+34:
+  attack: 92
+  base_exp: 195
+  binary: 22515C4D554B03042DC377F849604C211E282503F1FF8FC7A3883200
+  catch_rate: 45
+  defense: 77
+  growth_rate: Medium Slow
+  hp: 81
+  index: 7
+  learnbase:
+  - Tackle
+  - Horn Attack
+  - Poison Sting
+  - Thrash
+  name: Nidoking
+  natdex: 34
+  offset: '0x3877A'
+  special: 75
+  speed: 85
+  tmhm_bits: f1ff8fc7a38832
+  type1: poison
+  type2: ground
+35:
+  attack: 45
+  base_exp: 68
+  binary: 23462D30233C000096445582468547012D000004B13FAFF1A7386300
+  catch_rate: 150
+  defense: 48
+  growth_rate: Fast
+  hp: 70
+  index: 4
+  learnbase:
+  - Pound
+  - Growl
+  - null
+  - null
+  name: Clefairy
+  natdex: 35
+  offset: '0x38796'
+  special: 60
+  speed: 35
+  tmhm_bits: b13faff1a73863
+  type1: normal
+  type2: normal
+36:
+  attack: 70
+  base_exp: 129
+  binary: 245F46493C5500001981668C68B8692F036B7604B17FAFF1A7386300
+  catch_rate: 25
+  defense: 73
+  growth_rate: Fast
+  hp: 95
+  index: 142
+  learnbase:
+  - Sing
+  - Doubleslap
+  - Minimize
+  - Metronome
+  name: Clefable
+  natdex: 36
+  offset: '0x387B2'
+  special: 85
+  speed: 60
+  tmhm_bits: b17faff1a73863
+  type1: normal
+  type2: normal
+37:
+  attack: 41
+  base_exp: 63
+  binary: 2526292841411414BE3F6624499A4A3427000000A00308C8E3080200
+  catch_rate: 190
+  defense: 40
+  growth_rate: Medium Fast
+  hp: 38
+  index: 82
+  learnbase:
+  - Ember
+  - Tail Whip
+  - null
+  - null
+  name: Vulpix
+  natdex: 37
+  offset: '0x387CE'
+  special: 65
+  speed: 65
+  tmhm_bits: a00308c8e30802
+  type1: fire
+  type2: fire
+38:
+  attack: 76
+  base_exp: 178
+  binary: 26494C4B646414144BB277FF4AFB4C3427622E00A04308C8E3080200
+  catch_rate: 75
+  defense: 75
+  growth_rate: Medium Fast
+  hp: 73
+  index: 83
+  learnbase:
+  - Ember
+  - Tail Whip
+  - Quick Attack
+  - Roar
+  name: Ninetales
+  natdex: 38
+  offset: '0x387EA'
+  special: 100
+  speed: 100
+  tmhm_bits: a04308c8e30802
+  type1: fire
+  type2: fire
+39:
+  attack: 45
+  base_exp: 76
+  binary: 27732D1414190000AA4C552F620F632F00000004B13FAFF1A3386300
+  catch_rate: 170
+  defense: 20
+  growth_rate: Fast
+  hp: 115
+  index: 100
+  learnbase:
+  - Sing
+  - null
+  - null
+  - null
+  name: Jigglypuff
+  natdex: 39
+  offset: '0x38806'
+  special: 25
+  speed: 20
+  tmhm_bits: b13faff1a33863
+  type1: normal
+  type2: normal
+40:
+  attack: 70
+  base_exp: 109
+  binary: 288C462D2D320000326D664863BF642F326F0304B17FAFF1A3386300
+  catch_rate: 50
+  defense: 45
+  growth_rate: Fast
+  hp: 140
+  index: 101
+  learnbase:
+  - Sing
+  - Disable
+  - Defense Curl
+  - Doubleslap
+  name: Wigglytuff
+  natdex: 40
+  offset: '0x38822'
+  special: 50
+  speed: 45
+  tmhm_bits: b17faff1a33863
+  type1: normal
+  type2: normal
+41:
+  attack: 45
+  base_exp: 54
+  binary: 29282D2337280302FF36550C6E176F8D000000002A0318C042080200
+  catch_rate: 255
+  defense: 35
+  growth_rate: Medium Fast
+  hp: 40
+  index: 107
+  learnbase:
+  - Leech Life
+  - null
+  - null
+  - null
+  name: Zubat
+  natdex: 41
+  offset: '0x3883E'
+  special: 40
+  speed: 55
+  tmhm_bits: 2a0318c0420802
+  type1: poison
+  type2: flying
+42:
+  attack: 80
+  base_exp: 171
+  binary: 2A4B50465A4B03025AAB77E0550A588D672C00002A4318C042080200
+  catch_rate: 90
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 75
+  index: 130
+  learnbase:
+  - Leech Life
+  - Screech
+  - Bite
+  - null
+  name: Golbat
+  natdex: 42
+  offset: '0x3885A'
+  special: 75
+  speed: 90
+  tmhm_bits: 2a4318c0420802
+  type1: poison
+  type2: flying
+43:
+  attack: 50
+  base_exp: 78
+  binary: 2B2D32371E4B1603FF4E550B68A9684700000003240338C003080600
+  catch_rate: 255
+  defense: 55
+  growth_rate: Medium Slow
+  hp: 45
+  index: 185
+  learnbase:
+  - Absorb
+  - null
+  - null
+  - null
+  name: Oddish
+  natdex: 43
+  offset: '0x38876'
+  special: 75
+  speed: 30
+  tmhm_bits: 240338c0030806
+  type1: grass
+  type2: poison
+44:
+  attack: 65
+  base_exp: 132
+  binary: 2C3C4146285516037884664169786A474D4E0003240338C003080600
+  catch_rate: 120
+  defense: 70
+  growth_rate: Medium Slow
+  hp: 60
+  index: 186
+  learnbase:
+  - Absorb
+  - Poisonpowder
+  - Stun Spore
+  - null
+  name: Gloom
+  natdex: 44
+  offset: '0x38892'
+  special: 85
+  speed: 40
+  tmhm_bits: 240338c0030806
+  type1: grass
+  type2: poison
+45:
+  attack: 80
+  base_exp: 184
+  binary: 2D4B5055326416032DB877216B826C4E4F335003A44338C003080600
+  catch_rate: 45
+  defense: 85
+  growth_rate: Medium Slow
+  hp: 75
+  index: 187
+  learnbase:
+  - Stun Spore
+  - Sleep Powder
+  - Acid
+  - Petal Dance
+  name: Vileplume
+  natdex: 45
+  offset: '0x388AE'
+  special: 100
+  speed: 50
+  tmhm_bits: a44338c0030806
+  type1: grass
+  type2: poison
+46:
+  attack: 70
+  base_exp: 70
+  binary: 2E23463719370716BE4655B47077710A00000000A40338C883080600
+  catch_rate: 190
+  defense: 55
+  growth_rate: Medium Fast
+  hp: 35
+  index: 109
+  learnbase:
+  - Scratch
+  - null
+  - null
+  - null
+  name: Paras
+  natdex: 46
+  offset: '0x388CA'
+  special: 55
+  speed: 25
+  tmhm_bits: a40338c8830806
+  type1: bug
+  type2: grass
+47:
+  attack: 95
+  base_exp: 128
+  binary: 2F3C5F501E5007164B8077A8598C5B0A4E8D0000A44338C883080600
+  catch_rate: 75
+  defense: 80
+  growth_rate: Medium Fast
+  hp: 60
+  index: 46
+  learnbase:
+  - Scratch
+  - Stun Spore
+  - Leech Life
+  - null
+  name: Parasect
+  natdex: 47
+  offset: '0x388E6'
+  special: 80
+  speed: 30
+  tmhm_bits: a44338c8830806
+  type1: bug
+  type2: grass
+48:
+  attack: 55
+  base_exp: 75
+  binary: 303C37322D280703BE4B5557735C742132000000200338D003280200
+  catch_rate: 190
+  defense: 50
+  growth_rate: Medium Fast
+  hp: 60
+  index: 65
+  learnbase:
+  - Tackle
+  - Disable
+  - null
+  - null
+  name: Venonat
+  natdex: 48
+  offset: '0x38902'
+  special: 40
+  speed: 45
+  tmhm_bits: 200338d0032802
+  type1: bug
+  type2: poison
+49:
+  attack: 65
+  base_exp: 138
+  binary: 3146413C5A5A07034B8A77A946414821324D8D002A4338F043280200
+  catch_rate: 75
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 70
+  index: 119
+  learnbase:
+  - Tackle
+  - Disable
+  - Poisonpowder
+  - Leech Life
+  name: Venomoth
+  natdex: 49
+  offset: '0x3891E'
+  special: 90
+  speed: 90
+  tmhm_bits: 2a4338f0432802
+  type1: bug
+  type2: poison
+50:
+  attack: 55
+  base_exp: 81
+  binary: 320A37195F2D0404FF5155336D106E0A00000000A00308CE02880200
+  catch_rate: 255
+  defense: 25
+  growth_rate: Medium Fast
+  hp: 10
+  index: 59
+  learnbase:
+  - Scratch
+  - null
+  - null
+  - null
+  name: Diglett
+  natdex: 50
+  offset: '0x3893A'
+  special: 45
+  speed: 95
+  tmhm_bits: a00308ce028802
+  type1: ground
+  type2: ground
+51:
+  attack: 80
+  base_exp: 153
+  binary: 332350327846040432996680442A460A2D5B0000A04308CE02880200
+  catch_rate: 50
+  defense: 50
+  growth_rate: Medium Fast
+  hp: 35
+  index: 118
+  learnbase:
+  - Scratch
+  - Growl
+  - Dig
+  - null
+  name: Dugtrio
+  natdex: 51
+  offset: '0x38956'
+  special: 70
+  speed: 120
+  tmhm_bits: a04308ce028802
+  type1: ground
+  type2: ground
+52:
+  attack: 45
+  base_exp: 69
+  binary: 34282D235A280000FF455509461F470A2D000000A08F88C1C2080200
+  catch_rate: 255
+  defense: 35
+  growth_rate: Medium Fast
+  hp: 40
+  index: 77
+  learnbase:
+  - Scratch
+  - Growl
+  - null
+  - null
+  name: Meowth
+  natdex: 52
+  offset: '0x38972'
+  special: 40
+  speed: 90
+  tmhm_bits: a08f88c1c20802
+  type1: normal
+  type2: normal
+53:
+  attack: 70
+  base_exp: 148
+  binary: 3541463C734100005A94771E6D046F0A2D2C6700A0CF88C1C2080200
+  catch_rate: 90
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 65
+  index: 144
+  learnbase:
+  - Scratch
+  - Growl
+  - Bite
+  - Screech
+  name: Persian
+  natdex: 53
+  offset: '0x3898E'
+  special: 65
+  speed: 115
+  tmhm_bits: a0cf88c1c20802
+  type1: normal
+  type2: normal
+54:
+  attack: 52
+  base_exp: 80
+  binary: 3632343037321515BE50550A5C3E5D0A00000000B1BF0FC8C2083200
+  catch_rate: 190
+  defense: 48
+  growth_rate: Medium Fast
+  hp: 50
+  index: 47
+  learnbase:
+  - Scratch
+  - null
+  - null
+  - null
+  name: Psyduck
+  natdex: 54
+  offset: '0x389AA'
+  special: 50
+  speed: 55
+  tmhm_bits: b1bf0fc8c20832
+  type1: water
+  type2: water
+55:
+  attack: 82
+  base_exp: 174
+  binary: 3750524E555015154BAE770851C2520A27320000B1FF0FC8C2083200
+  catch_rate: 75
+  defense: 78
+  growth_rate: Medium Fast
+  hp: 80
+  index: 128
+  learnbase:
+  - Scratch
+  - Tail Whip
+  - Disable
+  - null
+  name: Golduck
+  natdex: 55
+  offset: '0x389C6'
+  special: 80
+  speed: 85
+  tmhm_bits: b1ff0fc8c20832
+  type1: water
+  type2: water
+56:
+  attack: 80
+  base_exp: 74
+  binary: 3828502346230101BE4A55116A166B0A2B000000B1838FC9C6882200
+  catch_rate: 190
+  defense: 35
+  growth_rate: Medium Fast
+  hp: 40
+  index: 57
+  learnbase:
+  - Scratch
+  - Leer
+  - null
+  - null
+  name: Mankey
+  natdex: 56
+  offset: '0x389E2'
+  special: 35
+  speed: 70
+  tmhm_bits: b1838fc9c68822
+  type1: fighting
+  type2: fighting
+57:
+  attack: 105
+  base_exp: 149
+  binary: 3941693C5F3C01014B9577474208440A2B029A00B1C38FC9C6882200
+  catch_rate: 75
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 65
+  index: 117
+  learnbase:
+  - Scratch
+  - Leer
+  - Karate Chop
+  - Fury Swipes
+  name: Primeape
+  natdex: 57
+  offset: '0x389FE'
+  special: 60
+  speed: 95
+  tmhm_bits: b1c38fc9c68822
+  type1: fighting
+  type2: fighting
+58:
+  attack: 70
+  base_exp: 91
+  binary: 3A37462D3C321414BE5B55004001412C2E000005A00348C8E3080200
+  catch_rate: 190
+  defense: 45
+  growth_rate: Slow
+  hp: 55
+  index: 33
+  learnbase:
+  - Bite
+  - Roar
+  - null
+  - null
+  name: Growlithe
+  natdex: 58
+  offset: '0x38A1A'
+  special: 50
+  speed: 60
+  tmhm_bits: a00348c8e30802
+  type1: fire
+  type2: fire
+59:
+  attack: 110
+  base_exp: 213
+  binary: 3B5A6E505F5014144BD577FF663D692E342B2405A04348E8E3080200
+  catch_rate: 75
+  defense: 80
+  growth_rate: Slow
+  hp: 90
+  index: 20
+  learnbase:
+  - Roar
+  - Ember
+  - Leer
+  - Take Down
+  name: Arcanine
+  natdex: 59
+  offset: '0x38A36'
+  special: 80
+  speed: 95
+  tmhm_bits: a04348e8e30802
+  type1: fire
+  type2: fire
+60:
+  attack: 50
+  base_exp: 77
+  binary: 3C2832285A281515FF4D55757847799100000003A03F08D082281200
+  catch_rate: 255
+  defense: 40
+  growth_rate: Medium Slow
+  hp: 40
+  index: 71
+  learnbase:
+  - Bubble
+  - null
+  - null
+  - null
+  name: Poliwag
+  natdex: 60
+  offset: '0x38A52'
+  special: 40
+  speed: 90
+  tmhm_bits: a03f08d0822812
+  type1: water
+  type2: water
+61:
+  attack: 65
+  base_exp: 131
+  binary: 3D4141415A321515788366ED715E73915F370003B13F0FD686283200
+  catch_rate: 120
+  defense: 65
+  growth_rate: Medium Slow
+  hp: 65
+  index: 110
+  learnbase:
+  - Bubble
+  - Hypnosis
+  - Water Gun
+  - null
+  name: Poliwhirl
+  natdex: 61
+  offset: '0x38A6E'
+  special: 50
+  speed: 90
+  tmhm_bits: b13f0fd6862832
+  type1: water
+  type2: water
+62:
+  attack: 85
+  base_exp: 185
+  binary: 3E5A555F464615012DB977C1732C755F37032203B17F0FD686283200
+  catch_rate: 45
+  defense: 95
+  growth_rate: Medium Slow
+  hp: 90
+  index: 111
+  learnbase:
+  - Hypnosis
+  - Water Gun
+  - Doubleslap
+  - Body Slam
+  name: Poliwrath
+  natdex: 62
+  offset: '0x38A8A'
+  special: 70
+  speed: 70
+  tmhm_bits: b17f0fd6862832
+  type1: water
+  type2: fighting
+63:
+  attack: 20
+  base_exp: 73
+  binary: 3F19140F5A691818C84955CC73CF746400000003B1030FF087384300
+  catch_rate: 200
+  defense: 15
+  growth_rate: Medium Slow
+  hp: 25
+  index: 148
+  learnbase:
+  - Teleport
+  - null
+  - null
+  - null
+  name: Abra
+  natdex: 63
+  offset: '0x38AA6'
+  special: 105
+  speed: 90
+  tmhm_bits: b1030ff0873843
+  type1: psychic
+  type2: psychic
+64:
+  attack: 35
+  base_exp: 145
+  binary: 4028231E697818186491663048B949645D320003B1030FF887384300
+  catch_rate: 100
+  defense: 30
+  growth_rate: Medium Slow
+  hp: 40
+  index: 38
+  learnbase:
+  - Teleport
+  - Confusion
+  - Disable
+  - null
+  name: Kadabra
+  natdex: 64
+  offset: '0x38AC2'
+  special: 120
+  speed: 105
+  tmhm_bits: b1030ff8873843
+  type1: psychic
+  type2: psychic
+65:
+  attack: 50
+  base_exp: 186
+  binary: 4137322D7887181832BA775A757977645D320003B1430FF887384300
+  catch_rate: 50
+  defense: 45
+  growth_rate: Medium Slow
+  hp: 55
+  index: 149
+  learnbase:
+  - Teleport
+  - Confusion
+  - Disable
+  - null
+  name: Alakazam
+  natdex: 65
+  offset: '0x38ADE'
+  special: 135
+  speed: 120
+  tmhm_bits: b1430ff8873843
+  type1: psychic
+  type2: psychic
+66:
+  attack: 80
+  base_exp: 88
+  binary: 4246503223230101B458559F6CA26D0200000003B1030FCEA6882200
+  catch_rate: 180
+  defense: 50
+  growth_rate: Medium Slow
+  hp: 70
+  index: 106
+  learnbase:
+  - Karate Chop
+  - null
+  - null
+  - null
+  name: Machop
+  natdex: 66
+  offset: '0x38AFA'
+  special: 35
+  speed: 35
+  tmhm_bits: b1030fcea68822
+  type1: fighting
+  type2: fighting
+67:
+  attack: 100
+  base_exp: 146
+  binary: 435064462D3201015A9277854E635002432B0003B1030FCEA6882200
+  catch_rate: 90
+  defense: 70
+  growth_rate: Medium Slow
+  hp: 80
+  index: 41
+  learnbase:
+  - Karate Chop
+  - Low Kick
+  - Leer
+  - null
+  name: Machoke
+  natdex: 67
+  offset: '0x38B16'
+  special: 50
+  speed: 45
+  tmhm_bits: b1030fcea68822
+  type1: fighting
+  type2: fighting
+68:
+  attack: 130
+  base_exp: 193
+  binary: 445A8250374101012DC177934E8C5002432B0003B1430FCEA6882200
+  catch_rate: 45
+  defense: 80
+  growth_rate: Medium Slow
+  hp: 90
+  index: 126
+  learnbase:
+  - Karate Chop
+  - Low Kick
+  - Leer
+  - null
+  name: Machamp
+  natdex: 68
+  offset: '0x38B32'
+  special: 65
+  speed: 55
+  tmhm_bits: b1430fcea68822
+  type1: fighting
+  type2: fighting
+69:
+  attack: 75
+  base_exp: 84
+  binary: 45324B2328461603FF5455006DBA6D164A000003240338C003080600
+  catch_rate: 255
+  defense: 35
+  growth_rate: Medium Slow
+  hp: 50
+  index: 188
+  learnbase:
+  - Vine Whip
+  - Growth
+  - null
+  - null
+  name: Bellsprout
+  natdex: 69
+  offset: '0x38B4E'
+  special: 70
+  speed: 40
+  tmhm_bits: 240338c0030806
+  type1: grass
+  type2: poison
+70:
+  attack: 90
+  base_exp: 151
+  binary: 46415A3237551603789766306E6F6F164A230003240338C003080600
+  catch_rate: 120
+  defense: 50
+  growth_rate: Medium Slow
+  hp: 65
+  index: 189
+  learnbase:
+  - Vine Whip
+  - Growth
+  - Wrap
+  - null
+  name: Weepinbell
+  natdex: 70
+  offset: '0x38B6A'
+  special: 85
+  speed: 55
+  tmhm_bits: 240338c0030806
+  type1: grass
+  type2: poison
+71:
+  attack: 105
+  base_exp: 191
+  binary: 47506941466416032DBF77EA6FB2714F4E334B03A44338C003080600
+  catch_rate: 45
+  defense: 65
+  growth_rate: Medium Slow
+  hp: 80
+  index: 190
+  learnbase:
+  - Sleep Powder
+  - Stun Spore
+  - Acid
+  - Razor Leaf
+  name: Victreebel
+  natdex: 71
+  offset: '0x38B86'
+  special: 100
+  speed: 70
+  tmhm_bits: a44338c0030806
+  type1: grass
+  type2: poison
+72:
+  attack: 40
+  base_exp: 105
+  binary: 4828282346641503BE69552A6E1C6F3300000005243F18C083081600
+  catch_rate: 190
+  defense: 35
+  growth_rate: Slow
+  hp: 40
+  index: 24
+  learnbase:
+  - Acid
+  - null
+  - null
+  - null
+  name: Tentacool
+  natdex: 72
+  offset: '0x38BA2'
+  special: 100
+  speed: 70
+  tmhm_bits: 243f18c0830816
+  type1: water
+  type2: poison
+73:
+  attack: 70
+  base_exp: 205
+  binary: 49504641647815033CCD665544C3453330230005247F18C083081600
+  catch_rate: 60
+  defense: 65
+  growth_rate: Slow
+  hp: 80
+  index: 155
+  learnbase:
+  - Acid
+  - Supersonic
+  - Wrap
+  - null
+  name: Tentacruel
+  natdex: 73
+  offset: '0x38BBE'
+  special: 120
+  speed: 100
+  tmhm_bits: 247f18c0830816
+  type1: water
+  type2: poison
+74:
+  attack: 80
+  base_exp: 86
+  binary: 4A285064141E0504FF56554F5629572100000003A1030FCE2EC82200
+  catch_rate: 255
+  defense: 100
+  growth_rate: Medium Slow
+  hp: 40
+  index: 169
+  learnbase:
+  - Tackle
+  - null
+  - null
+  - null
+  name: Geodude
+  natdex: 74
+  offset: '0x38BDA'
+  special: 30
+  speed: 20
+  tmhm_bits: a1030fce2ec822
+  type1: rock
+  type2: ground
+75:
+  attack: 95
+  base_exp: 134
+  binary: 4B375F73232D05047886664C4A004C216F000003A1030FCE2EC82200
+  catch_rate: 120
+  defense: 115
+  growth_rate: Medium Slow
+  hp: 55
+  index: 39
+  learnbase:
+  - Tackle
+  - Defense Curl
+  - null
+  - null
+  name: Graveler
+  natdex: 75
+  offset: '0x38BF6'
+  special: 45
+  speed: 35
+  tmhm_bits: a1030fce2ec822
+  type1: rock
+  type2: ground
+76:
+  attack: 110
+  base_exp: 177
+  binary: 4C506E822D3705042DB166745FF260216F000003B1430FCE2EC82200
+  catch_rate: 45
+  defense: 130
+  growth_rate: Medium Slow
+  hp: 80
+  index: 49
+  learnbase:
+  - Tackle
+  - Defense Curl
+  - null
+  - null
+  name: Golem
+  natdex: 76
+  offset: '0x38C12'
+  special: 55
+  speed: 45
+  tmhm_bits: b1430fce2ec822
+  type1: rock
+  type2: ground
+77:
+  attack: 85
+  base_exp: 152
+  binary: 4D3255375A411414BE9866B14A324E3400000000E00308C0E3080200
+  catch_rate: 190
+  defense: 55
+  growth_rate: Medium Fast
+  hp: 50
+  index: 163
+  learnbase:
+  - Ember
+  - null
+  - null
+  - null
+  name: Ponyta
+  natdex: 77
+  offset: '0x38C2E'
+  special: 65
+  speed: 90
+  tmhm_bits: e00308c0e30802
+  type1: fire
+  type2: fire
+78:
+  attack: 100
+  base_exp: 192
+  binary: 4E416446695014143CC077104CBA4E3427172D00E04308C0E3080200
+  catch_rate: 60
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 65
+  index: 164
+  learnbase:
+  - Ember
+  - Tail Whip
+  - Stomp
+  - Growl
+  name: Rapidash
+  natdex: 78
+  offset: '0x38C4A'
+  special: 80
+  speed: 105
+  tmhm_bits: e04308c0e30802
+  type1: fire
+  type2: fire
+79:
+  attack: 65
+  base_exp: 99
+  binary: 4F5A41410F281518BE6355A046C2475D00000000A0BF08FEE3387300
+  catch_rate: 190
+  defense: 65
+  growth_rate: Medium Fast
+  hp: 90
+  index: 37
+  learnbase:
+  - Confusion
+  - null
+  - null
+  - null
+  name: Slowpoke
+  natdex: 79
+  offset: '0x38C66'
+  special: 40
+  speed: 15
+  tmhm_bits: a0bf08fee33873
+  type1: water
+  type2: psychic
+80:
+  attack: 75
+  base_exp: 164
+  binary: 505F4B6E1E5015184BA4770A4D874F5D321D0000B1FF0FFEE3387300
+  catch_rate: 75
+  defense: 110
+  growth_rate: Medium Fast
+  hp: 95
+  index: 8
+  learnbase:
+  - Confusion
+  - Disable
+  - Headbutt
+  - null
+  name: Slowbro
+  natdex: 80
+  offset: '0x38C82'
+  special: 80
+  speed: 30
+  tmhm_bits: b1ff0ffee33873
+  type1: water
+  type2: psychic
+81:
+  attack: 35
+  base_exp: 89
+  binary: 511923462D5F1717BE5955875B0D5C2100000000200388E143184200
+  catch_rate: 190
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 25
+  index: 173
+  learnbase:
+  - Tackle
+  - null
+  - null
+  - null
+  name: Magnemite
+  natdex: 81
+  offset: '0x38C9E'
+  special: 95
+  speed: 45
+  tmhm_bits: 200388e1431842
+  type1: electric
+  type2: electric
+82:
+  attack: 60
+  base_exp: 161
+  binary: 52323C5F467817173CA166886523672131540000204388E143184200
+  catch_rate: 60
+  defense: 95
+  growth_rate: Medium Fast
+  hp: 50
+  index: 54
+  learnbase:
+  - Tackle
+  - Sonicboom
+  - Thundershock
+  - null
+  name: Magneton
+  natdex: 82
+  offset: '0x38CBA'
+  special: 120
+  speed: 70
+  tmhm_bits: 204388e1431842
+  type1: electric
+  type2: electric
+83:
+  attack: 65
+  base_exp: 94
+  binary: 533441373C3A00022D5E66E970C672401C000000AE0308C0C3080E00
+  catch_rate: 45
+  defense: 55
+  growth_rate: Medium Fast
+  hp: 52
+  index: 64
+  learnbase:
+  - Peck
+  - Sand Attack
+  - null
+  - null
+  name: Farfetch'd
+  natdex: 83
+  offset: '0x38CD6'
+  special: 58
+  speed: 60
+  tmhm_bits: ae0308c0c3080e
+  type1: normal
+  type2: flying
+84:
+  attack: 85
+  base_exp: 96
+  binary: 5423552D4B230002BE60552C770D784000000000A80308C0830C0B00
+  catch_rate: 190
+  defense: 45
+  growth_rate: Medium Fast
+  hp: 35
+  index: 70
+  learnbase:
+  - Peck
+  - null
+  - null
+  - null
+  name: Doduo
+  natdex: 84
+  offset: '0x38CF2'
+  special: 35
+  speed: 75
+  tmhm_bits: a80308c0830c0b
+  type1: normal
+  type2: flying
+85:
+  attack: 110
+  base_exp: 158
+  binary: 553C6E46643C00022D9E770040A241402D1F0000A84308C0830C0B00
+  catch_rate: 45
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 60
+  index: 116
+  learnbase:
+  - Peck
+  - Growl
+  - Fury Attack
+  - null
+  name: Dodrio
+  natdex: 85
+  offset: '0x38D0E'
+  special: 60
+  speed: 100
+  tmhm_bits: a84308c0830c0b
+  type1: normal
+  type2: flying
+86:
+  attack: 45
+  base_exp: 100
+  binary: 56412D372D461515BE6466846BE86C1D00000000E0BF08C082083200
+  catch_rate: 190
+  defense: 55
+  growth_rate: Medium Fast
+  hp: 65
+  index: 58
+  learnbase:
+  - Headbutt
+  - null
+  - null
+  - null
+  name: Seel
+  natdex: 86
+  offset: '0x38D2A'
+  special: 70
+  speed: 45
+  tmhm_bits: e0bf08c0820832
+  type1: water
+  type2: water
+87:
+  attack: 70
+  base_exp: 176
+  binary: 575A4650465F15194BB0669948E2491D2D3E0000E0FF08C082083200
+  catch_rate: 75
+  defense: 80
+  growth_rate: Medium Fast
+  hp: 90
+  index: 120
+  learnbase:
+  - Headbutt
+  - Growl
+  - Aurora Beam
+  - null
+  name: Dewgong
+  natdex: 87
+  offset: '0x38D46'
+  special: 95
+  speed: 70
+  tmhm_bits: e0ff08c0820832
+  type1: water
+  type2: ice
+88:
+  attack: 80
+  base_exp: 90
+  binary: 5850503219280303BE5A557359B05A0132000000A00098C12A480200
+  catch_rate: 190
+  defense: 50
+  growth_rate: Medium Fast
+  hp: 80
+  index: 13
+  learnbase:
+  - Pound
+  - Disable
+  - null
+  - null
+  name: Grimer
+  natdex: 88
+  offset: '0x38D62'
+  special: 40
+  speed: 25
+  tmhm_bits: a00098c12a4802
+  type1: poison
+  type2: poison
+89:
+  attack: 105
+  base_exp: 157
+  binary: 5969694B324103034B9D77565F5F6101328B0000A04098C12A480200
+  catch_rate: 75
+  defense: 75
+  growth_rate: Medium Fast
+  hp: 105
+  index: 136
+  learnbase:
+  - Pound
+  - Disable
+  - Poison Gas
+  - null
+  name: Muk
+  natdex: 89
+  offset: '0x38D7E'
+  special: 65
+  speed: 50
+  tmhm_bits: a04098c12a4802
+  type1: poison
+  type2: poison
+90:
+  attack: 65
+  base_exp: 97
+  binary: 5A1E4164282D1515BE6155B66CC36D216E000005203F08E04B481300
+  catch_rate: 190
+  defense: 100
+  growth_rate: Slow
+  hp: 30
+  index: 23
+  learnbase:
+  - Tackle
+  - Withdraw
+  - null
+  - null
+  name: Shellder
+  natdex: 90
+  offset: '0x38D9A'
+  special: 45
+  speed: 40
+  tmhm_bits: 203f08e04b4813
+  type1: water
+  type2: water
+91:
+  attack: 95
+  base_exp: 203
+  binary: 5B325FB4465515193CCB777F64AB666E30803E05207F08E04B481300
+  catch_rate: 60
+  defense: 180
+  growth_rate: Slow
+  hp: 50
+  index: 139
+  learnbase:
+  - Withdraw
+  - Supersonic
+  - Clamp
+  - Aurora Beam
+  name: Cloyster
+  natdex: 91
+  offset: '0x38DB6'
+  special: 85
+  speed: 70
+  tmhm_bits: 207f08e04b4813
+  type1: water
+  type2: ice
+92:
+  attack: 35
+  base_exp: 95
+  binary: 5C1E231E50640803BE5F77776F90717A6D650003200098D10A6A0200
+  catch_rate: 190
+  defense: 30
+  growth_rate: Medium Slow
+  hp: 30
+  index: 25
+  learnbase:
+  - Lick
+  - Confuse Ray
+  - Night Shade
+  - null
+  name: Gastly
+  natdex: 92
+  offset: '0x38DD2'
+  special: 100
+  speed: 80
+  tmhm_bits: 200098d10a6a02
+  type1: ghost
+  type2: poison
+93:
+  attack: 50
+  base_exp: 126
+  binary: 5D2D322D5F7308035A7E668A7145737A6D650003200098D10A6A0200
+  catch_rate: 90
+  defense: 45
+  growth_rate: Medium Slow
+  hp: 45
+  index: 147
+  learnbase:
+  - Lick
+  - Confuse Ray
+  - Night Shade
+  - null
+  name: Haunter
+  natdex: 93
+  offset: '0x38DEE'
+  special: 115
+  speed: 95
+  tmhm_bits: 200098d10a6a02
+  type1: ghost
+  type2: poison
+94:
+  attack: 65
+  base_exp: 190
+  binary: 5E3C413C6E8208032DBE66765BC65C7A6D650003B1439FD18E6A2200
+  catch_rate: 45
+  defense: 60
+  growth_rate: Medium Slow
+  hp: 60
+  index: 14
+  learnbase:
+  - Lick
+  - Confuse Ray
+  - Night Shade
+  - null
+  name: Gengar
+  natdex: 94
+  offset: '0x38E0A'
+  special: 130
+  speed: 110
+  tmhm_bits: b1439fd18e6a22
+  type1: ghost
+  type2: poison
+95:
+  attack: 45
+  base_exp: 108
+  binary: 5F232DA0461E05042D6C77644100432167000000A00308CE8AC82200
+  catch_rate: 45
+  defense: 160
+  growth_rate: Medium Fast
+  hp: 35
+  index: 34
+  learnbase:
+  - Tackle
+  - Screech
+  - null
+  - null
+  name: Onix
+  natdex: 95
+  offset: '0x38E26'
+  special: 30
+  speed: 70
+  tmhm_bits: a00308ce8ac822
+  type1: rock
+  type2: ground
+96:
+  attack: 48
+  base_exp: 102
+  binary: 603C302D2A5A1818BE6666A95D055F015F000000B1030FF0873A4300
+  catch_rate: 190
+  defense: 45
+  growth_rate: Medium Fast
+  hp: 60
+  index: 48
+  learnbase:
+  - Pound
+  - Hypnosis
+  - null
+  - null
+  name: Drowzee
+  natdex: 96
+  offset: '0x38E42'
+  special: 90
+  speed: 42
+  tmhm_bits: b1030ff0873a43
+  type1: psychic
+  type2: psychic
+97:
+  attack: 73
+  base_exp: 165
+  binary: 61554946437318184BA5775D535255015F325D00B1430FF0873A4300
+  catch_rate: 75
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 85
+  index: 129
+  learnbase:
+  - Pound
+  - Hypnosis
+  - Disable
+  - Confusion
+  name: Hypno
+  natdex: 97
+  offset: '0x38E5E'
+  special: 115
+  speed: 67
+  tmhm_bits: b1430ff0873a43
+  type1: psychic
+  type2: psychic
+98:
+  attack: 105
+  base_exp: 115
+  binary: 621E695A32191515E173557747B048912B000000A43F08C002083600
+  catch_rate: 225
+  defense: 90
+  growth_rate: Medium Fast
+  hp: 30
+  index: 78
+  learnbase:
+  - Bubble
+  - Leer
+  - null
+  - null
+  name: Krabby
+  natdex: 98
+  offset: '0x38E7A'
+  special: 25
+  speed: 50
+  tmhm_bits: a43f08c0020836
+  type1: water
+  type2: water
+99:
+  attack: 130
+  base_exp: 206
+  binary: 633782734B3215153CCE77EC61DE63912B0B0000A47F08C002083600
+  catch_rate: 60
+  defense: 115
+  growth_rate: Medium Fast
+  hp: 55
+  index: 138
+  learnbase:
+  - Bubble
+  - Leer
+  - Vicegrip
+  - null
+  name: Kingler
+  natdex: 99
+  offset: '0x38E96'
+  special: 50
+  speed: 75
+  tmhm_bits: a47f08c0020836
+  type1: water
+  type2: water
+100:
+  attack: 30
+  base_exp: 103
+  binary: 64281E3264371717BE675511499A492167000000200188E14B584200
+  catch_rate: 190
+  defense: 50
+  growth_rate: Medium Fast
+  hp: 40
+  index: 6
+  learnbase:
+  - Tackle
+  - Screech
+  - null
+  - null
+  name: Voltorb
+  natdex: 100
+  offset: '0x38EB2'
+  special: 55
+  speed: 100
+  tmhm_bits: 200188e14b5842
+  type1: electric
+  type2: electric
+101:
+  attack: 50
+  base_exp: 150
+  binary: 653C32468C5017173C9655606727682167310000204188E1CB584200
+  catch_rate: 60
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 60
+  index: 141
+  learnbase:
+  - Tackle
+  - Screech
+  - Sonicboom
+  - null
+  name: Electrode
+  natdex: 101
+  offset: '0x38ECE'
+  special: 80
+  speed: 140
+  tmhm_bits: 204188e1cb5842
+  type1: electric
+  type2: electric
+102:
+  attack: 40
+  base_exp: 98
+  binary: 663C2850283C16185A6277D756F0588C5F000005200308F01B680200
+  catch_rate: 90
+  defense: 80
+  growth_rate: Slow
+  hp: 60
+  index: 12
+  learnbase:
+  - Barrage
+  - Hypnosis
+  - null
+  - null
+  name: Exeggcute
+  natdex: 102
+  offset: '0x38EEA'
+  special: 60
+  speed: 40
+  tmhm_bits: 200308f01b6802
+  type1: grass
+  type2: psychic
+103:
+  attack: 95
+  base_exp: 212
+  binary: 675F5F55377D16182DD477D651F8538C5F000005204338F01B682200
+  catch_rate: 45
+  defense: 85
+  growth_rate: Slow
+  hp: 95
+  index: 10
+  learnbase:
+  - Barrage
+  - Hypnosis
+  - null
+  - null
+  name: Exeggutor
+  natdex: 103
+  offset: '0x38F06'
+  special: 125
+  speed: 55
+  tmhm_bits: 204338f01b6822
+  type1: grass
+  type2: psychic
+104:
+  attack: 50
+  base_exp: 87
+  binary: 6832325F23280404BE5755A86096617D2D000000B13F0FCEA2082200
+  catch_rate: 190
+  defense: 95
+  growth_rate: Medium Fast
+  hp: 50
+  index: 17
+  learnbase:
+  - Bone Club
+  - Growl
+  - null
+  - null
+  name: Cubone
+  natdex: 104
+  offset: '0x38F22'
+  special: 40
+  speed: 35
+  tmhm_bits: b13f0fcea20822
+  type1: ground
+  type2: ground
+105:
+  attack: 80
+  base_exp: 124
+  binary: 693C506E2D3204044B7C668F6F01717D2D2B7400B17F0FCEA2082200
+  catch_rate: 75
+  defense: 110
+  growth_rate: Medium Fast
+  hp: 60
+  index: 145
+  learnbase:
+  - Bone Club
+  - Growl
+  - Leer
+  - Focus Energy
+  name: Marowak
+  natdex: 105
+  offset: '0x38F3E'
+  special: 50
+  speed: 45
+  tmhm_bits: b17f0fcea20822
+  type1: ground
+  type2: ground
+106:
+  attack: 120
+  base_exp: 139
+  binary: 6A327835572301012D8B77BF525E541860000000B1030FC0C6082200
+  catch_rate: 45
+  defense: 53
+  growth_rate: Medium Fast
+  hp: 50
+  index: 43
+  learnbase:
+  - Double Kick
+  - Meditate
+  - null
+  - null
+  name: Hitmonlee
+  natdex: 106
+  offset: '0x38F5A'
+  special: 35
+  speed: 87
+  tmhm_bits: b1030fc0c60822
+  type1: fighting
+  type2: fighting
+107:
+  attack: 105
+  base_exp: 140
+  binary: 6B32694F4C2301012D8C66BC5443560461000000B1030FC0C6082200
+  catch_rate: 45
+  defense: 79
+  growth_rate: Medium Fast
+  hp: 50
+  index: 44
+  learnbase:
+  - Comet Punch
+  - Agility
+  - null
+  - null
+  name: Hitmonchan
+  natdex: 107
+  offset: '0x38F76'
+  special: 35
+  speed: 76
+  tmhm_bits: b1030fc0c60822
+  type1: fighting
+  type2: fighting
+108:
+  attack: 55
+  base_exp: 127
+  binary: 6C5A374B1E3C00002D7F77A7543E562330000000B57F8FC7A2083600
+  catch_rate: 45
+  defense: 75
+  growth_rate: Medium Fast
+  hp: 90
+  index: 11
+  learnbase:
+  - Wrap
+  - Supersonic
+  - null
+  - null
+  name: Lickitung
+  natdex: 108
+  offset: '0x38F92'
+  special: 60
+  speed: 30
+  tmhm_bits: b57f8fc7a20836
+  type1: normal
+  type2: normal
+109:
+  attack: 65
+  base_exp: 114
+  binary: 6D28415F233C0303BE7266A6677469217B000000200088C12A480200
+  catch_rate: 190
+  defense: 95
+  growth_rate: Medium Fast
+  hp: 40
+  index: 55
+  learnbase:
+  - Tackle
+  - Smog
+  - null
+  - null
+  name: Koffing
+  natdex: 109
+  offset: '0x38FAE'
+  special: 60
+  speed: 35
+  tmhm_bits: 200088c12a4802
+  type1: poison
+  type2: poison
+110:
+  attack: 90
+  base_exp: 173
+  binary: 6E415A783C5503033CAD77446A766C217B7C0000204088C12A480200
+  catch_rate: 60
+  defense: 120
+  growth_rate: Medium Fast
+  hp: 65
+  index: 143
+  learnbase:
+  - Tackle
+  - Smog
+  - Sludge
+  - null
+  name: Weezing
+  natdex: 110
+  offset: '0x38FCA'
+  special: 85
+  speed: 60
+  tmhm_bits: 204088c12a4802
+  type1: poison
+  type2: poison
+111:
+  attack: 85
+  base_exp: 135
+  binary: 6F50555F191E040578877708620F641E00000005E00388CFA2882200
+  catch_rate: 120
+  defense: 95
+  growth_rate: Slow
+  hp: 80
+  index: 18
+  learnbase:
+  - Horn Attack
+  - null
+  - null
+  - null
+  name: Rhyhorn
+  natdex: 111
+  offset: '0x38FE6'
+  special: 30
+  speed: 25
+  tmhm_bits: e00388cfa28822
+  type1: ground
+  type2: rock
+112:
+  attack: 130
+  base_exp: 204
+  binary: 70698278282D04053CCC77004002421E17271F05F1FF8FCFA2883200
+  catch_rate: 60
+  defense: 120
+  growth_rate: Slow
+  hp: 105
+  index: 1
+  learnbase:
+  - Horn Attack
+  - Stomp
+  - Tail Whip
+  - Fury Attack
+  name: Rhydon
+  natdex: 112
+  offset: '0x39002'
+  special: 45
+  speed: 40
+  tmhm_bits: f1ff8fcfa28832
+  type1: ground
+  type2: rock
+113:
+  attack: 5
+  base_exp: 255
+  binary: 71FA0505326900001EFF66AE4C214E0103000004B17FAFF1B7396300
+  catch_rate: 30
+  defense: 5
+  growth_rate: Fast
+  hp: 250
+  index: 40
+  learnbase:
+  - Pound
+  - Doubleslap
+  - null
+  - null
+  name: Chansey
+  natdex: 113
+  offset: '0x3901E'
+  special: 105
+  speed: 50
+  tmhm_bits: b17faff1b73963
+  type1: normal
+  type2: normal
+114:
+  attack: 55
+  base_exp: 166
+  binary: 724137733C6416162DA666397BE77C8414000000A44338C082080600
+  catch_rate: 45
+  defense: 115
+  growth_rate: Medium Fast
+  hp: 65
+  index: 30
+  learnbase:
+  - Constrict
+  - Bind
+  - null
+  - null
+  name: Tangela
+  natdex: 114
+  offset: '0x3903A'
+  special: 100
+  speed: 60
+  tmhm_bits: a44338c0820806
+  type1: grass
+  type2: grass
+115:
+  attack: 95
+  base_exp: 175
+  binary: 73695F505A2800002DAF779A42A6440463000000B17F8FC7A2883200
+  catch_rate: 45
+  defense: 80
+  growth_rate: Medium Fast
+  hp: 105
+  index: 2
+  learnbase:
+  - Comet Punch
+  - Rage
+  - null
+  - null
+  name: Kangaskhan
+  natdex: 115
+  offset: '0x39056'
+  special: 40
+  speed: 90
+  tmhm_bits: b17f8fc7a28832
+  type1: normal
+  type2: normal
+116:
+  attack: 40
+  base_exp: 83
+  binary: 741E28463C461515E15355C15773589100000000203F08C0C2081200
+  catch_rate: 225
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 30
+  index: 92
+  learnbase:
+  - Bubble
+  - null
+  - null
+  - null
+  name: Horsea
+  natdex: 116
+  offset: '0x39072'
+  special: 70
+  speed: 60
+  tmhm_bits: 203f08c0c20812
+  type1: water
+  type2: water
+117:
+  attack: 65
+  base_exp: 155
+  binary: 7537415F555F15154B9B66C4582B5A916C000000207F08C0C2081200
+  catch_rate: 75
+  defense: 95
+  growth_rate: Medium Fast
+  hp: 55
+  index: 93
+  learnbase:
+  - Bubble
+  - Smokescreen
+  - null
+  - null
+  name: Seadra
+  natdex: 117
+  offset: '0x3908E'
+  special: 95
+  speed: 85
+  tmhm_bits: 207f08c0c20812
+  type1: water
+  type2: water
+118:
+  attack: 67
+  base_exp: 111
+  binary: 762D433C3F321515E16F666F4696474027000000603F08C0C2081200
+  catch_rate: 225
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 45
+  index: 157
+  learnbase:
+  - Peck
+  - Tail Whip
+  - null
+  - null
+  name: Goldeen
+  natdex: 118
+  offset: '0x390AA'
+  special: 50
+  speed: 63
+  tmhm_bits: 603f08c0c20812
+  type1: water
+  type2: water
+119:
+  attack: 92
+  base_exp: 170
+  binary: 77505C41445015153CAA770348034A4027300000607F08C0C2081200
+  catch_rate: 60
+  defense: 65
+  growth_rate: Medium Fast
+  hp: 80
+  index: 158
+  learnbase:
+  - Peck
+  - Tail Whip
+  - Supersonic
+  - null
+  name: Seaking
+  natdex: 119
+  offset: '0x390C6'
+  special: 80
+  speed: 68
+  tmhm_bits: 607f08c0c20812
+  type1: water
+  type2: water
+120:
+  attack: 45
+  base_exp: 106
+  binary: 781E2D3755461515E16A66E074EC752100000005203F88F1C3385300
+  catch_rate: 225
+  defense: 55
+  growth_rate: Slow
+  hp: 30
+  index: 27
+  learnbase:
+  - Tackle
+  - null
+  - null
+  - null
+  name: Staryu
+  natdex: 120
+  offset: '0x390E2'
+  special: 70
+  speed: 85
+  tmhm_bits: 203f88f1c33853
+  type1: water
+  type2: water
+121:
+  attack: 75
+  base_exp: 207
+  binary: 793C4B55736415183CCF661C7CAC7D21376A0005207F88F1C3385300
+  catch_rate: 60
+  defense: 85
+  growth_rate: Slow
+  hp: 60
+  index: 152
+  learnbase:
+  - Tackle
+  - Water Gun
+  - Harden
+  - null
+  name: Starmie
+  natdex: 121
+  offset: '0x390FE'
+  special: 100
+  speed: 115
+  tmhm_bits: 207f88f1c33853
+  type1: water
+  type2: psychic
+122:
+  attack: 45
+  base_exp: 136
+  binary: 7A282D415A6418182D8866F35047525D70000000B143AFF187384200
+  catch_rate: 45
+  defense: 65
+  growth_rate: Medium Fast
+  hp: 40
+  index: 42
+  learnbase:
+  - Confusion
+  - Barrier
+  - null
+  - null
+  name: Mr. Mime
+  natdex: 122
+  offset: '0x3911A'
+  special: 100
+  speed: 90
+  tmhm_bits: b143aff1873842
+  type1: psychic
+  type2: psychic
+123:
+  attack: 110
+  base_exp: 187
+  binary: 7B466E50693707022DBB771C723C746200000000244308C0C2080600
+  catch_rate: 45
+  defense: 80
+  growth_rate: Medium Fast
+  hp: 70
+  index: 26
+  learnbase:
+  - Quick Attack
+  - null
+  - null
+  - null
+  name: Scyther
+  natdex: 123
+  offset: '0x39136'
+  special: 55
+  speed: 105
+  tmhm_bits: 244308c0c20806
+  type1: bug
+  type2: flying
+124:
+  attack: 50
+  base_exp: 137
+  binary: 7C4132235F5F19182D89668E79427B018E000000B17F0FF087280200
+  catch_rate: 45
+  defense: 35
+  growth_rate: Medium Fast
+  hp: 65
+  index: 72
+  learnbase:
+  - Pound
+  - Lovely Kiss
+  - null
+  - null
+  name: Jynx
+  natdex: 124
+  offset: '0x39152'
+  special: 95
+  speed: 95
+  tmhm_bits: b17f0ff0872802
+  type1: ice
+  type2: psychic
+125:
+  attack: 83
+  base_exp: 156
+  binary: 7D415339695517172D9C666763EF64622B000000B1438FF1C7386200
+  catch_rate: 45
+  defense: 57
+  growth_rate: Medium Fast
+  hp: 65
+  index: 53
+  learnbase:
+  - Quick Attack
+  - Leer
+  - null
+  - null
+  name: Electabuzz
+  natdex: 125
+  offset: '0x3916E'
+  special: 85
+  speed: 105
+  tmhm_bits: b1438ff1c73862
+  type1: electric
+  type2: electric
+126:
+  attack: 95
+  base_exp: 167
+  binary: 7E415F395D5514142DA7666161BF623400000000B1430FF0A6282200
+  catch_rate: 45
+  defense: 57
+  growth_rate: Medium Fast
+  hp: 65
+  index: 51
+  learnbase:
+  - Ember
+  - null
+  - null
+  - null
+  name: Magmar
+  natdex: 126
+  offset: '0x3918A'
+  special: 85
+  speed: 93
+  tmhm_bits: b1430ff0a62822
+  type1: fire
+  type2: fire
+127:
+  attack: 125
+  base_exp: 200
+  binary: 7F417D64553707072DC877DA78AA7A0B00000005A4430DC002082600
+  catch_rate: 45
+  defense: 100
+  growth_rate: Slow
+  hp: 65
+  index: 29
+  learnbase:
+  - Vicegrip
+  - null
+  - null
+  - null
+  name: Pinsir
+  natdex: 127
+  offset: '0x391A6'
+  special: 55
+  speed: 85
+  tmhm_bits: a4430dc0020826
+  type1: bug
+  type2: bug
+128:
+  attack: 100
+  base_exp: 211
+  binary: 804B645F6E4600002DD3777E6E54702100000005E07388C7A2082200
+  catch_rate: 45
+  defense: 95
+  growth_rate: Slow
+  hp: 75
+  index: 60
+  learnbase:
+  - Tackle
+  - null
+  - null
+  - null
+  name: Tauros
+  natdex: 128
+  offset: '0x391C2'
+  special: 70
+  speed: 110
+  tmhm_bits: e07388c7a20822
+  type1: normal
+  type2: normal
+129:
+  attack: 10
+  base_exp: 20
+  binary: 81140A3750141515FF1466315DC35E96000000050000000000000000
+  catch_rate: 255
+  defense: 55
+  growth_rate: Slow
+  hp: 20
+  index: 133
+  learnbase:
+  - Splash
+  - null
+  - null
+  - null
+  name: Magikarp
+  natdex: 129
+  offset: '0x391DE'
+  special: 20
+  speed: 80
+  tmhm_bits: '00000000000000'
+  type1: water
+  type2: water
+130:
+  attack: 125
+  base_exp: 214
+  binary: 825F7D4F516415022DD677D469256C2C522B3805A07FC8C1A3083200
+  catch_rate: 45
+  defense: 79
+  growth_rate: Slow
+  hp: 95
+  index: 22
+  learnbase:
+  - Bite
+  - Dragon Rage
+  - Leer
+  - Hydro Pump
+  name: Gyarados
+  natdex: 130
+  offset: '0x391FA'
+  special: 100
+  speed: 81
+  tmhm_bits: a07fc8c1a30832
+  type1: water
+  type2: flying
+131:
+  attack: 85
+  base_exp: 219
+  binary: 838255503C5F15192DDB77C1647C66372D000005E07FE8D183283200
+  catch_rate: 45
+  defense: 80
+  growth_rate: Slow
+  hp: 130
+  index: 19
+  learnbase:
+  - Water Gun
+  - Growl
+  - null
+  - null
+  name: Lapras
+  natdex: 131
+  offset: '0x39216'
+  special: 95
+  speed: 60
+  tmhm_bits: e07fe8d1832832
+  type1: water
+  type2: ice
+132:
+  attack: 48
+  base_exp: 61
+  binary: 8430303030300000233D551445BD4590000000000000000000000000
+  catch_rate: 35
+  defense: 48
+  growth_rate: Medium Fast
+  hp: 48
+  index: 76
+  learnbase:
+  - Transform
+  - null
+  - null
+  - null
+  name: Ditto
+  natdex: 132
+  offset: '0x39232'
+  special: 48
+  speed: 48
+  tmhm_bits: '00000000000000'
+  type1: normal
+  type2: normal
+133:
+  attack: 55
+  base_exp: 92
+  binary: 85373732374100002D5C5531652566211C000000A00308C0C3080200
+  catch_rate: 45
+  defense: 50
+  growth_rate: Medium Fast
+  hp: 55
+  index: 102
+  learnbase:
+  - Tackle
+  - Sand Attack
+  - null
+  - null
+  name: Eevee
+  natdex: 133
+  offset: '0x3924E'
+  special: 65
+  speed: 55
+  tmhm_bits: a00308c0c30802
+  type1: normal
+  type2: normal
+134:
+  attack: 65
+  base_exp: 196
+  binary: 8682413C416E15152DC466AE6A026C211C623700A07F08C0C3081200
+  catch_rate: 45
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 130
+  index: 105
+  learnbase:
+  - Tackle
+  - Sand Attack
+  - Quick Attack
+  - Water Gun
+  name: Vaporeon
+  natdex: 134
+  offset: '0x3926A'
+  special: 110
+  speed: 65
+  tmhm_bits: a07f08c0c30812
+  type1: water
+  type2: water
+135:
+  attack: 65
+  base_exp: 197
+  binary: 8741413C826E17172DC5668F680A6A211C625400A04388C1C3184200
+  catch_rate: 45
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 65
+  index: 104
+  learnbase:
+  - Tackle
+  - Sand Attack
+  - Quick Attack
+  - Thundershock
+  name: Jolteon
+  natdex: 135
+  offset: '0x39286'
+  special: 110
+  speed: 130
+  tmhm_bits: a04388c1c31842
+  type1: electric
+  type2: electric
+136:
+  attack: 130
+  base_exp: 198
+  binary: 8841823C416E14142DC6668D660668211C623400A04308C0E3080200
+  catch_rate: 45
+  defense: 60
+  growth_rate: Medium Fast
+  hp: 65
+  index: 103
+  learnbase:
+  - Tackle
+  - Sand Attack
+  - Quick Attack
+  - Ember
+  name: Flareon
+  natdex: 136
+  offset: '0x392A2'
+  special: 110
+  speed: 65
+  tmhm_bits: a04308c0e30802
+  type1: fire
+  type2: fire
+137:
+  attack: 60
+  base_exp: 130
+  binary: 89413C46284B00002D82668457D158219FA00000207388F1C3384300
+  catch_rate: 45
+  defense: 70
+  growth_rate: Medium Fast
+  hp: 65
+  index: 170
+  learnbase:
+  - Tackle
+  - Sharpen
+  - Conversion
+  - null
+  name: Porygon
+  natdex: 137
+  offset: '0x392BE'
+  special: 75
+  speed: 40
+  tmhm_bits: 207388f1c33843
+  type1: normal
+  type2: normal
+138:
+  attack: 40
+  base_exp: 120
+  binary: 8A232864235A05152D78559D5E765F376E000000A03F08C003081200
+  catch_rate: 45
+  defense: 100
+  growth_rate: Medium Fast
+  hp: 35
+  index: 98
+  learnbase:
+  - Water Gun
+  - Withdraw
+  - null
+  - null
+  name: Omanyte
+  natdex: 138
+  offset: '0x392DA'
+  special: 90
+  speed: 35
+  tmhm_bits: a03f08c0030812
+  type1: rock
+  type2: water
+139:
+  attack: 60
+  base_exp: 199
+  binary: 8B463C7D377305152DC766D35F8B61376E1E0000E07F0DC083081200
+  catch_rate: 45
+  defense: 125
+  growth_rate: Medium Fast
+  hp: 70
+  index: 99
+  learnbase:
+  - Water Gun
+  - Withdraw
+  - Horn Attack
+  - null
+  name: Omastar
+  natdex: 139
+  offset: '0x392F6'
+  special: 115
+  speed: 55
+  tmhm_bits: e07f0dc0830812
+  type1: rock
+  type2: water
+140:
+  attack: 80
+  base_exp: 119
+  binary: 8C1E505A372D05152D7755645429550A6A000000A03F08C003081200
+  catch_rate: 45
+  defense: 90
+  growth_rate: Medium Fast
+  hp: 30
+  index: 90
+  learnbase:
+  - Scratch
+  - Harden
+  - null
+  - null
+  name: Kabuto
+  natdex: 140
+  offset: '0x39312'
+  special: 45
+  speed: 55
+  tmhm_bits: a03f08c0030812
+  type1: rock
+  type2: water
+141:
+  attack: 115
+  base_exp: 201
+  binary: 8D3C7369504605152DC96683553C570A6A470000B67F0DC083081200
+  catch_rate: 45
+  defense: 105
+  growth_rate: Medium Fast
+  hp: 60
+  index: 91
+  learnbase:
+  - Scratch
+  - Harden
+  - Absorb
+  - null
+  name: Kabutops
+  natdex: 141
+  offset: '0x3932E'
+  special: 70
+  speed: 80
+  tmhm_bits: b67f0dc0830812
+  type1: rock
+  type2: water
+142:
+  attack: 105
+  base_exp: 202
+  binary: 8E506941823C05022DCA773159EC5A11610000052A4348C0630C0A00
+  catch_rate: 45
+  defense: 65
+  growth_rate: Slow
+  hp: 80
+  index: 171
+  learnbase:
+  - Wing Attack
+  - Agility
+  - null
+  - null
+  name: Aerodactyl
+  natdex: 142
+  offset: '0x3934A'
+  special: 60
+  speed: 130
+  tmhm_bits: 2a4348c0630c0a
+  type1: rock
+  type2: flying
+143:
+  attack: 110
+  base_exp: 154
+  binary: 8FA06E411E410000199A77195BE55C1D859C0005B1FFAFD7AFA83200
+  catch_rate: 25
+  defense: 65
+  growth_rate: Slow
+  hp: 160
+  index: 132
+  learnbase:
+  - Headbutt
+  - Amnesia
+  - Rest
+  - null
+  name: Snorlax
+  natdex: 143
+  offset: '0x39366'
+  special: 65
+  speed: 30
+  tmhm_bits: b1ffafd7afa832
+  type1: normal
+  type2: normal
+144:
+  attack: 85
+  base_exp: 215
+  binary: 905A5564557D190203D77700403842403A0000052A7F08C0430C0A00
+  catch_rate: 3
+  defense: 100
+  growth_rate: Slow
+  hp: 90
+  index: 74
+  learnbase:
+  - Peck
+  - Ice Beam
+  - null
+  - null
+  name: Articuno
+  natdex: 144
+  offset: '0x39382'
+  special: 125
+  speed: 85
+  tmhm_bits: 2a7f08c0430c0a
+  type1: ice
+  type2: flying
+145:
+  attack: 90
+  base_exp: 216
+  binary: 915A5A55647D170203D8779D42844454410000052A4388C1431C4A00
+  catch_rate: 3
+  defense: 85
+  growth_rate: Slow
+  hp: 90
+  index: 75
+  learnbase:
+  - Thundershock
+  - Drill Peck
+  - null
+  - null
+  name: Zapdos
+  natdex: 145
+  offset: '0x3939E'
+  special: 125
+  speed: 100
+  tmhm_bits: 2a4388c1431c4a
+  type1: electric
+  type2: flying
+146:
+  attack: 100
+  base_exp: 217
+  binary: 925A645A5A7D140203D977AC7B027E40530000052A4308C0630C0A00
+  catch_rate: 3
+  defense: 90
+  growth_rate: Slow
+  hp: 90
+  index: 73
+  learnbase:
+  - Peck
+  - Fire Spin
+  - null
+  - null
+  name: Moltres
+  natdex: 146
+  offset: '0x393BA'
+  special: 125
+  speed: 90
+  tmhm_bits: 2a4308c0630c0a
+  type1: fire
+  type2: flying
+147:
+  attack: 64
+  base_exp: 67
+  binary: 9329402D32321A1A2D435551513452232B000005A03FC8C1E3181200
+  catch_rate: 45
+  defense: 45
+  growth_rate: Slow
+  hp: 41
+  index: 88
+  learnbase:
+  - Wrap
+  - Leer
+  - null
+  - null
+  name: Dratini
+  natdex: 147
+  offset: '0x393D6'
+  special: 50
+  speed: 50
+  tmhm_bits: a03fc8c1e31812
+  type1: dragon
+  type2: dragon
+148:
+  attack: 84
+  base_exp: 144
+  binary: 943D544146461A1A2D90669752D953232B560005E03FC8C1E3181200
+  catch_rate: 45
+  defense: 65
+  growth_rate: Slow
+  hp: 61
+  index: 89
+  learnbase:
+  - Wrap
+  - Leer
+  - Thunder Wave
+  - null
+  name: Dragonair
+  natdex: 148
+  offset: '0x393F2'
+  special: 70
+  speed: 70
+  tmhm_bits: e03fc8c1e31812
+  type1: dragon
+  type2: dragon
+149:
+  attack: 134
+  base_exp: 218
+  binary: 955B865F50641A022DDA77AA747F76232B566105E27FC8C1E3183200
+  catch_rate: 45
+  defense: 95
+  growth_rate: Slow
+  hp: 91
+  index: 66
+  learnbase:
+  - Wrap
+  - Leer
+  - Thunder Wave
+  - Agility
+  name: Dragonite
+  natdex: 149
+  offset: '0x3940E'
+  special: 100
+  speed: 80
+  tmhm_bits: e27fc8c1e31832
+  type1: dragon
+  type2: flying
+150:
+  attack: 110
+  base_exp: 220
+  binary: 966A6E5A829A181803DC777F58855A5D32815E05B1FFAFF1AF386300
+  catch_rate: 3
+  defense: 90
+  growth_rate: Slow
+  hp: 106
+  index: 131
+  learnbase:
+  - Confusion
+  - Disable
+  - Swift
+  - Psychic
+  name: Mewtwo
+  natdex: 150
+  offset: '0x3942A'
+  special: 154
+  speed: 130
+  tmhm_bits: b1ffaff1af3863
+  type1: psychic
+  type2: psychic
+151:
+  attack: 100
+  base_exp: 64
+  binary: 97646464646418182D4055124105420100000003FFFFFFFFFFFFFFFF
+  catch_rate: 45
+  defense: 100
+  growth_rate: Medium Slow
+  hp: 100
+  index: 21
+  learnbase:
+  - Pound
+  - null
+  - null
+  - null
+  name: Mew
+  natdex: 151
+  offset: '0x425B'
+  special: 100
+  speed: 100
+  tmhm_bits: ffffffffffffff
+  type1: psychic
+  type2: psychic

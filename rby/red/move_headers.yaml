@@ -1,0 +1,1650 @@
+0:
+  accuracy: 0
+  binary: '000000000000'
+  effect: No secondary effect
+  id: 0
+  name: null
+  offset: '0x37FFA'
+  power: 0
+  pp: 0
+  type: normal
+1:
+  accuracy: 255
+  binary: 01002800FF23
+  effect: No secondary effect
+  id: 1
+  name: Pound
+  offset: '0x38000'
+  power: 40
+  pp: 35
+  type: normal
+2:
+  accuracy: 255
+  binary: 02003200FF19
+  effect: No secondary effect
+  id: 2
+  name: Karate Chop
+  offset: '0x38006'
+  power: 50
+  pp: 25
+  type: normal
+3:
+  accuracy: 216
+  binary: 031D0F00D80A
+  effect: Attacks 2 to 5 times
+  id: 3
+  name: Doubleslap
+  offset: '0x3800C'
+  power: 15
+  pp: 10
+  type: normal
+4:
+  accuracy: 216
+  binary: 041D1200D80F
+  effect: Attacks 2 to 5 times
+  id: 4
+  name: Comet Punch
+  offset: '0x38012'
+  power: 18
+  pp: 15
+  type: normal
+5:
+  accuracy: 216
+  binary: 05005000D814
+  effect: No secondary effect
+  id: 5
+  name: Mega Punch
+  offset: '0x38018'
+  power: 80
+  pp: 20
+  type: normal
+6:
+  accuracy: 255
+  binary: 06102800FF14
+  effect: Pay Day
+  id: 6
+  name: Pay Day
+  offset: '0x3801E'
+  power: 40
+  pp: 20
+  type: normal
+7:
+  accuracy: 255
+  binary: 07044B14FF0F
+  effect: 1% chance of burn
+  id: 7
+  name: Fire Punch
+  offset: '0x38024'
+  power: 75
+  pp: 15
+  type: fire
+8:
+  accuracy: 255
+  binary: 08054B19FF0F
+  effect: Freezes opponent
+  id: 8
+  name: Ice Punch
+  offset: '0x3802A'
+  power: 75
+  pp: 15
+  type: ice
+9:
+  accuracy: 255
+  binary: 09064B17FF0F
+  effect: 1% chance of paralysis
+  id: 9
+  name: Thunderpunch
+  offset: '0x38030'
+  power: 75
+  pp: 15
+  type: electric
+10:
+  accuracy: 255
+  binary: 0A002800FF23
+  effect: No secondary effect
+  id: 10
+  name: Scratch
+  offset: '0x38036'
+  power: 40
+  pp: 35
+  type: normal
+11:
+  accuracy: 255
+  binary: 0B003700FF1E
+  effect: No secondary effect
+  id: 11
+  name: Vicegrip
+  offset: '0x3803C'
+  power: 55
+  pp: 30
+  type: normal
+12:
+  accuracy: 76
+  binary: 0C2601004C05
+  effect: OHKO
+  id: 12
+  name: Guillotine
+  offset: '0x38042'
+  power: 1
+  pp: 5
+  type: normal
+13:
+  accuracy: 191
+  binary: 0D275000BF0A
+  effect: Charges one turn, then attacks on the next turn
+  id: 13
+  name: Razor Wind
+  offset: '0x38048'
+  power: 80
+  pp: 10
+  type: normal
+14:
+  accuracy: 255
+  binary: 0E320000FF1E
+  effect: Raises Attack 2 stages
+  id: 14
+  name: Swords Dance
+  offset: '0x3804E'
+  power: 0
+  pp: 30
+  type: normal
+15:
+  accuracy: 242
+  binary: 0F003200F21E
+  effect: No secondary effect
+  id: 15
+  name: Cut
+  offset: '0x38054'
+  power: 50
+  pp: 30
+  type: normal
+16:
+  accuracy: 255
+  binary: 10002800FF23
+  effect: No secondary effect
+  id: 16
+  name: Gust
+  offset: '0x3805A'
+  power: 40
+  pp: 35
+  type: normal
+17:
+  accuracy: 255
+  binary: 11002302FF23
+  effect: No secondary effect
+  id: 17
+  name: Wing Attack
+  offset: '0x38060'
+  power: 35
+  pp: 35
+  type: flying
+18:
+  accuracy: 216
+  binary: 121C0000D814
+  effect: SWITCH_AND_TELEPORT_EFFECT
+  id: 18
+  name: Whirlwind
+  offset: '0x38066'
+  power: 0
+  pp: 20
+  type: normal
+19:
+  accuracy: 242
+  binary: 132B4602F20F
+  effect: Fly
+  id: 19
+  name: Fly
+  offset: '0x3806C'
+  power: 70
+  pp: 15
+  type: flying
+20:
+  accuracy: 191
+  binary: 142A0F00BF14
+  effect: Wrap-like moves
+  id: 20
+  name: Bind
+  offset: '0x38072'
+  power: 15
+  pp: 20
+  type: normal
+21:
+  accuracy: 191
+  binary: 15005000BF14
+  effect: No secondary effect
+  id: 21
+  name: Slam
+  offset: '0x38078'
+  power: 80
+  pp: 20
+  type: normal
+22:
+  accuracy: 255
+  binary: 16002316FF0A
+  effect: No secondary effect
+  id: 22
+  name: Vine Whip
+  offset: '0x3807E'
+  power: 35
+  pp: 10
+  type: grass
+23:
+  accuracy: 255
+  binary: 17254100FF14
+  effect: 2% chance of flinch
+  id: 23
+  name: Stomp
+  offset: '0x38084'
+  power: 65
+  pp: 20
+  type: normal
+24:
+  accuracy: 255
+  binary: 182C1E01FF1E
+  effect: Attacks twice
+  id: 24
+  name: Double Kick
+  offset: '0x3808A'
+  power: 30
+  pp: 30
+  type: fighting
+25:
+  accuracy: 191
+  binary: 19007800BF05
+  effect: No secondary effect
+  id: 25
+  name: Mega Kick
+  offset: '0x38090'
+  power: 120
+  pp: 5
+  type: normal
+26:
+  accuracy: 242
+  binary: 1A2D4601F219
+  effect: Jump Kick/Hi Jump Kick
+  id: 26
+  name: Jump Kick
+  offset: '0x38096'
+  power: 70
+  pp: 25
+  type: fighting
+27:
+  accuracy: 216
+  binary: 1B253C01D80F
+  effect: 2% chance of flinch
+  id: 27
+  name: Rolling Kick
+  offset: '0x3809C'
+  power: 60
+  pp: 15
+  type: fighting
+28:
+  accuracy: 255
+  binary: 1C160000FF0F
+  effect: Lowers Accuracy 1 stage
+  id: 28
+  name: Sand Attack
+  offset: '0x380A2'
+  power: 0
+  pp: 15
+  type: normal
+29:
+  accuracy: 255
+  binary: 1D254600FF0F
+  effect: 2% chance of flinch
+  id: 29
+  name: Headbutt
+  offset: '0x380A8'
+  power: 70
+  pp: 15
+  type: normal
+30:
+  accuracy: 255
+  binary: 1E004100FF19
+  effect: No secondary effect
+  id: 30
+  name: Horn Attack
+  offset: '0x380AE'
+  power: 65
+  pp: 25
+  type: normal
+31:
+  accuracy: 216
+  binary: 1F1D0F00D814
+  effect: Attacks 2 to 5 times
+  id: 31
+  name: Fury Attack
+  offset: '0x380B4'
+  power: 15
+  pp: 20
+  type: normal
+32:
+  accuracy: 76
+  binary: 202601004C05
+  effect: OHKO
+  id: 32
+  name: Horn Drill
+  offset: '0x380BA'
+  power: 1
+  pp: 5
+  type: normal
+33:
+  accuracy: 242
+  binary: 21002300F223
+  effect: No secondary effect
+  id: 33
+  name: Tackle
+  offset: '0x380C0'
+  power: 35
+  pp: 35
+  type: normal
+34:
+  accuracy: 255
+  binary: 22245500FF0F
+  effect: 2% chance of paralysis
+  id: 34
+  name: Body Slam
+  offset: '0x380C6'
+  power: 85
+  pp: 15
+  type: normal
+35:
+  accuracy: 216
+  binary: 232A0F00D814
+  effect: Wrap-like moves
+  id: 35
+  name: Wrap
+  offset: '0x380CC'
+  power: 15
+  pp: 20
+  type: normal
+36:
+  accuracy: 216
+  binary: 24305A00D814
+  effect: User takes recoil damage
+  id: 36
+  name: Take Down
+  offset: '0x380D2'
+  power: 90
+  pp: 20
+  type: normal
+37:
+  accuracy: 255
+  binary: 251B5A00FF14
+  effect: Thrash/Petal Dance
+  id: 37
+  name: Thrash
+  offset: '0x380D8'
+  power: 90
+  pp: 20
+  type: normal
+38:
+  accuracy: 255
+  binary: 26306400FF0F
+  effect: User takes recoil damage
+  id: 38
+  name: Double Edge
+  offset: '0x380DE'
+  power: 100
+  pp: 15
+  type: normal
+39:
+  accuracy: 255
+  binary: 27130000FF1E
+  effect: Lowers Defense 1 stage
+  id: 39
+  name: Tail Whip
+  offset: '0x380E4'
+  power: 0
+  pp: 30
+  type: normal
+40:
+  accuracy: 255
+  binary: 28020F03FF23
+  effect: 1% chance of poison
+  id: 40
+  name: Poison Sting
+  offset: '0x380EA'
+  power: 15
+  pp: 35
+  type: poison
+41:
+  accuracy: 255
+  binary: 294D1907FF14
+  effect: Twineedle
+  id: 41
+  name: Twineedle
+  offset: '0x380F0'
+  power: 25
+  pp: 20
+  type: bug
+42:
+  accuracy: 216
+  binary: 2A1D0E07D814
+  effect: Attacks 2 to 5 times
+  id: 42
+  name: Pin Missile
+  offset: '0x380F6'
+  power: 14
+  pp: 20
+  type: bug
+43:
+  accuracy: 255
+  binary: 2B130000FF1E
+  effect: Lowers Defense 1 stage
+  id: 43
+  name: Leer
+  offset: '0x380FC'
+  power: 0
+  pp: 30
+  type: normal
+44:
+  accuracy: 255
+  binary: 2C1F3C00FF19
+  effect: 1% chance of flinch
+  id: 44
+  name: Bite
+  offset: '0x38102'
+  power: 60
+  pp: 25
+  type: normal
+45:
+  accuracy: 255
+  binary: 2D120000FF28
+  effect: Lowers Attack 1 stage
+  id: 45
+  name: Growl
+  offset: '0x38108'
+  power: 0
+  pp: 40
+  type: normal
+46:
+  accuracy: 255
+  binary: 2E1C0000FF14
+  effect: SWITCH_AND_TELEPORT_EFFECT
+  id: 46
+  name: Roar
+  offset: '0x3810E'
+  power: 0
+  pp: 20
+  type: normal
+47:
+  accuracy: 140
+  binary: 2F2000008C0F
+  effect: Puts opponent to sleep
+  id: 47
+  name: Sing
+  offset: '0x38114'
+  power: 0
+  pp: 15
+  type: normal
+48:
+  accuracy: 140
+  binary: 303100008C14
+  effect: Confuses opponent
+  id: 48
+  name: Supersonic
+  offset: '0x3811A'
+  power: 0
+  pp: 20
+  type: normal
+49:
+  accuracy: 229
+  binary: 31290100E514
+  effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+  id: 49
+  name: Sonicboom
+  offset: '0x38120'
+  power: 1
+  pp: 20
+  type: normal
+50:
+  accuracy: 140
+  binary: 325600008C14
+  effect: Disable
+  id: 50
+  name: Disable
+  offset: '0x38126'
+  power: 0
+  pp: 20
+  type: normal
+51:
+  accuracy: 255
+  binary: 33452803FF1E
+  effect: Chance of lowering Defense
+  id: 51
+  name: Acid
+  offset: '0x3812C'
+  power: 40
+  pp: 30
+  type: poison
+52:
+  accuracy: 255
+  binary: 34042814FF19
+  effect: 1% chance of burn
+  id: 52
+  name: Ember
+  offset: '0x38132'
+  power: 40
+  pp: 25
+  type: fire
+53:
+  accuracy: 255
+  binary: 35045F14FF0F
+  effect: 1% chance of burn
+  id: 53
+  name: Flamethrower
+  offset: '0x38138'
+  power: 95
+  pp: 15
+  type: fire
+54:
+  accuracy: 255
+  binary: 362E0019FF1E
+  effect: Mist
+  id: 54
+  name: Mist
+  offset: '0x3813E'
+  power: 0
+  pp: 30
+  type: ice
+55:
+  accuracy: 255
+  binary: 37002815FF19
+  effect: No secondary effect
+  id: 55
+  name: Water Gun
+  offset: '0x38144'
+  power: 40
+  pp: 25
+  type: water
+56:
+  accuracy: 204
+  binary: 38007815CC05
+  effect: No secondary effect
+  id: 56
+  name: Hydro Pump
+  offset: '0x3814A'
+  power: 120
+  pp: 5
+  type: water
+57:
+  accuracy: 255
+  binary: 39005F15FF0F
+  effect: No secondary effect
+  id: 57
+  name: Surf
+  offset: '0x38150'
+  power: 95
+  pp: 15
+  type: water
+58:
+  accuracy: 255
+  binary: 3A055F19FF0A
+  effect: Freezes opponent
+  id: 58
+  name: Ice Beam
+  offset: '0x38156'
+  power: 95
+  pp: 10
+  type: ice
+59:
+  accuracy: 229
+  binary: 3B057819E505
+  effect: Freezes opponent
+  id: 59
+  name: Blizzard
+  offset: '0x3815C'
+  power: 120
+  pp: 5
+  type: ice
+60:
+  accuracy: 255
+  binary: 3C4C4118FF14
+  effect: Chance of confusion
+  id: 60
+  name: Psybeam
+  offset: '0x38162'
+  power: 65
+  pp: 20
+  type: psychic
+61:
+  accuracy: 255
+  binary: 3D464115FF14
+  effect: Chance of lowering Speed
+  id: 61
+  name: Bubblebeam
+  offset: '0x38168'
+  power: 65
+  pp: 20
+  type: water
+62:
+  accuracy: 255
+  binary: 3E444119FF14
+  effect: Chance of lowering Attack
+  id: 62
+  name: Aurora Beam
+  offset: '0x3816E'
+  power: 65
+  pp: 20
+  type: ice
+63:
+  accuracy: 229
+  binary: 3F509600E505
+  effect: Hyper Beam
+  id: 63
+  name: Hyper Beam
+  offset: '0x38174'
+  power: 150
+  pp: 5
+  type: normal
+64:
+  accuracy: 255
+  binary: 40002302FF23
+  effect: No secondary effect
+  id: 64
+  name: Peck
+  offset: '0x3817A'
+  power: 35
+  pp: 35
+  type: flying
+65:
+  accuracy: 255
+  binary: 41005002FF14
+  effect: No secondary effect
+  id: 65
+  name: Drill Peck
+  offset: '0x38180'
+  power: 80
+  pp: 20
+  type: flying
+66:
+  accuracy: 204
+  binary: 42305001CC19
+  effect: User takes recoil damage
+  id: 66
+  name: Submission
+  offset: '0x38186'
+  power: 80
+  pp: 25
+  type: fighting
+67:
+  accuracy: 229
+  binary: 43253201E514
+  effect: 2% chance of flinch
+  id: 67
+  name: Low Kick
+  offset: '0x3818C'
+  power: 50
+  pp: 20
+  type: fighting
+68:
+  accuracy: 255
+  binary: 44000101FF14
+  effect: No secondary effect
+  id: 68
+  name: Counter
+  offset: '0x38192'
+  power: 1
+  pp: 20
+  type: fighting
+69:
+  accuracy: 255
+  binary: 45290101FF14
+  effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+  id: 69
+  name: Seismic Toss
+  offset: '0x38198'
+  power: 1
+  pp: 20
+  type: fighting
+70:
+  accuracy: 255
+  binary: 46005000FF0F
+  effect: No secondary effect
+  id: 70
+  name: Strength
+  offset: '0x3819E'
+  power: 80
+  pp: 15
+  type: normal
+71:
+  accuracy: 255
+  binary: 47031416FF14
+  effect: Drains HP
+  id: 71
+  name: Absorb
+  offset: '0x381A4'
+  power: 20
+  pp: 20
+  type: grass
+72:
+  accuracy: 255
+  binary: 48032816FF0A
+  effect: Drains HP
+  id: 72
+  name: Mega Drain
+  offset: '0x381AA'
+  power: 40
+  pp: 10
+  type: grass
+73:
+  accuracy: 229
+  binary: 49540016E50A
+  effect: Leech Seed
+  id: 73
+  name: Leech Seed
+  offset: '0x381B0'
+  power: 0
+  pp: 10
+  type: grass
+74:
+  accuracy: 255
+  binary: 4A0D0000FF28
+  effect: Raises Special 1 stage
+  id: 74
+  name: Growth
+  offset: '0x381B6'
+  power: 0
+  pp: 40
+  type: normal
+75:
+  accuracy: 242
+  binary: 4B003716F219
+  effect: No secondary effect
+  id: 75
+  name: Razor Leaf
+  offset: '0x381BC'
+  power: 55
+  pp: 25
+  type: grass
+76:
+  accuracy: 255
+  binary: 4C277816FF0A
+  effect: Charges one turn, then attacks on the next turn
+  id: 76
+  name: Solarbeam
+  offset: '0x381C2'
+  power: 120
+  pp: 10
+  type: grass
+77:
+  accuracy: 191
+  binary: 4D420003BF23
+  effect: Poisons opponent
+  id: 77
+  name: Poisonpowder
+  offset: '0x381C8'
+  power: 0
+  pp: 35
+  type: poison
+78:
+  accuracy: 191
+  binary: 4E430016BF1E
+  effect: Paralyzes opponent
+  id: 78
+  name: Stun Spore
+  offset: '0x381CE'
+  power: 0
+  pp: 30
+  type: grass
+79:
+  accuracy: 191
+  binary: 4F200016BF0F
+  effect: Puts opponent to sleep
+  id: 79
+  name: Sleep Powder
+  offset: '0x381D4'
+  power: 0
+  pp: 15
+  type: grass
+80:
+  accuracy: 255
+  binary: 501B4616FF14
+  effect: Thrash/Petal Dance
+  id: 80
+  name: Petal Dance
+  offset: '0x381DA'
+  power: 70
+  pp: 20
+  type: grass
+81:
+  accuracy: 242
+  binary: 51140007F228
+  effect: Lowers Speed 1 stage
+  id: 81
+  name: String Shot
+  offset: '0x381E0'
+  power: 0
+  pp: 40
+  type: bug
+82:
+  accuracy: 255
+  binary: 5229011AFF0A
+  effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+  id: 82
+  name: Dragon Rage
+  offset: '0x381E6'
+  power: 1
+  pp: 10
+  type: dragon
+83:
+  accuracy: 178
+  binary: 532A0F14B20F
+  effect: Wrap-like moves
+  id: 83
+  name: Fire Spin
+  offset: '0x381EC'
+  power: 15
+  pp: 15
+  type: fire
+84:
+  accuracy: 255
+  binary: 54062817FF1E
+  effect: 1% chance of paralysis
+  id: 84
+  name: Thundershock
+  offset: '0x381F2'
+  power: 40
+  pp: 30
+  type: electric
+85:
+  accuracy: 255
+  binary: 55065F17FF0F
+  effect: 1% chance of paralysis
+  id: 85
+  name: Thunderbolt
+  offset: '0x381F8'
+  power: 95
+  pp: 15
+  type: electric
+86:
+  accuracy: 255
+  binary: 56430017FF14
+  effect: Paralyzes opponent
+  id: 86
+  name: Thunder Wave
+  offset: '0x381FE'
+  power: 0
+  pp: 20
+  type: electric
+87:
+  accuracy: 178
+  binary: 57067817B20A
+  effect: 1% chance of paralysis
+  id: 87
+  name: Thunder
+  offset: '0x38204'
+  power: 120
+  pp: 10
+  type: electric
+88:
+  accuracy: 165
+  binary: 58003205A50F
+  effect: No secondary effect
+  id: 88
+  name: Rock Throw
+  offset: '0x3820A'
+  power: 50
+  pp: 15
+  type: rock
+89:
+  accuracy: 255
+  binary: 59006404FF0A
+  effect: No secondary effect
+  id: 89
+  name: Earthquake
+  offset: '0x38210'
+  power: 100
+  pp: 10
+  type: ground
+90:
+  accuracy: 76
+  binary: 5A2601044C05
+  effect: OHKO
+  id: 90
+  name: Fissure
+  offset: '0x38216'
+  power: 1
+  pp: 5
+  type: ground
+91:
+  accuracy: 255
+  binary: 5B276404FF0A
+  effect: Charges one turn, then attacks on the next turn
+  id: 91
+  name: Dig
+  offset: '0x3821C'
+  power: 100
+  pp: 10
+  type: ground
+92:
+  accuracy: 216
+  binary: 5C420003D80A
+  effect: Poisons opponent
+  id: 92
+  name: Toxic
+  offset: '0x38222'
+  power: 0
+  pp: 10
+  type: poison
+93:
+  accuracy: 255
+  binary: 5D4C3218FF19
+  effect: Chance of confusion
+  id: 93
+  name: Confusion
+  offset: '0x38228'
+  power: 50
+  pp: 25
+  type: psychic
+94:
+  accuracy: 255
+  binary: 5E475A18FF0A
+  effect: Chance of lowering Special
+  id: 94
+  name: Psychic
+  offset: '0x3822E'
+  power: 90
+  pp: 10
+  type: psychic
+95:
+  accuracy: 153
+  binary: 5F2000189914
+  effect: Puts opponent to sleep
+  id: 95
+  name: Hypnosis
+  offset: '0x38234'
+  power: 0
+  pp: 20
+  type: psychic
+96:
+  accuracy: 255
+  binary: 600A0018FF28
+  effect: Raises Attack 1 stage
+  id: 96
+  name: Meditate
+  offset: '0x3823A'
+  power: 0
+  pp: 40
+  type: psychic
+97:
+  accuracy: 255
+  binary: 61340018FF1E
+  effect: Raises Speed 2 stages
+  id: 97
+  name: Agility
+  offset: '0x38240'
+  power: 0
+  pp: 30
+  type: psychic
+98:
+  accuracy: 255
+  binary: 62002800FF1E
+  effect: No secondary effect
+  id: 98
+  name: Quick Attack
+  offset: '0x38246'
+  power: 40
+  pp: 30
+  type: normal
+99:
+  accuracy: 255
+  binary: 63511400FF14
+  effect: Rage
+  id: 99
+  name: Rage
+  offset: '0x3824C'
+  power: 20
+  pp: 20
+  type: normal
+100:
+  accuracy: 255
+  binary: 641C0018FF14
+  effect: SWITCH_AND_TELEPORT_EFFECT
+  id: 100
+  name: Teleport
+  offset: '0x38252'
+  power: 0
+  pp: 20
+  type: psychic
+101:
+  accuracy: 255
+  binary: 65290008FF0F
+  effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+  id: 101
+  name: Night Shade
+  offset: '0x38258'
+  power: 0
+  pp: 15
+  type: ghost
+102:
+  accuracy: 255
+  binary: 66520000FF0A
+  effect: Mimic
+  id: 102
+  name: Mimic
+  offset: '0x3825E'
+  power: 0
+  pp: 10
+  type: normal
+103:
+  accuracy: 216
+  binary: 673B0000D828
+  effect: Raises Defense 2 stages
+  id: 103
+  name: Screech
+  offset: '0x38264'
+  power: 0
+  pp: 40
+  type: normal
+104:
+  accuracy: 255
+  binary: 680F0000FF0F
+  effect: Raises Evasion 1 stage
+  id: 104
+  name: Double Team
+  offset: '0x3826A'
+  power: 0
+  pp: 15
+  type: normal
+105:
+  accuracy: 255
+  binary: 69380000FF14
+  effect: Heals user
+  id: 105
+  name: Recover
+  offset: '0x38270'
+  power: 0
+  pp: 20
+  type: normal
+106:
+  accuracy: 255
+  binary: 6A0B0000FF1E
+  effect: Raises Defense 1 stage
+  id: 106
+  name: Harden
+  offset: '0x38276'
+  power: 0
+  pp: 30
+  type: normal
+107:
+  accuracy: 255
+  binary: 6B0F0000FF14
+  effect: Raises Evasion 1 stage
+  id: 107
+  name: Minimize
+  offset: '0x3827C'
+  power: 0
+  pp: 20
+  type: normal
+108:
+  accuracy: 255
+  binary: 6C160000FF14
+  effect: Lowers Accuracy 1 stage
+  id: 108
+  name: Smokescreen
+  offset: '0x38282'
+  power: 0
+  pp: 20
+  type: normal
+109:
+  accuracy: 255
+  binary: 6D310008FF0A
+  effect: Confuses opponent
+  id: 109
+  name: Confuse Ray
+  offset: '0x38288'
+  power: 0
+  pp: 10
+  type: ghost
+110:
+  accuracy: 255
+  binary: 6E0B0015FF28
+  effect: Raises Defense 1 stage
+  id: 110
+  name: Withdraw
+  offset: '0x3828E'
+  power: 0
+  pp: 40
+  type: water
+111:
+  accuracy: 255
+  binary: 6F0B0000FF28
+  effect: Raises Defense 1 stage
+  id: 111
+  name: Defense Curl
+  offset: '0x38294'
+  power: 0
+  pp: 40
+  type: normal
+112:
+  accuracy: 255
+  binary: 70330018FF1E
+  effect: Raises Defense 2 stages
+  id: 112
+  name: Barrier
+  offset: '0x3829A'
+  power: 0
+  pp: 30
+  type: psychic
+113:
+  accuracy: 255
+  binary: 71400018FF1E
+  effect: Light Screen
+  id: 113
+  name: Light Screen
+  offset: '0x382A0'
+  power: 0
+  pp: 30
+  type: psychic
+114:
+  accuracy: 255
+  binary: 72190019FF1E
+  effect: Haze
+  id: 114
+  name: Haze
+  offset: '0x382A6'
+  power: 0
+  pp: 30
+  type: ice
+115:
+  accuracy: 255
+  binary: 73410018FF14
+  effect: Reflect
+  id: 115
+  name: Reflect
+  offset: '0x382AC'
+  power: 0
+  pp: 20
+  type: psychic
+116:
+  accuracy: 255
+  binary: 742F0000FF1E
+  effect: Focus Energy
+  id: 116
+  name: Focus Energy
+  offset: '0x382B2'
+  power: 0
+  pp: 30
+  type: normal
+117:
+  accuracy: 255
+  binary: 751A0000FF0A
+  effect: Bide
+  id: 117
+  name: Bide
+  offset: '0x382B8'
+  power: 0
+  pp: 10
+  type: normal
+118:
+  accuracy: 255
+  binary: 76530000FF0A
+  effect: Metronome
+  id: 118
+  name: Metronome
+  offset: '0x382BE'
+  power: 0
+  pp: 10
+  type: normal
+119:
+  accuracy: 255
+  binary: 77090002FF14
+  effect: Mirror Move
+  id: 119
+  name: Mirror Move
+  offset: '0x382C4'
+  power: 0
+  pp: 20
+  type: flying
+120:
+  accuracy: 255
+  binary: 78078200FF05
+  effect: Explosion/Self Destruct
+  id: 120
+  name: Selfdestruct
+  offset: '0x382CA'
+  power: 130
+  pp: 5
+  type: normal
+121:
+  accuracy: 191
+  binary: 79006400BF0A
+  effect: No secondary effect
+  id: 121
+  name: Egg Bomb
+  offset: '0x382D0'
+  power: 100
+  pp: 10
+  type: normal
+122:
+  accuracy: 255
+  binary: 7A241408FF1E
+  effect: 2% chance of paralysis
+  id: 122
+  name: Lick
+  offset: '0x382D6'
+  power: 20
+  pp: 30
+  type: ghost
+123:
+  accuracy: 178
+  binary: 7B211403B214
+  effect: 2% chance of poison
+  id: 123
+  name: Smog
+  offset: '0x382DC'
+  power: 20
+  pp: 20
+  type: poison
+124:
+  accuracy: 255
+  binary: 7C214103FF14
+  effect: 2% chance of poison
+  id: 124
+  name: Sludge
+  offset: '0x382E2'
+  power: 65
+  pp: 20
+  type: poison
+125:
+  accuracy: 216
+  binary: 7D1F4104D814
+  effect: 1% chance of flinch
+  id: 125
+  name: Bone Club
+  offset: '0x382E8'
+  power: 65
+  pp: 20
+  type: ground
+126:
+  accuracy: 216
+  binary: 7E227814D805
+  effect: 2% chance of burn
+  id: 126
+  name: Fire Blast
+  offset: '0x382EE'
+  power: 120
+  pp: 5
+  type: fire
+127:
+  accuracy: 255
+  binary: 7F005015FF0F
+  effect: No secondary effect
+  id: 127
+  name: Waterfall
+  offset: '0x382F4'
+  power: 80
+  pp: 15
+  type: water
+128:
+  accuracy: 191
+  binary: 802A2315BF0A
+  effect: Wrap-like moves
+  id: 128
+  name: Clamp
+  offset: '0x382FA'
+  power: 35
+  pp: 10
+  type: water
+129:
+  accuracy: 255
+  binary: 81113C00FF14
+  effect: Swift
+  id: 129
+  name: Swift
+  offset: '0x38300'
+  power: 60
+  pp: 20
+  type: normal
+130:
+  accuracy: 255
+  binary: 82276400FF0F
+  effect: Charges one turn, then attacks on the next turn
+  id: 130
+  name: Skull Bash
+  offset: '0x38306'
+  power: 100
+  pp: 15
+  type: normal
+131:
+  accuracy: 255
+  binary: 831D1400FF0F
+  effect: Attacks 2 to 5 times
+  id: 131
+  name: Spike Cannon
+  offset: '0x3830C'
+  power: 20
+  pp: 15
+  type: normal
+132:
+  accuracy: 255
+  binary: 84460A00FF23
+  effect: Chance of lowering Speed
+  id: 132
+  name: Constrict
+  offset: '0x38312'
+  power: 10
+  pp: 35
+  type: normal
+133:
+  accuracy: 255
+  binary: 85350018FF14
+  effect: Raises Special 2 stages
+  id: 133
+  name: Amnesia
+  offset: '0x38318'
+  power: 0
+  pp: 20
+  type: psychic
+134:
+  accuracy: 204
+  binary: 86160018CC0F
+  effect: Lowers Accuracy 1 stage
+  id: 134
+  name: Kinesis
+  offset: '0x3831E'
+  power: 0
+  pp: 15
+  type: psychic
+135:
+  accuracy: 255
+  binary: 87380000FF0A
+  effect: Heals user
+  id: 135
+  name: Softboiled
+  offset: '0x38324'
+  power: 0
+  pp: 10
+  type: normal
+136:
+  accuracy: 229
+  binary: 882D5501E514
+  effect: Jump Kick/Hi Jump Kick
+  id: 136
+  name: Hi Jump Kick
+  offset: '0x3832A'
+  power: 85
+  pp: 20
+  type: fighting
+137:
+  accuracy: 191
+  binary: 89430000BF1E
+  effect: Paralyzes opponent
+  id: 137
+  name: Glare
+  offset: '0x38330'
+  power: 0
+  pp: 30
+  type: normal
+138:
+  accuracy: 255
+  binary: 8A086418FF0F
+  effect: Dream Eater
+  id: 138
+  name: Dream Eater
+  offset: '0x38336'
+  power: 100
+  pp: 15
+  type: psychic
+139:
+  accuracy: 140
+  binary: 8B4200038C28
+  effect: Poisons opponent
+  id: 139
+  name: Poison Gas
+  offset: '0x3833C'
+  power: 0
+  pp: 40
+  type: poison
+140:
+  accuracy: 216
+  binary: 8C1D0F00D814
+  effect: Attacks 2 to 5 times
+  id: 140
+  name: Barrage
+  offset: '0x38342'
+  power: 15
+  pp: 20
+  type: normal
+141:
+  accuracy: 255
+  binary: 8D031407FF0F
+  effect: Drains HP
+  id: 141
+  name: Leech Life
+  offset: '0x38348'
+  power: 20
+  pp: 15
+  type: bug
+142:
+  accuracy: 191
+  binary: 8E200000BF0A
+  effect: Puts opponent to sleep
+  id: 142
+  name: Lovely Kiss
+  offset: '0x3834E'
+  power: 0
+  pp: 10
+  type: normal
+143:
+  accuracy: 229
+  binary: 8F278C02E505
+  effect: Charges one turn, then attacks on the next turn
+  id: 143
+  name: Sky Attack
+  offset: '0x38354'
+  power: 140
+  pp: 5
+  type: flying
+144:
+  accuracy: 255
+  binary: 90390000FF0A
+  effect: Transform
+  id: 144
+  name: Transform
+  offset: '0x3835A'
+  power: 0
+  pp: 10
+  type: normal
+145:
+  accuracy: 255
+  binary: 91461415FF1E
+  effect: Chance of lowering Speed
+  id: 145
+  name: Bubble
+  offset: '0x38360'
+  power: 20
+  pp: 30
+  type: water
+146:
+  accuracy: 255
+  binary: 92004600FF0A
+  effect: No secondary effect
+  id: 146
+  name: Dizzy Punch
+  offset: '0x38366'
+  power: 70
+  pp: 10
+  type: normal
+147:
+  accuracy: 255
+  binary: 93200016FF0F
+  effect: Puts opponent to sleep
+  id: 147
+  name: Spore
+  offset: '0x3836C'
+  power: 0
+  pp: 15
+  type: grass
+148:
+  accuracy: 178
+  binary: 94160000B214
+  effect: Lowers Accuracy 1 stage
+  id: 148
+  name: Flash
+  offset: '0x38372'
+  power: 0
+  pp: 20
+  type: normal
+149:
+  accuracy: 204
+  binary: 95290118CC0F
+  effect: Seismic Toss/Night Shade/Sonic Boom/Dragon Rage/Psywave
+  id: 149
+  name: Psywave
+  offset: '0x38378'
+  power: 1
+  pp: 15
+  type: psychic
+150:
+  accuracy: 255
+  binary: 96550000FF28
+  effect: Splash
+  id: 150
+  name: Splash
+  offset: '0x3837E'
+  power: 0
+  pp: 40
+  type: normal
+151:
+  accuracy: 255
+  binary: 97330003FF28
+  effect: Raises Defense 2 stages
+  id: 151
+  name: Acid Armor
+  offset: '0x38384'
+  power: 0
+  pp: 40
+  type: poison
+152:
+  accuracy: 216
+  binary: 98005A15D80A
+  effect: No secondary effect
+  id: 152
+  name: Crabhammer
+  offset: '0x3838A'
+  power: 90
+  pp: 10
+  type: water
+153:
+  accuracy: 255
+  binary: 9907AA00FF05
+  effect: Explosion/Self Destruct
+  id: 153
+  name: Explosion
+  offset: '0x38390'
+  power: 170
+  pp: 5
+  type: normal
+154:
+  accuracy: 204
+  binary: 9A1D1200CC0F
+  effect: Attacks 2 to 5 times
+  id: 154
+  name: Fury Swipes
+  offset: '0x38396'
+  power: 18
+  pp: 15
+  type: normal
+155:
+  accuracy: 229
+  binary: 9B2C3204E50A
+  effect: Attacks twice
+  id: 155
+  name: Bonemerang
+  offset: '0x3839C'
+  power: 50
+  pp: 10
+  type: ground
+156:
+  accuracy: 255
+  binary: 9C380018FF0A
+  effect: Heals user
+  id: 156
+  name: Rest
+  offset: '0x383A2'
+  power: 0
+  pp: 10
+  type: psychic
+157:
+  accuracy: 229
+  binary: 9D004B05E50A
+  effect: No secondary effect
+  id: 157
+  name: Rock Slide
+  offset: '0x383A8'
+  power: 75
+  pp: 10
+  type: rock
+158:
+  accuracy: 229
+  binary: 9E1F5000E50F
+  effect: 1% chance of flinch
+  id: 158
+  name: Hyper Fang
+  offset: '0x383AE'
+  power: 80
+  pp: 15
+  type: normal
+159:
+  accuracy: 255
+  binary: 9F0A0000FF1E
+  effect: Raises Attack 1 stage
+  id: 159
+  name: Sharpen
+  offset: '0x383B4'
+  power: 0
+  pp: 30
+  type: normal
+160:
+  accuracy: 255
+  binary: A0180000FF1E
+  effect: Conversion
+  id: 160
+  name: Conversion
+  offset: '0x383BA'
+  power: 0
+  pp: 30
+  type: normal
+161:
+  accuracy: 255
+  binary: A1005000FF0A
+  effect: No secondary effect
+  id: 161
+  name: Tri Attack
+  offset: '0x383C0'
+  power: 80
+  pp: 10
+  type: normal
+162:
+  accuracy: 229
+  binary: A2280100E50A
+  effect: Super Fang
+  id: 162
+  name: Super Fang
+  offset: '0x383C6'
+  power: 1
+  pp: 10
+  type: normal
+163:
+  accuracy: 255
+  binary: A3004600FF14
+  effect: No secondary effect
+  id: 163
+  name: Slash
+  offset: '0x383CC'
+  power: 70
+  pp: 20
+  type: normal
+164:
+  accuracy: 255
+  binary: A44F0000FF0A
+  effect: Substitute
+  id: 164
+  name: Substitute
+  offset: '0x383D2'
+  power: 0
+  pp: 10
+  type: normal

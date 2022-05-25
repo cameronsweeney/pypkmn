@@ -1,7 +1,6 @@
 # list content generated here: https://www.dragonflycave.com/resources/pokemon-list-generator
 # Thank you Butterfree!
 
-# update 3/8/22: has all from #1 Bulbasaur to #905 Enamorus
 natdex = [
     'MissingNo.', # making this list not zero-indexed
     'Bulbasaur',

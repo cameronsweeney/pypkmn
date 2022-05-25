@@ -2,15 +2,16 @@ import requests
 import environs
 import sys
 import os
-import yaml
 
-import rby.tools, rby.meta
+import rby.tools
+
+base_url = 'https://request.cam/'
 
 url_endpoints = {
     'pkmn': 'pkmn/rby/',
     'basemoves': 'moves/levelup/',
     'evolutions': 'pkmn/evolutions/',
-    'learnsets': 'moves/levelup/',
+    'levelups': 'moves/levelup/',
     'moves': 'moves/',
     'items': 'items/'
 }
@@ -26,7 +27,7 @@ def post_data(data_structure, yaml_list):
     }
     error_stack = []
 
-    url = 'https://request.cam/pokedex/' + url_endpoints[data_structure]
+    url = 'https://request.cam/pokedex/' + rby.meta.url_endpoints[data_structure]
 
     if data_structure == 'basemoves':
         # this means we're just posting the learnbase from each Pokémon, not the whole species data header
@@ -53,7 +54,6 @@ def post_data(data_structure, yaml_list):
             with open(out_filepath, 'w') as out_file:
                 out_file.write('\n---\n'.join(error_stack))
 
-
 errors = {
     'noargs':
     """
@@ -65,9 +65,10 @@ errors = {
         -p, --pkmn, --species             Pokémon species data
         -b, --base, --basemoves           Pokémon base moves (known at Lv.1)
         -e, --evo, --evolution            Evolutions
-        -l, --learns, --learnset          Learnsets
+        -l, --level, --levelups           Level-up Moves
         -m, --move, --moves               Move data
         -i, --item, --items               Item data
+        -map, --map, --maps               Maps data
     (case-insensitive, leading hyphens optional but encouraged for the cool factor)
     """,
 
@@ -86,9 +87,10 @@ errors = {
         -p, --pkmn, --species             Pokémon species data
         -b, --base, --basemoves           Pokémon base moves (known at Lv.1)
         -e, --evo, --evolution            Evolutions
-        -l, --learns, --learnset          Learnsets
+        -l, --level, --levelups           Level-up Moves
         -m, --move, --moves               Move data
         -i, --item, --items               Item data
+        -map, --map, --maps               Maps data
     (case-insensitive, leading hyphens optional but encouraged for the cool factor)
     """,
 }
